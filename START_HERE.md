@@ -2,7 +2,7 @@
 
 ## Project status
 
-The story begins before *Critical Role* Campaign 2, Episode 1. No chapter has been written or approved.
+The story begins before *Critical Role* Campaign 2, Episode 1. No chapter has been written or approved. The C2E1 character dossiers are complete.
 
 ## Read order
 
@@ -22,4 +22,4 @@ The Critical Role transcript is the primary source for original canon events. Th
 
 ## Current task
 
-Build the C2E1 character dossiers before transcript extraction.
+Verify and extract the C2E1 transcript before creating an Episode Map or Canon Delta.
