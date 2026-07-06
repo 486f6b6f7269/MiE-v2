@@ -8,10 +8,16 @@ Before *Critical Role* Campaign 2, Episode 1.
 
 No chapter has been written or approved.
 
+## Completed bootstrap
+
+- Stable production structure exists.
+- Mielle canon and C2E1 starting continuity are recorded.
+- C2E1 dossiers for Jester, Fjord, Beau, Caleb, Nott, Molly and Yasha are complete.
+
 ## Current task
 
-Build stable canon, character dossiers and C2E1 starting continuity before transcript extraction.
+Verify and extract the C2E1 transcript before creating an Episode Map or Canon Delta.
 
 ## Next required work
 
-Build the remaining C2E1 character dossiers. Then verify and extract the C2E1 transcript.
+Run the Verify Source workflow for C2E1, then the Extract Transcript workflow.
