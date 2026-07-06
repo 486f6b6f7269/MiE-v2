@@ -1,85 +1,123 @@
 # Exandria baseline
 
-## Scope
+## Scope and knowledge gate
 
-This file records durable author-facing facts needed to write the opening of Campaign 2 in C2E1.
+This is an author-facing setting bible for the full Campaign 2 adaptation, not a summary of C2E1.
 
-It does not grant Mielle local knowledge. Mielle begins with only the information established in `continuity/C2E1_STARTING_STATE.md`: she recognizes a world of magic and steel, has learned enough clothing and public conduct not to draw immediate attention, and does not know Exandrian history, geography, politics, prices, religions or social institutions unless a scene gives her that information.
+It records campaign-wide facts from official Critical Role material, the Wildemount sourcebook, and later Campaign 2 evidence. It does **not** make those facts available to Mielle, the party, or any local character before the story gives them a reason to know them.
 
-Do not use later campaign revelations, later political changes or future outcomes as C2E1 scene knowledge.
+Use three separate questions in every scene:
 
-## Time and geographic frame
+1. What is objectively true in Exandria?
+2. What does this particular character know at this point in the story?
+3. What has the current scene actually made visible or inferable?
 
-C2E1 begins in 835 PD, Post-Divergence, on Exandria’s continent of Wildemount.
+A later revelation may explain an earlier mystery. It may not leak backward as narration, dialogue, instinct, or unexplained suspicion.
 
-The immediate story begins in Western Wynandir, inside the Dwendalian Empire. Wildemount contains several major political and geographic regions that matter as background:
+## Time, calendar, and the current historical moment
 
-- the Menagerie Coast in the southwest, a collection of trade-oriented city-states under the Clovis Concord;
-- Western Wynandir, ruled by the Dwendalian Empire;
-- Eastern Wynandir and Xhorhas, beyond the Ashkeeper Peaks;
-- the Greying Wildlands to the north.
+Campaign 2 begins in 835 PD, Post-Divergence. Exandria has 24-hour days and 328-day years divided into eleven months. The seven-day week runs Miresen, Grissen, Whelsen, Conthsen, Folsen, Yulisen, and Da'leysen.
 
-The story begins far from the political centers. A small town can still feel the Empire through its taxes, local officials, guards, roads, religious rules and the way strangers judge risk.
+The campaign opens before the War of Ash and Light is publicly declared. There are already serious tensions between the Dwendalian Empire and Kryn Dynasty, but C2E1 characters should not speak as though the full war, its causes, or its later outcome are already known.
+
+Time-sensitive political changes, war developments, deaths, destroyed locations, changed leadership, and new public knowledge belong in continuity after they occur. This baseline keeps the durable world beneath those changes.
+
+## Cosmology and historical depth
+
+Exandria is a Material Plane world with ties to the Feywild, Shadowfell, Elemental Planes, Abyss, Nine Hells, and other planes. Portals, planar breaches, extraplanar beings, divine miracles, arcane structures, and ancient magical ruins are possible parts of the setting. They are not routine explanations for every strange event.
+
+The broad historical frame has three ages:
+
+- **The Founding:** the gods and primordial powers established the early world.
+- **The Age of Arcanum:** mortal arcane civilization reached immense heights, including floating cities, magical experimentation, and challenges to divine order.
+- **The Era of Reclamation:** the post-Calamity age in which Campaign 2 takes place.
+
+The Calamity ended the Age of Arcanum after roughly two centuries of divine war. It devastated populations, destroyed or transformed cities, rearranged parts of the world, and left dangerous ruins, relics, and magical scars. The Divine Gate was created afterward: gods cannot physically cross into the mortal world, but both Prime Deities and Betrayer Gods can still grant power and influence to followers from beyond it.
+
+These facts explain why ancient ruins, forgotten magic, relics, and religious fear have real weight in the setting. They do not give a character automatic expertise in every ruin, relic, god, or magical phenomenon.
+
+## Religion
+
+Exandria has multiple gods, lesser idols, spirits, fey powers, and religious traditions. Divine magic is real, but theology is culturally uneven. A person can recognize a temple, symbol, or public holiday without knowing a god's hidden history or every belief held by its followers.
+
+Within the Dwendalian Empire, public worship is regulated. The approved deities are Bahamut, Erathis, Ioun, Moradin, Pelor, and the Raven Queen. Temples are state-controlled; local starostas appoint idolmasters, and clerics and priests preach approved texts. Worship of unapproved deities can lead to punishment under "idol worship" laws.
+
+This makes Jester's devotion to the Traveler risky in Imperial territory. It does not mean every local identifies the Traveler's symbol, recognizes a cleric on sight, or reacts with the same degree of hostility.
+
+## Wildemount as a continent
+
+Campaign 2 ranges across Wildemount, a continent east of Tal'Dorei. Its major regions are politically and physically distinct:
+
+- **Western Wynandir:** the Dwendalian Empire, its Marrow Valley, Zemni Fields, cities, roads, state institutions, and controlled worship.
+- **Eastern Wynandir / Xhorhas:** scarred badlands and wastelands east of the Ashkeeper Peaks, dominated by the Kryn Dynasty.
+- **The Menagerie Coast:** tropical coastal city-states and islands linked through the trade-oriented Clovis Concord.
+- **The Greying Wildlands:** a colder northern region with sparse settlement, dangerous wilderness, and frontier towns.
+- **Eiselcross:** a frozen northern land with dangerous expeditions and Age of Arcanum ruins.
+- **Blightshore:** a heavily damaged eastern region where the long aftermath of the Calamity remains visible.
+
+The Ashkeeper Peaks divide Western and Eastern Wynandir. The Wuyun Gorge connects the Empire to the Menagerie Coast. The Lucidian Ocean and island chains matter to later sea travel, piracy, trade, and maritime power.
 
 ## Dwendalian Empire
 
-The Empire rules Western Wynandir under King Bertrand Dwendal. Its capital is Rexxentrum. The Royal Council and Cerberus Assembly are part of the state’s governing structure; the Righteous Brand is its regular military, while the Crownsguard handles law enforcement and reserve military duties.
+The Dwendalian Empire governs Western Wynandir under King Bertrand Dwendal, with Rexxentrum as capital. It has expanded over centuries across the Marrow Valley, the Zemni Fields, and former neighboring polities.
 
-The opening social contract is simple in public terms: subjects pay a tithe, obey imperial law, worship approved gods and defer to Crown-appointed local authority. In return, the state claims to provide protection from dangers outside settled land.
+Its governing structure includes the Crown, Royal Council, Cerberus Assembly, Righteous Brand, and Crownsguard. The Empire is neither a single personality nor a uniform experience. Its wealth, coercion, bureaucracy, military force, religion, education, and surveillance are felt differently by nobles, laborers, clergy, immigrants, soldiers, rural towns, and city residents.
 
-This arrangement is not neutral. The campaign opening establishes tension beneath the Crownsguard’s watch, and the political elite benefit more visibly from the Empire’s prosperity than ordinary people do. Do not make every villager a dissident or every guard a villain. The pressure is structural and varies by town, officeholder and individual.
+The Crownsguard functions as both local law enforcement and military reserve. The Righteous Brand is the standing military and border force. The Cerberus Assembly is a small body of powerful mages with political influence and a long institutional rivalry with the Cobalt Soul.
 
-## Religion and civic control
+The Empire's laws cover theft, trespass, assault, murder, damage to Crown property, treason, unapproved worship, and other public offenses. Do not treat a written law as a guarantee of uniform enforcement. Local authority, class, evidence, witnesses, military pressure, and political interest all change how law operates in a scene.
 
-The Empire regulates worship tightly.
+## Kryn Dynasty and Xhorhas
 
-Approved public worship is limited to Bahamut, Erathis, Ioun, Moradin, Pelor and the Raven Queen. Temples are government-owned and operated; local authority regulates practice, priests and sermons. Worship of an unapproved deity can bring imprisonment and a fine.
+The Kryn Dynasty dominates northern Xhorhas. Its capital is Rosohna, built over the ruins of Ghor Dranas. It is led by the Bright Queen and defended by the Aurora Watch. Luxon faith and consecution are central to the Dynasty's worldview.
 
-This makes Jester’s devotion to the Traveler a real social risk. It does not mean every citizen can identify her symbol, understands who the Traveler is, or reacts with the same level of hostility. The Traveler’s identity and later history are not public C2E1 facts and must not be revealed through setting narration.
+The Dynasty includes drow, goblinkin, orcs, lizardfolk, kobolds, tieflings, and others. It is not a monoculture of "monsters," nor are Imperial ideas about Xhorhas neutral descriptions. Imperial citizens often know Xhorhas through rumor, propaganda, fear, military reporting, or old prejudice.
 
-## Law, force and ordinary risk
+Author rule: the Luxon, consecution, beacons, Dynasty internal politics, and the actual causes of Empire-Dynasty conflict must be introduced through the appropriate arc. Their existence in this file is not permission to foreshadow or explain them in C2E1.
 
-The Empire has formal punishment for theft, trespass, violence, murder and unapproved worship. Penalties are harsher for crimes against Crownsguard, Righteous Brand soldiers, nobles and Cerberus Assembly officials.
+## Menagerie Coast and Clovis Concord
 
-Law is administered locally through structures including lawmasters, richters and watchmasters. The exact authority, disposition and procedures in a particular town must come from the episode source or later approved continuity, not from generic Empire assumptions.
+The Menagerie Coast is a warm coastal region of independent city-states and islands bound by the Clovis Concord for trade and mutual defense. Port Damali and Nicodranas are major campaign locations. The Concord is commercially oriented, less centrally authoritarian than the Empire, and still shaped by wealth, shipping, guilds, class, maritime law, and the threat of piracy.
 
-The Crownsguard’s presence makes open theft, visible illegal worship, unexplained violence and unusual magical displays socially consequential. It does not mean an onlooker always reports something or that a guard always has the same information as the reader.
+The Revelry, based around Darktow and other pirate havens, operates as a rival maritime power. It is not a uniform outlaw culture; crews, captains, ports, and island settlements have their own rules and interests.
 
-## Language and local knowledge
+## The north and the old world
 
-Common is the normal shared language of C2E1 dialogue. Zemnian is a language and cultural inheritance associated with the Empire’s northern Zemni Fields.
+The Greying Wildlands, Uthodurn, Shadycreek Run, the Savalirwood, Eiselcross, and Aeor matter because Campaign 2 eventually moves through frontiers where state power is weaker, older history is closer to the surface, and physical survival changes the terms of every scene.
 
-Mielle understands Common and Zemnian. This does not make her locally fluent in class markers, dialect, road names, prices, civic titles, religious practice or regional history. She does not automatically understand Draconic, Elvish or another language merely because it exists in Exandria or because one of her cognition entries assists reading.
+Aeorian and other Age of Arcanum material should be treated as dangerous, incomplete, and often misunderstood. Ancient magic is not a modern toolkit merely because Mielle can understand a mechanism quickly.
 
-When language matters, distinguish:
+## Magic, species, and ordinary life
 
-- a language Mielle can understand;
-- a name or term she has only heard;
-- a written text she can read quickly but lacks context for;
-- an unfamiliar language or script that requires translation or a source-supported ability.
+Magic, nonhuman peoples, temples, armed travelers, mercenaries, and adventurers are visible parts of Exandrian life. Visibility is not normality in every social space. A tiefling in a port city, a goblin in Imperial territory, a cleric of an unapproved god, a wizard carrying a spellbook, and a traveler with a strange weapon may all receive different readings from different witnesses.
 
-## Magic, species and public interpretation
+Never reduce those reactions to a worldwide rule. Use the place, class, law, immediate history, visible conduct, and particular observer.
 
-Magic, nonhuman peoples, temples, armed travelers and unusual professions exist openly enough that their mere presence is not a revelation. Reactions still depend on place, class, law, recent events, visible danger and individual prejudice.
+Arcane magic can be studied, hired, regulated, feared, exploited, or admired. Divine magic can be devotional, institutional, private, or illicit. Neither category provides automatic proof of a person's morality, allegiance, competence, or intentions.
 
-Do not write a local as automatically understanding the source or limit of Mielle’s abilities. A visible effect can be read as martial skill, magic, a trick, a dangerous unknown or something else, depending on the witness and evidence.
+## Language and information
 
-Trostenwald is majority human but includes halflings, half-elves and other peoples. Caleb and Nott’s early caution around Nott’s goblin identity is an immediate C2E1 social fact, not proof that every location or individual responds identically.
+Common is the broad shared language of the campaign. Zemnian is associated with the Empire's northern cultural inheritance. Draconic, Elvish, Undercommon, Infernal, Sylvan, and other languages exist and may signal education, region, species, religion, trade, or a specialized subculture.
 
-## Money, roads and practical life
+Mielle begins with Common and Zemnian only. Faster reading, cognition, or pattern recognition never replaces translation, local context, or lived knowledge of names, prices, political titles, custom, geography, and history.
 
-The Empire uses gold currency and road commerce. The Amber Road connects major settlements through the Marrow Valley, and towns on it receive travelers, freight, merchants, guards and temporary workers.
+## Travel, economy, and material life
 
-Mielle’s loose coins do not become useful knowledge merely because she recognizes metal. Her understanding of local value, food prices, rent, tipping, taxes and exchange must come from lived scene evidence.
+Roads, ports, ferries, market towns, caravans, ships, inns, courier networks, temples, military checkpoints, and local labor connect the campaign. Travel is not empty space. Weather, food, lodging, animals, terrain, money, road safety, supplies, language, and jurisdiction can all alter a plan.
 
-## Source and spoiler rule
+Currency is commonly denominated in gold, silver, copper, and platinum, but local cost and value must come from the scene or a source. Mielle's possession of coins does not mean she knows a meal price, rent, wage, bribe, tax, or the social meaning of a tip.
 
-Use setting facts as author grounding. Use the C2E1 transcript for what a person says, knows, sees, pays, carries or does in the opening episode.
+## C2E1 knowledge boundary for Mielle
 
-A later source may clarify a stable geographic or institutional fact, but cannot make a later revelation available to a C2E1 character.
+Mielle knows that the world has magic, steel, armed travelers, nonhuman peoples, and unfamiliar customs. She does not know Exandria's continents, political blocs, history, gods, prices, law, routes, languages beyond Common and Zemnian, or the source of any local magical practice unless she is told, observes enough evidence, or studies a readable source.
+
+Her intelligence may make new information usable quickly. It cannot turn absent information into local knowledge.
 
 ## Research basis
 
-- Primary story source: *Critical Role* Campaign 2, Episode 1, “Curious Beginnings” (official VOD), checked against the Critical Role Wiki transcript.
-- Reference source: *Explorer’s Guide to Wildemount*, especially its Empire and Trostenwald material.
-- Supporting canon index: Critical Role Wiki pages for Dwendalian Empire, Wildemount, Crownsguard and The Traveler.
+Primary and reference material reviewed for this baseline:
+
+- *Critical Role* Campaign 2 across its full setting range, not only C2E1.
+- *Explorer's Guide to Wildemount*.
+- Critical Role Wiki: Exandria, History of Exandria, Wildemount, Dwendalian Empire, Kryn Dynasty, Clovis Concord, Cobalt Soul, Cerberus Assembly, Trostenwald, Zadash, Nicodranas, Port Damali, Rosohna, Uthodurn, Eiselcross, Aeor, and Rumblecusp.
+- Official maps and setting material credited by the wiki to Critical Role and Wizards of the Coast.
