@@ -1,4 +1,4 @@
-# Jester Lavorre
+# Jester
 
 Status: TO BE BUILT BEFORE C2E1 PROSE.
 
