@@ -7,6 +7,7 @@
 - `PROJECT_STATE.md`
 - `canon/characters/MIELLE.md`
 - `canon/HOLMES_ENGINE.md`
+- `canon/MIELLE_PROSE_STYLE_GUIDE.md`
 - `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
 - `continuity/CURRENT_STORY_STATE.md`
 - `continuity/RECENT_STORY_CHAIN.md`
