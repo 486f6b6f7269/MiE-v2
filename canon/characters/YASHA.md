@@ -1,4 +1,4 @@
-# Yasha Nydoorin
+# Yasha
 
 Status: TO BE BUILT BEFORE C2E1 PROSE.
 
