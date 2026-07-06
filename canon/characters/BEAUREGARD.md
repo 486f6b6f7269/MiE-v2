@@ -1,4 +1,4 @@
-# Beauregard Lionett
+# Beau
 
 Status: TO BE BUILT BEFORE C2E1 PROSE.
 
