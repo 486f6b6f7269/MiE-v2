@@ -13,7 +13,7 @@ No chapter has been written or approved.
 - Stable production structure exists.
 - Mielle canon and C2E1 starting continuity are recorded.
 - C2E1 dossiers for Jester, Fjord, Beau, Caleb, Nott, Molly and Yasha are complete.
-- C2E1 setting baseline, locations, factions and immediate NPC anchors are recorded.
+- Campaign-wide Exandria setting bible, location guide, faction guide and C2E1 immediate anchors are recorded.
 
 ## Current task
 
