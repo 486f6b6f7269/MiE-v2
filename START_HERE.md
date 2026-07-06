@@ -2,7 +2,7 @@
 
 ## Project status
 
-The story begins before *Critical Role* Campaign 2, Episode 1. No chapter has been written or approved. The C2E1 character dossiers and setting baseline are complete.
+The story begins before *Critical Role* Campaign 2, Episode 1. No chapter has been written or approved. The C2E1 character dossiers and campaign-wide setting bible are complete.
 
 ## Read order
 
