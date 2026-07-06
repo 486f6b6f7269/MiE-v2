@@ -1,4 +1,4 @@
-# Caleb Widogast
+# Caleb
 
 Status: TO BE BUILT BEFORE C2E1 PROSE.
 
