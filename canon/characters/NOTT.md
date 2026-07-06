@@ -1,4 +1,4 @@
-# Nott the Brave
+# Nott
 
 Status: TO BE BUILT BEFORE C2E1 PROSE.
 
