@@ -1,287 +1,200 @@
 # Mielle prose style guide
 
-## Status and authority
+## Scope
 
-This is the mandatory narration and rhythm controller for substantial Mielle-lens prose.
+This file controls prose style, rhythm, point of view and scene texture for Mielle-lens narration.
 
-Read it with:
+It does **not** decide tactics, power use, negotiation thresholds, character choices, relationship boundaries, scene outcomes or plot structure. Those belong to the Holmes Engine, Combat Rules, character dossiers, scene cards, Canon Delta and the user’s decisions.
 
-- `canon/HOLMES_ENGINE.md` for evidence, reasoning, restraint and release of agency;
-- `canon/COMBAT_RULES.md` for action geometry, pressure and consequence;
-- `canon/ANTI_AI_PROSE_EDITING_FILTER.md` for editorial diagnosis;
-- the current chapter loadout for character voice, continuity and source obligations.
+Read this file with:
 
-This guide is derived from the approved C32–C35 prose of the former project: *The First Knot*, *A Name Later*, *The Name on the Paper*, and *The Amber Road*. Those chapters are style evidence, not a phrase bank, plot source or permission to copy their scenes.
+- `canon/HOLMES_ENGINE.md` for observation, inference and uncertainty;
+- `canon/COMBAT_RULES.md` for action structure and battlefield logic;
+- `canon/ANTI_AI_PROSE_EDITING_FILTER.md` for revision;
+- the chapter loadout for voice, continuity and source obligations.
+
+The approved C32–C35 prose from the former project is the main style reference. C36 may be used only as supplementary evidence of cadence because it remains unapproved and noncanonical.
 
 ## I. Core effect
 
-The prose stays close to what Mielle can physically notice, carry, test, choose, refuse and leave unresolved.
+The narration stays close to what Mielle notices and how she moves through it.
 
-It should feel quiet without becoming flat; intelligent without becoming lecture-like; emotionally restrained without becoming cold; and precise without reading like a technical report.
+It is quiet without becoming empty, exact without becoming clinical, and emotionally restrained without becoming distant. The prose does not announce that a moment matters. It shows the object, gesture, cost or choice that changed it.
 
-The story moves at the speed of Mielle’s attention. Even when a scene is fast, the reader should know what changed, what she can honestly infer, and why the next action belongs to her or to someone else.
+Mielle’s intelligence appears in the order of her attention, not in speeches about being intelligent.
 
 ## II. Point of view
 
-### First-person limited is the default
+### First-person limited
 
-Write substantial Mielle-lens scenes in first person limited.
+Substantial Mielle-lens prose uses first-person limited POV.
 
-Use `I` when ownership matters:
+Use explicit `I` when a sentence needs ownership:
 
-- action;
-- judgment;
+- a choice;
+- a refusal;
 - uncertainty;
-- refusal;
 - responsibility;
-- emotional exposure;
-- a choice to wait, speak, leave, accept or intervene.
+- action;
+- emotional exposure.
 
-Do not make every sentence begin with `I saw`, `I felt`, `I knew` or `I realized`. Let perception arrive directly when grammar permits.
+Let perception arrive directly when grammar allows. Do not turn the narration into repeated self-reporting such as `I saw`, `I felt`, `I knew` or `I realized`.
 
-Useful pattern:
+### Brief external POV
 
-> The road had gone quiet. One boot had turned toward the ditch.
+A short outside POV may appear only when the scene needs an external fact Mielle cannot supply herself. Keep it brief, concrete and clearly separated. Return to Mielle immediately.
 
-Use explicit first person when the narration must own a decision:
+It must not become a detached narrator praising her, explaining her importance or revealing private thoughts she cannot know.
 
-> I could warn them. I could not decide for them.
+## III. Scene entry
 
-### Brief external POV exceptions
+Start inside a present condition already doing something.
 
-A short witness or enemy POV is permitted only when it performs work Mielle cannot perform from inside herself:
+Useful starting points include:
 
-- showing what another person saw when Mielle could not;
-- showing the external mismatch between her visible injury and her continued action;
-- showing an enemy’s bounded realization of a tactical fact;
-- preserving another person’s immediate agency in a fight.
-
-Separate the shift clearly, usually with `*`. Keep it brief, concrete and non-omniscient. Return to Mielle immediately. Never use an external POV as a detached narrator explaining why Mielle is impressive.
-
-## III. Scene entry and attention rhythm
-
-Start on a change, pressure, object, sensation or ordinary task already in motion.
-
-Good openings often begin with:
-
-- a body condition that has changed;
-- an ordinary object doing something unfamiliar;
-- a physical cost;
+- a body that feels different from yesterday;
+- an object in the hand;
+- a task already underway;
+- a room with one fact that does not fit;
 - a person already close;
-- a room or road giving one useful fact;
-- an action interrupted by a detail that does not fit.
+- a road, fire, bedroll, door, cup, paper, weapon or sound that changes the immediate condition.
 
-Do not begin with ceremonial overview, theme statement, weather wallpaper or a list of everyone present unless the board itself is the immediate problem.
+Do not begin with ceremonial overview, broad theme, weather wallpaper or a summary of who is present unless the physical arrangement itself is the problem.
 
-### The ordinary before the strange
+## IV. Attention and detail
 
-Let ordinary material establish the baseline before an anomaly changes its meaning.
+The prose usually begins from a concrete thing before it reaches an interpretation.
 
-A blanket, a wheel rut, a dirty lens, a rope, a fire ring, a hand held open, a turned shoulder, a ledger line or a breath can carry both practical and emotional information. The detail must do work in the scene; do not decorate a paragraph with objects that never matter.
+A detail earns its place when it carries present information: weight, temperature, distance, use, damage, recent handling, inconvenience, care, risk, or a change in another person’s behavior.
 
-### Rhythm inside a scene
+Ordinary objects can carry emotional weight without becoming symbols. A blanket can be a blanket and still show that someone stayed. A repaired pair of glasses can be a practical kindness before it is anything else.
 
-A common working cadence is:
+Do not decorate scenes with details that do not affect mood, action, perception or consequence.
 
-> concrete fact → what does not fit → smallest honest reading → action, restraint or question → reply from the world.
+## V. Sentence rhythm
 
-Do not force the full visible Holmes loop into every sentence. In quiet scenes, the loop can be almost invisible. In danger, it can become short and hard.
+### Orientation and landing
 
-## IV. Sentence and paragraph cadence
+Use longer sentences when Mielle is locating a room, a body, a route, a sequence or an emotional condition she does not want to name directly.
 
-### Long sentences orient; short sentences land
+Use short sentences when a fact lands, a decision is made, a danger becomes clear, a joke needs room, or a paragraph needs to turn.
 
-Use longer sentences when Mielle is locating bodies, objects, terrain, sequence or an emotional condition she is reluctant to name. Use a short sentence when a fact, choice or implication arrives.
+Do not make every line short and severe. Do not make every sentence smooth and evenly weighted. The rhythm should follow attention.
 
-Examples of function, not wording:
+### Paragraph movement
 
-- orientation through linked physical facts;
-- a one-line conclusion after the evidence settles;
-- one short paragraph after a long one when the scene needs a turn;
-- a fragment only when the subject is already clear and the compression earns it.
+Most paragraphs should carry one movement: an observation, action, reply, adjustment, realization or quiet refusal.
 
-Do not make every paragraph a fragment. Do not make every sentence equally polished, equally long or equally dramatic.
+A paragraph can be long when the movement needs orientation. Cut when the thought has landed. Do not end every paragraph with a lesson, flourish, teaser or declaration of meaning.
 
-### One movement of thought per paragraph
+### Repetition
 
-Most paragraphs should carry one material observation, one bounded inference, one action, one reply or one emotional adjustment. Let a paragraph stretch when the movement itself needs room. Cut it when the point lands.
+Repeat a structure only when the repetition traces a real physical or mental pattern: pain being checked, a road continuing, a thought resisted, a person waiting, a task repeated.
 
-Do not end every paragraph with a lesson, a moral, a poetic flourish or a statement of importance.
+Do not create a project-wide tic from any one construction. In particular, vary recurring phrases such as:
 
-### Repetition has to earn itself
+- `I did not ...`
+- `I let it ...`
+- `that was all ...`
+- `the smallest honest ...`
+- automatic contrast formulas.
 
-The source style sometimes repeats a structure to show insistence, exhaustion, a body checking itself, or an idea Mielle refuses to overbuild. Use recurrence only when it traces a real thought or physical pattern.
+The source rhythm comes from control and variation, not from reusing its visible phrases.
 
-Do not mechanically repeat project-favored constructions such as:
+## VI. Mielle’s internal voice
 
-- `I did not ...`;
-- `the smallest honest ...`;
-- `not X, but Y`;
-- `I let it ...`;
-- `that was all ...`;
-- three linked negations.
+Mielle’s narration is observant, tired, gentle, dry and careful with what she claims.
 
-The function matters: Mielle limits a conclusion, chooses not to force an answer, or marks a boundary. Vary the grammar.
+She often notices practical things first: pressure, breath, balance, distance, a damaged object, a route, a hand that pauses, a task someone has taken on, the cost of moving, the difference between a fact and a story built around it.
 
-## V. Mielle’s internal narration
+Her dry humor comes from the immediate thing in front of her. It should not arrive as a generic quip or cancel the scene’s pressure.
 
-Mielle thinks by sorting what is present from what is tempting to invent.
+When she is uncertain, the prose may narrow rather than explain. She can pause, leave a question open, retain a name without pretending to know its history, or stop at the edge of what the moment proves.
 
-Her thoughts can be exact, but they should sound like a person deciding what she can live with, not a textbook explaining a method.
+Do not turn that restraint into repeated technical vocabulary. The reader should feel the limit through the shape of the thought.
 
-She often notices:
+## VII. Emotion on the page
 
-- weight, pressure, balance and breath;
-- whether movement costs more than it should;
-- the route a person can or cannot take;
-- what an object has physically been used for;
-- whose choice is being threatened;
-- whether an explanation has more evidence than fear.
+Show emotion through behavior, timing, omission, physical orientation, attention and consequence.
 
-She may make a quiet, dry observation about something ridiculous, domestic or inconvenient. The joke should arise from the thing in front of her, not arrive as a generic quip.
+A person can care by staying, leaving room, adjusting a hand, cleaning an object, taking a practical burden, refusing to ask a question, or making a joke at the right or wrong time.
 
-### Uncertainty is active
+Mielle’s embarrassment, relief, fear, affection and exhaustion should usually appear before she names them. She may answer a tender moment with an overly practical observation. She may accept closeness by not leaving the space that remains open to her.
 
-Mielle’s restraint has verbs. She may leave something alone, hold it at its actual size, file it away, wait, test one edge, decline a theory, or stop at the boundary of evidence.
+Do not explain every gesture after it happens. Do not make every quiet moment a confession.
 
-Do not call this passivity. It is a choice.
+## VIII. Dialogue
 
-### Memory and trauma
+Dialogue should sound like the person speaking, not like Mielle’s narration redistributed into several mouths.
 
-A returned memory, old fear or inherited habit enters because something in the present calls it up: a room, an injury, a motion, a smell, an impossible pressure, a choice under threat.
+Let speech interrupt thought, change the pace, make a room less certain, introduce humor, avoid an answer, or take ownership of the next action.
 
-Show the immediate effect first. Do not stop a scene for encyclopedia exposition. Mielle may recognize a procedure without knowing its whole origin or trusting it yet.
+Keep dialogue near physical context when useful: a hand on a blanket, a strap being tightened, a pen held over a ledger, a person watching a door.
 
-Do not turn every difficult moment into cosmic self-importance. She is allowed to think about a folded blanket, a clean pair of glasses, a bad road or food when those are what the moment actually contains.
+Do not use dialogue to summarize the chapter, state its theme, or make every character explain how they feel.
 
-## VI. Emotion, care and consent
+## IX. Action and tension at the prose level
 
-Emotion appears through what people do, what they avoid, where they put their hands, whether they leave space, and what they choose not to demand.
+`COMBAT_RULES.md` governs fight structure. This guide governs how the page feels.
 
-Do not replace a concrete gesture with a paragraph explaining its emotional meaning.
+In action:
 
-For Mielle:
+- establish one readable immediate line before expanding the board;
+- put physical cause before result;
+- let short sentences carry impact or decision;
+- retain fatigue, pain, confusion and interruption after they occur;
+- allow the scene to slow briefly when a change needs to register;
+- avoid making every motion ornate or every impact maximal.
 
-- embarrassment can appear in heat, silence, a too-practical remark or looking elsewhere;
-- fear can appear as narrowed attention, delayed movement, a refusal to speculate or a body refusing a motion;
-- relief can appear as allowing herself not to act;
-- attachment can appear as choosing proximity, accepting a hand, staying when an exit exists or remembering an ordinary detail about someone.
+A tense conversation can use the same rhythm: clear physical arrangement, changes in attention, speech that buys or spends time, and a moment when the room alters.
 
-For touch and care:
+## X. Travel, recovery and ordinary time
 
-- establish the offered action;
-- leave a real exit where one exists;
-- show acceptance, refusal or adjustment through the person’s actual movement;
-- do not convert unconsciousness, injury, silence or social pressure into consent;
-- do not label early care as romance before the relationship and scene support it.
+Quiet chapters are not empty chapters.
 
-Mielle can accept care shyly. She should not become a passive object around whom everyone else performs emotion.
+Use travel, recovery, camp work and domestic space for texture, proximity, unfinished obligations, changing comfort, small practical discoveries and the fact that the world continues beyond the group.
 
-## VII. Dialogue inside Mielle prose
+Do not summarize these passages only because no fight occurs. Let an ordinary task, a road detail, a borrowed item, a meal, a room or a shared silence carry the scene’s movement.
 
-Dialogue begins from what the speaker needs, notices, fears, wants, jokes about or refuses in that moment. It must retain the character’s own rhythm.
-
-Mielle’s narration should not smooth other people into one polished voice. Use dialogue to let them interrupt her model, misread a fact, make a joke, take ownership, offer care or change the immediate problem.
-
-Keep dialogue attached to bodies and objects when useful: a hand still on a blanket, a person checking a strap, a pen stopped over a ledger, someone looking toward a door.
-
-Avoid dialogue that explains the chapter’s theme, summarizes the group’s emotional state, or turns each character into a spokesperson for the plan.
-
-## VIII. Holmes use in quiet scenes
-
-Not every scene needs an investigation-shaped performance.
-
-In recovery, travel, domestic space and social scenes, Holmes work often appears as:
-
-- a body test before a movement;
-- a narrow conclusion about an object or routine;
-- noticing what another person deliberately leaves unsaid;
-- refusing to make a larger story from a small sign;
-- keeping a practical obligation in mind without taking ownership of it;
-- recognizing that a person’s gesture offers an option rather than a demand.
-
-The scene still needs a change. That change can be small: a wound hurts less, an offered hand is accepted, a group finds a name, a message is left, a road detail is correctly left unexplained, a new camp changes the group’s habits.
-
-## IX. Combat prose in this style
-
-Use `COMBAT_RULES.md` for the full structure. This section controls the surface rhythm.
-
-- Establish the board through material space before the first major exchange.
-- Let Mielle read one immediate line, not every possible danger at once.
-- Put cause before result: weight shift, grip, line, breath, terrain, timing.
-- Make a short sentence carry the realized threat or the committed answer.
-- Let injury, fatigue, fear and uncertainty remain physically legible after they occur.
-- Let other characters’ actions interrupt, alter or complete the exchange.
-- Use witness or enemy POV only for an external fact Mielle cannot supply herself.
-- End the fight in aftermath, not an image of dominance.
-
-Do not make combat mechanically dense at every beat. The reader needs the one line that matters now.
-
-## X. Travel, logistics and setting
-
-Travel scenes should not become empty bridges.
-
-Use them to carry:
-
-- physical recovery or fatigue;
-- borrowed property, supplies, evidence or obligations;
-- changing proximity between characters;
-- a small observation that remains only a small observation;
-- a destination that is still unknown to Mielle;
-- a road, camp or town that has its own work beyond the party.
-
-Setting information enters through a person, sign, object, cost, route, document or lived condition. Mielle does not know a city, faction, custom or history because the reader needs it explained.
-
-When she receives a name or direction, she may preserve it as a name or direction and stop there.
+Setting information should arrive through what Mielle is actually told, sees, pays for, handles or passes. She may know a name without knowing the history attached to it.
 
 ## XI. Scene endings
 
-End on a concrete remainder: a fire, a road, a folded letter, ash, a wrapped object, a repaired braid, a window, an unopened question, a person’s breathing, a thing someone has chosen to leave alone.
+End on a remainder: a physical object, a body condition, a sound, a light, a route, a question left alone, a small task, a person’s breathing, a thing that has changed hands.
 
-The last image should contain the current state without summarizing what it means for the future.
+The ending should contain the current state without explaining the future significance of it.
 
-An unresolved thread may remain visible, but do not force a cliffhanger into every chapter. Ordinary safety, partial recovery, a private joke, or a task left for tomorrow can end a scene when that is the honest state.
+Not every scene needs a cliffhanger. Ordinary safety, a temporary pause, a joke, a wound that hurts less, or a task deferred until tomorrow can be a complete ending.
 
-## XII. What this guide forbids
+## XII. What to avoid
 
-A Mielle-lens draft fails this guide when it:
+A Mielle-lens draft has drifted away from this style when it:
 
-- turns first person into a camera report;
-- explains every emotion after showing it;
-- treats every object as symbolic decoration;
-- makes every observation a deduction spectacle;
-- gives Mielle author knowledge through elegant phrasing;
-- forces a moral or emotional conclusion at each scene end;
-- uses a repeated sentence template until it becomes a tic;
-- makes injury disappear from the prose once it has been mentioned;
-- uses closeness as automatic consent or romantic proof;
-- makes other characters speak in Mielle’s restrained voice;
-- turns travel or recovery into summary because there is no fight;
-- copies a source chapter’s exact phrases, sentence pattern or scene geometry instead of preserving the underlying function.
+- treats first person as a running camera report;
+- explains emotion after every gesture;
+- makes every object symbolic decoration;
+- makes every observation a detective performance;
+- gives Mielle knowledge through polished wording rather than scene evidence;
+- makes every paragraph end in a moral or flourish;
+- repeats a favored sentence shape until it becomes mechanical;
+- gives every character the same restrained, polished voice;
+- turns recovery, travel or domestic time into empty summary;
+- copies wording, cadence patterns or scene geometry from the reference chapters.
 
-## XIII. Draft and audit gate
+## XIII. Style audit
 
-Before drafting Mielle-lens prose, record:
+After drafting, check:
 
-1. What physical, social or emotional condition is already in motion?
-2. What changes in the scene?
-3. What does Mielle know, infer, leave unknown or refuse to force?
-4. What object, body detail, route, sound or routine carries the scene’s state?
-5. Whose independent choice changes the scene besides Mielle’s?
-6. What concrete remainder closes it?
-
-After drafting, verify:
-
-- [ ] The narration stays first-person limited except for a justified short external POV.
+- [ ] The narration stays in first-person limited except for a justified brief outside POV.
 - [ ] The scene begins from a concrete present condition.
-- [ ] Sentence length changes with attention, action and emotional pressure.
-- [ ] Mielle’s thought is precise without becoming an explanation engine.
-- [ ] Other characters retain their own cadence and agency.
-- [ ] Care, touch and disclosure have visible boundaries.
-- [ ] The scene carries a real change, even if the change is small.
-- [ ] The ending lands on a material remainder rather than a moral.
-- [ ] The prose preserves the source style’s functions without copying its phrases or building a new writing tic.
+- [ ] Detail is doing work rather than decorating the page.
+- [ ] Sentence length changes with attention and pressure.
+- [ ] Mielle’s thought is exact without sounding like a manual.
+- [ ] Emotion is shown through action, timing, space or consequence.
+- [ ] Dialogue retains distinct character rhythm.
+- [ ] The scene ends on a concrete remainder rather than an explanation of its importance.
+- [ ] No stylistic rule has turned into a repeated phrase habit.
 
-## Working formula
+## Working rule
 
-> **Begin inside the thing that has changed; let Mielle hold each fact to its honest size; give the next choice to the person who owns it; leave the room, road, body or object altered but not explained past what it can carry.**
+> Begin inside the condition already changing. Follow Mielle’s attention until a fact, choice or gesture alters the room. Leave the reader with what remains, not an explanation larger than the scene can carry.
