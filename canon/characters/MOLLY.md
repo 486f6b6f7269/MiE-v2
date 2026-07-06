@@ -1,4 +1,4 @@
-# Mollymauk Tealeaf
+# Molly
 
 Status: TO BE BUILT BEFORE C2E1 PROSE.
 
