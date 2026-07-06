@@ -13,4 +13,4 @@
 | Audit | draft, plan, scene cards, loadout | pre-check, source extraction, relevant canon | audit |
 | Promote memory | approved chapter, final audit, delta | current continuity | continuity updates |
 
-`canon/ANTI_AI_PROSE_EDITING_FILTER.md` is mandatory for drafting and auditing.
+`canon/MIELLE_PROSE_STYLE_GUIDE.md` and `canon/ANTI_AI_PROSE_EDITING_FILTER.md` are mandatory for drafting and auditing.
