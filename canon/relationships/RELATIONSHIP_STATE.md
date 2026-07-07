@@ -10,23 +10,23 @@ Use event tiles for what individual witnesses saw, what they can reasonably conc
 
 | Pair or group | Current state | Mutual knowledge | Active trust / strain | Boundaries and permissions | Last approved source |
 |---|---|---|---|---|---|
-| Mielle ↔ Jester | A first public connection with a concrete same-evening arrangement: Jester offered one carnival admission; Mielle accepted. | Jester knows Mielle was hungry, uncertain with coins, named Mielle, carries a wooden sword and has a visibly closed left eye. Mielle knows Jester offered food and a ticket directly, with curiosity and no stated demand for a history. | Limited curiosity and a small practical expectation that Mielle may appear at the carnival. No established trust. | Not friends by declaration; not party members; no debt, ownership, romance, continuing financial support, or right to demand disclosure. Mielle may attend near Jester or elsewhere. | `chapters/approved/01_The_Nestled_Nook.md` |
+| Mielle ↔ Jester | A first public connection with one completed practical act: Jester paid Mielle's carnival entry. Jester leaves room nearby; Mielle chooses the adjacent front-left edge. | Jester knows Mielle returned for the show, complied with the venue rule and chose a nearby separate seat. Mielle knows Jester remembered and completed the payment without making a demand. | Limited curiosity and same-evening proximity. No established trust. | Not friends by declaration; not party members; no debt, ownership, romance, continuing financial support, or right to demand disclosure. Mielle may remain near Jester or move away as the scene changes. | `chapters/approved/02_Before_the_gates.md` |
 
 ## Group position
 
-Mielle has met Jester, Fjord, Beau, Caleb, Nott, Mollymauk and Yasha at the Nestled Nook. The group has a shared evening destination, not a settled social unit. Every connection outside the limited Jester/Mielle admission arrangement remains first-contact level.
+Mielle has entered the same tent as Jester, Fjord, Beau, Caleb and Nott. She sits near their front-center cluster without joining it. Molly remains on carnival card duty; Yasha holds weapons and guides audience placement. Every connection outside the completed Jester/Mielle entry payment remains first-contact level.
 
 ## Unresolved relational questions
 
-- What changes, if anything, when Mielle appears at the carnival after dark?
-- How will the other newly acquainted people respond once the public threat begins? This is not decided by Chapter 01.
+- What changes, if anything, when the performance begins?
+- How will the newly acquainted people respond once public danger appears? This remains undecided until Chapter 03 planning.
 
 ## Explicit non-facts
 
-- Do not infer romance, ownership, obligation, trauma diagnosis, permanent trust or social permission from a single scene.
+- Do not infer romance, ownership, obligation, trauma diagnosis, permanent trust or social permission from two public scenes.
 - Do not promote a plan, implication, reader inference or unused dialogue into relationship fact before it appears in approved prose.
-- Jester's one-entry offer does not authorize either person to claim the other, speak for the other, or assume an ongoing arrangement beyond the current evening.
+- The completed payment does not authorize either person to claim the other, speak for the other, or assume an ongoing arrangement beyond the current evening.
 
 ## Last updated
 
-After approved C2E1 Chapter 01, `The Nestled Nook`.
+After approved C2E1 Chapter 02, `Before the gates`.
