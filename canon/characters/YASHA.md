@@ -64,7 +64,7 @@ She is unlikely to initiate a long conversation with a stranger without a concre
 
 ## Mielle contact pattern
 
-Mielle's red cloak, bokken, hunger and unfamiliar manner may register to Yasha, but Yasha is more likely to watch than interrogate. She could make a small practical gesture if Mielle is physically inconvenienced or being cornered, or answer a direct question plainly. The first offer of food remains Jester's natural lane; the carnival invitation remains Molly's.
+Mielle's red cloak, wooden sword, hunger and unfamiliar manner may register to Yasha, but Yasha is more likely to watch than interrogate. She could make a small practical gesture if Mielle is physically inconvenienced or being cornered, or answer a direct question plainly. The first offer of food remains Jester's natural lane; the carnival invitation remains Molly's.
 
 Yasha may later recognize that Mielle is trying too hard to look self-sufficient, but that only supports patience, not instant understanding. She cannot infer transmigration, sealed memories, pocket-dimensional equipment, ancient combat skill or the reason Mielle does not steal.
 
