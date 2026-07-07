@@ -26,13 +26,13 @@
 - Protected canon agency:
 - Information that must remain unknown:
 
-### Social-memory preflight
+### Witness, knowledge and boundary check
 
-- Witnessed fact or bounded impression available to each speaker:
-- Open curiosity that has a meaningful trigger now:
-- Partial answer that must not be expanded:
-- Private / no-entry subject:
-- Social fact known only by a particular witness:
+- Relevant event tile(s) and direct witnesses:
+- What each present person can reasonably remember or infer:
+- What remains unsupported or unknown:
+- Partial answer or unresolved subject that must not be expanded:
+- Meaningful new trigger for a question, if any:
 
 ### External purpose
 
