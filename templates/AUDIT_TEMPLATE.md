@@ -4,7 +4,7 @@
 
 - [ ] Chapter loadout completed with exact paths.
 - [ ] Source extraction, episode map, episode Canon Delta and chapter mini delta loaded.
-- [ ] Relevant character dossiers, states, relationship state, party-memory ledger, setting, knowledge and event records loaded.
+- [ ] Relevant character dossiers, states, relationship state, setting, knowledge and event records loaded.
 - [ ] Relevant Power Guide modules, Holmes Engine and Combat Rules loaded or explicitly not applicable.
 - [ ] Mielle prose style guide loaded.
 - [ ] Pre-draft Anti-AI guard completed.
@@ -12,10 +12,10 @@
 
 ## Continuity
 
-## Knowledge and social-memory control
+## Knowledge and witness control
 
-- [ ] Witnessed facts, bounded impressions, open curiosities, partial answers and private/no-entry subjects match `PARTY_MEMORY_AND_CURIOSITIES.md`.
-- [ ] No character rediscovered an established fact, upgraded a bounded impression into proof, or pressed a private subject without a new trigger.
+- [ ] Witnessed facts, reasonable conclusions, unsupported conclusions and later recontextualization match the relevant event tiles and knowledge ledger.
+- [ ] No character rediscovered an established fact, upgraded a limited inference into proof, or pressed an unresolved subject without a meaningful new trigger.
 
 ## Character voice and agency
 
