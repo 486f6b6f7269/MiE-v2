@@ -60,6 +60,7 @@
 ## Prose and editing
 
 - `canon/MIELLE_PROSE_STYLE_GUIDE.md`
+- `canon/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
 - Anti-AI pre-draft guard: complete / pending
 
