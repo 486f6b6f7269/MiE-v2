@@ -4,181 +4,144 @@
 
 - Episode: C2E1 — *The Curious Beginnings*
 - Chapter: 01 — The Nestled Nook
-- Transcript extraction slice: `work/c2e1/TRANSCRIPT_EXTRACTION.md`, causal sequence 1–3 and the opening inn conditions before the original cross-table conversation takes over.
-- Episode map section: `work/c2e1/EPISODE_MAP.md`, Chapter 01 — The Nestled Nook.
-- Episode Canon Delta section: `work/c2e1/CANON_DELTA.md`, Mielle-caused changes 1 and the first three rows of the honest outcome review.
+- Transcript extraction slice: `work/c2e1/TRANSCRIPT_EXTRACTION.md`, causal sequence 1–4. End before Molly and Yasha enter.
+- Episode map section: `work/c2e1/EPISODE_MAP.md`, Chapter 01.
+- Episode Canon Delta section: `work/c2e1/CANON_DELTA.md`, extended first-contact review.
 
 ## Exact planning load
 
 ### Continuity
 
-- `START_HERE.md`
-- `AUTHORITY_MAP.md`
-- `PROJECT_STATE.md`
-- `TASK_LOAD_MATRIX.md`
-- `workflow/00_WORKFLOWS.md`
-- `canon/ADAPTATION_PREMISE.md`
-- `canon/SOURCE_ADAPTATION_RULES.md`
-- `continuity/CURRENT_STORY_STATE.md`
-- `continuity/C2E1_STARTING_STATE.md`
-- `continuity/RECENT_STORY_CHAIN.md`
-- `continuity/OPEN_THREADS.md`
-- `continuity/KNOWLEDGE_LEDGER.md`
-- `continuity/EVENT_INDEX.md`
-- `continuity/events/` — not applicable: the event index has no approved events.
-- `chapters/approved/` — not applicable: no chapter has been approved.
-- `work/c2e1/SOURCE_NOTE.md`
-- `work/c2e1/TRANSCRIPT_EXTRACTION.md`
-- `work/c2e1/EPISODE_MAP.md`
-- `work/c2e1/CANON_DELTA.md`
+- `START_HERE.md`; `AUTHORITY_MAP.md`; `PROJECT_STATE.md`; `TASK_LOAD_MATRIX.md`; `workflow/00_WORKFLOWS.md`
+- `canon/ADAPTATION_PREMISE.md`; `canon/SOURCE_ADAPTATION_RULES.md`
+- `continuity/CURRENT_STORY_STATE.md`; `continuity/C2E1_STARTING_STATE.md`; `continuity/RECENT_STORY_CHAIN.md`; `continuity/OPEN_THREADS.md`; `continuity/KNOWLEDGE_LEDGER.md`; `continuity/EVENT_INDEX.md`
+- `work/c2e1/SOURCE_NOTE.md`; `work/c2e1/TRANSCRIPT_EXTRACTION.md`; `work/c2e1/EPISODE_MAP.md`; `work/c2e1/CANON_DELTA.md`
 - `templates/CHAPTER_PLAN_TEMPLATE.md`
+- `continuity/events/` and `chapters/approved/` — not applicable: no approved events or chapters exist.
 
 ### Character, relationship, event and knowledge records
 
-- `canon/characters/MIELLE.md`
-- `continuity/character_state/MIELLE_CURRENT.md`
-- `canon/characters/JESTER.md`
-- `canon/characters/FJORD.md`
-- `canon/characters/BEAUREGARD.md`
-- `canon/characters/CALEB.md`
-- `canon/characters/NOTT.md`
-- `canon/relationships/RELATIONSHIP_STATE.md`
-- `continuity/KNOWLEDGE_LEDGER.md`
-- `continuity/EVENT_INDEX.md`
-- Current-state files for Jester, Fjord, Beau, Caleb and Nott — not applicable: no such current-state files exist at the pre-C2E1 baseline.
-- Event tiles — not applicable: no approved event tile exists.
+- `canon/characters/MIELLE.md`; `continuity/character_state/MIELLE_CURRENT.md`
+- `canon/characters/JESTER.md`; `canon/characters/FJORD.md`; `canon/characters/BEAUREGARD.md`; `canon/characters/CALEB.md`; `canon/characters/NOTT.md`
+- `canon/relationships/RELATIONSHIP_STATE.md`; `continuity/KNOWLEDGE_LEDGER.md`; `continuity/EVENT_INDEX.md`
+- Current-state files for Jester, Fjord, Beau, Caleb and Nott; event tiles — not applicable: none exist before C2E1.
 
 ### Setting and faction
 
-- `canon/setting/EXANDRIA_BASELINE.md`
-- `canon/setting/LOCATIONS.md`
-- `canon/setting/FACTIONS_AND_NPCS.md`
+- `canon/setting/EXANDRIA_BASELINE.md`; `canon/setting/LOCATIONS.md`; `canon/setting/FACTIONS_AND_NPCS.md`
 
 ### Power, Holmes and combat
 
-- `canon/POWER_GUIDE.md`
-- `canon/HOLMES_ENGINE.md`
-- `canon/COMBAT_RULES.md` — not applicable to execution: no combat, pursuit, hostile magic, consequential gear use or physical threat occurs in this chapter.
-- `canon/mielle_current_power_guide/` modules — not applicable: no named capability is used.
-- `templates/COMBAT_TRANSLATION_CARD_TEMPLATE.md` — not applicable: no combat pre-check is required.
+- `canon/POWER_GUIDE.md`; `canon/HOLMES_ENGINE.md`
+- `canon/COMBAT_RULES.md`; `canon/mielle_current_power_guide/`; `templates/COMBAT_TRANSLATION_CARD_TEMPLATE.md` — not applicable: the chapter has no combat, threat or named power use.
 
 ## Chapter contract
 
 ### Narrative POV and voice
 
 - Primary POV: close Mielle POV.
-- Any justified brief external POV: none. The chapter remains inside what Mielle perceives, models or is plainly told.
-- Voice or knowledge constraint that must remain visible: Mielle can notice a room's immediate practical facts, but she does not know local prices, law, routes, histories, the other travelers' identities or motives. Hunger and embarrassment are concrete physical and social pressure, not an excuse for reader-only insight.
+- Any justified brief external POV: none.
+- Voice or knowledge constraint that must remain visible: Mielle can read immediate facts, but not local price, law, history, private purpose or another person's hidden past. Hunger and embarrassment make her cautious, not helpless.
 
 ### Must be true by the end
 
-- The Nestled Nook still contains the original separate parties; Rinaldo's payment remains Fjord, Jester and Beau's prior-story result.
-- Mielle has entered to discover whether her coins can buy food. Jester notices her hunger and voluntarily offers food.
-- Mielle accepts enough immediate help to eat, fails to hide her embarrassment completely, and does not steal.
-- No canon character obtains a hidden explanation for Mielle. No one treats her as part of a group, a problem they now own, or a confirmed threat.
-- Mielle leaves the inn and returns toward the abandoned shelter before the original cross-table exchange develops into its next source beat.
-- Molly's separate carnival invitation has not occurred yet. The original tavern conversation and later invitation remain available for Chapter 02.
+- Rinaldo's payment remains Fjord, Jester and Beau's prior result.
+- Jester notices Mielle's hunger and offers food.
+- Mielle eats, stays through the first cross-table contact and then leaves before Molly and Yasha arrive.
+- Jester remains the person who opens contact across the room. Caleb and Nott retain their boundary; Fjord and Beau retain their separate responses.
+- Mielle shows quiet caution, dry humor, a small odd precision and ordinary curiosity. She gives no full explanation of herself.
+- Jester and Mielle end with a favorable but incomplete first impression. This is a possible beginning of friendship, not a settled bond.
+- No one learns Mielle's origin, shelter, hidden equipment, power or private reason for being alone.
 
 ### Required causal beats
 
-1. Mielle enters the inn with a small number of locally unfamiliar coins and a narrow purpose: determine whether they can obtain food.
-2. The public room gives her enough observable evidence to recognize that food is available, but not enough to know a fair price or custom without asking or watching.
-3. Hunger creates a visible slip in the composed front she is trying to maintain.
-4. Jester notices the immediate problem and chooses to offer food without requiring a disclosure or taking control of Mielle's choices.
-5. Mielle accepts the food as immediate help, not as membership, debt, obligation or a promise to travel with anyone.
-6. Fjord, Beau, Caleb and Nott retain separate readings and responses. Any reaction must fit their present position and cannot become a group verdict.
-7. Mielle chooses to leave because she still lacks local grounding, has a temporary shelter to return to, and is embarrassed by being seen in need. This is a choice, not a sudden fear of the people in the room.
-8. The source room is released back to its original social sequence without Mielle overhearing or changing the disclosures that belong to the future Mighty Nein.
+1. Mielle enters to learn whether her few coins can buy food.
+2. The inn shows that food is available but not what a fair local price is.
+3. Hunger breaks through her careful front.
+4. Jester offers food and asks low-stakes questions from real curiosity, not pity.
+5. Mielle accepts. She shares one surface fact, such as her name or that she does not know the coins, and answers in a way that shows her dry, bookish manner.
+6. Mielle asks or answers one small thing that lets the exchange become reciprocal. Jester enjoys the answer and stays interested.
+7. The source cross-table conversation begins. Jester leads it; Nott and Caleb set their own limits; Fjord and Beau react for themselves.
+8. Mielle may answer a direct question and treat Nott as ordinary. She does not interrogate, diagnose or take over the scene.
+9. Mielle leaves during the next lull, before Molly and Yasha arrive.
 
 ### Flexible elements
 
-- Exact arrival time within the source opening after Rinaldo's payment.
-- Food type, price, table or counter placement, visible exits, number of inn patrons and exact route through the room.
-- Whether the bokken is casually noticed, provided any notice remains only an observation of an ordinary wooden weapon and does not become technical inference.
-- Which canon characters speak, the length of the exchange, and whether the others only observe.
-- Exact dialogue, body language and the degree of Mielle's verbal explanation.
+- Food, price, exact placement, crowd size and exit route.
+- Mielle's surface fact and Jester's questions about visible details, food, coins, cloak or bokken.
+- One bounded Fjord reaction and one bounded Beau reaction.
+- Whether Caleb or Nott speak directly to Mielle.
+- Exact dialogue and point of exit.
 
 ## Starting state
 
-Mielle has spent two days near Trostenwald in an abandoned temporary shelter. She knows enough local conduct and clothing not to draw immediate attention, but she does not know the currency's value or local practice. She is hungry, tired, burdened by returned memory and trying to be self-sufficient without stealing. She has not met any member of the future Mighty Nein.
-
-At the inn, Caleb and Nott are a separate guarded pair. Fjord, Jester and Beau have just completed a conversation with Rinaldo about payment for an earlier rescue. No party has formed.
+Mielle has spent two days near Trostenwald in an abandoned shelter. She is hungry, has unfamiliar coins, knows little local custom and refuses to steal. At the Nestled Nook, Caleb and Nott are a guarded pair; Fjord, Jester and Beau have just received Rinaldo's payment. No party has formed.
 
 ## External objective
 
-Mielle needs to determine whether her coins can buy food without stealing, begging for a history lesson or disclosing more of herself than the room has earned.
+Find food without stealing or disclosing more than the room has earned.
 
 ## Pressure and change
 
-The pressure is modest but real: hunger makes a small practical question socially visible. Mielle wants to look capable; the room makes clear that she does not understand its basic transaction. Jester's choice gives her a route out of the immediate problem, but accepting makes Mielle visible to strangers.
-
-The change is not trust. By the end, Mielle has experienced one bounded act of generosity and has chosen distance before that act becomes a claim on her time or identity.
+A simple meal becomes public because Mielle does not know the rule of the transaction. Jester's offer relieves hunger but makes Mielle visible. The chapter moves from isolated need to a small, voluntary exchange in which Jester's curiosity and Mielle's careful replies create a reason to remember each other.
 
 ## Decision points
 
 | Decision point | Agency owner | Options actually available | What the source requires | What remains uncertain |
 |---|---|---|---|---|
-| How to handle the unfamiliar coins and food | Mielle | Ask a worker, watch, leave, or respond when someone notices the problem. | She enters to address hunger and does not steal. | Exact wording, whether she asks first, and what physical clue makes her uncertainty visible. |
-| Offer food to the hungry stranger | Jester | Offer, ask a question first, or leave the stranger alone. | The adaptation premise requires that Jester offers food after noticing Mielle's condition. | The exact food, manner, and whether Jester identifies the cause as hunger immediately. |
-| Accept immediate help | Mielle | Accept, hesitate, partly refuse, or leave. | This Delta requires her to accept enough food to eat, then remain free to leave. | What she says in return and how much she reveals. |
-| Read the newcomer | Fjord and Beau | Observe, ask one bounded practical question, make a joke, or withhold attention. | No source action is required from them toward Mielle. | Which response belongs to the actual scene without turning them into a joint tribunal. |
-| Protect private space | Caleb and Nott | Observe, stay separate, continue their own business, or make a limited defensive remark. | Their source lane remains separate and their private information stays private. | Whether they see the exchange clearly enough to retain any fact about it. |
-| Leave the inn | Mielle | Remain near the group, ask for more help, or return to the shelter. | The C2E1 starting state requires that she does not join immediately and returns to the shelter. | The precise exit beat and the emotional remainder she carries away. |
+| Handle unfamiliar coins | Mielle | Ask, watch, leave or answer Jester. | She seeks food and does not steal. | Exact visible clue and wording. |
+| Offer food | Jester | Offer, ask, joke or leave her alone. | Jester offers after noticing hunger. | Exact tone and food. |
+| Stay in conversation | Mielle | Eat quietly, answer a little, ask one thing or leave. | She stays through the first contact but does not join. | What she shares. |
+| Keep the exchange open | Jester | Ask visible, low-stakes questions or give space. | Jester keeps the social lead. | The reciprocal beat between them. |
+| React to Mielle | Fjord, Beau, Caleb, Nott | Observe, ask, joke, test or keep distance. | Their source lanes stay theirs. | Who speaks and what they witness. |
+| Leave | Mielle | Remain, follow the room or return to shelter. | She returns to shelter before Molly and Yasha arrive. | Exact exit and emotional remainder. |
 
 ## Information entering the chapter
 
-- Mielle knows she is in a world with swords, magic and unfamiliar customs; she speaks Common and Zemnian but has no local economic knowledge.
-- Mielle has a few coins but cannot convert their presence into a meal price.
-- Jester, Fjord and Beau have a visible recent local connection through Rinaldo's payment, but Mielle does not know the full rescue story unless she hears a narrow public fragment.
-- Caleb and Nott are present as a guarded pair; Mielle has no reason to know their history, names or relationship beyond what the room visibly supplies.
-- The Inn is a public place with food and lodging, not a guaranteed safe space or a full local guide.
+- Mielle knows Common and Zemnian, not local prices or ordinary practice.
+- Mielle has coins but no reliable measure of their value.
+- The other people are strangers; only their visible behavior and public conversation are available.
 
 ## Information remaining uncertain
 
-- The value of Mielle's coins; whether they would have bought food; and what payment customs mean socially.
-- Mielle's origin, shelter, sealed memories, power, accessible equipment and reason for being alone.
-- Every canon character's private history, faction tie, goal and magic source.
-- Whether anyone who sees the bokken later remembers it, and what they can honestly infer from it.
-- Any relationship outcome beyond the immediate exchange.
+- Coin value, Mielle's origin and shelter, all private histories, the reason for anyone's caution, and any future connection.
 
 ## Witness and knowledge boundaries
 
-- Relevant event tile and direct witness: no prior event tile exists. Direct witness must be established by the chapter's actual staging; Jester is the only required direct participant in the food offer.
-- What may be reasonably inferred: a nearby person can infer that Mielle appears hungry, unfamiliar with the immediate transaction, reluctant to accept help, and carries an ordinary wooden sword if it is visible.
-- What remains unsupported or unresolved: that Mielle is from another world, exceptionally dangerous, secretly wealthy, a trained local, homeless by choice, or in need of a particular emotional intervention.
-- Later-canon or reader-only fact that must not leak: all later group bonds, private biographies, the cause of the carnival threat, and any future knowledge of Exandria.
+- Relevant event tile and direct witness: none exists. Jester is the only required direct participant in the food offer.
+- What may be inferred: hunger, unfamiliar money, a visible ordinary wooden sword, reluctance to accept help and any surface fact Mielle actually states.
+- What remains unsupported: a complete explanation for Mielle or another person.
+- Later-canon or reader-only fact that must not leak: later bonds, private biography, carnival danger and later plot outcomes.
 
 ## Agency owners
 
-- Mielle owns her dignity, what she says, what she withholds, whether she accepts the offered food, and her decision to leave.
-- Jester owns the food offer and the tone of her kindness.
-- Fjord owns any safety-oriented question or restraint.
-- Beau owns any challenge, joke or decision to leave the matter alone.
-- Caleb and Nott own their distance, concealment and reaction to attention in the room.
-- Rinaldo's payment and prior rescue remain Fjord, Jester and Beau's source history; Mielle has no claim on it.
+- Mielle owns her answers, silences, humor, choice to eat, choice to stay briefly and choice to leave.
+- Jester owns the offer, warmth, curiosity and first cross-table contact.
+- Fjord, Beau, Caleb and Nott own their own caution, speech and boundaries.
+- Rinaldo's payment remains Fjord, Jester and Beau's history.
 
 ## Power and threat review
 
-- Meaningful capability, item, inference or defense: no named power is used. Mielle may visibly carry the ordinary bokken and backpack, but she does not retrieve equipment, use a named capability or make a high-confidence deduction.
-- Relevant source mechanic or setting constraint: `canon/POWER_GUIDE.md` prohibits turning accessible storage into food or money. `canon/HOLMES_ENGINE.md` prohibits reading history, motive or hidden danger from hunger, clothing, accent or one social response. Local money must be learned through scene evidence, not cognition alone.
-- Combat pre-check required: no. The chapter contains no combat, hostile magic, pursuit, physical threat or consequential gear use.
+- Meaningful capability, item, inference or defense: none. The bokken and backpack may be visible, but no named capability is used.
+- Relevant source mechanic or setting constraint: accessible storage cannot supply food or money. Holmes observation cannot make hunger, clothing or a short answer into hidden history.
+- Combat pre-check required: no.
 
 ## Carry-forward facts
 
-Only if approved chapter text actually establishes them:
+Only if approved prose establishes them:
 
-- Jester directly offered food to Mielle; Mielle accepted enough to eat and then left.
-- The actual direct witnesses, words, visible objects and reasonable inferences from the exchange.
-- Mielle remains near Trostenwald with an abandoned shelter and still lacks broad local knowledge.
-- No relationship state, party membership, debt or promise is created by the meal alone.
+- Jester offered food; Mielle accepted and left before Molly and Yasha arrived.
+- The actual surface facts shared and the actual witnesses.
+- A narrow favorable first impression between Jester and Mielle, without a relationship-state update.
+- Mielle remains near Trostenwald with an abandoned shelter and limited local knowledge.
 
 ## End state
 
-Mielle has eaten, is still embarrassed and still alone by choice, and leaves the Nestled Nook toward the shelter. The future Mighty Nein remain strangers with their original social sequence intact. The next chapter may resume their tavern contact and stage Molly's later separate invitation to Mielle without treating Chapter 01 as a completed group formation.
+Mielle leaves fed, embarrassed and curious about Jester. Jester remembers a quiet stranger who gave unexpectedly interesting answers. The others retain only the impressions they directly received. The source group remains in the inn for the arrival of Molly and Yasha.
 
 ## Mini delta handoff
 
 - [x] The next step is `work/c2e1/chapters/01_CHAPTER_MINI_DELTA.md`.
-- [x] The plan identifies Mielle's social intervention, local-currency limitation, ordinary equipment boundary, bounded observation rule, character agency and knowledge control.
-- [x] The plan identifies each source-required agency owner and decision point.
-- [x] The plan does not create a new episode-level Canon Delta change.
+- [x] The plan identifies the relevant social, setting, knowledge and power limits.
+- [x] The plan identifies source-owned decisions.
+- [x] The plan does not create a new episode-level change.
