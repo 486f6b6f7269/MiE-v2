@@ -12,7 +12,7 @@
 
 ### Continuity
 
-### Character, relationship and social memory
+### Character, relationship, event and knowledge records
 
 ### Setting and faction
 
@@ -47,11 +47,11 @@
 
 ## Information remaining uncertain
 
-## Social and knowledge boundaries
+## Witness and knowledge boundaries
 
-- Witnessed fact or bounded impression that may surface:
-- Open curiosity that may arise once:
-- Private / no-entry subject:
+- Relevant event tile and direct witness:
+- What may be reasonably inferred:
+- What remains unsupported or unresolved:
 - Later-canon or reader-only fact that must not leak:
 
 ## Agency owners
@@ -69,6 +69,6 @@
 ## Mini delta handoff
 
 - [ ] The next step is `XX_CHAPTER_MINI_DELTA.md`.
-- [ ] The plan identifies any Mielle intervention that requires power, Holmes, combat, setting, relationship, social-memory or knowledge control.
+- [ ] The plan identifies any Mielle intervention that requires power, Holmes, combat, setting, relationship, event or knowledge control.
 - [ ] The plan identifies each source-required agency owner and decision point.
 - [ ] The plan does not create a new episode-level Canon Delta change.
