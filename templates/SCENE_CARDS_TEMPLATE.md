@@ -1,8 +1,30 @@
 # Scene cards
 
+## Scene identity
+
+- Chapter:
+- Chapter plan:
+- Chapter mini delta:
+- Source slice:
+
 ## Scene title
 
 ### Present characters
+
+### Setting and physical conditions
+
+- Location and jurisdiction:
+- Relevant faction, custom, language, money, route or NPC condition:
+- Physical layout or terrain facts that affect action:
+
+### Source obligations in this scene
+
+### Mini-delta constraints
+
+- Mielle’s allowed intervention:
+- Mielle’s prohibited shortcut:
+- Protected canon agency:
+- Information that must remain unknown:
 
 ### External purpose
 
@@ -13,6 +35,12 @@
 - What Mielle has already decided:
 - What Mielle may still choose:
 - What the prose must not decide for her without approval:
+
+### Relevant mechanics
+
+- Power or equipment:
+- Holmes / inference boundary:
+- Combat or hostile-effect boundary:
 
 ### Holmes scene map
 
