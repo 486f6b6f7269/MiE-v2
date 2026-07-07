@@ -25,6 +25,7 @@
 - `work/c2e1/EPISODE_MAP.md`
 - `work/c2e1/CANON_DELTA.md`
 - `work/c2e1/chapters/01_CHAPTER_PLAN.md`
+- `work/c2e1/chapters/01_PLANNING_PATCH_CLOSED_LEFT_EYE.md`
 
 ### Continuity
 
@@ -67,7 +68,7 @@
 ## Source obligations inside this chapter
 
 - Rinaldo's payment remains Fjord, Jester and Beau's prior rescue result.
-- Caleb and Nott retain control of their own disclosure, concealment and reaction.
+- Caleb and Nott retain control of disclosure, concealment and reaction.
 - Jester owns the first social opening across the room.
 - Molly and Yasha enter as carnival workers; Molly owns card-reading and invitation beats.
 - The source group independently chooses to attend the carnival.
@@ -76,34 +77,37 @@
 
 - Mielle enters after the payment and accepts food from Jester.
 - She remains through Molly and Yasha's arrival.
-- Molly's invitation is public to the room. It is not a private recruitment attempt.
-- Mielle lacks money for admission. Jester independently offers to cover one entry; the actual payment is deferred to Chapter 02's gate.
-- Mielle attends the carnival as a guest, not as a party member, employee, dependent or exception to carnival rules.
+- Molly's invitation is public to the room. It is not private recruitment.
+- Mielle lacks money for admission. Jester independently offers to cover one entry; payment is deferred to Chapter 02's gate.
+- Mielle attends the carnival as a guest, not a party member, employee, dependent or exception to carnival rules.
 - Chapter 03 combat remains blocked pending its own combat-specific Delta amendment and pre-check.
 
 ## Mielle’s allowed intervention
 
 - Seek food without stealing.
 - Accept food, give only surface facts, use quiet humor, ask one ordinary question and remain socially cautious.
-- Stay near the source conversation without moving its ownership away from Jester, Caleb, Nott, Fjord or Beau.
-- Hear Molly's public invitation and decide whether she wants to attend.
+- Let the visible closed left eye behind her glasses be noticed as an ordinary feature, without explanation.
+- Make one low-stakes, ordinary clumsy mistake while trying to move, sit, make room or handle the immediate meal problem under social attention. She may correct it herself, use dry humor or accept minimal help.
+- Stay near the source conversation without moving ownership away from Jester, Caleb, Nott, Fjord or Beau.
+- Hear Molly's public invitation and decide whether to attend.
 - State or visibly show that admission is beyond her present means.
-- Accept Jester's one-ticket offer while keeping the offer separate from debt, group membership or an obligation to disclose herself.
+- Accept Jester's one-ticket offer while keeping it separate from debt, group membership or an obligation to disclose herself.
 - Leave after the decision for the daytime gap, with an intention to return for the show.
 
 ## Mielle’s prohibited shortcuts
 
 - No storage retrieval, named power, cognition effect, hidden money, barter trick or produced resource may solve food or entry.
-- No deduction may turn a person’s appearance, hunger, accent, clothing, silence or one answer into private history, motive or danger.
+- No deduction may turn appearance, hunger, accent, clothing, silence, the closed eye or one answer into private history, motive or danger.
+- The clumsy beat cannot be used as evidence that Mielle is helpless, visually impaired in a new way, untrained, unsafe with a weapon or predictably clumsy in combat.
 - No attempt to take over Jester's approach to Nott, Caleb's protection of Nott, Molly's invitation or Yasha's carnival role.
-- No promise of travel, service, repayment, friendship, romance, belonging or ongoing financial support is created by accepting food or a ticket.
+- No promise of travel, service, repayment, friendship, romance, belonging or ongoing financial support is created by food or a ticket.
 - No combat preparation, gear retrieval or tactical reading for the later carnival incident belongs in this chapter.
 
 ## Protected canon agency
 
 | Character | Required decision or accomplishment | What Mielle may do around it | What Mielle must not replace |
 |---|---|---|---|
-| Jester | Offer food, open the room socially, choose to offer one ticket. | Accept, answer, return a small question, accept or decline the ticket. | Jester's warmth, invitation to Nott, spending decision or social lead. |
+| Jester | Offer food, open the room socially, choose to offer one ticket. | Accept, answer, return a small question, recover from a minor clumsy moment, accept or decline the ticket. | Jester's warmth, invitation to Nott, spending decision or social lead. |
 | Fjord | Maintain practical caution. | Answer one direct practical question or let him observe. | His assessment, restraint or later choices. |
 | Beau | Test, joke, challenge or withhold attention. | Answer dryly, absorb a blunt comment or give her space. | Beau's skepticism or initiative. |
 | Caleb | Protect Nott and control disclosure. | Remain a separate stranger and not press him. | His protective choices, magic or history. |
@@ -115,8 +119,9 @@
 
 ### Information created
 
-- Jester may learn only what Mielle actually says or shows: hunger, unfamiliar money, a name if supplied, a dry or literal manner, and ticket acceptance.
-- Any nearby witness may remember only their actual line of sight and the public words they heard.
+- Jester may learn only what Mielle actually says or shows: hunger, unfamiliar money, a name if supplied, a dry or literal manner, ticket acceptance, and any direct view of her small clumsy mistake.
+- Any nearby witness may register the closed left eye behind the left lens of Mielle's glasses as an ordinary physical detail. They may remember it but cannot infer cause, history, power or emotion.
+- Any witness to the clumsy beat may remember the actual movement, object and response. They cannot turn one awkward moment into a full conclusion about Mielle's competence.
 - Molly and Yasha may know that Mielle is considering the carnival and that Jester offered one entry.
 
 ### Information withheld or still uncertain
@@ -133,16 +138,17 @@
 ## Mechanics and setting constraints
 
 - Mielle calls her own weapon a bokken. Other people and external narration use wooden sword, practice sword or piece of wood.
-- The Nestled Nook has food and paid lodging, but its exact prices, layout and crowd remain scene-level facts.
+- Mielle's left eye is blind and remains closed behind her left lens. It is visible. No character may treat it as evidence of her past, feelings, danger or concealed capability.
+- The Nestled Nook has food and paid lodging, but exact prices, layout and crowd remain scene-level facts.
 - Mielle's coins are unknown in value. Jester's money is the visible source for the eventual admission.
-- Mielle is not receiving money to keep. The offered ticket is a single, evening-specific expense.
-- No named power, combat move or special equipment is used.
+- Mielle is not receiving money to keep. The offered ticket is a single evening-specific expense.
+- No named power, combat move or special equipment is used. The clumsy beat occurs outside combat and creates no tactical limitation.
 
 ## Chapter-specific consequences if approved
 
-- [x] Character state — narrow Mielle update for food accepted, invitation accepted and immediate emotional remainder.
+- [x] Character state — narrow Mielle update for food accepted, invitation accepted, visible clumsy moment only if actually written, and immediate emotional remainder.
 - [ ] Relationship state — not from this chapter alone.
-- [x] Knowledge ledger — atomic entries only for direct witnesses and actual stated facts.
+- [x] Knowledge ledger — atomic entries only for direct witnesses and actual stated or visible facts.
 - [x] Event tile — one C2E1 Chapter 01 event tile, limited to what the approved scene shows.
 - [x] Open thread — Mielle's evening carnival attendance and unplanned fight response.
 - [ ] None yet
