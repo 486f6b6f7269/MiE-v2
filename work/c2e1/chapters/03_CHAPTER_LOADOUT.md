@@ -95,14 +95,29 @@
 - `canon/MIELLE_PROSE_STYLE_GUIDE.md`
 - `canon/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
-- Anti-AI pre-draft guard: pending.
+- Anti-AI pre-draft guard: complete — `work/c2e1/chapters/03_PRE_DRAFT_GUARD.md`.
 
 ## Sequential draft verification passes
 
-1. Source and continuity pass: pending.
-2. Character and relationship pass: pending.
-3. Mechanics, Holmes and combat pass: pending.
-4. Prose and voice pass: pending.
+1. Source and continuity pass: complete.
+2. Character and relationship pass: complete.
+3. Mechanics, Holmes and combat pass: complete.
+4. Prose and voice pass: complete.
+
+## Active chapter artifacts
+
+- `work/c2e1/chapters/03_CHAPTER_PLAN.md`
+- `work/c2e1/chapters/03_CHAPTER_MINI_DELTA.md`
+- `work/c2e1/chapters/03_SCENE_CARDS.md`
+- `work/c2e1/chapters/03_COMBAT_PRECHECK_v2.md`
+- `work/c2e1/chapters/03_COMBAT_SCOPE_AMENDMENT.md`
+- `work/c2e1/chapters/03_NO_HIT_RESOLUTION.md`
+- `work/c2e1/chapters/03_PRE_DRAFT_GUARD.md`
+- `work/c2e1/chapters/03_DRAFT_v1.md`
+- `work/c2e1/chapters/03_DRAFT_v1_1.md`
+- `work/c2e1/chapters/03_AUDIT_v1.md`
+- `work/c2e1/chapters/03_AUDIT_v1_1_RESOLVED.md`
+- `work/c2e1/chapters/03_CHAPTER_LOADOUT.md`
 
 ## Read receipt
 
@@ -112,5 +127,5 @@
 - [x] Setting documents cover every material setting, law, faction or NPC condition.
 - [x] Power, Holmes and combat documents cover every meaningful use, non-use, possession, inference or threat.
 - [x] Decision-to-authority check has a passing row for every conflict-prone chapter fact.
-- [ ] Sequential draft verification passes are pending.
+- [x] Sequential draft verification passes are complete.
 - [x] No source is missing.
