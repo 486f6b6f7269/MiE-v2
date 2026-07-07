@@ -66,7 +66,7 @@ She approaches strangers through challenge, sarcasm, practical questions or an a
 
 ## Mielle contact pattern
 
-Mielle's visible bokken, improvised concealment, hunger, and attempt to appear self-contained can catch Beau's attention. Beau may notice that someone who is truly trying to rob a tavern usually behaves differently from someone trying to calculate whether a few coins buy bread. That is an observation about present behavior, not a proof of character.
+Mielle's visible wooden sword, improvised concealment, hunger, and attempt to appear self-contained can catch Beau's attention. Beau may notice that someone who is truly trying to rob a tavern usually behaves differently from someone trying to calculate whether a few coins buy bread. That is an observation about present behavior, not a proof of character.
 
 She may ask a blunt question about the weapon, the money or where Mielle slept. She may also make a rude joke and watch whether Mielle flinches, lies or answers. She should not immediately decide that Mielle is dangerous, harmless, a prodigy, a victim to rescue, or a secret agent. Any later warmth must come from repeated evidence rather than one meal.
 
