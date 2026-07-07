@@ -11,7 +11,7 @@ It supersedes any conflicting Chapter 03 work language that:
 - forbids Haki in the chapter;
 - chooses later exchanges, exact strikes, injuries or choreography beyond the user decision below.
 
-The original plan, mini delta, scene cards and first combat pre-check remain usable for source order, crowd geometry, witness limits, source-character agency and legal aftermath. Their combat details are overridden wherever this amendment differs.
+The original plan, mini delta, scene cards and first combat pre-check remain usable for source order, crowd geometry, witness limits, source-character agency and legal aftermath. Their combat details are overridden wherever this amendment differs. `03_COMBAT_PRECHECK_v2.md` is the active combat pre-check.
 
 ## Fixed opening
 
@@ -63,5 +63,5 @@ The original plan, mini delta, scene cards and first combat pre-check remain usa
 - [x] Opening combat scope set.
 - [x] Middle combat role and allowed capability set.
 - [x] Finish boundary and source-character agency set.
-- [ ] Replace the provisional Chapter 03 combat pre-check with a revision that incorporates Armament Haki and cooperative fighting.
+- [x] Active combat pre-check: `work/c2e1/chapters/03_COMBAT_PRECHECK_v2.md`.
 - [ ] Create Chapter 03 loadout and complete pre-draft guard before prose.
