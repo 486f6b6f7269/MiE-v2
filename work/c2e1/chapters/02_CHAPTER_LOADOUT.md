@@ -14,8 +14,6 @@
 - `START_HERE.md`
 - `AUTHORITY_MAP.md`
 - `PROJECT_STATE.md`
-- `TASK_LOAD_MATRIX.md`
-- `workflow/00_WORKFLOWS.md`
 - `canon/ADAPTATION_PREMISE.md`
 - `canon/SOURCE_ADAPTATION_RULES.md`
 - `work/c2e1/SOURCE_NOTE.md`
@@ -68,12 +66,31 @@
 - `canon/COMBAT_RULES.md` — no combat occurs; only physical board and custody facts are preserved for Chapter 03.
 - `work/c2e1/chapters/02_GEAR_CUSTODY_PRECHECK.md`.
 
+## Decision-to-authority check
+
+| Planned decision or fact | Source / planning obligation | Governing character, power, relationship or setting rule | Continuity and witness limit | What the draft may show | What the draft must not imply | Status |
+|---|---|---|---|---|---|---|
+| Mielle returns at dusk by public procession | Chapter 02 plan and source slice require carnival arrival; Chapter 01 leaves her a place to return after dark. | Mielle chooses whether and when to leave; Holmes permits following music, lights and crowd as visible route evidence. | Others do not know where she spent the day or why she was alone. | She waits privately, notices the procession and follows its outer edge. | The group searched for her, expected her at a fixed place, or her shelter becomes known. | pass |
+| Jester pays one entry | Chapter 01 approved arrangement and Chapter 02 plan require direct gate payment. | Jester owns payment; relationship state limits the connection to one entry only. | Gate witnesses may know Jester paid. No one gains a claim on Mielle. | Jester pays directly and Mielle accepts. | Debt, ownership, ongoing support, party membership or Mielle receiving money to keep. | pass |
+| Mielle gives Yasha the physical bokken | Source procedure and Chapter 02 plan require public weapons handover. | Yasha owns carnival custody. Soulbond allows Mielle to store and recall the bokken at will. | Witnesses can know Yasha holds the physical wooden sword; they cannot infer Soulbond. | Mielle follows the rule and hands the bokken to Yasha. | The weapon is permanently inaccessible, duplicated, changed, or Yasha knows its bond. | pass |
+| Mielle does not recall the bokken before the show | Chapter 02 boundary prohibits pre-show weapon use; no threat begins. | Soulbond permits recall, but Mielle can choose not to use a capability. | Visible empty hip is public; reason for her lack of concern is private unless she reveals it. | Mielle is unconcerned and leaves the sword with Yasha. | She cannot call it back, is tactically helpless, or a recall has already occurred. | pass |
+| Everyday clumsiness appears in queue | Chapter 02 plan requires one visible instance. | `canon/characters/MIELLE.md` defines recurring everyday clumsiness, separate from combat precision and her closed eye. | Witnesses may remember a small incident only. | A crowd/cloak/bag/hip-tie mistake causes minor inconvenience or embarrassment; Mielle recovers. | Blindness caused it, she is helpless, it is slapstick, or it measures combat ability. | pass |
+| Mielle sits at front-left edge | Source group reaches front center; Chapter plan preserves separate social status. | Mielle owns her place; Yasha guides the crowd; relationship state has no group membership. | Witnesses can know only where she sits. | Mielle chooses a nearby edge seat and registers visible tent facts. | Tactical prediction, trust conclusion, party status or knowledge of later danger. | pass |
+| Chapter ends before performance disruption | Episode map, chapter plan and Chapter 03 block set the end boundary. | Holmes and Combat Rules prohibit treating pre-show physical facts as a completed battle model. | No witness has seen transformations, danger or official response. | Visible entrances, support, lanterns, crowd density and rough ground. | Threat cause, hostile intent, fight strategy, weapon-return timing or later outcome. | pass |
+
 ## Prose and editing
 
 - `canon/MIELLE_PROSE_STYLE_GUIDE.md`
 - `canon/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
 - Anti-AI pre-draft guard: pending. It is completed only when the draft step begins; no prose draft exists yet.
+
+## Sequential draft verification passes
+
+1. Source and continuity pass: pending.
+2. Character and relationship pass: pending.
+3. Mechanics, Holmes and combat pass: pending.
+4. Prose and voice pass: pending.
 
 ## Active chapter artifacts
 
@@ -89,6 +106,7 @@
 - [x] Each conditional heading has exact paths or justified `not applicable`.
 - [x] Character voice, relationship, event tiles and knowledge documents cover every decision-relevant speaker.
 - [x] Setting documents cover every material setting, law, language, faction or NPC condition.
-- [x] Power, Holmes and combat documents cover every meaningful use, inference or threat.
-- [x] Mielle’s closed left eye, recurring noncombat clumsiness, Jester’s paid entry, Soulbond recall, Yasha’s visible custody and the Chapter 03 block are bounded by the governing artifacts.
+- [x] Power, Holmes and combat documents cover every meaningful use, non-use, possession, inference or threat.
+- [x] Decision-to-authority check has a passing row for every conflict-prone Chapter 02 fact.
+- [ ] Sequential draft verification passes are complete.
 - [x] No source is missing.
