@@ -10,6 +10,21 @@ Before every step, read `TASK_LOAD_MATRIX.md` and create an exact path list from
 
 Do not write “relevant files,” “stable canon,” “core files,” or “as needed” in a work artifact. Name the file. A condition may be marked `not applicable` only with a short reason.
 
+## Decision-to-authority rule
+
+An exact path list proves only that files were opened. It does not prove that their rules were reconciled.
+
+Before drafting, the Chapter Loadout must contain a completed decision-to-authority check. It covers every planned decision, material fact, visible reaction, item state, power use or deliberate non-use that could be governed by more than one source. Every row must name:
+
+1. the planned fact or decision;
+2. the source or planning obligation;
+3. the governing permanent rule or mechanic;
+4. the continuity and witness limit;
+5. what prose may show; and
+6. what prose must not imply.
+
+A conflict or missing authority blocks prose. Return it to the owner: source note, Episode Canon Delta, chapter plan, mini delta, permanent canon file or continuity record. Do not solve it by guessing in the draft.
+
 ## Template rule
 
 Every work artifact begins from its exact template. Do not create an unstructured substitute because a task feels simple.
@@ -112,17 +127,22 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 - Use when: immediately before prose.
 - Read: Base production load; chapter plan; chapter mini delta; scene cards; combat pre-check if any; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; every exact file required under the Matrix headings; `canon/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - May change: only chapter loadout.
-- Output: exact files and sections required for the draft, grouped under source/adaptation, continuity, character/relationship, setting/faction, power/Holmes/combat, prose/editing and active chapter artifacts.
-- Must not: summarize canon into new facts, leave a vague conditional reference, or replace reading listed files with a summary.
+- Output: exact paths and sections required for draft, grouped under source/adaptation, continuity, character/relationship, setting/faction, power/Holmes/combat, prose/editing and active chapter artifacts; plus a passing decision-to-authority check for every conflict-prone chapter fact.
+- Must not: summarize canon into new facts, leave a vague conditional reference, replace reading listed files with a summary, or let a conflict-prone fact reach prose without a completed authority row.
 
 ## 10. Draft
 
 - Template: no template. Drafts are chapter-specific prose files created only from a completed Chapter Loadout.
-- Use when: a complete chapter loadout exists.
+- Use when: a complete chapter loadout exists and every decision-to-authority row passes.
 - Read: every file named in the loadout; Anti-AI pre-draft guard.
+- Draft construction order:
+  1. **Factual scene pass.** Read source/adaptation, continuity and chapter artifacts. Build the scene’s causal sequence, agency, material facts, knowledge boundaries and ending. This may be skeletal prose, but it must already obey the decision-to-authority check.
+  2. **Character pass.** Read Mielle’s dossier/state, each decision-relevant character dossier/state, relationship state, ledger and event tiles one at a time. Correct action, dialogue, reaction, social distance and knowledge before treating sentences as final.
+  3. **Mechanics and inference pass.** Read Power Guide, exact modules, Holmes Engine, Combat Rules and pre-check one at a time. Correct power use, deliberate non-use, possession, physical consequences, inference and threat boundaries. A conflict returns to planning; it is not smoothed over in prose.
+  4. **Prose pass.** Read the Mielle prose guide, chapter voice pass and Anti-AI filter one at a time. Rewrite expression, rhythm, scene clarity and dialogue texture only. This pass cannot create or solve story facts.
 - May change: draft only.
-- Output: `XX_DRAFT.md` and a completed pre-draft-guard receipt in the loadout or audit record.
-- Must not: update continuity, alter canon without delta, give characters unsupported knowledge, copy transcript dialogue as prose, or use the Anti-AI filter to invent texture, stakes, dialogue or scene events.
+- Output: `XX_DRAFT.md` and a completed pre-draft-guard receipt in the loadout or audit record. The loadout records completion of the four verification passes.
+- Must not: update continuity, alter canon without delta, give characters unsupported knowledge, copy transcript dialogue as prose, use the Anti-AI filter to invent texture, stakes, dialogue or events, or begin prose before decision authority is reconciled.
 
 ## 11. Audit
 
@@ -164,7 +184,7 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 
 - Template: use `templates/CHARACTER_TEMPLATE.md` only when a new or materially rebuilt character dossier is required; use `templates/CHARACTER_STATE_TEMPLATE.md`, `templates/RELATIONSHIP_STATE_TEMPLATE.md` and `templates/EVENT_TILE_TEMPLATE.md` under the same rule for a new state, relationship-controller rebuild or event record. Otherwise, update the owning file directly.
 - Use when: the user makes a new permanent decision about character, setting, adaptation, combat, power or production.
-- Read: Base production load; authority map; the likely owning file; all files that point to that owner where a reference may become stale.
-- May change: the single owner file and necessary references.
+- Read: Base production load; authority map; likely owning file; all files that point to that owner where a reference may become stale.
+- May change: single owner file and necessary references.
 - Output: updated owner and a note of current-work impact when relevant.
 - Must not: duplicate a rule in several files or retroactively alter approved chapters without explicit revision.
