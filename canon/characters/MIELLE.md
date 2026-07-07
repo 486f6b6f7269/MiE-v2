@@ -68,4 +68,4 @@ Nearly all pre-seal equipment remains inaccessible in her pocket dimension. She 
 
 ## Event index
 
-No approved story events yet.
+See `continuity/EVENT_INDEX.md` for approved story events and their controlling event tiles.
