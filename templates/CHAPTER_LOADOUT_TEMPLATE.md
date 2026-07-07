@@ -28,6 +28,8 @@
 - `continuity/CURRENT_STORY_STATE.md`
 - `continuity/RECENT_STORY_CHAIN.md`
 - `continuity/OPEN_THREADS.md`
+- `continuity/C2E1_STARTING_STATE.md` or `not applicable` with reason:
+- `continuity/EVENT_INDEX.md`
 - last approved chapter:
 - relevant event tiles:
 - relevant knowledge-ledger entries:
