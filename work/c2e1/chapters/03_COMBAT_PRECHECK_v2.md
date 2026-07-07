@@ -35,32 +35,35 @@ The transformation and first attack have no readable precursor. The victim and c
 2. The bokken, previously in Yasha's custody, appears directly in Mielle's hand. This is public and unexplained.
 3. The first creature selects Mielle. She avoids the committed attack by a very small margin and strikes its knee without Haki. The contact shows that the creature is harder than a normal human body.
 4. The second creature attacks. Mielle avoids that first attack with footwork.
-5. From her next counter onward, every time Mielle answers an attack with a strike, she reinforces that counter with Armament Haki through the bokken. She does not turn the fight into systematic joint breaking.
-6. The weapons return quickly. Mielle has held attention only long enough to keep further civilians from becoming the immediate target.
-7. Once the group is armed, Mielle remains an active co-fighter. She evades, returns Armament-reinforced strikes, turns a creature, takes pressure off an ally or creates a concrete opening. The other characters choose how to use each opening.
-8. Mielle does not take either finishing kill. Yasha kills the first creature; Beau destroys the second.
+5. From her next counter onward, every time Mielle answers an attack with a strike, she reinforces that counter with Armament Haki through the bokken. She does not hunt joints.
+6. Across the moving exchange, Mielle breaks one arm and one leg of each creature with Armament-reinforced counters. The order and exact strikes remain flexible, but each break must arise from a real opening rather than a precision weak-point claim.
+7. The weapons return quickly. Mielle has held attention only long enough to keep further civilians from becoming the immediate target.
+8. Once the group is armed, Mielle remains an active co-fighter. She evades, uses Armament-reinforced counters, creates damage and openings, and fights with the group as they make their own choices.
+9. The broken limbs make both creatures less stable and reduce their clean reach or charge routes, but do not end the danger. Mielle does not take either finishing kill. Yasha kills the first creature; Beau destroys the second.
 
 ## Haki check
 
 - Governing rule: `canon/mielle_current_power_guide/02_current_inventory_02.md`, `## 12. Haki`.
 - Permitted expression: Armament's black coating and reinforcement on counterattacks through the bokken.
 - Reason for use: the initial unreinforced knee strike establishes abnormal resistance.
+- Permitted result: sufficient force to break one arm and one leg of each creature across the fight.
 - Not permitted: advanced emission, internal destruction, automatic victory, generic damage immunity, mind effect, barrier, transformation cure or a named-system explanation in prose.
 - Scope: no numerical output, duration or coverage is asserted. Exact visual extent remains scene-level, but direct witnesses may see an unexplained black reinforcement at counter impact.
 
 ## Tactical truth
 
-> Mielle does not wait to be rescued. She tests the first creature, adjusts to its resistance, then keeps fighting until the others can fight beside her. The group’s contribution changes the board; it does not end a solo holding pattern.
+> Mielle does not wait to be rescued. She tests the first creature, adjusts to its resistance, breaks the limbs that real openings give her, and keeps fighting until the others can fight beside her. The group’s contribution changes the board; it does not end a solo holding pattern.
 
 ## Tactical Holmes boundary
 
 - Mielle can read only visible commitment: shoulder turn, weight shift, planted leg, reach line and crowd route.
 - She cannot know the cause of the transformation, whether contact transmits it, exact anatomy, regeneration, durability ceiling or future move until evidence appears.
 - The second creature is escalation through a newly seen fact, not permission to reveal another power.
+- Breaking a limb is not proof Mielle knows a weak point; it is a forceful answer to a limb exposed by a committed attack.
 
 ## Enemy reply requirement
 
-The creatures must adapt. They may recover from the first knee strike, change angle, attempt to split toward civilians or allies, or force Mielle to move around terrain. Armament counters can stagger, redirect or create an opening, but do not establish a hidden weak point or complete control.
+The creatures must adapt. They may recover from the first knee strike, change angle, attempt to split toward civilians or allies, or force Mielle to move around terrain. A broken arm or leg reduces options but does not make them inert. Armament counters create actual damage and openings, not complete control.
 
 ## Agency lanes
 
@@ -76,7 +79,7 @@ The creatures must adapt. They may recover from the first knee strike, change an
 ## Witness and aftermath
 
 - Yasha knows the bokken left physical custody and appeared with Mielle, but not how.
-- Direct observers may see a red-cloaked girl fight with exact footwork and black-reinforced bokken counters. They cannot infer Soulbond, Haki, limits, origin, inventory or full combat ceiling.
+- Direct observers may see a red-cloaked girl fight with exact footwork, black-reinforced bokken counters and limbs broken under impacts. They cannot infer Soulbond, Haki, limits, origin, inventory or full combat ceiling.
 - Civilian accounts remain partial and contradictory because of panic and blocked sightlines.
 - Crownsguard have grounds to question Mielle as a witnessed combatant. They retain jurisdiction and set custody after the fight.
 
