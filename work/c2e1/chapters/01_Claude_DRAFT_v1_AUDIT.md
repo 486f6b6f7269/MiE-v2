@@ -74,9 +74,10 @@
 - Mielle does not replace Jester's food offer, Jester's ticket offer, Molly's invitation, Caleb's protection of Nott, or any later combat lane.
 - No power, hidden money, storage retrieval or special admission bypass appears.
 
-### Failure
+### Failures
 
 - Molly announces a card reading “free of charge.” His active C2E1 dossier defines the reading as low-cost, and the chapter plan preserves a paid card-reading beat as flexible scene material. The draft must use a modest stated cost or otherwise follow the active source artifact; it cannot silently make the reading free.
+- The draft does not actually dramatize Molly's card reading. It says that he read for Jester “with the patter of someone who'd done it a thousand times,” then moves immediately to the carnival pitch. This skips the planned card-reading exchange instead of giving Molly an on-page social action before his invitation.
 
 ## Setting and material logic
 
@@ -102,8 +103,9 @@
 - The draft uses physical details and interruptions rather than recapping the episode.
 - Mielle's close observational style should remain during revision.
 
-### Failure
+### Failures
 
+- The card-reading beat is reported rather than enacted. That is both an adaptation failure and a local report-shaped-fiction problem: the reader receives the fact that Molly performed, but not his actual performance, Jester's reaction, or the small social movement the reading creates.
 - The final paragraph explains the chapter's emotional result after the food, coins, shelter and return time have already shown it: “Not belonging, not yet. Just more than I'd had...” This is explanatory aftertaste. End on the concrete remainder instead.
 
 ## Issues
@@ -114,6 +116,7 @@
 | Important | Food exchange: “I'm not asking if I can pay for it...” | `work/c2e1/chapters/01_CHAPTER_PLAN.md`; `work/c2e1/chapters/01_CHAPTER_MINI_DELTA.md`; Scene Card 01 | Jester acts on food payment before Mielle makes the protected choice to accept or refuse immediate help. | Keep Jester direct and warm, but order the causal sequence as offer → Mielle's explicit acceptance → food brought or shared. Preserve that the meal creates neither debt nor membership. | Open |
 | Important | Opening payment description: Jester “counted her share” | `canon/characters/BEAUREGARD.md`; Chapter Plan source obligations | The source-associated counting action belongs to Beau, but the draft assigns it to Jester. | Move the visible counting to Beau, or remove the detail. Keep Rinaldo's payment tied to Fjord, Jester and Beau, without giving its handling to the wrong person. | Open |
 | Important | Molly's first carnival pitch: “Card reading, free of charge” | `canon/characters/MOLLY.md`; Chapter Plan flexible card-reading beat | The active Molly dossier defines a low-cost card reading. Making it free changes the established transaction without a Delta basis. | Give the reading a small stated price or revise the beat to match the active source artifact. Keep Molly as the reader and public invitation owner. | Open |
+| Important | Molly's card-reading transition: “He read for her with the patter...” | `work/c2e1/chapters/01_CHAPTER_PLAN.md`; `work/c2e1/chapters/01_SCENE_CARDS.md`; `canon/characters/MOLLY.md`; `canon/ANTI_AI_PROSE_EDITING_FILTER.md` | The draft summarizes the card reading rather than staging it. Molly has no concrete first performance before the invitation, and Jester's reaction is skipped. | Write a short on-page card reading: Molly handles the deck and reading, Jester chooses to take part, at least one card or concrete reading detail appears, and Jester responds in character. Keep it low-stakes, non-prophetic, non-diagnostic and connected naturally to Molly's public carnival invitation. | Open |
 | Important | Final carnival arrangement: Caleb and Nott “neither committing to the plan aloud” | `work/c2e1/chapters/01_CHAPTER_PLAN.md`; `work/c2e1/EPISODE_MAP.md`; `work/c2e1/CANON_DELTA.md` | The chapter contract requires a concrete shared evening plan, while the draft leaves Caleb and Nott's participation unresolved. Their later attendance is source-required. | Add a brief, character-appropriate choice or practical agreement for Caleb and Nott, and retain separate reasons for Fjord and Beau. Do not turn this into a party oath or premature trust. | Open |
 | Minor | Closing two paragraphs, especially “Not belonging, not yet...” | `canon/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/ANTI_AI_PROSE_EDITING_FILTER.md` | The chapter explains its emotional remainder after the physical remainder has already carried it. | Cut or compress the explanatory sentence. End with the coins, the withheld shelter, the meal's physical aftereffect, the door, or the agreed return after dark. | Open |
 | Minor | Workflow record | `workflow/00_WORKFLOWS.md`; `templates/AUDIT_TEMPLATE.md`; Chapter Loadout | The external draft has no recorded pre-draft guard, and no Silent Edit has occurred. | Do not mark the pre-draft guard complete retroactively. During revision, run the required Silent Edit after source, agency and continuity corrections, then record an honest completion note in the audit. | Open |
@@ -122,4 +125,4 @@
 
 **Not approvable.**
 
-The chapter has a strong scene-level base and correctly respects the main chapter boundary, but the Important issues alter visible continuity, protected agency, a source-character action, a source transaction and the required concrete evening plan. Revise against this audit, run the Silent Edit, then audit the revised version before approval.
+The chapter has a strong scene-level base and correctly respects the main chapter boundary, but the Important issues alter visible continuity, protected agency, a source-character action, a source transaction, a planned Molly beat, and the required concrete evening plan. Revise against this audit, run the Silent Edit, then audit the revised version before approval.
