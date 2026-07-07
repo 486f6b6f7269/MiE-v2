@@ -7,6 +7,7 @@
 - Chapter plan: `work/c2e1/chapters/01_CHAPTER_PLAN.md`
 - Chapter mini delta: `work/c2e1/chapters/01_CHAPTER_MINI_DELTA.md`
 - Scene cards: `work/c2e1/chapters/01_SCENE_CARDS.md`
+- Active witness-fact amendment: `work/c2e1/chapters/01_PLANNING_PATCH_CLOSED_LEFT_EYE.md`
 - Combat pre-check: `not applicable` — Chapter 01 ends after Mielle accepts the carnival invitation. No hostile effect, combat, pursuit or consequential gear use occurs before that end point.
 
 ## Source and adaptation
@@ -22,6 +23,7 @@
 - `work/c2e1/CANON_DELTA.md`: food offer, invitation, one-ticket offer, no hidden resource, no party membership and combat deferral.
 - chapter plan: `work/c2e1/chapters/01_CHAPTER_PLAN.md`
 - chapter mini delta: `work/c2e1/chapters/01_CHAPTER_MINI_DELTA.md`
+- witness-fact amendment: `work/c2e1/chapters/01_PLANNING_PATCH_CLOSED_LEFT_EYE.md`
 
 ## Continuity
 
@@ -67,7 +69,7 @@
 
 - `canon/MIELLE_PROSE_STYLE_GUIDE.md`
 - `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
-- Anti-AI pre-draft guard: pending — draft has not been requested or started.
+- Anti-AI pre-draft guard: pending for the original v1.1 draft. It may not be marked complete retroactively.
 
 ## Read receipt
 
