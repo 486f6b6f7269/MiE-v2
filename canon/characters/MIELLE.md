@@ -16,6 +16,8 @@ The closed left eye is a recurring public feature, not background decoration. On
 
 Mielle calls the weapon a **bokken**. Other characters and third-person narration tied to their viewpoint call it a wooden sword, practice sword, or, when the speaker is dismissive, a piece of wood. They do not use the Japanese term unless Mielle has just supplied it and the prose has a reason to repeat her exact word.
 
+The bokken is Soulbound. Mielle may voluntarily call it back to her hand at any time. It remains an ordinary wooden sword when present; this is retrieval, not a new weapon, duplication, attack or special combat property. She can still hand it to venue staff because losing immediate possession does not worry her. A public recall, and what anyone sees or concludes from it, belongs to the specific scene that causes her to use it.
+
 She uses a backpack made through Perfect Wardrobe to conceal access to the Bag of Holding, reaching into the backpack before retrieving anything.
 
 ## Speech and dialogue behavior
@@ -24,7 +26,11 @@ Quiet, bookish, observant, gentle and cautious. She uses dry humor, odd jokes, s
 
 ## Pressure behavior
 
-Outside combat, Mielle is distracted, awkward, clumsy and soft, especially when trying to look dignified. In combat, she becomes exact, economical and calm, using the least movement and force needed.
+Outside combat, Mielle is distracted, awkward, soft and recurrently clumsy. This is a real everyday drawback, not a one-off cute beat: she can catch a cloak or bag on furniture or people, misjudge a chair or a crowded gap, fumble an ordinary object, spill or drop something, or make a movement harder by trying too hard to look composed. The result should create small practical inconvenience, embarrassment, delay or extra work when the scene gives it a natural opening.
+
+Her clumsiness is not caused by the closed left eye, does not make her childish or helpless, and does not become slapstick on demand. In a scene with ordinary physical activity, crowding, food, clothing, carrying, seating, doors, stairs or unfamiliar tools, consider whether the drawback should appear. Do not force it into every brief transition or treat one incident as a verdict on her character.
+
+In combat, immediate danger pulls her into exact, economical and calm movement. The contrast is real: routine coordination can fail her while combat execution does not. Other characters may notice the difference over repeated evidence; they must not infer it from a single mishap.
 
 Her competence does not erase fatigue, pain, fear, uncertainty or other characters’ agency. She prefers diplomacy where it has a real chance. She dislikes killing but will kill when she judges it necessary to protect others or end a threat that cannot safely be left alive.
 
@@ -58,7 +64,7 @@ She does not know she is in Exandria. She knows only that she is in a world of s
 
 ## Equipment at C2E1
 
-Nearly all pre-seal equipment remains inaccessible in her pocket dimension. She has practical access to Perfect Wardrobe, Gale-Force Glasses and the ordinary soulbound wooden bokken. The bokken has no special combat property beyond being an ordinary wooden sword linked to her.
+Nearly all pre-seal equipment remains inaccessible in her pocket dimension. She has practical access to Perfect Wardrobe, Gale-Force Glasses and the ordinary Soulbound wooden bokken. The bokken may be recalled to her hand at will under Soulbond. It has no special combat property beyond being an ordinary wooden sword linked to her.
 
 ## Event index
 
