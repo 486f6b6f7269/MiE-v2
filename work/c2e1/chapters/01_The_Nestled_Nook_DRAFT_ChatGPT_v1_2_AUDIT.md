@@ -42,6 +42,6 @@ The Silent Edit checked the revised draft after continuity, source and agency co
 
 ## Approval result
 
-**Ready for user review; not approved and not promoted.**
+**Closed. The user approved v1.2 on 2026-07-07.**
 
-The v1.2 draft closes all story and prose issues identified in the v1.1 audit. The sole incomplete workflow record is the original pre-draft guard, which cannot be retroactively completed. Approval still requires the user's reading decision; continuity promotion remains blocked until approval.
+All story and prose issues identified in the v1.1 audit were resolved before approval. The original pre-draft guard remains honestly uncompleted and is not retroactively claimed; the post-revision Silent Edit is complete. Approved prose and promotion record: `chapters/approved/01_The_Nestled_Nook.md` and `chapters/approved/01_The_Nestled_Nook_APPROVED_RECORD.md`.
