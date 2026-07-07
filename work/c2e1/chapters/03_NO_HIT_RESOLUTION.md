@@ -13,11 +13,13 @@ Mielle receives no hit from either transformed creature during Chapter 03.
 
 No bite, claw, grab, body-check, collision or indirect strike lands on her. She leaves the fight physically uninjured.
 
-## How this remains concrete
+## Why she avoids every hit
 
-- The result comes from Mielle's established footwork, distance control and ability to read committed motion, not from generic invulnerability, a barrier, immunity, teleportation or an unlisted defense.
+- Mielle's evasiveness comes from exceptional martial training, practiced footwork and distance control, combined with Observation Haki's combat precognition.
+- Observation gives a short warning of intent, attack line and immediate timing before a hostile body's motion is fully committed. It does not give Mielle unlimited future sight, the creatures' private thoughts, their transformation cause, every possible branch, or immunity to a line she cannot physically leave.
+- Mielle's martial skill converts that warning into the smallest viable step, turn, lean, pivot, parry or change of range. Observation identifies the opening; training supplies the movement.
 - The creatures still force real movement. Their attacks redirect her around the central pole, uneven ground, bodies, allies and narrowing civilian routes.
-- A miss must have a visible cause: a committed shoulder, a planted leg, a late reach, a blocked route, a change in target, an Armament-reinforced counter, or another character's chosen intervention.
+- A miss must have a concrete cause: a precognitive warning paired with a committed shoulder, planted leg, late reach, blocked route, change in target, Armament-reinforced counter, or another character's chosen intervention.
 - Mielle's clean avoidance does not make every other person safe. It permits her to keep the creatures from reaching another immediate civilian line while the group joins the exchange.
 
 ## Remaining combat result
