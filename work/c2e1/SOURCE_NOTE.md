@@ -29,8 +29,8 @@ Verify source for *Critical Role* Campaign 2, Episode 1, “The Curious Beginnin
 ## What remains uncertain
 
 - Exact staging, seating, crowd placement, food order, price, exits and movement inside the Nestled Nook.
-- The exact gap in which Mielle enters, who notices her bokken, and the precise words used in the first contact.
-- The location and timing of Molly's later separate invitation to Mielle.
+- The exact gap in which Mielle enters, who notices her wooden sword, and the precise words used in the first contact.
+- The exact moment Mielle makes her lack of admission money visible and the words Jester uses for the one-ticket offer. Those are adaptation decisions, not transcript facts.
 - Table dialogue that did not carry an action, decision, revelation or later consequence.
 
 ## Table artifact or adaptation warning
