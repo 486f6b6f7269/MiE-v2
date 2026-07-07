@@ -10,9 +10,11 @@ Mielle arrives in the area near Trostenwald two days before the episode opening.
 
 ## First contact boundary
 
-Mielle first encounters the group at the Episode 1 tavern. Jester offers food after noticing Mielle’s condition. Mielle does not join the group immediately; she returns to her shelter. Molly later invites her to the carnival, creating a second meeting.
+Mielle first encounters the group at the Episode 1 tavern. Jester offers food after noticing Mielle’s condition. Mielle stays through Molly and Yasha’s arrival rather than leaving after the first exchange. Molly’s carnival invitation reaches Mielle in the same room as the rest of the group.
 
-The exact staging, dialogue, seating, sequence of reactions and whether anyone notices the bokken remain undecided until transcript extraction, Episode Map, Canon Delta and scene cards.
+Mielle does not become a member of the group merely by accepting. She hesitates because she has no money for admission. Jester offers to cover her ticket because she wants Mielle to come, and Mielle accepts the invitation. The later carnival presence and its consequences require an explicit Canon Delta review before any combat chapter is planned.
+
+The exact staging, dialogue, seating, sequence of reactions, ticket exchange and whether anyone notices the wooden sword remain undecided until transcript extraction, Episode Map, Canon Delta and scene cards.
 
 ## Adaptation boundary
 
