@@ -10,12 +10,14 @@ During those two days, she learns enough about local clothing and ordinary condu
 
 Mielle is hungry and does not solve the problem by stealing because she refuses to steal food. Her powers prevent literal death from hunger, but hunger is physically and emotionally real: it affects attention, embarrassment, mood and decision-making.
 
-## First and second contact
+## First contact and carnival invitation
 
 Mielle eventually enters the Episode 1 tavern to find out whether her coins can buy food. Jester offers Mielle food after noticing her situation. Mielle tries to hide her hunger, fails and becomes embarrassed.
 
-Mielle does not join the group immediately after the first encounter. She returns to her abandoned shelter. Molly later invites her to see the carnival, creating the second meeting.
+Mielle remains at the Nestled Nook through Molly and Yasha’s arrival. Molly invites the room to the carnival. Mielle does not treat the offer as group membership and hesitates because she cannot pay admission. Jester offers to cover her entry, and Mielle accepts the invitation.
+
+Mielle may still return to the abandoned shelter during the daytime gap before the show. Her later presence at the carnival is fixed; her actual actions once the transformations begin are not yet planned.
 
 ## Deliberately undecided
 
-Exact staging, dialogue, seating, order of reactions and whether anyone notices the bokken belong to transcript extraction, Episode Map, Canon Delta and scene cards.
+Exact staging, dialogue, seating, order of reactions, ticket exchange, daytime movement, and whether anyone notices the wooden sword belong to transcript extraction, Episode Map, Canon Delta and scene cards.
