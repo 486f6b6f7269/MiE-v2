@@ -12,6 +12,8 @@ Mielle wears a red hooded cloak, a white dress and a black skirt, visibly inspir
 
 Mielle is blind in her left eye and keeps that eye closed at all times. Behind the left lens of her round glasses, the eyelid remains shut as a stable part of her face, with the visual posture inspired by Ranni from *Elden Ring*. It is not a wink, a temporary injury, an expression cue, or a sign that she is concealing a current emotion. She sees through her right eye. Do not invent a cause, a compensating power, or extra functional limitations unless an approved source establishes them.
 
+The closed left eye is a recurring public feature, not background decoration. On a first clear look, in a close conversation, or when another person looks back at her face after a change in the room, people normally register it alongside the glasses, braids and red cloak. They may remember it or glance toward it again later. Most people need not comment. When someone does, the question or reaction must fit that person's voice and the immediate situation. Mielle is not required to explain it. Its visibility never proves anything about her origin, mood, trustworthiness, competence, intent, power or history.
+
 Mielle calls the weapon a **bokken**. Other characters and third-person narration tied to their viewpoint call it a wooden sword, practice sword, or, when the speaker is dismissive, a piece of wood. They do not use the Japanese term unless Mielle has just supplied it and the prose has a reason to repeat her exact word.
 
 She uses a backpack made through Perfect Wardrobe to conceal access to the Bag of Holding, reaching into the backpack before retrieving anything.
