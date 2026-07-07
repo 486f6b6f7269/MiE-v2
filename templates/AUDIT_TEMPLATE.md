@@ -4,7 +4,7 @@
 
 - [ ] Chapter loadout completed with exact paths.
 - [ ] Source extraction, episode map, episode Canon Delta and chapter mini delta loaded.
-- [ ] Relevant character dossiers, states, relationship, setting, knowledge and event records loaded.
+- [ ] Relevant character dossiers, states, relationship state, party-memory ledger, setting, knowledge and event records loaded.
 - [ ] Relevant Power Guide modules, Holmes Engine and Combat Rules loaded or explicitly not applicable.
 - [ ] Mielle prose style guide loaded.
 - [ ] Pre-draft Anti-AI guard completed.
@@ -12,13 +12,17 @@
 
 ## Continuity
 
-## Knowledge control
+## Knowledge and social-memory control
+
+- [ ] Witnessed facts, bounded impressions, open curiosities, partial answers and private/no-entry subjects match `PARTY_MEMORY_AND_CURIOSITIES.md`.
+- [ ] No character rediscovered an established fact, upgraded a bounded impression into proof, or pressed a private subject without a new trigger.
 
 ## Character voice and agency
 
 ## Source adaptation and delta compliance
 
 - [ ] Source-required outcomes and causal choices are preserved unless the episode Canon Delta permits a change.
+- [ ] The Canon Delta contains an honest outcome review for any source result Mielle could materially alter.
 - [ ] The chapter follows its mini delta and does not introduce an undeclared episode-level change.
 - [ ] Mielle’s intervention stays inside its allowed scope and avoids prohibited shortcuts.
 
