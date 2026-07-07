@@ -4,9 +4,9 @@
 
 - Episode: C2E1 — *The Curious Beginnings*
 - Chapter: 02 — Before the gates
-- Transcript extraction slice: `work/c2e1/TRANSCRIPT_EXTRACTION.md`, causal sequence 6: dusk procession, exterior tent, entry, weapon collection and audience seating.
-- Episode map section: `work/c2e1/EPISODE_MAP.md`, Chapter 02.
-- Episode Canon Delta section: `work/c2e1/CANON_DELTA.md`, carnival-entry outcome review and Chapter 03 boundary.
+- Transcript slice: `work/c2e1/TRANSCRIPT_EXTRACTION.md`, causal sequence 6: dusk procession, exterior tent, entry, weapon collection and audience seating.
+- Episode map: `work/c2e1/EPISODE_MAP.md`, Chapter 02.
+- Episode Canon Delta: `work/c2e1/CANON_DELTA.md`, carnival entry and Chapter 03 boundary.
 
 ## Exact planning load
 
@@ -34,7 +34,7 @@
 - `work/c2e1/CANON_DELTA.md`
 - `templates/CHAPTER_PLAN_TEMPLATE.md`
 
-### Character, relationship, event and knowledge records
+### Character, relationship, setting and mechanics
 
 - `canon/characters/MIELLE.md`
 - `continuity/character_state/MIELLE_CURRENT.md`
@@ -46,155 +46,127 @@
 - `canon/characters/MOLLY.md`
 - `canon/characters/YASHA.md`
 - `canon/relationships/RELATIONSHIP_STATE.md`
-- `continuity/KNOWLEDGE_LEDGER.md`
-- `continuity/EVENT_INDEX.md`
-- `continuity/events/C2E1-C01_NESTLED_NOOK_FIRST_CONTACT.md`
-
-### Setting and faction
-
 - `canon/setting/EXANDRIA_BASELINE.md`
 - `canon/setting/LOCATIONS.md`
 - `canon/setting/FACTIONS_AND_NPCS.md`
-
-### Power, Holmes and combat
-
 - `canon/POWER_GUIDE.md`
 - `canon/mielle_current_power_guide/02_current_inventory_02.md`, `## 11. Soulbond`
 - `canon/HOLMES_ENGINE.md`
-- `canon/COMBAT_RULES.md`
-- `templates/COMBAT_TRANSLATION_CARD_TEMPLATE.md` — limited to custody and Chapter 03 starting geometry, not combat execution.
+- `canon/COMBAT_RULES.md` — boundary only; no combat pre-check is required in Chapter 02.
 
 ## Chapter contract
 
 ### Narrative POV and voice
 
-- Primary POV: close Mielle first-person limited.
-- Any justified brief external POV: none.
-- Voice and knowledge constraint: Mielle knows the carnival’s broad location and that Jester promised one admission. She does not know the route in advance, entry procedure, local crowd habits, the value of her coins, what the others did during the day, or what will happen inside.
+- Close Mielle first-person limited.
+- No external POV.
+- Mielle knows only the carnival’s broad location and Jester’s one-entry offer. She does not know a route, ticket procedure, coin value, local crowd customs, the others’ daytime activities or the later danger.
 
 ### Must be true by the end
 
-- Mielle spends the daytime gap without gaining money, a map, a party role, a new ability or knowledge of the later danger.
-- She returns at dusk because she chose to use the invitation, not because anyone came to fetch her.
-- The source group reaches the carnival under its own decisions. Mielle is a new guest, not a daytime traveling companion.
-- The carnival is visibly working: procession, crowd, admission, inspection, Molly’s exterior card-reading lane, and Yasha’s security role.
-- Jester pays Mielle’s actual entry directly at the gate. No money is handed to Mielle to retain.
-- The source group retains its own weapons discussion and choices.
-- Mielle follows the same weapons rule and physically gives Yasha the wooden sword. From the crowd’s perspective Yasha has it in custody. Mielle is unconcerned because the bokken is Soulbound and can be recalled at will; she simply does not recall it in this chapter.
-- Mielle has one visible everyday clumsy moment in front of Jester, Yasha and at least one other source-group member. It is one natural instance of a recurring drawback, not a one-off reveal. It is unrelated to her closed left eye and proves nothing about combat ability.
-- The source group reaches front-center seating. Mielle chooses a nearby front-left edge position without claiming the center of the group.
-- The chapter ends before the show begins, transformation starts, or anyone takes hostile action.
+- Mielle returns at dusk by her own choice, following public procession, music, lights and crowd movement.
+- Jester pays exactly one entry at the gate. Mielle receives no money, change, debt or continuing claim.
+- Mielle is a guest, not a party member or daytime companion.
+- Molly works the public card-reading lane; Bo and Yasha run entry and weapons procedure.
+- Mielle hands Yasha the physical wooden bokken under the same public rule as everyone else. Yasha visibly keeps it. Mielle may recall it under Soulbond but has no reason to do so before the show.
+- One low-stakes everyday clumsy incident happens in the queue or handover. It is a natural recurrence of Mielle’s daily drawback, not blindness, slapstick or a verdict on combat ability.
+- Source group reaches front-center seating. Mielle takes a nearby front-left edge place without claiming the group’s center.
+- Chapter ends before performance, transformation, alarm or hostile action.
 
 ### Required causal beats
 
-1. Mielle returns to her temporary shelter after Chapter 01. The four coins remain unspent and practically unvalued.
-2. The private daytime beat keeps the shelter private and shows ordinary preparation or waiting, not a power use or breakthrough.
-3. At dusk, music, lights and public movement give Mielle a route toward the carnival.
-4. Mielle reaches the exterior tent on her own timing. Jester may notice or Mielle may make herself visible; neither outcome grants group membership.
-5. Molly works a public card-reading lane. Bo and Yasha inspect entrants and collect admission. The source group retains its own interaction with the weapons rule.
-6. Jester fulfills the specific ticket promise at the gate. Mielle accepts the completed payment without a purse, change or ongoing arrangement.
-7. Mielle hands Yasha the physical wooden sword when the rule is applied. The handover is voluntary and public. Yasha has visible custody; Mielle retains Soulbond recall but has no reason to use it before the show.
-8. While managing the queue, cloak, bag or hip tie, Mielle makes a small ordinary clumsy mistake. She recovers herself or accepts minimal help. It costs a moment of ease or dignity, not safety.
-9. Yasha guides the source group to front center. Mielle chooses the front-left edge of the same semicircle.
-10. Establish entrance flap, performers’ flap, central support, hanging lanterns, uneven rocky/grass ground, packed audience and crowd pressure as visible present facts.
-11. End before any audience member behaves anomalously.
+1. Mielle spends the daytime gap at or near her private temporary shelter. The four coins remain unspent and of unknown practical value.
+2. At dusk, public carnival movement supplies a route without making Mielle locally knowledgeable.
+3. Mielle reaches the tent on her own timing and reconnects with Jester and the others as a returning guest.
+4. Jester completes the admission promise directly at the gate.
+5. The carnival’s ordinary weapons rule applies. Mielle hands the physical bokken to Yasha, who keeps the visible item with the other weapons near the audience.
+6. Mielle’s cloak, bag or hip tie creates one minor awkward complication. She recovers herself or accepts minimal practical help.
+7. Yasha guides the source group to front-center seating. Mielle chooses the front-left edge.
+8. Establish the entrance flap, performers’ flap, central support, lanterns, uneven ground, packed semicircle and crowd pressure.
+9. End before the show begins.
 
 ### Flexible elements
 
-- Exact daytime duration and what Mielle does in the shelter.
-- Whether she notices music, lanterns, procession or crowd first.
-- Exact reunion line with Jester and bounded acknowledgments by others.
-- Exact wording and denomination at the gate.
-- Whether Bo or Yasha takes Jester’s payment.
-- Exact clumsy movement. It must arise from ordinary activity, have a minor consequence, and remain unrelated to blindness or combat skill.
-- Exact wording of Yasha’s weapon-custody reassurance.
-- Exact audience spacing, while keeping source group front center and Mielle at front-left edge.
+- Exact daytime activity, procession cue, reunion wording, gate payment wording and collector.
+- Exact clumsy movement and who gives the smallest practical reaction.
+- Exact position of Yasha’s held weapons, provided they remain visibly in ordinary carnival custody near the audience.
+- Exact audience spacing, provided the source group is front-center and Mielle stays nearby but separate.
 
 ## Starting state
 
-It is daytime in Trostenwald after the approved Nestled Nook scene. Mielle has eaten, holds four coins with unverified practical value, and keeps her temporary shelter private. She knows the carnival will be east of Lochward on the south bank after dark. Jester promised to cover one entry at the gate; no payment or ticket has yet changed hands.
+It is daytime after the approved Nestled Nook scene. Mielle has eaten, has four unfamiliar coins, keeps her temporary shelter private and knows the carnival is east of Lochward on the south bank after dark. Jester promised to pay one admission at the gate; no payment has occurred.
 
-Jester, Fjord and Beau remain together by their own arrangement. Caleb and Nott remain a guarded pair. Molly and Yasha work for the carnival. No relationship has moved beyond the limited Chapter 01 arrangement.
+Jester, Fjord and Beau remain together by their own arrangement. Caleb and Nott remain a guarded pair. Molly and Yasha work for the carnival. No party, debt, romance, ownership or continuing obligation exists.
 
 ## External objective
 
-Return to the carnival after dark, enter lawfully without pretending to understand the procedure or possess the needed money, and attend one ordinary public evening without claiming a place that has not been offered.
+Return lawfully to the carnival, use the single promised entry without pretending to understand local money or customs, and take part in one ordinary public evening without claiming a place not offered.
 
 ## Pressure and change
 
-The daytime gap lets Mielle retreat, so returning is a choice. Dusk supplies a visible route but adds public procedure, crowd pressure and a weapons rule. The chapter turns Jester’s promise into an actual payment and Yasha’s rule into an actual physical handover.
+Returning requires Mielle to leave privacy for noise, crowd density and procedure. The payment turns an offer into one completed act. The weapon handover creates a visible fact for Yasha and the crowd, while leaving Mielle’s actual access unchanged through Soulbond.
 
-Mielle’s bokken leaves her hip, not her access. The visible absence matters to the people around her and to the future physical board; it does not make her fear that she has lost it. Her everyday clumsiness can make the simple handover mildly inconvenient, showing a familiar drawback without turning it into comedy or weakness.
+The clumsy incident gives the crowd a small, ordinary inconvenience. It does not change the rule, scene safety or Mielle’s combat capability.
 
 ## Decision points
 
-| Decision point | Agency owner | Options actually available | What the source requires | What remains uncertain |
-|---|---|---|---|---|
-| Return after the daytime gap | Mielle | Stay at shelter, approach early, follow procession at dusk, or turn back before the gate. | Mielle attends. | Exact private preparation and what makes her leave. |
-| Recognize the route | Mielle | Follow music, crowd, lights or ask one narrow practical question. | Carnival is east of Lochward on the south bank. | Exact street route and how much of Trostenwald she recognizes. |
-| Reconnect at carnival | Jester and Mielle | Jester can notice and welcome; Mielle can approach, greet, stand nearby or wait. | Mielle attends as a guest. | Exact first line and who else notices. |
-| Apply entry rules | Bo and Yasha | Collect admission, inspect entrants, hold weapons and move the queue. | Carnival staff own procedure. | Exact division of labor between Bo and Yasha. |
-| Pay Mielle’s entry | Jester | Pay directly and make room for Mielle to accept. | Chapter 01 promise is fulfilled at gate. | Exact coin denomination and collector. |
-| Hand over wooden sword | Mielle; Yasha | Mielle may comply, ask one practical custody question or wait for clear instruction. Yasha may take visible custody. | Mielle follows same weapon rule. | Exact physical handover and wording. |
-| Recall bokken | Mielle | She could call it back under Soulbond. | No recall occurs in Chapter 02 because no need exists. | Whether a later event gives her a reason. |
-| Recover from ordinary clumsiness | Mielle | Correct it, make a dry remark, accept minimal help or keep moving. | A visible recurring-drawback beat occurs. | Exact choreography and reaction. |
-| Choose audience position | Mielle; Yasha; source group | Mielle may sit near Jester or apart; Yasha guides source group. | Source group reaches front center. | Exact spacing and seating order. |
+| Decision point | Agency owner | Available options | Fixed boundary |
+|---|---|---|---|
+| Return at dusk | Mielle | Wait, follow procession, turn back before gate. | She attends Chapter 02. |
+| Reconnect | Jester and Mielle | Notice, greet, approach, wait nearby. | No group membership. |
+| Apply entry rules | Bo and Yasha | Collect, inspect, hold physical weapons, move line. | Staff own procedure. |
+| Pay entry | Jester | Pay directly and leave room for acceptance. | One entry only. |
+| Hand over bokken | Mielle and Yasha | Comply, ask one custody question, accept visible custody. | Mielle does not recall it before show. |
+| Recover from clumsiness | Mielle | Correct it, dry remark, accept minimal help, move on. | Minor everyday cost only. |
+| Select seat | Mielle, Yasha and source group | Sit nearby, apart or wait for room. | Source group front-center; Mielle front-left edge. |
 
 ## Information entering the chapter
 
-- Mielle knows the seven names and the witness boundaries in `continuity/events/C2E1-C01_NESTLED_NOOK_FIRST_CONTACT.md`.
-- Jester’s offer covers one admission and remains unpaid.
-- Mielle knows the broad carnival location, not a mapped route or gate procedure.
-- Everyone from the tavern knows only what the event tile and ledger allow. No one knows Mielle’s shelter, origin, powers, history or intent beyond the evening.
+- The Chapter 01 event tile controls names, witness limits, four coins, Jester’s unpaid ticket offer and Mielle’s private shelter.
+- No one knows Mielle’s origin, powers, why she is alone, what Soulbond is, or what happens later at the carnival.
 
 ## Information remaining uncertain
 
-- The value of Mielle’s coins.
-- Her shelter, reasons for being alone and daytime activity.
-- Whether the others want contact beyond this evening.
-- The cause of later transformations, combat sequence and official aftermath.
+- Coin value, shelter details, Mielle’s daytime activity and whether contact continues after the evening.
+- Transformation cause, combat sequence, weapon return or recall, and official aftermath.
 
 ## Witness and knowledge boundaries
 
-- Relevant event tile: `continuity/events/C2E1-C01_NESTLED_NOOK_FIRST_CONTACT.md` controls what enters the chapter. A new tile can be made only after Chapter 02 approval.
-- Gate witnesses may know Jester paid one entry, Mielle complied with the weapon rule, Yasha has the physical wooden sword, and Mielle had a small ordinary clumsy moment.
-- Witnesses cannot infer Soulbond recall, hidden power, group membership, debt, combat skill or anything about Mielle’s eye from those facts.
-- Later transformations, threat cause, later group dynamics, private histories and Chapter 03 weapon use remain unavailable.
+- Gate witnesses can know Jester paid; Mielle complied; Yasha physically holds the wooden sword; Mielle had one small clumsy moment; and Mielle sat near the group.
+- They cannot infer Soulbond, hidden power, debt, party status, trust, combat ability, the cause of Mielle’s closed eye or later danger.
 
 ## Agency owners
 
-- Mielle: return, speech limits, acceptance of payment, voluntary handover, decision not to recall, recovery from clumsiness and audience position.
-- Jester: noticing Mielle, direct payment and degree of social invitation.
-- Fjord, Beau, Caleb and Nott: their own arrival, weapon choices, remarks and seating.
-- Molly: card reading and public social work.
-- Yasha: security, visible custody and seating guidance.
-- Bo: enforcement, collection and line management.
+- Mielle: return, speech, payment acceptance, physical handover, non-recall, recovery from clumsiness and seat.
+- Jester: payment and social invitation.
+- Fjord, Beau, Caleb and Nott: their own weapons, remarks, movement and seats.
+- Molly: public card-reading work.
+- Yasha: security, visible weapon custody and seating guidance.
+- Bo: entry collection, enforcement and line management.
 
 ## Power and threat review
 
-- Meaningful capability, item, inference or defense: the Soulbound bokken may be recalled at will. In this chapter Mielle voluntarily leaves its physical instance with Yasha and does not recall it. No other named ability is used.
-- Relevant source mechanic or setting constraint: the carnival bars weapons; Jester pays the admission; Soulbond retrieval does not create money, alter admission, make a duplicate, or erase what staff saw.
-- Combat pre-check required: yes, limited to physical custody, witness knowledge and Chapter 03 starting geometry. It must not plan the fight, decide a recall moment, establish tactics or decide outcomes.
+- Soulbond allows Mielle to store and recall the bokken at will. She deliberately does not use that capability in Chapter 02.
+- No other named ability, special perception, threat response or tactical preparation occurs.
+- Combat pre-check: not applicable. This chapter has no combat, pursuit, physical threat, hostile magic, meaningful gear use or consequential power use. The ordinary handover belongs to the planning and scene documents.
 
 ## Carry-forward facts
 
-Only if approved chapter text actually establishes them:
+Only if approved prose establishes them:
 
-- Mielle returns to the carnival at dusk and reaches the exterior tent.
-- Jester completes the one-entry payment directly at the gate without creating ongoing debt.
-- Yasha visibly retains the physical bokken Mielle handed over; Mielle has chosen not to recall it.
-- Direct witnesses to payment, handover, clumsy incident and final seating.
-- Mielle’s exact position relative to Jester, group, exits, pillar and performers’ flap.
-- Crowd density and entry conditions relevant to Chapter 03.
-- No party membership or relationship conclusion beyond an approved narrow same-evening behavioral update.
+- Mielle reaches the carnival at dusk.
+- Jester completes one direct admission payment.
+- Yasha visibly retains the physical bokken Mielle handed over; Mielle chose not to recall it.
+- Direct witnesses to payment, handover, clumsiness and final seating.
+- Mielle’s position, crowd density and visible tent layout.
+- No party or relationship conclusion beyond any narrow approved same-evening change.
 
 ## End state
 
-Mielle sits at the front-left edge of the audience semicircle, close enough to hear Jester without joining the source group’s central cluster. Yasha visibly has the wooden sword Mielle handed over; Mielle can still call it back but does not. The entrance flap, performers’ flap, central support, lanterns and crowd are visible facts. The performance has not begun.
+Mielle sits at the front-left edge of the audience, close enough to hear Jester but outside the source group’s front-center cluster. Yasha visibly holds the physical bokken. Mielle can recall it but does not. The performance has not begun.
 
 ## Mini delta handoff
 
 - [x] The next step is `work/c2e1/chapters/02_CHAPTER_MINI_DELTA.md`.
-- [x] The plan identifies Mielle’s social intervention, ticket boundary, visible custody, Soulbond access, recurring clumsy beat, setting constraints, Holmes boundary and approval-gated memory consequences.
-- [x] The plan identifies each source-required agency owner and decision point.
-- [x] The plan does not create a new episode-level Canon Delta change.
+- [x] The plan preserves source agency, knowledge boundaries, Soulbond access, recurring clumsiness and the Chapter 03 boundary.
+- [x] No episode-level Canon Delta change is introduced.
