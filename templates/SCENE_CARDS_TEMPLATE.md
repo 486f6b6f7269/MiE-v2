@@ -26,6 +26,14 @@
 - Protected canon agency:
 - Information that must remain unknown:
 
+### Social-memory preflight
+
+- Witnessed fact or bounded impression available to each speaker:
+- Open curiosity that has a meaningful trigger now:
+- Partial answer that must not be expanded:
+- Private / no-entry subject:
+- Social fact known only by a particular witness:
+
 ### External purpose
 
 ### Immediate pressure
