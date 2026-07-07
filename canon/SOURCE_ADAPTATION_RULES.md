@@ -6,6 +6,17 @@ The Critical Role transcript is the primary source for original canon events, de
 
 It is not a prose script, initiative order, dialogue template or battle map.
 
+## Source locator
+
+For Campaign 2 source work, begin with these campaign-wide entry points:
+
+- Official Campaign 2 episode hub: `https://critrole.com/campaign-2-the-mighty-nein/`
+- Transcript index on the Critical Role Wiki: `https://criticalrole.fandom.com/wiki/Category:Transcripts`
+
+Locate the relevant transcript by its `Transcript:Campaign 2 Episode [number]` page title. The official hub is the fallback for the episode video when a transcript is unavailable, incomplete, ambiguous, or needs a timing check.
+
+For every extraction or source note, record the exact transcript page or video URL and, for video verification, the relevant timestamp range. Do not cite a recap as a substitute for the episode transcript when the actual source action, order, wording, knowledge state, or tactical intent matters.
+
 ## Preserve unless an approved Canon Delta changes it
 
 - outcomes;
