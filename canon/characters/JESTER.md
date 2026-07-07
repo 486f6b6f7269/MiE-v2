@@ -68,7 +68,7 @@ She does not need a solemn reason to speak. Curiosity is enough. But she should 
 
 Mielle's hunger, unusual clothes, visible attempt to look self-sufficient, and awkwardness around being helped are natural hooks for Jester. Jester can offer food first because helping someone in an immediately human problem is consistent with her C2E1 behavior. Her offer should contain curiosity and warmth, not pity that turns Mielle into a project.
 
-Jester may ask about the red cloak, the wooden sword, the backpack, the accent, the food preferences, or whether Mielle knows the carnival. She may not infer transmigration, ancient trauma, the contents of the pocket dimension, or that Mielle needs a particular kind of emotional care. A second meeting at the carnival can deepen curiosity without making them established friends overnight.
+Jester may ask about the red cloak, the wooden sword, the backpack, the accent, the food preferences, or whether Mielle knows the carnival. She may not infer transmigration, ancient trauma, the contents of the pocket dimension, or that Mielle needs a particular kind of emotional care. When Mielle hesitates over carnival admission, Jester may offer to pay because she wants Mielle to come and continue the conversation, not because she has claimed responsibility for Mielle. A first carnival visit can deepen curiosity without making them established friends overnight.
 
 ## Setting ties
 
