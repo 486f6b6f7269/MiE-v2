@@ -6,7 +6,7 @@
 - Chapter: 02 — Before the gates
 - Chapter plan: `work/c2e1/chapters/02_CHAPTER_PLAN.md`
 - Episode Canon Delta: `work/c2e1/CANON_DELTA.md`
-- Transcript extraction slice: `work/c2e1/TRANSCRIPT_EXTRACTION.md`, causal sequence 6, from the dusk procession through entry and seating.
+- Transcript slice: `work/c2e1/TRANSCRIPT_EXTRACTION.md`, causal sequence 6.
 
 ## Exact files read
 
@@ -38,7 +38,7 @@
 - `chapters/approved/01_The_Nestled_Nook.md`
 - `chapters/approved/01_The_Nestled_Nook_APPROVED_RECORD.md`
 
-### Character and relationship
+### Character, relationship, setting and mechanics
 
 - `canon/characters/MIELLE.md`
 - `continuity/character_state/MIELLE_CURRENT.md`
@@ -50,111 +50,102 @@
 - `canon/characters/MOLLY.md`
 - `canon/characters/YASHA.md`
 - `canon/relationships/RELATIONSHIP_STATE.md`
-
-### Setting and faction
-
 - `canon/setting/EXANDRIA_BASELINE.md`
 - `canon/setting/LOCATIONS.md`
 - `canon/setting/FACTIONS_AND_NPCS.md`
-
-### Power, Holmes and combat
-
 - `canon/POWER_GUIDE.md`
 - `canon/mielle_current_power_guide/02_current_inventory_02.md`, `## 11. Soulbond`
 - `canon/HOLMES_ENGINE.md`
-- `canon/COMBAT_RULES.md`
-- `templates/COMBAT_TRANSLATION_CARD_TEMPLATE.md` — limited gear-custody review, not combat execution.
+- `canon/COMBAT_RULES.md` — boundary only; no Chapter 02 combat pre-check.
 
 ## Source obligations inside this chapter
 
-- The original group spends the daytime gap independently, then reaches the carnival at dusk.
-- A public procession and crowd lead people toward the dark-blue tent near the Ustaloch.
-- Molly works a public card-reading lane outside the tent.
-- Bo and Yasha inspect people, collect entry and enforce the weapons rule.
-- The original group keeps its own discussion, complaints, decisions and handovers concerning weapons.
-- Yasha keeps the visible surrendered weapons and guides the source group to front-center seating.
+- The original group spends the day independently and reaches the carnival at dusk.
+- A public procession and crowd lead toward the dark-blue tent near the Ustaloch.
+- Molly works public card readings outside the tent.
+- Bo and Yasha collect admission and apply a public no-weapons rule.
+- The source group retains its own discussion and decisions about weapons.
+- Yasha holds the visible surrendered physical weapons and guides the source group to front-center seating.
 - Entrance flap, performers’ flap, central support, lanterns, uneven ground, semicircular audience and crowd compression are visible before the show.
 
 ## Episode-delta constraints inherited here
 
-- Mielle attends as Jester’s guest through ordinary carnival procedure.
-- Jester pays one actual admission at the gate; Mielle receives no money to keep.
-- Mielle follows the same weapon rule as everyone else.
-- Mielle does not become carnival staff, a party member, a dependent or a special exception.
-- Chapter 03 remains blocked. Chapter 02 may establish custody and physical-board facts but cannot decide a threat response, weapon use after the show begins, injury or official outcome.
+- Mielle attends through ordinary carnival procedure as Jester’s guest.
+- Jester pays one actual admission. Mielle receives no money to keep.
+- Mielle follows the same weapons rule as other guests.
+- Mielle does not become staff, party member, dependent or special exception.
+- Chapter 03 remains blocked. Chapter 02 cannot decide transformation response, fight method, weapon use after the show starts, injury or official outcome.
 
 ## Mielle’s allowed intervention
 
-- Return by following public evidence: music, lights and crowd movement.
-- Let Jester see she came, reply to a greeting, stand near the source group or choose a nearby separate place.
-- Accept Jester’s direct payment at the gate without a purse or promise beyond the evening.
-- Follow the ordinary weapons rule, ask one practical custody question if needed and hand Yasha the physical wooden sword.
-- Retain the ability to call the Soulbound bokken back. No recall happens in Chapter 02 because no scene condition makes it necessary.
-- Make one visible low-stakes clumsy mistake while navigating the queue or handling clothing and gear, then correct it or accept the smallest practical help.
-- Choose a front-left edge seat near the source group while retaining separate social status.
+- Return by public route evidence: music, lights and crowd movement.
+- Respond if Jester notices, stand near the source group or choose a nearby separate position.
+- Accept Jester’s direct payment without a purse or promise beyond the evening.
+- Hand Yasha the physical bokken, ask one practical custody question if needed, and let Yasha keep it visibly with other weapons.
+- Retain Soulbond recall while deliberately not using it before the show because no scene condition calls for it.
+- Have one visible ordinary clumsy incident with clothing, bag, hip tie or crowd space, then recover or accept minimal help.
+- Choose a front-left edge seat near the front-center source group.
 
 ## Mielle’s prohibited shortcuts
 
-- No hidden money, altered ticket, special admission, altered crowd perception or cognition effect solves route, payment, trust or entry.
-- No deduction from parade, tent, Yasha’s collection, Molly’s work, crowd size, closed eye or clumsy incident creates private history, motive, danger certainty or a later-fight prediction.
-- No negotiation for the source group, exemption from the weapon rule or instruction about how others surrender weapons.
-- No bokken recall during Chapter 02. This is a chapter choice, not an access limitation.
-- No combat preparation, threat reading, civilian defense or plan for later transformations.
-- No claim that Jester’s payment establishes debt, belonging, romance, ownership, continuing support or authority over Mielle’s place in the tent.
+- No hidden money, ticket change, special entry, altered crowd perception, generated resource or cognition effect solves route, payment, trust or entry.
+- No inference from the parade, tent, staff work, crowd, closed eye or one clumsy incident establishes private history, motive, danger certainty or a later-fight prediction.
+- No negotiation on behalf of the source group, weapons exemption or direction to other people about weapon surrender.
+- No bokken recall in Chapter 02. This is a chosen non-use, not inability.
+- No combat preparation, threat reading, civilian defense or plan for transformations.
+- No claim that payment creates debt, belonging, romance, ownership, continuing support or authority over Mielle.
 
 ## Protected canon agency
 
 | Character | Required decision or accomplishment | What Mielle may do around it | What Mielle must not replace |
 |---|---|---|---|
-| Jester | Reaches the carnival, makes contact and fulfills one-entry offer. | Arrive, answer, accept direct payment and sit near or apart. | Jester’s choice to pay, social lead or weapons-rule reaction. |
-| Fjord | Maintains practical judgment and chooses his own weapon response. | Answer a narrow question or let him act independently. | Caution, weapon decision, source dialogue or later combat lane. |
-| Beau | Challenges the procedure and chooses her response. | Recover from awkwardness, give a dry answer or remain outside her exchange. | Beau’s negotiation, defiance, humor or physical choice. |
-| Caleb | Keeps Nott’s safety and choice in view. | Remain another guest in the queue and not press him. | His questions, handover, placement or protection of Nott. |
-| Nott | Manages exposure, money and crowd response. | Treat Nott normally and not decide comfort for her. | Fear, jokes, purse choices, placement or later combat lane. |
-| Molly | Works card-reading and carnival-facing social lane. | Pass as an ordinary guest or offer one bounded reply. | Performance, invitation, reading or crowd management. |
-| Yasha | Inspects entrants, takes visible weapons, keeps custody and guides seating. | Hand over wooden sword, ask one practical custody question and follow direction. | Security role, custody, weapon return timing or audience guidance. |
-| Bo | Collects entry and enforces carnival rules. | Let Jester pay at collection point. | Rule enforcement, collection or crowd management. |
+| Jester | Reaches carnival and fulfills one-entry offer. | Arrive, answer, accept payment, sit near or apart. | Choice to pay or social lead. |
+| Fjord | Maintains practical judgment and decides weapon response. | Answer a narrow question or let him act. | Caution, weapon decision or later lane. |
+| Beau | Chooses her response to the venue rule. | Recover from clumsiness or stay outside her exchange. | Negotiation, defiance or humor. |
+| Caleb | Keeps Nott’s safety and choice in view. | Remain another guest and not press him. | Questions, handover, placement or protection of Nott. |
+| Nott | Manages exposure, money and crowd response. | Treat Nott normally. | Fear, jokes, purse choices or placement. |
+| Molly | Works public card-reading lane. | Pass as ordinary guest or offer one bounded reply. | Performance, reading or crowd work. |
+| Yasha | Takes physical weapons, keeps custody and guides seating. | Hand over bokken, ask one custody question and follow direction. | Security role, custody or audience guidance. |
+| Bo | Collects entry and enforces rule. | Let Jester pay at the collection point. | Collection or line management. |
 
 ## Information control
 
 ### Information created
 
-- Mielle sees the route to the carnival as lived geography and learns its exterior tent, crowd, entrance procedure and public atmosphere.
-- Direct witnesses may know Jester completed one admission payment for Mielle.
-- Direct witnesses may know Mielle surrendered the physical wooden sword to Yasha and that Yasha holds it through the chapter end.
-- Direct witnesses may remember Mielle’s exact seat area and one ordinary clumsy incident.
-- Mielle learns visible interior facts: flaps, central support, lanterns, crowd pressure and rough floor.
+- Mielle learns the lived route, exterior tent, entry procedure and visible interior arrangement.
+- Gate witnesses know Jester paid one entry and Yasha received the physical bokken.
+- Direct witnesses may remember Mielle’s exact seat area and one small clumsy incident.
 
 ### Information withheld or still uncertain
 
-- Mielle’s shelter, origin, powers, stored equipment, coin values, combat capacity and reasons for being alone.
-- Private motivations, pasts and later choices of all canon characters.
-- The later danger, cause of transformations, exact fight sequence, weapon recall decision, injuries, deaths and Crownsguard action.
+- Mielle’s shelter, origin, powers, stored equipment, coin value, combat capacity and reasons for being alone.
+- Private motivations, histories and later choices of all canon characters.
+- Transformations, threat cause, fight sequence, later recall or ordinary return of the bokken, injuries, deaths and official response.
 
 ### Reader-only / author-only facts that must not leak
 
-- Later bonds; Molly, Yasha, Caleb and Nott’s private histories; threat source; future official investigation; Chapter 03 combat resolution.
+- Later bonds, private histories, threat source, later official investigation and every Chapter 03 combat resolution.
 
 ## Mechanics and setting constraints
 
-- Mielle calls her item a bokken. Other speakers and narration outside her viewpoint use wooden sword, practice sword or piece of wood.
-- Mielle’s closed left eye is visible but does not explain clumsiness, history or tactical weakness.
-- Clumsiness is recurring everyday behavior. This chapter contains a natural example involving crowd, cloak, bag or hip tie. It must create a small inconvenience, not a weapon-safety incident, injury, slapstick routine or competence verdict.
-- Jester pays the gate directly. Do not infer a value for Mielle’s coins from that payment.
-- The physical wooden sword stays in Yasha’s visible custody after handover. Mielle may recall the Soulbound item at will, but does not do so before the show because nothing calls for it. This does not create a duplicate or remove the public fact of the handover.
-- The tent is public, crowded and uneven. Nobody knows those facts will later matter in a fight.
+- Mielle calls her item a bokken. Others use wooden sword, practice sword or piece of wood where appropriate.
+- Her closed left eye does not explain clumsiness, history or tactical weakness.
+- Clumsiness is recurring everyday behavior. This chapter shows one natural example with a small practical or embarrassing cost, not injury, weapon danger, helplessness or slapstick.
+- Jester pays directly. The payment does not establish the value of Mielle’s coins.
+- Yasha retains the physical bokken. Mielle can recall the Soulbound item at will but does not before the show. This does not duplicate it or erase the public handover.
+- The tent is crowded and uneven. No one knows yet that these facts might later matter in a fight.
+- Combat pre-check: not applicable. The physical handover is ordinary scene continuity, not meaningful gear use.
 
 ## Chapter-specific consequences if approved
 
-- [x] Character state — Mielle’s return, completed entry, visible weapon handover, choice not to recall, crowd response, exact seat and immediate emotional residue.
-- [x] Relationship state — only if approved prose creates an active present behavioral change beyond the existing one-entry arrangement.
-- [x] Knowledge ledger — payment completion, custody, witnesses and physical placement.
-- [x] Event tile — one Chapter 02 carnival-entry tile with crowd, custody and positioning facts.
-- [x] Open thread — whether the bokken is normally returned or recalled later, audience position and public danger remain unresolved for Chapter 03.
-- [ ] None yet.
+- [x] Character state: return, payment completion, visible handover, chosen non-recall, clumsy incident, seat and immediate emotional residue.
+- [x] Relationship state: only if approved prose creates a narrow present behavioral change beyond the existing one-entry arrangement.
+- [x] Knowledge ledger: payment, custody, witnesses and position.
+- [x] Event tile: Chapter 02 carnival-entry tile with crowd, custody and position facts.
+- [x] Open thread: later recall or ordinary return of bokken, seat and public danger remain unresolved for Chapter 03.
 
 ## Escalation check
 
-- [x] This document only applies the episode Canon Delta.
-- [x] No new episode-level change was introduced.
-- [x] Any needed larger change has been returned to `CANON_DELTA.md`.
+- [x] This document applies the existing episode Canon Delta only.
+- [x] No new episode-level change is introduced.
+- [x] No pre-check is required until Chapter 03 creates an actual threat or consequential power decision.
