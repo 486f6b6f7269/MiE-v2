@@ -4,7 +4,7 @@
 
 This file tracks only relationships with an active, approved state that can change present behavior. It does not duplicate character biography, objective event history, author intention or planned scenes.
 
-For what a character witnessed, reasonably suspects, may ask, or must leave alone regarding Mielle, use `continuity/PARTY_MEMORY_AND_CURIOSITIES.md` alongside `continuity/KNOWLEDGE_LEDGER.md`.
+Use event tiles for what individual witnesses saw, what they can reasonably conclude, what they cannot conclude, and what later recontextualizes an event. Use `continuity/KNOWLEDGE_LEDGER.md` for atomic facts, beliefs and mistaken interpretations.
 
 ## Active relationships
 
