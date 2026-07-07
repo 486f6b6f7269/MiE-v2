@@ -71,10 +71,10 @@ A plan does not become canon. A draft does not update memory. An audit does not 
 ## 9. Draft
 
 - Use when: a complete chapter loadout exists.
-- Read: every file named in the loadout.
+- Read: every file named in the loadout and the Anti-AI pre-draft guard.
 - May change: draft only.
-- Output: `XX_DRAFT.md`.
-- Must not: update continuity, alter canon without delta, give characters unsupported knowledge or copy transcript dialogue as prose.
+- Output: `XX_DRAFT.md` and a completed pre-draft-guard receipt in the loadout or audit record.
+- Must not: update continuity, alter canon without delta, give characters unsupported knowledge, copy transcript dialogue as prose, or use the Anti-AI filter to invent texture, stakes, dialogue or scene events.
 
 ## 10. Audit
 
@@ -82,15 +82,15 @@ A plan does not become canon. A draft does not update memory. An audit does not 
 - Read: draft, loadout, plan, scene cards, source extraction, delta, relevant canon and continuity, Anti-AI filter.
 - May change: audit only.
 - Output: issue list with severity, evidence and required correction.
-- Must not: invent facts, promote memory or silently revise story decisions.
+- Must not: invent facts, promote memory, silently revise story decisions, or classify a prose issue as style-only when its correction would alter canon, agency, POV, relationship framing or mechanics.
 
 ## 11. Revise
 
 - Use when: audit identifies a correction.
-- Read: draft, audit and sources cited by each issue.
+- Read: draft, audit, sources cited by each issue and Anti-AI filter.
 - May change: revised draft and audit resolution status.
-- Output: new draft version and resolved audit.
-- Must not: introduce a canon change without returning to the needed planning document.
+- Output: new draft version, resolved audit and completed Anti-AI Silent Edit receipt.
+- Must not: introduce a canon change without returning to the needed planning document, or keep polishing once the filter's stop condition is met.
 
 ## 12. Approve chapter
 
