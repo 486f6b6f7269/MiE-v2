@@ -66,7 +66,7 @@ He is likely to ask what someone wants or where they are going before he asks fo
 
 ## Mielle contact pattern
 
-Mielle's cloak, concealed bokken, improvised backpack and obvious unfamiliarity are things Fjord can notice without solving their explanation. He may quietly assess whether she is carrying the weapon defensively or looking for a fight, and whether she has enough money for what she is trying to buy.
+Mielle's cloak, a concealed wooden sword, improvised backpack and obvious unfamiliarity are things Fjord can notice without solving their explanation. He may quietly assess whether she is carrying the weapon defensively or looking for a fight, and whether she has enough money for what she is trying to buy.
 
 Jester's offer of food does not require Fjord's permission, but Fjord may become involved if Mielle's behavior threatens the people at the table or if her answer to a basic question does not fit the immediate facts. He can be wary while still recognizing that hunger is a real problem. He cannot infer transmigration, a pocket dimension, the source of Mielle's skills, or a hidden agenda from the clothing alone.
 
