@@ -44,7 +44,7 @@
 ### Major pressure changes
 
 1. **Separate survival problems become a shared room.** Caleb and Nott need concealment; Fjord, Jester and Beau have a paid local obligation; Molly and Yasha need an audience; Mielle needs food and a way to read unknown money.
-2. **Curiosity makes limited contact possible.** The characters can recognize each other's visible facts without receiving full biographies or trust.
+2. **Curiosity makes limited contact possible.** The characters can recognize each other's visible facts without receiving full biographies or trust. Mielle can remain near this first convergence without becoming its cause or owner.
 3. **A carnival creates a temporary common destination.** Agreement to attend is social motion, not a permanent party oath.
 4. **A public show turns violent.** Civilian exposure and multiple hostile bodies create pressure that no single person should absorb.
 5. **The town claims jurisdiction.** The fight ends, but the episode's practical consequence is restricted movement and an investigation.
@@ -53,6 +53,7 @@
 
 - Public at the inn: visible identity, immediate behavior, the payment to Fjord/Jester/Beau, the carnival's existence, and whether someone appears hungry, armed, concealed or cautious.
 - Private at the inn: personal history, reasons for travel, hidden power sources, crimes, trauma, affiliations and motives beyond observable conduct.
+- Mielle may give surface facts through actual dialogue: her name, that she is unfamiliar with the town's money, that she carries an ordinary wooden training sword, or another equally bounded fact. These do not explain why she is alone or where she came from.
 - Public at the carnival: the transformations, fighting, immediate casualties and guard response.
 - Still unresolved after the episode: the cause and meaning of the transformations, the authorities' final conclusion, and the deeper histories of the group.
 - Mielle-specific boundary: her arrival, sealed past, equipment storage, power ceiling and emotional history remain non-public unless actual scene evidence gives a character a narrower fact.
@@ -61,7 +62,7 @@
 
 | Character | Source-required decision or accomplishment | What must remain theirs |
 |---|---|---|
-| Jester | Initiates curiosity and makes inclusion feel possible. | Her choice to offer warmth, ask questions and join the carnival plan. |
+| Jester | Initiates curiosity and makes inclusion feel possible. | Her choice to offer warmth, ask questions, make room for Mielle in a low-stakes conversation, and join the carnival plan. |
 | Fjord | Assesses practical risk and contributes to group decisions. | His caution, questions and later combat choices. |
 | Beau | Tests people and reacts against discomfort or control. | Her skepticism, initiative and physical choices. |
 | Caleb | Protects Nott and controls disclosure. | His decision to reveal only limited facts and later join the group. |
@@ -69,14 +70,14 @@
 | Molly | Pitches the carnival and makes the invitation. | The invitation, reading/performance work and social lead. |
 | Yasha | Supports carnival operations and acts when practical force is needed. | Her restrained social participation and later security/combat choices. |
 | Crownsguard | Respond to deaths and public danger. | The investigation and restriction on leaving town. |
-| Mielle | No source-owned accomplishment exists. | Her own decisions about accepting help, disclosure, departure and any later invitation. She cannot replace a listed lane. |
+| Mielle | No source-owned accomplishment exists. | Her own decisions about accepting help, giving bounded answers, remaining at the edge of the first conversation, leaving, and any later invitation. She cannot replace a listed lane. |
 
 ## Chapter division
 
 | Chapter | Source slice | Start state | Pressure | Required beats | End state | Planning dependencies |
 |---|---|---|---|---|---|---|
-| 01 — The Nestled Nook | Opening morning through the payment to Fjord, Jester and Beau; the first inn-contact window for Mielle. | The original parties are separate; Mielle is hungry, unknown and trying to price food. | Hunger, unknown currency, social exposure, and the risk of making a first impression she cannot take back. | Preserve the two-group inn arrangement and Rinaldo's payment; permit Jester's first food offer to Mielle; keep everyone else's response bounded and independent. | The source room is ready for the later cross-table conversation; Mielle has not silently become a member of the group. | Episode Canon Delta must settle whether Mielle leaves before the original conversation accelerates. |
-| 02 — A show tonight | Cross-table conversation; Molly and Yasha's arrival, reading and invitation; an adaptation window for Mielle's second contact. | The future party is still socially unstable. | Curiosity competes with fear, suspicion and the impulse to keep moving. | Preserve Nott's exposure and the group's choice to attend the carnival; Molly owns the invitation to the tavern group. | A shared plan exists for that night; trust remains provisional. | Delta must decide only the causal limits of Molly's separate invitation to Mielle, not its final scene staging. |
+| 01 — The Nestled Nook | Opening morning through the first cross-table contact; ends before Molly and Yasha enter. | The original parties are separate; Mielle is hungry, unknown and trying to price food. | Hunger, unknown currency, social exposure, cautious group curiosity, and the risk of making a first impression she cannot take back. | Preserve the two-group inn arrangement and Rinaldo's payment; Jester offers food; Mielle remains long enough for bounded conversation; Jester's interest and the group's separate reactions become visible; Mielle leaves before Molly and Yasha's arrival. | The source group has begun its own tentative contact; Mielle has a first social foothold with Jester but no membership, promise or settled bond. | Episode Canon Delta must set the precise boundary between Mielle's peripheral participation and the canon characters' first-contact lanes. |
+| 02 — A show tonight | Molly and Yasha's arrival, card reading, invitation, and Mielle's later separate invitation. | The source group has crossed the first social threshold; Mielle has returned to the shelter. | Curiosity competes with fear, suspicion and the impulse to keep moving. | Molly owns the invitation to the tavern group; the source group chooses whether to attend; Molly later creates a separate opening for Mielle without recruiting her. | A shared plan exists for the source group; Mielle has an offer, not a commitment. | Delta governs the separate invitation's causal limits; scene cards decide the actual second encounter. |
 | 03 — Before the gates | The episode's daytime gap and arrival at the carnival. | The source group has a destination but no settled party identity. | Separate preparations, money, movement and the possibility of opting out. | Preserve the group's independent choice to attend and the carnival as a working environment. | Audience and performers are in place before the show. | Any Mielle presence at the carnival is a high-impact question requiring an honest Delta review. |
 | 04 — The curious show | Performance, transformations, encounter, guard response. | Public entertainment; canon characters are present; civilians are exposed. | Two hostile transformations, incomplete information, crowd danger and later official scrutiny. | Preserve ensemble threat response, both threats being stopped, and the Crownsguard restriction. | The group and carnival cannot leave Trostenwald. | Combat pre-check required only for a chapter that places Mielle in the encounter. A no-presence decision must be causal, not automatic. |
 
@@ -89,10 +90,10 @@
 
 ## Mielle insertion windows
 
-- Window: opening inn, before the original social convergence hardens.
-  - What source pressure exists: Two separate groups are managing safety, payment and discretion in a public room.
-  - What she may affect before Canon Delta: the attention of a person who notices hunger; a short, separate interaction; how exposed or embarrassed she feels; small practical questions about food or currency.
-  - What must not be decided here: whether she joins either group, who reads the bokken as meaningful, or whether her presence changes Nott's original exposure and first contact.
+- Window: opening inn, through the first source social convergence and before Molly and Yasha arrive.
+  - What source pressure exists: Two separate groups are managing safety, payment and discretion in a public room. Curiosity begins to bridge the tables.
+  - What she may affect before Canon Delta: Jester's attention to hunger; a bounded conversation about visible facts; Mielle's dry humor, awkward self-sufficiency and restrained curiosity; low-stakes reactions from Fjord, Beau, Caleb and Nott; the first small sense that Jester and Mielle may enjoy speaking to each other.
+  - What must not be decided here: whether Mielle joins either group, whether the others have solved her, whether Mielle displaces Jester's contact with Nott, or whether one morning becomes lasting trust.
 
 - Window: after Molly and Yasha establish the carnival invitation.
   - What source pressure exists: Molly is inviting strangers to a show; the source group is deciding whether to attend.
@@ -108,12 +109,13 @@
 
 - Trostenwald remains a forced stop rather than a town the group can leave after the show.
 - The public fight and guard investigation have witnesses and evidence; later scenes must not act as though the episode was private.
-- Early group proximity is real but limited. No relationship, loyalty, confession, trauma diagnosis or obligation may be inferred from one tavern morning.
-- Mielle's first food offer and second invitation, if approved in later prose, must be recorded only as the actual witnesses and words support.
+- Early group proximity is real but limited. A pleasant exchange, a shared joke or mutual curiosity does not establish loyalty, confession, trauma diagnosis, obligation or romance.
+- Mielle's first food offer, first longer conversation and second invitation, if approved in later prose, must be recorded only as the actual witnesses and words support.
 
 ## Open questions for Canon Delta
 
-1. Does Mielle leave the Nestled Nook before the source cross-table exchange, remain nearby without entering it, or another option that keeps the original knowledge flow intact?
-2. What does Molly's second invitation to Mielle concretely change, and what does it leave untouched?
-3. Does Mielle attend the carnival? If no, what present-causal reason places her elsewhere? If yes, how do the encounter's mechanics and all source agency lanes change?
-4. Can any accessible item or named capability affect the first chapter? The expected answer is no use beyond ordinary clothing, backpack camouflage and the ordinary bokken, but the Delta must state the boundary.
+1. Which surface facts can Mielle share before Molly arrives without turning the room into an interrogation or changing the original first-contact knowledge flow?
+2. How does Mielle remain during the source cross-table conversation while Jester, Nott, Caleb, Fjord and Beau retain every source-owned social move?
+3. What does Molly's second invitation to Mielle concretely change, and what does it leave untouched?
+4. Does Mielle attend the carnival? If no, what present-causal reason places her elsewhere? If yes, how do the encounter's mechanics and all source agency lanes change?
+5. Can any accessible item or named capability affect the first chapter? The expected answer is no use beyond ordinary clothing, backpack camouflage and the ordinary bokken, but the Delta must state the boundary.
