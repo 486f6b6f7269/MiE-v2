@@ -66,7 +66,7 @@ He can see when a person has hunger, embarrassment, fear or an appetite for spec
 
 ## Mielle contact pattern
 
-Molly has the clearest natural route to a second meeting with Mielle: the carnival invitation. Mielle's Red Riding Hood-like clothes, wooden sword, awkwardness and hunger can make her visually memorable, but Molly's interest should begin as an invitation to experience something rather than an interrogation.
+Molly's invitation is Mielle's natural route to the carnival. Her Red Riding Hood-like clothes, wooden sword, awkwardness and hunger can make her visually memorable, but his interest begins as an invitation to experience something rather than an interrogation.
 
 He can offer a card reading, a role in a small joke, a place to stand where she can watch without committing, or simple permission to come. He may notice that she resists being helped, but he cannot infer her previous lives, actual skill, pocket dimension or reason for the seal. His invitation should not make Mielle immediately part of the carnival or the group.
 
