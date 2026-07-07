@@ -1,6 +1,11 @@
 # Knowledge ledger
 
-No approved story knowledge entries yet.
-
 | Fact ID | Fact or belief | Who knows | Who suspects | Incorrect interpretation | Source | Revised by |
 |---|---|---|---|---|---|---|
+| K-C2E1-C01-001 | Mielle met Jester, Fjord, Beau, Caleb, Nott, Mollymauk and Yasha at the Nestled Nook. | Mielle knows all seven names. Jester, Fjord, Beau, Caleb and Nott know Mielle's name. Molly and Yasha know a new red-cloaked carnival guest, but Mielle's name was not spoken to them on-page. | None recorded. | None recorded. | `chapters/approved/01_The_Nestled_Nook.md` | — |
+| K-C2E1-C01-002 | Jester paid for Mielle's breakfast after explicitly asking and receiving Mielle's acceptance. | Mielle, Jester, Fjord and Beau. | None recorded. | This is not a debt, rescue claim, group membership, or ongoing support arrangement. | `chapters/approved/01_The_Nestled_Nook.md` | — |
+| K-C2E1-C01-003 | Mielle is unfamiliar with local coin values. Fjord says the four coins should buy a meal, but Mielle has not personally verified their value through a purchase. | Mielle, Jester, Fjord and Beau. | None recorded. | None recorded. | `chapters/approved/01_The_Nestled_Nook.md` | — |
+| K-C2E1-C01-004 | Jester offered to cover one carnival admission for Mielle, and Mielle accepted. Actual payment remains deferred to the carnival gate. | Mielle, Jester, Fjord, Beau, Caleb, Nott, Molly and Yasha. | None recorded. | The offer does not make Mielle a party member, employee, dependent, debtor, or Jester's possession. | `chapters/approved/01_The_Nestled_Nook.md` | — |
+| K-C2E1-C01-005 | Mielle's left eye is visibly closed behind the left lens of her glasses. | Mielle knows she is blind in that eye. Jester and Yasha directly register the closed eye as a visible feature. | None recorded. | Jester and Yasha do not know why the eye is closed and cannot infer injury cause, emotion, danger, power, intent, or history from it. | `chapters/approved/01_The_Nestled_Nook.md` | — |
+| K-C2E1-C01-006 | Mielle says she has a place to stay “for today.” | Mielle, Jester, Fjord and Beau. | None recorded. | The others do not know the place, location, safety, ownership, or why Mielle is there. | `chapters/approved/01_The_Nestled_Nook.md` | — |
+| K-C2E1-C01-007 | The tavern group plans to attend the carnival after dark. | Mielle, Jester, Fjord, Beau, Caleb, Nott, Molly and Yasha. | None recorded. | This is an evening destination, not a settled adventuring party or trust pact. | `chapters/approved/01_The_Nestled_Nook.md` | — |
