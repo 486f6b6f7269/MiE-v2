@@ -32,13 +32,14 @@
 - relevant event tiles:
 - relevant knowledge-ledger entries:
 
-## Character and relationship
+## Character, relationship and social memory
 
 - `canon/characters/MIELLE.md`
 - `continuity/character_state/MIELLE_CURRENT.md`
 - present or decision-relevant character dossiers:
 - relevant character-state files:
 - `canon/relationships/RELATIONSHIP_STATE.md` or `not applicable` with reason:
+- `continuity/PARTY_MEMORY_AND_CURIOSITIES.md` or `not applicable` with reason:
 
 ## Setting and faction
 
@@ -65,7 +66,7 @@
 
 - [ ] Every listed path was read.
 - [ ] Each conditional heading has exact paths or a justified `not applicable` entry.
-- [ ] Character voice and knowledge documents cover every decision-relevant speaker.
+- [ ] Character voice, relationship and social-memory documents cover every decision-relevant speaker.
 - [ ] Setting documents cover every material setting, law, language, faction or NPC condition.
 - [ ] Power, Holmes and combat documents cover every meaningful use, inference or threat.
 - [ ] No source is missing.
