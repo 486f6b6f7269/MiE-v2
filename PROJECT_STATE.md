@@ -14,7 +14,8 @@ No chapter has been written or approved.
 - Mielle canon and C2E1 starting continuity are recorded.
 - C2E1 dossiers for Jester, Fjord, Beau, Caleb, Nott, Molly and Yasha are complete.
 - Campaign-wide Exandria setting bible, location guide, faction guide and C2E1 immediate anchors are recorded.
-- Character-state, relationship-state, knowledge, event, open-thread and party-memory controllers are ready for approved-story updates.
+- Character-state, relationship-state, knowledge, event-tile and open-thread controllers are ready for approved-story updates.
+- Witness memory is recorded through event tiles and the knowledge ledger; no separate party-memory controller exists.
 - Workflow templates cover source verification, transcript extraction, episode mapping, both Delta levels, chapter planning, scene cards, combat pre-checks, loadouts, audits and approval records.
 
 ## Current task
