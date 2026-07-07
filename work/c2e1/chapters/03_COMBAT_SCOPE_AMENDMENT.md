@@ -2,14 +2,15 @@
 
 ## Status
 
-This records the user's correction and subsequent combat decision after the first Chapter 03 planning pass.
+This records the user's correction and subsequent combat decisions after the first Chapter 03 planning pass.
 
 It supersedes any conflicting Chapter 03 work language that:
 
 - treats Mielle's opening containment as the whole fight;
 - restricts her to a repeated dodge-and-stall pattern;
 - forbids Haki in the chapter;
-- chooses later exchanges, exact strikes, injuries or choreography beyond the user decision below.
+- limits Armament to minor staggering only;
+- chooses later exchanges, exact strikes, injuries or choreography beyond the user decisions below.
 
 The original plan, mini delta, scene cards and first combat pre-check remain usable for source order, crowd geometry, witness limits, source-character agency and legal aftermath. Their combat details are overridden wherever this amendment differs. `03_COMBAT_PRECHECK_v2.md` is the active combat pre-check.
 
@@ -29,12 +30,14 @@ The original plan, mini delta, scene cards and first combat pre-check remain usa
 - The first knee strike is a test. Mielle feels that the creature is materially harder than a normal human body.
 - From the first counter after that realization onward, every counterattack Mielle makes is reinforced by Armament Haki.
 - Armament is used for strike reinforcement only. It is not advanced emission, internal destruction, automatic invulnerability, a barrier, a cure, a mind effect or an answer to the transformation mechanism.
-- Mielle does not aim her Haki counters at joints as a disabling shortcut. Her ordinary target selection remains scene-responsive and physically local.
+- Mielle does not aim at joints as a disabling shortcut. Her Haki counters use whatever limb or opening an actual exchange gives her.
+- Across the cooperative fight, Mielle breaks one arm and one leg of each creature with Armament-reinforced bokken counters. These are physical limb breaks, not a hidden weak-point technique, internal destruction or an unexplained special effect.
+- The broken limbs materially reduce each creature's reach, balance or ability to drive through the crowd, but do not end the fight. The creatures remain mobile and dangerous enough to attack, adapt and require the source group to finish them.
 - Mielle keeps both creatures occupied through a moving exchange of evasions and Haki-reinforced replies. She is not merely waiting passively, and she is not required to carry the fight alone for an extended source-table interval.
 - The source group recovers weapons quickly after seeing Mielle enter the danger. Once they reach the active line, Mielle and the others fight as an improvised team against the two creatures.
 - The exact cooperative exchanges remain flexible. They must arise from each person’s chosen position and ability, not from Mielle assigning roles or narrating their motives.
 - Jester's opening, Yasha's weapon distribution, meaningful contributions from Fjord, Caleb, Nott and Molly, Yasha's first-creature kill, Beau's second-creature finish, and the Crownsguard aftermath remain required.
-- Mielle does not take either finishing kill. Her Haki counters can stagger, drive back, interrupt or create a real opening, but cannot silently replace the decisive source actions.
+- Mielle does not take either finishing kill. Her Haki counters create real damage and real openings, but cannot silently replace the decisive source actions.
 
 ## Exact governing mechanic
 
@@ -44,11 +47,11 @@ The original plan, mini delta, scene cards and first combat pre-check remain usa
 
 ## Still flexible
 
+- Exact order in which each creature loses an arm and a leg.
 - Exact attack and counter sequence after the second creature's first missed attack.
 - Which creature each source character engages first and the precise cooperative openings they choose.
 - Whether Mielle takes a hit. No injury is required or prohibited by this amendment.
 - Exact visual extent of Armament coating, constrained by the source module and the need to avoid a system-name explanation.
-- Exact physical consequence of each Haki counter, provided it is temporary, concrete and does not usurp the kills.
 - Mielle's immediate emotional response after the first surprise, beyond the fact that the death is not trivialized.
 
 ## Non-negotiable boundaries
@@ -64,4 +67,5 @@ The original plan, mini delta, scene cards and first combat pre-check remain usa
 - [x] Middle combat role and allowed capability set.
 - [x] Finish boundary and source-character agency set.
 - [x] Active combat pre-check: `work/c2e1/chapters/03_COMBAT_PRECHECK_v2.md`.
+- [ ] Update the active combat pre-check with the specified limb-break contribution.
 - [ ] Create Chapter 03 loadout and complete pre-draft guard before prose.
