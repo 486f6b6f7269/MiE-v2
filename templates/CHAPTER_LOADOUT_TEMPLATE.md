@@ -38,6 +38,7 @@
 
 - `canon/characters/MIELLE.md`
 - `continuity/character_state/MIELLE_CURRENT.md`
+- Mielle checks required in this chapter: personality / voice / gear / drawback / constraints-geasa / first-impression-underestimation / knowledge / other:
 - present or decision-relevant character dossiers:
 - relevant character-state files:
 - `canon/relationships/RELATIONSHIP_STATE.md` or `not applicable` with reason:
@@ -53,6 +54,7 @@
 
 - `canon/POWER_GUIDE.md` or `not applicable` with reason:
 - exact `canon/mielle_current_power_guide/` modules:
+- power / gear / defense / evasion / injury / no-hit / damage / non-use checks required:
 - `canon/HOLMES_ENGINE.md` or `not applicable` with reason:
 - `canon/COMBAT_RULES.md` or `not applicable` with reason:
 - combat pre-check / translation card:
@@ -70,7 +72,9 @@ Rules:
 - Cite exact files and, where useful, headings or entry names.
 - A row with an unresolved conflict blocks drafting until the conflict returns to its proper owner: plan, mini delta, episode Canon Delta, permanent rule or source note.
 - “No conflict noticed” is not a valid row. State the permitted application and the forbidden implication.
-- Add a row whenever Mielle uses, declines to use, visibly carries, loses physical possession of, or is materially affected by an item, power, inference, relationship condition or public rule.
+- Add a row whenever Mielle uses, declines to use, visibly carries, loses physical possession of, is underestimated because of public presentation, or is materially affected by an item, power, inference, relationship condition or public rule.
+- Add a row whenever a canon character speaks, takes a source-owned action, reacts to Mielle, witnesses a power, or is expected to misread or correctly read Mielle.
+- Add a row whenever a fight uses a power, gear item, defense, evasion, no-hit result, injury, resistance, damage result, or deliberate non-use.
 
 ## Prose and editing
 
@@ -84,8 +88,8 @@ Rules:
 Run after the factual scene sequence exists and before the draft is handed over. Read each listed source in the named family one at a time and correct only the defects that family governs.
 
 1. **Source and continuity pass:** transcript/source obligations, chapter plan, mini delta, event tiles, ledger, current state and open threads. Check order, agency, knowledge, material facts and chapter boundary.
-2. **Character and relationship pass:** Mielle dossier/state, each present character dossier/state and relationship state. Check action, speech, reactions, social distance and what no one can know.
-3. **Mechanics, Holmes and combat pass:** Power Guide and exact modules, Holmes Engine, Combat Rules and pre-check. Check capabilities, non-use decisions, physical possession, inference limits, tactical claims and future-combat leakage.
+2. **Character and relationship pass:** Mielle dossier/state, each present character dossier/state and relationship state. Check Mielle personality, voice, gear, drawbacks, constraints/geasa where present, first-impression-underestimation, action, speech, reactions, social distance and what no one can know.
+3. **Mechanics, Holmes and combat pass:** Power Guide and exact modules, Holmes Engine, Combat Rules and pre-check. Check capabilities, non-use decisions, physical possession, inference limits, tactical claims, evasion, injury/no-hit results, damage, resistance and future-combat leakage.
 4. **Prose and voice pass:** Mielle prose guide, chapter voice pass and Anti-AI filter. Rewrite only expression, rhythm, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue.
 
 ## Read receipt
@@ -93,8 +97,9 @@ Run after the factual scene sequence exists and before the draft is handed over.
 - [ ] Every listed path was read.
 - [ ] Each conditional heading has exact paths or a justified `not applicable` entry.
 - [ ] Character voice, relationship, event tiles and knowledge documents cover every decision-relevant speaker.
+- [ ] Mielle-specific checks cover personality, voice, gear, drawbacks, constraints/geasa, knowledge and first-impression-underestimation where applicable.
 - [ ] Setting documents cover every material setting, law, language, faction or NPC condition.
-- [ ] Power, Holmes and combat documents cover every meaningful use, non-use, possession, inference or threat.
+- [ ] Power, Holmes and combat documents cover every meaningful use, non-use, possession, inference, evasion, injury/no-hit result, damage, resistance or threat.
 - [ ] Decision-to-authority check has a passing row for every conflict-prone chapter fact.
 - [ ] Sequential draft verification passes are pending / complete:
 - [ ] No source is missing.
