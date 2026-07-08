@@ -20,6 +20,14 @@ The bokken is Soulbound. Mielle may voluntarily call it back to her hand at any 
 
 She uses a backpack made through Perfect Wardrobe to conceal access to the Bag of Holding, reaching into the backpack before retrieving anything.
 
+## First-impression rule
+
+People who have not seen Mielle fight or use a decisive ability should normally underestimate her on first impression unless a concrete source gives them a reason not to. The usual cues point in that direction: she is short, petite, soft-looking, tired, awkward, one eye visibly closed, wearing round glasses and carrying an ordinary wooden sword rather than a lethal-looking weapon.
+
+This underestimation is not universal stupidity. A careful person may notice that her weapon is deliberately carried, that she watches exits, that she answers too precisely, or that her clumsiness does not match how she handles a threat. Those observations create doubt, not instant understanding. Before direct evidence, most strangers should still read her as harmless, disabled, inexperienced, decorative, lost, fragile, silly, or not worth treating as the most dangerous person in the room.
+
+The closed left eye, the wooden sword and everyday clumsiness are public reasons for wrong assumptions. They are not proof of weakness. The prose should let other people be wrong in ordinary, character-specific ways: a guard may treat her as a civilian to move aside, a thug may choose her as an easy target, a noble may dismiss her as a strange girl, and a martial observer may be puzzled rather than fully convinced. Once someone has seen her fight, recall the bokken, use Haki, or otherwise act beyond the first impression, future reactions must carry that evidence.
+
 ## Speech and dialogue behavior
 
 Quiet, bookish, observant, gentle and cautious. She uses dry humor, odd jokes, strange fragments of wisdom and absurdly specific plans. She gets flustered by sincere praise and attractive women flirting with her.
