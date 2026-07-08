@@ -16,8 +16,11 @@ Read this file with:
 - `canon/MIELLE_PROSE_STYLE_GUIDE.md`
 - `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
 - the chapter plan, mini delta, scene cards and loadout
-- each present or decision-relevant character dossier
-- `canon/HOLMES_ENGINE.md` when Mielle reads behavior or uncertainty
+- `canon/characters/MIELLE.md` and `continuity/character_state/MIELLE_CURRENT.md` whenever Mielle appears, speaks, decides, is viewed, uses gear, is underestimated, or is affected
+- each present or decision-relevant character dossier before writing or revising that character's action, dialogue, witness reaction or silence
+- `canon/POWER_GUIDE.md` and exact `canon/mielle_current_power_guide/` module(s) whenever a fight, power, gear item, evasion, injury, defense, no-hit result, damage result or deliberate non-use appears
+- `canon/HOLMES_ENGINE.md` when Mielle reads behavior, uncertainty, tactical intent or hostile timing
+- `canon/COMBAT_RULES.md` whenever the scene contains combat, pursuit, physical threat, hostile magic, meaningful gear use or consequential power use
 - the approved chapter most similar in scene type, when one exists
 
 Do not use a previous draft as a phrase bank. Preserve methods, not wording.
@@ -78,6 +81,21 @@ When a reading has not earned certainty, let the prose stop where the evidence s
 The narration does not need to say what the room “realized,” what a silence “meant,” or what relationship has formed when people have only shared a brief exchange.
 
 Emotion should arrive through timing, body, attention, omission and the next small choice. Mielle can be embarrassed without naming embarrassment. She can accept care by not leaving the space that remains open to her. She can be curious without giving the reader a conclusion about trust.
+
+## Mielle first-impression and underestimation pass
+
+When a character has not seen Mielle fight or use a decisive ability, start from what they can actually see: small body, soft tired manner, round glasses, closed/blind left eye, red cloak, ordinary wooden sword, occasional clumsiness and an attempt to look composed that often makes the awkwardness more visible.
+
+The default first impression from those facts is underestimation. The exact form depends on the observer:
+
+- a guard may try to move her behind the line or treat her as a civilian with a strange stick;
+- a criminal may select her as an easy target;
+- a noble may dismiss her as harmless, disabled, poor, odd or ornamental;
+- a martial observer may notice contradictions but should still need evidence before understanding her danger.
+
+Do not make underestimation into universal stupidity. A sharp observer may see that she tracks exits, handles the wooden sword deliberately, or answers with too much precision. That creates suspicion or doubt, not instant knowledge of her combat capacity, origin or powers.
+
+Once someone has directly seen Mielle fight, recall the bokken, use Haki or perform another decisive act, future reactions must carry that evidence. They may still misunderstand the mechanism, but they should not return to a clean first-impression reset.
 
 ## Stage rather than report
 
