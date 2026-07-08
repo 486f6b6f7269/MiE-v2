@@ -10,6 +10,12 @@ Before every step, read `TASK_LOAD_MATRIX.md` and create an exact path list from
 
 Do not write “relevant files,” “stable canon,” “core files,” or “as needed” in a work artifact. Name the file. A condition may be marked `not applicable` only with a short reason.
 
+If a scene contains combat, pursuit, physical threat, power use, power non-use, gear use, injury, no-hit result, evasion, resistance or tactical prediction, the exact Power Guide module(s), Combat Rules and Holmes Engine must be read before any prose or revision touches that scene.
+
+If Mielle appears, speaks, decides, reacts, is viewed by someone else or is physically affected, read her dossier and current state before writing her. Apply her current knowledge, gear, personality, voice, drawbacks, constraints/geasa where present and public presentation.
+
+If any canon cast member appears, speaks, reacts, fights, witnesses, withholds or is used as a scene presence, read that character's dossier before writing or revising that line or action. Do not write cast voices from memory or from a prior draft alone.
+
 ## Decision-to-authority rule
 
 An exact path list proves only that files were opened. It does not prove that their rules were reconciled.
@@ -115,19 +121,19 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 ## 8. Combat pre-check
 
 - Template: `templates/COMBAT_TRANSLATION_CARD_TEMPLATE.md`.
-- Use when: combat, pursuit, physical threat, hostile magic, meaningful gear use or consequential power use occurs.
-- Read: Base production load; chapter plan; chapter mini delta; scene cards; relevant transcript slice; Mielle dossier and state; relevant combatant dossiers and states; Combat Rules; exact Power Guide modules; Holmes Engine when the tactic depends on reading; setting and terrain files.
+- Use when: combat, pursuit, physical threat, hostile magic, meaningful gear use, consequential power use, injury, evasion, no-hit result or damage result occurs.
+- Read: Base production load; chapter plan; chapter mini delta; scene cards; relevant transcript slice; Mielle dossier and state; relevant combatant dossiers and states; Combat Rules; Power Guide and exact module(s) for every power, gear item, defense, prediction, evasion, damage, injury or non-use; Holmes Engine when the tactic depends on reading; setting and terrain files.
 - May change: only pre-check or combat translation card.
-- Output: board, objectives, source obligations, pressure waves, tactical truth, hostile-effect review, agency lanes, Mielle’s allowed intervention and aftermath.
+- Output: board, objectives, source obligations, pressure waves, tactical truth, hostile-effect review, agency lanes, Mielle’s allowed intervention, exact mechanics read receipt and aftermath.
 - Must not: produce a turn list, use Mielle to solve every threat, ignore a defense/mechanic because the source result is desired, or choose a power result before its source mechanics are read.
 
 ## 9. Chapter loadout
 
 - Template: `templates/CHAPTER_LOADOUT_TEMPLATE.md`.
 - Use when: immediately before prose.
-- Read: Base production load; chapter plan; chapter mini delta; scene cards; combat pre-check if any; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; every exact file required under the Matrix headings; `canon/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/ANTI_AI_PROSE_EDITING_FILTER.md`.
+- Read: Base production load; chapter plan; chapter mini delta; scene cards; combat pre-check if any; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; every exact file required under the Matrix headings; `canon/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - May change: only chapter loadout.
-- Output: exact paths and sections required for draft, grouped under source/adaptation, continuity, character/relationship, setting/faction, power/Holmes/combat, prose/editing and active chapter artifacts; plus a passing decision-to-authority check for every conflict-prone chapter fact.
+- Output: exact paths and sections required for draft, grouped under source/adaptation, continuity, character/relationship, setting/faction, power/Holmes/combat, prose/editing and active chapter artifacts; plus a passing decision-to-authority check for every conflict-prone chapter fact, including first impressions, visible Mielle traits, character voice, power use, power non-use and deliberate underestimation.
 - Must not: summarize canon into new facts, leave a vague conditional reference, replace reading listed files with a summary, or let a conflict-prone fact reach prose without a completed authority row.
 
 ## 10. Draft
@@ -137,8 +143,8 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 - Read: every file named in the loadout; Anti-AI pre-draft guard.
 - Draft construction order:
   1. **Factual scene pass.** Read source/adaptation, continuity and chapter artifacts. Build the scene’s causal sequence, agency, material facts, knowledge boundaries and ending. This may be skeletal prose, but it must already obey the decision-to-authority check.
-  2. **Character pass.** Read Mielle’s dossier/state, each decision-relevant character dossier/state, relationship state, ledger and event tiles one at a time. Correct action, dialogue, reaction, social distance and knowledge before treating sentences as final.
-  3. **Mechanics and inference pass.** Read Power Guide, exact modules, Holmes Engine, Combat Rules and pre-check one at a time. Correct power use, deliberate non-use, possession, physical consequences, inference and threat boundaries. A conflict returns to planning; it is not smoothed over in prose.
+  2. **Character pass.** Read Mielle’s dossier/state, each decision-relevant character dossier/state, relationship state, ledger and event tiles one at a time. Correct action, dialogue, reaction, social distance, first-impression treatment and knowledge before treating sentences as final.
+  3. **Mechanics and inference pass.** Read Power Guide, exact modules, Holmes Engine, Combat Rules and pre-check one at a time. Correct power use, deliberate non-use, possession, physical consequences, inference, evasion, resistance, injury/no-hit result and threat boundaries. A conflict returns to planning; it is not smoothed over in prose.
   4. **Prose pass.** Read the Mielle prose guide, chapter voice pass and Anti-AI filter one at a time. Rewrite expression, rhythm, scene clarity and dialogue texture only. This pass cannot create or solve story facts.
 - May change: draft only.
 - Output: `XX_DRAFT.md` and a completed pre-draft-guard receipt in the loadout or audit record. The loadout records completion of the four verification passes.
@@ -157,7 +163,7 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 
 - Template: no separate template. Revise the existing draft and audit record, then run the Anti-AI Silent Edit.
 - Use when: audit identifies a correction.
-- Read: Base production load; draft; audit; every source named by an issue; chapter loadout; Anti-AI filter.
+- Read: Base production load; draft; audit; every source named by an issue; chapter loadout; character dossier for every revised speaker or actor; exact Power Guide module for every revised power, defense, injury/no-hit result, evasion, damage, gear state or non-use; Anti-AI filter.
 - May change: revised draft and audit resolution status.
 - Output: new draft version, resolved audit and completed Anti-AI Silent Edit receipt.
 - Must not: introduce a canon change without returning to the needed planning document, or continue polishing once the filter’s stop condition is met.
