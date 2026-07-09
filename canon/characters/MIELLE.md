@@ -105,8 +105,8 @@ Read:
 - `canon/characters/MIELLE.md`, `## Pressure behavior`, `## First-impression rule`
 - `canon/POWER_GUIDE.md`
 - relevant modules in `canon/mielle_current_power_guide/`
-- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 1, 5, 6, 9 and 10
-- `canon/mielle_current_power_guide/02_current_inventory_02.md`, entries 11 and 12
+- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 1, 5, 6, 9 and 10: Thousand Styles Master, Ashina Arts, Holmes, Black Bat and Greatest Martial Artist
+- `canon/mielle_current_power_guide/02_current_inventory_02.md`, entries 11 and 12: Soulbond and Haki
 - `canon/mielle_current_power_guide/04_consolidated_architecture.md`
 - `canon/HOLMES_ENGINE.md`
 - `canon/COMBAT_RULES.md`
@@ -128,7 +128,7 @@ Read:
 
 - `canon/characters/MIELLE.md`
 - `canon/HOLMES_ENGINE.md`
-- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 6, 8, 9 and 10
+- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 6, 8, 9 and 10: Holmes, Sagacious Wisdom, Black Bat and Greatest Martial Artist
 - `canon/mielle_current_power_guide/04_consolidated_architecture.md`, cognition sections
 - relevant event tiles and knowledge ledger entries
 
@@ -138,8 +138,8 @@ Check:
 - what remains unknown;
 - whether the conclusion is narrow and testable;
 - whether privacy and agency remain intact;
-- whether Black Bat applies to a readable human body or the target is nonhuman, hidden or illegible;
-- whether Sagacious Wisdom is becoming a truth guarantee.
+- whether Black Bat (readable human body-language fluency) applies to a readable human body or the target is nonhuman, hidden or illegible;
+- whether Sagacious Wisdom (high-order wisdom and insight) is becoming a truth guarantee.
 
 ### Mind, emotion, control, illusion, memetics, manipulation or compulsion
 
