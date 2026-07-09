@@ -62,7 +62,7 @@
 | The original parties begin their tentative cross-table contact. | Mielle accepts Jester's food and remains near the conversation. She gives only surface answers and does not press Caleb or Nott. | Yes. | Jester still owns the opening; Caleb and Nott retain their boundary; Fjord and Beau retain their own caution. | Not applicable. |
 | Molly invites the tavern group and they choose to attend. | Mielle remains when Molly and Yasha arrive. Molly extends one public invitation to the room. Mielle hesitates only because she cannot pay. Jester offers to cover one entry. | Yes. | Molly still owns the invitation and the source group still makes its own choice. Jester's extra offer solves Mielle's immediate access without making the group decide for her. | Not applicable. |
 | The group arrives at the carnival and enters its performance space. | Mielle attends as Jester's separate guest. Jester covers her admission at the same entry point; Mielle follows the same weapons procedure as everyone else. | Yes. | The carnival remains a working venue with the same staff and rules. Mielle does not bypass payment, use hidden money, or become staff. | Not applicable. |
-| Two civilians transform, the source group stops both threats, and Crownsguard begin investigation. | Mielle is present in the audience. Her eventual response could materially change civilian safety, combat lanes and witness structure. | Certified by the Chapter 03 combat amendment below. | Mielle receives a truthful local containment lane, while source characters retain the opening attack, weapon distribution, decisive kills and official aftermath. | Not applicable unless the Chapter 03 mini delta identifies a new episode-level conflict. |
+| Two civilians transform, the source group stops both threats, and Crownsguard begin investigation. | Mielle is present in the audience. Her response materially changes the fight's local damage, witness structure and tactical board. | Certified by the Chapter 03 combat amendment below. | The first death still follows from timing and crowd geometry; Mielle then recalls the bokken, uses Observation and Armament Haki within limits, breaks one arm and one leg of each creature, receives no hit, and leaves Yasha, Beau and the others their source-owned actions. | Not applicable unless the Chapter 03 mini delta identifies a new episode-level conflict. |
 
 ### Mielle-caused changes
 
@@ -71,7 +71,7 @@
 | The source opening has no Mielle. | She enters the Nestled Nook after Rinaldo's payment to learn whether her few coins can buy food. Hunger makes the problem visible. | Jester offers food and keeps the exchange open long enough for a few surface facts, Mielle's dry humor, Mielle's restrained curiosity, and separate reactions from the other people present. | The payment, Jester's first contact with Nott, Caleb and Nott's boundaries, and the source knowledge flow. | `continuity/C2E1_STARTING_STATE.md`; character dossiers; setting files. |
 | Mielle has no source role in the invitation. | She remains in the room. Molly's public invitation reaches her with everyone else. | Mielle must decide whether to accept an ordinary social offer. She may ask no more than one practical question before deciding. | Molly's role as invitation owner and the source group's independent choice. | `canon/ADAPTATION_PREMISE.md`; `canon/characters/MOLLY.md`; `canon/characters/YASHA.md`. |
 | The source does not need Mielle's ticket. | Mielle admits she cannot pay. Jester offers to cover one entry because she wants Mielle there. | Mielle has lawful entry without receiving local wealth, a purse, a promise of support, or a group role. | The payment Rinaldo gave belongs to Fjord, Jester and Beau; Molly and Yasha still operate the carnival's entry. | `canon/characters/JESTER.md`; `canon/setting/EXANDRIA_BASELINE.md`; `canon/setting/LOCATIONS.md`. |
-| The source fight lacks Mielle. | Mielle attends the performance as an audience member, then enters a local containment lane after the first civilian has been killed. | Mielle visibly recalls her bokken, takes the two creatures' immediate attention and prevents further nearby civilian strikes while source characters regain weapons and enter their own lanes. | The first civilian dies and later becomes the second creature; Jester opens; Yasha distributes weapons; the source group remains decisive; both source kills and Crownsguard control remain. | `continuity/events/C2E1-C02_BEFORE_THE_GATES.md`; `canon/mielle_current_power_guide/02_current_inventory_02.md`, Soulbond; `canon/COMBAT_RULES.md`; character dossiers. |
+| The source fight lacks Mielle. | Mielle attends the performance as an audience member, then enters a local containment lane after the first civilian has been killed. She recalls the bokken, uses Observation-assisted evasions and Armament-reinforced counters, and receives no hits. | Mielle visibly recalls her bokken, becomes the apparent easy target, prevents further immediate nearby civilian strikes, breaks one arm and one leg of each creature, and creates openings while the source characters regain weapons and enter their own lanes. | The first civilian dies and later becomes the second creature; Jester opens; Yasha distributes weapons; the source group remains decisive; both source kills and Crownsguard control remain. | `continuity/events/C2E1-C02_BEFORE_THE_GATES.md`; `canon/mielle_current_power_guide/02_current_inventory_02.md`, Soulbond and Haki; `canon/mielle_current_power_guide/04_consolidated_architecture.md`; `canon/HOLMES_ENGINE.md`; `canon/COMBAT_RULES.md`; character dossiers. |
 
 ## Protected canon agency
 
@@ -97,8 +97,9 @@
 ### Information created by the Chapter 03 combat amendment
 
 - Direct witnesses may see Mielle's bokken leave Yasha's physical custody and appear in Mielle's hand without a visible ordinary handoff.
-- Jester, Fjord, Beau, Caleb, Nott, Molly and Yasha may see Mielle walk toward immediate danger and use restrained, unusually exact footwork and bokken distance control against two creatures.
-- Those observations support only concrete conclusions: Mielle can retrieve her own wooden sword in an extraordinary way, has exceptional close-range skill, and chose to confront danger. They do not reveal the name, source, limits, range or full implications of Soulbond; her origin; her complete power inventory; or her personal history.
+- Jester, Fjord, Beau, Caleb, Nott, Molly and Yasha may see Mielle walk toward immediate danger, evade without being hit, and use restrained but extraordinary footwork and bokken work against two creatures.
+- Direct witnesses may see black-reinforced bokken impacts and limbs breaking under Mielle's counters.
+- Those observations support only concrete conclusions: Mielle can retrieve her own wooden sword in an extraordinary way, has exceptional close-range skill, can strike far harder than her presentation suggests, and chose to confront danger. They do not reveal the name, source, limits, range or full implications of Soulbond or Haki; her origin; her complete power inventory; or her personal history.
 - Crownsguard and civilians may have fragmented or obstructed observations. No universal crowd consensus is authorized.
 
 ### Information delayed, withheld or still uncertain
@@ -120,10 +121,12 @@
 - Relevant Chapters 01 and 02 capability/equipment: Mielle's ordinary wooden bokken, Perfect Wardrobe backpack camouflage, Gale-Force Reading Glasses and Bag of Holding. None supplies food, money, ticket payment, special admission or a social shortcut.
 - Chapter 03 retrieval: Soulbond permits Mielle to recall the bokken voluntarily. No travel time is specified. Mielle recalls only the same physical wooden bokken that Yasha had in visible custody. It is not a duplicate, upgrade, projectile or new weapon.
 - The recall is direct and visible. Do not hide it behind the backpack, claim Yasha returned it, or treat it as a normal hand movement.
-- Mielle uses no named Haki expression, Spiral manifestation, Stand effect, Bag portal, magical barrier, mind effect or undefined defense in this amendment. Her combat lane uses ordinary physical movement, trained bokken work, Holmes-bounded reading and the explicit Soulbond recall.
-- Holmes and Black Bat do not predict the unknown transformation or identify the cause. Once the creatures attack, Mielle may read only gross committed movement: planted leg, shoulder rotation, body mass, target line, and collision risk. Their mutated anatomy remains partially unknown.
+- Chapter 03 evasion: Observation Haki may provide short combat prediction of immediate hostile intent, line and timing. It does not provide unlimited future sight, private thoughts, transformation cause, every possible branch or immunity to a line Mielle cannot physically leave.
+- Chapter 03 counterattacks: after the first ordinary knee test proves abnormal hardness, Armament Haki may reinforce counterstrikes through the bokken. It may visibly blacken the weapon or impact. It is not advanced emission, internal destruction, automatic invulnerability, a barrier, a cure, a mind effect, Conqueror's Haki or an answer to the transformation mechanism.
+- Mielle uses no Spiral manifestation, Stand effect, Bag portal, magical barrier, mind effect or undefined defense in this amendment.
+- Holmes, Observation and combat skill do not predict the unknown transformation or identify the cause. Once the creatures attack, Mielle may read only gross committed movement, immediate hostile line and collision risk. Their mutated anatomy remains partially unknown.
 - Mielle's first failure is not a mechanical nerf. The woman dies because the initial transformation has no readable hostile precursor, the creature's first two-strike lunge happens inward of Mielle's edge position, and panicked civilians occupy the route. Mielle cannot move through them without creating another collision and trampling line before the second strike lands.
-- The knee strike is a constrained positional interruption. It breaks a planted line and shifts balance for a moment; it does not establish knowledge of undead anatomy, permanent disabling damage, immunity bypass or a decisive victory.
+- The first knee strike is a constrained positional interruption and test. It breaks a planted line and reveals abnormal hardness; it does not establish knowledge of undead anatomy, a hidden weak point, permanent disablement or decisive victory.
 
 ## Chapter 03 combat amendment
 
@@ -137,15 +140,17 @@
 
 ### Tactical truth
 
-> The two creatures are most dangerous when panic gives them a fresh human line. Mielle cannot undo the first death; she can make herself the nearest readable target and hold a narrow sector until the people with weapons can choose their own answers.
+> Mielle cannot undo the first death. After it happens, she can become the nearest readable target, use skill and Observation to remain unhit, use Armament once ordinary force proves insufficient, damage the creatures' limbs, and keep the board open for the source characters to finish the fight.
 
 ### Mielle’s honest local objective
 
 1. Do not add a third collision line to the fleeing crowd while the first woman is still alive.
 2. After the woman dies, enter the inward lane and become the immediate target before either creature reaches another civilian.
-3. Hold both creatures in a limited front arc with distance, footwork and restrained bokken disruption.
-4. Yield decisive openings to the source group once Yasha has returned weapons.
-5. Do not pursue, kill, explain the power or turn the fight into a display.
+3. Use the first ordinary strike as a material test rather than a finishing move.
+4. Use Observation-assisted footwork to avoid being hit while keeping the creatures' attack lines readable.
+5. Use Armament-reinforced counters to break one arm and one leg of each creature through real openings.
+6. Leave decisive endings to the source group once Yasha has returned weapons.
+7. Do not pursue, kill, explain the power or turn the fight into a display.
 
 ### Causal sequence
 
@@ -154,11 +159,12 @@
 3. Mielle's surprise ends at the completed attack. She decides that the danger is real and that the immediate problem is the creature's access to moving civilians.
 4. Mielle leaves the outer edge with empty hands and walks toward the creature through the gap that opens after the first attack. She does not sprint through bodies or give instructions to the crowd.
 5. Mid-approach, the bokken appears directly in her hand. This is public, unexplained and limited to the same physical weapon Yasha had held.
-6. The first creature chooses Mielle as a closer, smaller target. It commits a direct grab or strike. Mielle shifts only enough for the line to miss and drives the bokken into the outside of the planted knee, making the creature recover balance rather than reach a civilian.
-7. The second creature rises later from the killed woman. Mielle does not claim to know why. When it enters the same sector, she uses footwork to keep both creatures in front of her and deny their route through the crowd.
-8. Jester, Yasha, Fjord, Caleb, Nott, Molly and Beau regain their own actionable lines. Mielle's containment creates time and angles; it does not settle targets or decide their actions.
-9. Yasha kills the first creature. Beau destroys the second. Mielle does not take either finishing action.
-10. The fight ends with physical evidence, frightened witnesses, a visible recall anomaly and Crownsguard authority intact.
+6. The first creature chooses Mielle as a closer, smaller target. It commits a direct grab or strike. Mielle avoids by Observation-assisted martial movement and drives the bokken into the outside of the planted knee without Armament. The result is disruption and hardness testing, not a break.
+7. From the next counter onward, Mielle uses Armament-reinforced bokken strikes. She breaks one arm and one leg of each creature across the fight. At least one major break happens after allies are acting.
+8. The second creature rises later from the killed woman. Mielle does not claim to know why. When it enters the same sector, she keeps both creatures in front of her and receives no hit.
+9. Jester, Yasha, Fjord, Caleb, Nott, Molly and Beau regain their own actionable lines. Mielle's containment and damage create time and angles; it does not settle targets or decide their actions.
+10. Yasha kills the first creature. Beau destroys the second. Mielle does not take either finishing action.
+11. The fight ends with exactly two named dead/destroyed transformed bodies, physical evidence, frightened witnesses, a visible recall anomaly and Crownsguard authority intact.
 
 ### Source outcome review for the combat
 
@@ -166,15 +172,15 @@
 |---|---|---|---|
 | First civilian is killed and later becomes the second creature. | Yes. | The unknown transformation and two-strike attack occur before Mielle has a clear physical lane. Her failure is bounded by geometry and time, not an invented loss of capability. | She sees the death, is briefly surprised, and changes objective afterward. |
 | Jester opens with direct magic and a duplicate. | Yes. | Mielle does not move into the conflict before Jester's first action. | She may use the new visual disruption as evidence that the situation is hostile. |
-| Yasha distributes the surrendered weapons. | Yes. | Mielle recalls only her own bokken. She does not solve the group’s disarmament or receive a handoff from Yasha. | Her containment buys Yasha time to return everyone else's weapons. |
-| Fjord, Caleb, Nott and Molly fight meaningfully. | Yes. | Mielle holds target attention and protects a local sector without removing their routes, spell lines, ranged cover or close-combat decisions. | She creates temporary space, not commands. |
-| Yasha kills the first creature. | Yes. | Mielle's knee interruption and footwork delay rather than defeat the first creature. | She may draw its attack, keep it off civilians and leave an opening Yasha chooses to use. |
-| Beau destroys the second creature. | Yes. | Mielle contains its route and does not finish it. | She can hold it in the same front arc long enough for Beau to own the final close-range action. |
+| Yasha distributes the surrendered weapons. | Yes. | Mielle recalls only her own bokken. She does not solve the group's disarmament or receive a handoff from Yasha. | Her containment buys Yasha time to return everyone else's weapons. |
+| Fjord, Caleb, Nott and Molly fight meaningfully. | Yes. | Mielle holds target attention and protects a local sector without removing their routes, spell lines, ranged cover or close-combat decisions. | She creates temporary space and can use openings they create, not commands. |
+| Yasha kills the first creature. | Yes. | Mielle may break limbs and impair it, but does not finish it. Yasha still chooses and executes the kill. | She may draw its attack, keep it off civilians, impair it and leave an opening Yasha chooses to use. |
+| Beau destroys the second creature. | Yes. | Mielle may break limbs and contain its route, but does not finish it. | She can hold it in the same front arc and impair it long enough for Beau to own the final close-range action. |
 | Crownsguard investigate and keep involved people in Trostenwald. | Yes. | Mielle's visible recall adds a witness question; it does not erase public deaths, evidence, panic or Imperial jurisdiction. | She is potentially treated as a witnessed combatant as well as a guest. |
 
 ### Agency lanes during the fight
 
-- **Mielle:** takes the local two-creature containment lane after the first death; recalls her own bokken; avoids attacks by minimal distance; strikes for balance and line denial; does not kill.
+- **Mielle:** takes the local two-creature containment lane after the first death; recalls her own bokken; avoids every hit through martial skill plus Observation; uses Armament-reinforced counters after the first test; breaks one arm and one leg of each creature; does not kill.
 - **Jester:** first attack, duplicate and later support remain hers. Her immediate alarm at Mielle walking toward danger is permitted but cannot become knowledge of Mielle's limits.
 - **Yasha:** returns weapons, decides when to enter with greatsword, kills the first creature and remains accountable as carnival security.
 - **Fjord:** selects a practical engagement route and his own melee or spell contribution after his weapon returns.
@@ -189,25 +195,27 @@
 - No preemptive prediction of the transformation, transmission mechanism, cause, controller or later outcome.
 - No power suppresses the transformation, heals the woman, stops the first death, erases the crowd bottleneck, teleports civilians, reads minds, or clears the tent without a defined source mechanic.
 - No invisible recall, duplicate bokken, remote weapon attack, automatic disarm, unshown enhancement, or undefined supernatural effect.
-- No claim that Mielle's ordinary combat skill makes mutated anatomy fully legible.
-- No Mielle kill, decisive disable or public monologue that removes Yasha's or Beau's finishing action.
+- No advanced Haki emission, internal destruction, Conqueror's Haki, Spiral Power, Stand, Bag portal, transformation cure, healing, mind effect, barrier, teleportation or automatic immunity.
+- No claim that Mielle's combat skill, Observation or Haki makes mutated anatomy fully legible.
+- No Mielle kill or public monologue that removes Yasha's or Beau's finishing action.
 - No group-wide command structure, party claim or relationship conclusion created by fighting in the same place.
 
 ### Witness and aftermath consequences
 
-- Direct observers may be startled by the bokken appearing in Mielle's hand and by her approach to the creatures. Their reactions should remain immediate, partial and character-specific.
+- Direct observers may be startled by the bokken appearing in Mielle's hand, her approach to the creatures, her no-hit movement, and black-reinforced counters. Their reactions should remain immediate, partial and character-specific.
 - Yasha knows only that the physical wooden sword left her custody and appeared with Mielle. She does not know the mechanism.
-- Jester, Fjord, Beau, Caleb, Nott and Molly can see exceptional close-range containment if line of sight permits. They cannot infer the scope of Mielle's inventory, history, power source or general combat ceiling.
+- Jester, Fjord, Beau, Caleb, Nott and Molly can see exceptional close-range containment and damage if line of sight permits. They cannot infer the scope of Mielle's inventory, history, power source or general combat ceiling.
 - Civilians may remember a red-cloaked girl with a wooden sword, but panic, blocked sightlines and crowd movement prevent a universal account.
 - Crownsguard have grounds to ask what Mielle did and where the weapon came from. The exact questioning belongs to Chapter 03 planning and approved aftermath prose.
+- Casualty count is closed for planning: old man/first creature and young woman/second creature are the only named dead/destroyed bodies created by this chapter's combat. No extra body appears without returning to planning.
 
 ### Approval-gated promotion candidates
 
 Only if approved Chapter 03 prose establishes them:
 
 - An event tile recording transformation witnesses, direct combat witnesses, bokken recall witnesses, creature deaths, injuries, Crownsguard control and custody limits.
-- Ledger entries distinguishing observed recall from unsupported explanations.
-- Mielle state changes for first witnessed civilian death, combat action, use of the bokken in public and immediate emotional remainder.
+- Ledger entries distinguishing observed recall and observed black-reinforced impacts from unsupported explanations.
+- Mielle state changes for first witnessed civilian death, combat action, no-hit result, Haki use in public without system explanation, use of the bokken in public and immediate emotional remainder.
 - Relationship changes only where approved behavior materially changes a present relationship. Fighting nearby does not create party membership or trust by itself.
 - Open threads for guard scrutiny, witness uncertainty, return/custody resolution of the bokken and transformation cause.
 
@@ -217,7 +225,7 @@ Only if approved Chapter 03 prose establishes them:
 - Jester and Mielle have limited same-evening proximity and completed payment, not an established friendship.
 - Molly's invitation is an offer, not recruitment. Jester's ticket is specific to the evening's entry, not ongoing financial support.
 - Mielle does not obtain a complete education in prices, law, routes or custom from breakfast or the carnival.
-- Public violence inside an Imperial town creates evidence, witnesses and Crownsguard authority. Mielle's visible recall adds evidence; it does not remove jurisdiction.
+- Public violence inside an Imperial town creates evidence, witnesses and Crownsguard authority. Mielle's visible recall and combat add evidence; they do not remove jurisdiction.
 
 ## Later-canon dependency check
 
@@ -240,6 +248,7 @@ Only if the final chapter text contains them:
 
 - [x] Every change applied to Chapters 01 and 02 has an identified source cause and Mielle cause.
 - [x] Every source outcome that Mielle can materially alter in Chapters 01 through 03 has an honest outcome review.
+- [x] Chapter 03 Haki/no-hit/limb-break decisions are recorded here before chapter-specific files apply them.
 - [x] No source outcome or required agency is preserved or replaced without a causal reason.
 - [x] No undefined ability is used as a bridge over a canon problem.
 - [x] Chapter-specific execution belongs in mini deltas.
