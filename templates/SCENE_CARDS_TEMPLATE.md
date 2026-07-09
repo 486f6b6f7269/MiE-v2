@@ -14,6 +14,7 @@
 - Closed facts: source outcomes, casualty/injury count, ownership of results, protected canon agency, power use/prohibition, witness limits, legal/faction control, object custody and relationship-status boundaries.
 - Free facts: sentence rhythm, metaphor, small gesture texture, exact non-outcome movement, minor sensory detail and exact wording where source ownership remains intact.
 - No body, wound, rescue, confession, authority claim, relationship upgrade, object custody change, power result or legal consequence may appear in prose unless listed here, in the mini delta, in the combat pre-check, or returned to planning.
+- In non-combat scenes, the same rule applies to social and material consequences: no new debt, promise, trust shift, suspicion, disclosure, object transfer, money exchange, route change, legal order, invitation, refusal or question may appear unless listed here or returned to planning.
 
 ---
 
@@ -85,6 +86,8 @@ Every canon cast member present in the scene must have a concrete action, silenc
 - Capabilities used:
 - Capabilities explicitly prohibited:
 
+For non-combat scenes, mark combat-only entries `not applicable`, but still list gear, money, documents, social permission, legal authority, language, memory, inference or other mechanics that can change the scene.
+
 ### Ownership of results
 
 List every result that happens in this scene. If no result of a type occurs, write `none`.
@@ -98,6 +101,7 @@ List every result that happens in this scene. If no result of a type occurs, wri
 | Object / weapon custody |  |  | closed / free |  |  |
 | Disclosure / knowledge change |  |  | closed / free |  |  |
 | Legal / faction action |  |  | closed / free |  |  |
+| Social / relationship / obligation result |  |  | closed / free |  |  |
 
 ### Witness, knowledge and boundary check
 
@@ -140,7 +144,7 @@ For each present character:
 
 ### Scene outcome / final state
 
-This field is mandatory. No body, wound, destroyed object, custody condition, lost item, unresolved legal order, relationship status, or consequence may appear in prose unless listed here or returned to planning first.
+This field is mandatory. No body, wound, destroyed object, custody condition, lost item, unresolved legal order, relationship status, or consequence may appear in prose unless listed here or returned to planning first. In non-combat scenes, this controls who knows what, who leaves with whom, who owes nothing, who accepted or refused help, what object/money/document changed hands, what question remains unasked, and what relationship did not change.
 
 - Dead / destroyed:
 - Injured:
@@ -150,6 +154,7 @@ This field is mandatory. No body, wound, destroyed object, custody condition, lo
 - Character positions:
 - Crowd / witness state:
 - Legal / faction control:
+- Social / relationship / obligation state:
 - Last image or concrete remainder:
 - Explicitly prohibited additions:
 
