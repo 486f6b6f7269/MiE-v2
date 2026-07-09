@@ -66,7 +66,7 @@ The original plan, mini delta, scene cards and first combat pre-check remain usa
 - She cannot gain another capability from implication. Any further power beyond Soulbond recall, Observation Haki and Armament Haki needs an explicit user decision and an exact mechanics check.
 - The fight cannot make the source group spectators or turn their entries into a rescue script imposed by Mielle.
 - Public recall and visible unusual combat remain witness facts, but do not reveal Mielle's origin, full power ceiling, inventory or system explanation.
-- Casualty count is closed by the active scene cards and combat pre-check: old man/first creature and young woman/second creature are the only named dead by chapter end. No extra body may appear in prose without returning to planning.
+- Casualty count is recorded in `work/c2e1/CANON_DELTA.md` and applied by the active scene cards and combat pre-check: old man/first creature and young woman/second creature are the only named dead by chapter end. No extra body may appear in prose without returning to planning.
 
 ## Workflow status
 

@@ -59,6 +59,26 @@
 - `canon/COMBAT_RULES.md` or `not applicable` with reason:
 - combat pre-check / translation card:
 
+## Planning-control receipt
+
+The chapter plan, mini delta, scene cards and combat pre-check, if applicable, must contain the standard planning controls. If a control is missing, return to the owning planning file before prose.
+
+For non-combat chapters, `combat pre-check` may be `not applicable` with one sentence of reason. The rest of the planning-control receipt still applies to material consequences: board, ownership, knowledge, object/money/custody state, authority, relationship non-results and final scene state.
+
+| Control | Owning file | Present? | Notes / exact section |
+|---|---|---|---|
+| Episode/chapter outcome authority in `CANON_DELTA.md` when source outcome, casualty, power permission, kill/finalization ownership, legal result or relationship-status implication changes | `work/c2eX/CANON_DELTA.md` | yes / no / not applicable |  |
+| Prose-scale board | chapter plan / scene cards / combat pre-check | yes / no / not applicable |  |
+| Scene final state with casualty, injury, custody and last-image controls | scene cards; combat pre-check if combat exists | yes / no / not applicable |  |
+| Non-combat material-consequence state: object, money, route, disclosure, suspicion, authority, social obligation and relationship non-result | chapter plan / mini delta / scene cards | yes / no / not applicable |  |
+| Ownership of deaths, decisive hits, rescues, finalizations, custody changes, disclosures and legal actions | chapter plan / mini delta / scene cards / combat pre-check | yes / no / not applicable |  |
+| Concrete encenável action for each present canon cast member | scene cards; combat pre-check if combat exists | yes / no / not applicable |  |
+| Character knowledge map: knows / suspects / must not know or volunteer | chapter plan / mini delta / scene cards / combat pre-check | yes / no / not applicable |  |
+| Closed vs free summary | chapter plan / mini delta / scene cards / combat pre-check | yes / no / not applicable |  |
+| Capabilities used and prohibited | mini delta / combat pre-check | yes / no / not applicable |  |
+| No-hit or injury rule with cause for misses / consequence for hits | combat pre-check | yes / no / not applicable |  |
+| Exact limit of what Mielle accomplishes and what remains for others | mini delta / combat pre-check | yes / no / not applicable |  |
+
 ## Decision-to-authority check
 
 Complete before prose. Include every chapter decision, material fact or visible reaction that could conflict with another source. Do not list decorative details.
@@ -70,11 +90,13 @@ Complete before prose. Include every chapter decision, material fact or visible 
 Rules:
 
 - Cite exact files and, where useful, headings or entry names.
-- A row with an unresolved conflict blocks drafting until the conflict returns to its proper owner: plan, mini delta, episode Canon Delta, permanent rule or source note.
+- A row with an unresolved conflict blocks drafting until the conflict returns to its proper owner: episode Canon Delta, chapter plan, mini delta, scene cards, combat pre-check, permanent rule or source note.
 - “No conflict noticed” is not a valid row. State the permitted application and the forbidden implication.
 - Add a row whenever Mielle uses, declines to use, visibly carries, loses physical possession of, is underestimated because of public presentation, or is materially affected by an item, power, inference, relationship condition or public rule.
 - Add a row whenever a canon character speaks, takes a source-owned action, reacts to Mielle, witnesses a power, or is expected to misread or correctly read Mielle.
 - Add a row whenever a fight uses a power, gear item, defense, evasion, no-hit result, injury, resistance, damage result, or deliberate non-use.
+- Add a row for every death, decisive wound, rescue, finalization, custody change, disclosure and legal/faction result.
+- In non-combat chapters, add rows for payments, invitations, refusals, accepted help, rejected help, object transfers, information withheld, suspicions, questions not asked, and explicit relationship non-results when those can affect later behavior.
 
 ## Prose and editing
 
@@ -100,6 +122,8 @@ Run after the factual scene sequence exists and before the draft is handed over.
 - [ ] Mielle-specific checks cover personality, voice, gear, drawbacks, constraints/geasa, knowledge and first-impression-underestimation where applicable.
 - [ ] Setting documents cover every material setting, law, language, faction or NPC condition.
 - [ ] Power, Holmes and combat documents cover every meaningful use, non-use, possession, inference, evasion, injury/no-hit result, damage, resistance or threat.
+- [ ] Standard planning controls are present or explicitly not applicable before drafting.
+- [ ] Non-combat material consequences are present or explicitly not applicable before drafting.
 - [ ] Decision-to-authority check has a passing row for every conflict-prone chapter fact.
 - [ ] Sequential draft verification passes are pending / complete:
 - [ ] No source is missing.
