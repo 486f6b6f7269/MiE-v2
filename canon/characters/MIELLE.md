@@ -1,5 +1,235 @@
 # Mielle Memento Mori
 
+## Scene invariants
+
+Re-anchor before writing any scene with Mielle. These lines do not replace the power files; they summarize boundaries prose must not break.
+
+- Body and presentation: Mielle is physically an eighteen-year-old girl, short, petite, tired, soft-looking and easy to underestimate. This impression is public presentation, not a supernatural effect.
+- Left eye: blind, always closed and stable. It is never a wink, emotional cue, active mystery, proof of origin, proof of competence, proof of intent or compensating power. Do not invent a cause.
+- Bokken word use: Mielle calls it a bokken. Other characters call it a wooden sword, practice sword or piece of wood unless the scene has a reason to repeat Mielle's exact word.
+- Bokken Soulbond: Mielle may recall the same physical item. This is never a duplicate, new weapon, automatic projectile, remote attack or special combat property. A public recall creates witnesses, not an explanation.
+- Backpack and Bag: Mielle uses the backpack to hide access. The Bag does not generate money, food, maps, shelter, tools or inaccessible items. If discretion matters, she reaches into the backpack first.
+- First impression: strangers who have not seen Mielle fight or use a decisive ability normally underestimate her because of her small body, closed eye, glasses, tired manner, clumsiness and wooden sword. After direct evidence, future reactions must carry that evidence.
+- Careful observers: a sharp person may notice contradictions, such as exit awareness, precise answers, deliberate weapon handling or clumsiness that vanishes under threat. That creates doubt, not full understanding.
+- Clumsiness: outside combat, Mielle is genuinely awkward and this should cause small practical costs when the scene gives a natural opening. It is not slapstick, infantilization or an effect of the closed eye.
+- Immediate danger: in combat or clear threat, her movement becomes exact, calm and economical. The contrast between routine movement and threat response is real, but other characters need repeated evidence to understand it.
+- Competence: skill and power do not erase fatigue, fear, pain, uncertainty, loneliness, depression, emotional cost or other characters' agency.
+- Violence: Mielle prefers diplomacy when it has a real chance. She avoids killing when a viable alternative exists; she kills when she judges it necessary to protect someone or end a threat that cannot safely remain. She does not think of deaths as a score.
+- Authority: Mielle does not seek authority over people, does not treat people as property, and must not become the scene's commander merely because she is capable.
+- Mind and emotion manipulation: Mielle does not casually use mind or emotion manipulation. Care, hope, deduction, presence or comfort must not become control.
+- Vulnerability: she does not punish honest mistakes or mock sincere vulnerability.
+- Origin and archives: inherited archives provide knowledge, images, doctrine, trauma and skill. They do not make Mielle claim she personally lived every archived war, do not give moral certainty, and do not give local Exandrian knowledge.
+- Local knowledge: at the story start, Mielle does not know she is in Exandria and does not know local politics, geography, history, religion, law, prices or customs unless she learns them in scene.
+- Languages: Mielle understands Common and Zemnian. She does not automatically understand Draconic, Elvish or any other language.
+- Revelation: Mielle does not explain her origin, seal, Soulbond, Haki, inventory, power ceiling, memory archives, previous death or internal mechanics without direct pressure and a scene reason.
+- Relationship: care, food, payment, shared danger, praise or proximity does not automatically create friendship, romance, debt, party membership, trust or obligation.
+- Humanity: Mielle wants to remain human and keep small human pleasures. Power must not replace hunger, tiredness, embarrassment, comfort, fear or desire for connection.
+- System names: do not name Haki, Soulbond, Holmes, Spiral, Bag mechanics, archives or other systems in story dialogue or narration unless an in-world term has been separately established. Show concrete consequence.
+- Observation Haki short form: immediate warning of hostile intent, line and timing. Never mind-reading, full future sight, hidden-cause explanation, every branch or immunity. Mielle still needs physical room to move.
+- Armament Haki short form: reinforcement of body or weapon and impact; it may darken the wood. Never advanced emission, internal destruction, barrier, healing, mind effect, consent shortcut or named system in prose.
+
+## Required pointers by scene type
+
+Use these pointers additively. They do not replace reading this dossier when Mielle appears.
+
+### Any scene with Mielle
+
+Read:
+
+- `canon/characters/MIELLE.md`
+- `continuity/character_state/MIELLE_CURRENT.md`
+- relevant recent event tiles
+- `continuity/KNOWLEDGE_LEDGER.md` when knowledge, suspicion or witness state matters
+
+Check:
+
+- what Mielle knows;
+- what Mielle does not know;
+- what she would hide;
+- what she would answer only under pressure;
+- whether clumsiness, hunger, fatigue, embarrassment or isolation has a natural opening.
+
+### First impression or a stranger looking at Mielle
+
+Read:
+
+- `canon/characters/MIELLE.md`, `## First-impression rule`
+- `continuity/KNOWLEDGE_LEDGER.md` to check whether the person has already seen decisive evidence
+- the last relevant event tile between that person and Mielle, if one exists
+
+Check:
+
+- whether this person has seen Mielle fight, recall the bokken, use Haki or perform another decisive action;
+- if not, default toward underestimation;
+- if yes, future reaction must carry that evidence;
+- a careful observer may have doubt, not full understanding.
+
+### Social scene, care, food, payment, invitation or closeness
+
+Read:
+
+- `canon/characters/MIELLE.md`, `## Speech and dialogue behavior`, `## Response logic`, `## Pressure behavior`
+- `canon/relationships/RELATIONSHIP_STATE.md`
+- relevant recent event tiles
+- the other character's dossier
+
+Check:
+
+- who offers;
+- who accepts;
+- who pays;
+- whether a payment ends there or creates a real obligation;
+- what does not become friendship, romance, party status, trust or debt;
+- whether Mielle becomes flustered, literal, evasive, quiet, dry or unexpectedly sincere.
+
+### Scene with a question about Mielle
+
+Read:
+
+- `canon/characters/MIELLE.md`, `## Story position`, `## Setting ties`, `## Equipment at C2E1`
+- `continuity/character_state/MIELLE_CURRENT.md`
+- `continuity/KNOWLEDGE_LEDGER.md`
+
+Check:
+
+- whether the question was directly asked;
+- whether Mielle has reason to answer;
+- whether she answers literally, partially, evasively or with dry humor;
+- whether the answer reveals origin or power only because the draft wants it;
+- who can understand the answer.
+
+### Combat, threat, pursuit, evasion, injury, no-hit or damage
+
+Read:
+
+- `canon/characters/MIELLE.md`, `## Pressure behavior`, `## First-impression rule`
+- `canon/POWER_GUIDE.md`
+- relevant modules in `canon/mielle_current_power_guide/`
+- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 1, 5, 6, 9 and 10
+- `canon/mielle_current_power_guide/02_current_inventory_02.md`, entries 11 and 12
+- `canon/mielle_current_power_guide/04_consolidated_architecture.md`
+- `canon/HOLMES_ENGINE.md`
+- `canon/COMBAT_RULES.md`
+- the scene's combat pre-check
+
+Check:
+
+- which power or skill supplies each effect;
+- which power is prohibited;
+- whether every evasion has a physical or perceptual cause;
+- whether Observation remains a short warning rather than mind-reading or full future sight;
+- whether Armament reinforces without becoming advanced emission, internal destruction, barrier or healing;
+- whether martial skill is being asked to provide alien anatomy, superhuman speed, perfect prediction or immunity;
+- whether Mielle creates an opening without stealing another character's finalization or agency.
+
+### Inference, investigation, lie, body reading or fast conclusion
+
+Read:
+
+- `canon/characters/MIELLE.md`
+- `canon/HOLMES_ENGINE.md`
+- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 6, 8, 9 and 10
+- `canon/mielle_current_power_guide/04_consolidated_architecture.md`, cognition sections
+- relevant event tiles and knowledge ledger entries
+
+Check:
+
+- which observable evidence supports the conclusion;
+- what remains unknown;
+- whether the conclusion is narrow and testable;
+- whether privacy and agency remain intact;
+- whether Black Bat applies to a readable human body or the target is nonhuman, hidden or illegible;
+- whether Sagacious Wisdom is becoming a truth guarantee.
+
+### Mind, emotion, control, illusion, memetics, manipulation or compulsion
+
+Read:
+
+- `canon/mielle_current_power_guide/04_consolidated_architecture.md`, mind, senses, agency and memetic threats
+- `canon/characters/MIELLE.md`, `## Response logic`
+- the exact source for the hostile effect
+
+Check:
+
+- whether there is a real hostile effect or only social interpretation;
+- whether the defense rejects, detects or analyzes;
+- whether the defense is being used to prove motive, lie or guilt without evidence;
+- whether consent remains possible;
+- whether Mielle is using mind or emotion manipulation as a shortcut.
+
+### Item, clothing, backpack, bokken, glasses, money, food or storage
+
+Read:
+
+- `canon/characters/MIELLE.md`, `## Physical description and habits`, `## Equipment at C2E1`
+- `canon/mielle_current_power_guide/01_current_inventory_01.md`, Bag of Holding
+- `canon/mielle_current_power_guide/02_current_inventory_02.md`, Soulbond, Perfect Wardrobe, Gale-Force Reading Glasses
+- `continuity/character_state/MIELLE_CURRENT.md`
+
+Check:
+
+- whether the item is accessible;
+- whether the item is the same item or a new item;
+- who saw it before;
+- who has physical custody;
+- whether the Bag is generating something it cannot generate;
+- whether clothing is being treated as armor, disguise-truth or protection without source;
+- whether the glasses are reading visible intelligible text rather than thoughts, truth, unknown script or closed documents.
+
+### Memory, inherited archives, trauma or origin
+
+Read:
+
+- `canon/characters/MIELLE.md`, `## Story position`
+- `continuity/character_state/MIELLE_CURRENT.md`
+- relevant cognition, memory or protection modules if the scene uses archive access, recall or mental protection
+
+Check:
+
+- whether the scene uses a recovered fragment or inherited archive;
+- whether the knowledge is doctrine, image, skill, trauma or personal experience;
+- whether Mielle feels emotional impact without claiming she personally lived every archived war;
+- whether the archive is being used to create local Exandrian knowledge;
+- whether the archive is being used to justify command over the group.
+
+### Law, town, money, language, religion, politics or local custom
+
+Read:
+
+- `canon/characters/MIELLE.md`, `## Setting ties`
+- relevant files in `canon/setting/`
+- `continuity/C2E1_STARTING_STATE.md` if the scene is in early C2E1
+- `continuity/KNOWLEDGE_LEDGER.md`
+
+Check:
+
+- whether Mielle learned this in scene;
+- whether someone explained it;
+- whether she is only inferring from behavior;
+- whether the language is Common or Zemnian;
+- whether intelligence is being used as free local knowledge.
+
+### Aftermath, memory promotion or next-chapter setup
+
+Read:
+
+- last approved chapter
+- final audit
+- chapter mini delta
+- `continuity/EVENT_INDEX.md`
+- relevant event tiles
+- `continuity/KNOWLEDGE_LEDGER.md`
+- `continuity/character_state/MIELLE_CURRENT.md`
+- `canon/relationships/RELATIONSHIP_STATE.md`
+
+Check:
+
+- only approved text promotes fact;
+- plan, draft and audit do not become memory;
+- each witness knows only what they saw or heard;
+- relationship does not change by implication;
+- objects, injuries, deaths, promises, questions and physical custody match the approved end state.
+
 ## Canon baseline
 
 Mielle Memento Mori is physically eighteen years old. She is short and petite, approximately 153 cm, with fluffy black hair in twin braids and round glasses.
