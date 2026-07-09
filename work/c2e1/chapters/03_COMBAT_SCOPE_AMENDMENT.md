@@ -4,6 +4,8 @@
 
 This records the user's correction and subsequent combat decisions after the first Chapter 03 planning pass.
 
+It applies the Chapter 03 combat decision now recorded in `work/c2e1/CANON_DELTA.md`; it does not act as a higher-authority substitute for that file.
+
 It supersedes any conflicting Chapter 03 work language that:
 
 - treats Mielle's opening containment as the whole fight;
@@ -13,7 +15,7 @@ It supersedes any conflicting Chapter 03 work language that:
 - leaves Mielle's injury state undecided;
 - lets the writer invent later exchanges, exact injuries, kills, casualty count or hierarchy in prose.
 
-The original plan, mini delta, scene cards and first combat pre-check remain usable for source order, crowd geometry, witness limits, source-character agency and legal aftermath. Their combat details are overridden wherever this amendment, `03_NO_HIT_RESOLUTION.md`, `03_COMBAT_PRECHECK_v2.md`, or the revised planning files differ.
+The original plan, mini delta, scene cards and first combat pre-check remain usable for source order, crowd geometry, witness limits, source-character agency and legal aftermath. Their combat details are overridden wherever `work/c2e1/CANON_DELTA.md`, this amendment, `03_NO_HIT_RESOLUTION.md`, `03_COMBAT_PRECHECK_v2.md`, or the revised planning files differ.
 
 ## Fixed opening
 
@@ -68,6 +70,7 @@ The original plan, mini delta, scene cards and first combat pre-check remain usa
 
 ## Workflow status
 
+- [x] Chapter 03 Haki/no-hit/limb-break decision recorded in `work/c2e1/CANON_DELTA.md`.
 - [x] Opening combat scope set.
 - [x] Middle combat role and allowed capability set.
 - [x] No-hit result set.
