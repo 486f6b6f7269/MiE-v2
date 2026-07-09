@@ -6,6 +6,16 @@ This is the active Chapter 03 combat pre-check. It implements `work/c2e1/CANON_D
 
 It supersedes conflicting combat detail in older Chapter 03 planning files. It does not approve the chapter, promote continuity, or write prose.
 
+## Exact mechanics read receipt
+
+- `canon/POWER_GUIDE.md`
+- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 1, 5, 6, 9 and 10.
+- `canon/mielle_current_power_guide/02_current_inventory_02.md`, entries 11 and 12.
+- `canon/mielle_current_power_guide/04_consolidated_architecture.md`, mind-defense, cognition and Soulbond boundaries.
+- `canon/HOLMES_ENGINE.md`
+- `canon/COMBAT_RULES.md`
+- `work/c2e1/CANON_DELTA.md`, Chapter 03 combat amendment.
+
 ## Source situation
 
 The carnival performance becomes a civilian emergency. An old man transforms inward of Mielle's outer front-left seat, kills a nearby young woman after Jester's first magical action, and the woman later becomes the second creature. The exit bottlenecks. The source group is initially disarmed because Yasha holds the surrendered weapons. Crownsguard cannot reach the active danger through the crowd.
