@@ -187,7 +187,7 @@ The crowd is not background. It blocks Mielle's path to the first victim, slows 
 ## Power and threat review
 
 - Meaningful capability, item, inference or defense: direct Soulbond recall of the same bokken; martial skill; Observation Haki for short combat prediction; Armament Haki for reinforced counters after abnormal hardness is established.
-- Relevant source mechanic or setting constraint: Soulbond recall has no stated travel time but is visible; Haki does not grant advanced emission, internal destruction, mind-reading, future sight or automatic victory; cognition and Soulbond boundaries remain governed by `canon/mielle_current_power_guide/04_consolidated_architecture.md`; the public tent, civilian bottleneck and Crownsguard jurisdiction restrict action and aftermath.
+- Relevant source mechanic or setting constraint: Chapter 03 Haki/no-hit/limb-break decisions are registered in `work/c2e1/CANON_DELTA.md`; Soulbond recall has no stated travel time but is visible; Haki does not grant advanced emission, internal destruction, mind-reading, future sight or automatic victory; cognition and Soulbond boundaries remain governed by `canon/mielle_current_power_guide/04_consolidated_architecture.md`; the public tent, civilian bottleneck and Crownsguard jurisdiction restrict action and aftermath.
 - Toya's song: Mielle allows the public performance to affect her emotionally. No defense is activated because no hostile condition is known. This does not grant knowledge of the song's source or intent.
 - Combat pre-check required: complete at `work/c2e1/chapters/03_COMBAT_PRECHECK_v2.md`.
 
@@ -219,4 +219,4 @@ Closed for planning:
 - [x] The next step is `work/c2e1/chapters/03_CHAPTER_MINI_DELTA.md`.
 - [x] The plan identifies Mielle's intervention, Soulbond recall, Observation, Armament, no-hit result, combat lane, setting constraints, witness effects and approval-gated consequences.
 - [x] The plan identifies every source-required agency owner and decision point.
-- [x] The plan does not create a new episode-level Canon Delta change.
+- [x] The plan does not create a new episode-level Canon Delta change; it applies the Chapter 03 change registered in `work/c2e1/CANON_DELTA.md`.
