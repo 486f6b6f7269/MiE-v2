@@ -81,8 +81,8 @@
 - **Source:** Mental and Psychic Powers (Franchise) — `BlackBat`.
 - **Core effect:** Cassandra Cain-style fluency with readable body language. It supports combat, stealth, acrobatics and nonverbal communication.
 - **Expression:** requires an observable body and meaningful movement.
-- **Scope:** no numerical range; it works through readable physical behavior.
-- **Source limits:** The source states that it works only on humans, that truly unpredictable actions can become gibberish, and that its death-perception effect arises if Mielle kills someone. It does not supply anatomy knowledge for a new species, precise prediction in poor visibility, moral knowledge or perfect counters against alien or nonhuman movement.
+- **Scope:** no numerical range; it works through readable physical behavior and humanoid body-plan movement, not human species membership.
+- **Source limits:** In MiE-v2, the source's “humans” wording is interpreted as creatures with a humanoid body plan and readable humanoid movement grammar: humans, elves, orcs, goblins and similar two-armed, two-legged, torso-and-joint architectures. Truly unpredictable actions can become gibberish, and the death-perception effect arises if Mielle kills someone. Black Bat does not read creatures without a humanoid body plan, does not supply anatomy knowledge for non-humanoid species or unknown body architectures, does not provide precise prediction in poor visibility, and does not grant moral knowledge, superhuman speed, perfect prediction or immunity.
 - **Prerequisites and links:** Greatest Martial Artist, Multilingual, Third Eye and Erratic Predictions are listed children; only Greatest Martial Artist belongs to this current package. Relevant links include Thousand Styles Master, Ashina Arts, Greatest Martial Artist, Observation Haki and Holmes.
 
 ## 10. Greatest Martial Artist
@@ -91,5 +91,5 @@
 - **Core effect:** Adds Cassandra Cain’s accumulated martial experience and every martial art that existed on DC Earth during her life.
 - **Expression:** trained and embodied skill.
 - **Scope:** personal combat.
-- **Source limits:** It inherits Black Bat’s human-body-language limitation. It does not grant physical stat enhancement, alien anatomy knowledge or free use of every external martial system’s supernatural energy.
+- **Source limits:** It inherits Black Bat’s humanoid-body-plan movement limitation. It does not grant physical stat enhancement, non-humanoid anatomy knowledge or free use of every external martial system’s supernatural energy.
 - **Prerequisites and links:** requires Thousand Styles Master in the source record. Relevant links include Thousand Styles Master, Black Bat, Ashina Arts, Haki, Sendo and Sword Saint.
