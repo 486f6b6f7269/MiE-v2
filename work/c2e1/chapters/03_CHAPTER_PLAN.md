@@ -62,7 +62,9 @@
 ### Power, Holmes and combat
 
 - `canon/POWER_GUIDE.md`
+- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 1, 5, 6, 9 and 10.
 - `canon/mielle_current_power_guide/02_current_inventory_02.md`, entries 11 and 12.
+- `canon/mielle_current_power_guide/04_consolidated_architecture.md`, mind-defense, cognition and Soulbond boundaries.
 - `canon/HOLMES_ENGINE.md`
 - `canon/COMBAT_RULES.md`
 - `work/c2e1/chapters/03_COMBAT_SCOPE_AMENDMENT.md`
@@ -185,7 +187,7 @@ The crowd is not background. It blocks Mielle's path to the first victim, slows 
 ## Power and threat review
 
 - Meaningful capability, item, inference or defense: direct Soulbond recall of the same bokken; martial skill; Observation Haki for short combat prediction; Armament Haki for reinforced counters after abnormal hardness is established.
-- Relevant source mechanic or setting constraint: Soulbond recall has no stated travel time but is visible; Haki does not grant advanced emission, internal destruction, mind-reading, future sight or automatic victory; the public tent, civilian bottleneck and Crownsguard jurisdiction restrict action and aftermath.
+- Relevant source mechanic or setting constraint: Soulbond recall has no stated travel time but is visible; Haki does not grant advanced emission, internal destruction, mind-reading, future sight or automatic victory; cognition and Soulbond boundaries remain governed by `canon/mielle_current_power_guide/04_consolidated_architecture.md`; the public tent, civilian bottleneck and Crownsguard jurisdiction restrict action and aftermath.
 - Toya's song: Mielle allows the public performance to affect her emotionally. No defense is activated because no hostile condition is known. This does not grant knowledge of the song's source or intent.
 - Combat pre-check required: complete at `work/c2e1/chapters/03_COMBAT_PRECHECK_v2.md`.
 
