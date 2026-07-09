@@ -62,7 +62,9 @@
 ### Power, Holmes and combat
 
 - `canon/POWER_GUIDE.md`
+- `canon/mielle_current_power_guide/01_current_inventory_01.md`, entries 1, 5, 6, 9 and 10.
 - `canon/mielle_current_power_guide/02_current_inventory_02.md`, entries 11 and 12.
+- `canon/mielle_current_power_guide/04_consolidated_architecture.md`, mind-defense, cognition and Soulbond boundaries.
 - `canon/HOLMES_ENGINE.md`
 - `canon/COMBAT_RULES.md`
 - `work/c2e1/chapters/03_COMBAT_SCOPE_AMENDMENT.md`
@@ -158,6 +160,7 @@
 - Soulbond gives recall of the same nonliving bokken at will; no recall travel time is supplied. The direct return is visible.
 - Observation Haki gives short combat prediction of immediate hostile intent, line and timing. It is not future sight, mind-reading, explanation or immunity.
 - Armament Haki reinforces counterstrikes and can visibly blacken the weapon. It is not advanced emission, internal destruction or a guaranteed bypass of every defense.
+- The cognition and Soulbond boundaries from `canon/mielle_current_power_guide/04_consolidated_architecture.md` still apply; Haki and Holmes-style inference cannot erase uncertainty, force knowledge, or turn a recall witness into a full mechanics explanation.
 - The creatures have unknown transformed anatomy. Mielle may read gross motion and committed weight, not exact weak points or an internal mechanism.
 - The tent has uneven grass, dirt and stone, a central pole, a packed crowd, a restricted entrance and a performers' flap that belongs to carnival evacuation rather than civilian escape.
 - The song is not treated as hostile before any hostile fact appears. Mielle does not turn on a mental defense against a performance she has chosen to hear.
@@ -181,6 +184,6 @@
 ## Escalation check
 
 - [x] This document only applies the episode Canon Delta and later user decisions recorded in Chapter 03 combat controls.
-- [x] The prior no-Haki restriction is superseded by later explicit user decision.
-- [x] No new episode-level change was introduced.
+- [x] The Chapter 03 Haki/no-hit/limb-break decisions are recorded in `work/c2e1/CANON_DELTA.md` before this mini delta applies them.
+- [x] No new episode-level change was introduced by this file.
 - [x] Any needed larger change must return to `CANON_DELTA.md`.
