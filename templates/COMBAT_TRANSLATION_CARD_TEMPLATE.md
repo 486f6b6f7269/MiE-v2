@@ -9,6 +9,12 @@
 - Scene cards:
 - Episode Canon Delta:
 
+## Applicability
+
+Use this template when combat, pursuit, physical threat, hostile magic, meaningful gear use under threat, consequential power use, injury, evasion, no-hit result, damage result or tactical prediction occurs.
+
+If none of those occurs, write `combat pre-check: not applicable` in the chapter loadout and give one sentence of reason. Do not fill this template just to make a quiet scene look tactical. The chapter plan, mini delta and scene cards still must close material consequences, ownership, knowledge, object custody, authority and relationship boundaries.
+
 ## Authority placement
 
 - This combat card applies source, `CANON_DELTA.md`, chapter plan, mini delta and scene cards to the combat sequence.
