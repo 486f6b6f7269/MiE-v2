@@ -16,6 +16,21 @@
 - No body, wound, rescue, confession, authority claim, relationship upgrade, object custody change, power result or legal consequence may appear in prose unless listed here, in the mini delta, in the combat pre-check, or returned to planning.
 - In non-combat scenes, the same rule applies to social and material consequences: no new debt, promise, trust shift, suspicion, disclosure, object transfer, money exchange, route change, legal order, invitation, refusal or question may appear unless listed here or returned to planning.
 
+## Mielle invariant use
+
+When Mielle appears, copy the scene-relevant invariant from `canon/characters/MIELLE.md` into the field that controls prose. Do not leave the rule only as “read MIELLE.md.”
+
+- First impression / underestimation goes in `Prose-scale board`, `Character knowledge map`, and `Closed vs free`.
+- Clumsiness / pressure behavior goes in `Immediate pressure`, `Mielle's protected agency`, and `Scene outcome / final state` if it causes a consequence.
+- Bokken / Soulbond / item custody goes in `Relevant mechanics`, `Ownership of results`, and `Scene outcome / final state`.
+- Bag / backpack / clothing / glasses goes in `Relevant mechanics`, `Ownership of results`, and `Explicitly prohibited additions`.
+- Combat / threat / injury / no-hit goes in the combat pre-check and is summarized here only where it affects this scene's board, knowledge or final state.
+- Inference / Holmes / reading behavior goes in `Holmes scene map` and `Character knowledge map`.
+- Local knowledge / language / law / money goes in `Setting and physical conditions`, `Character knowledge map`, and `Closed vs free`.
+- Origin / archives / memory goes in `Mielle's protected agency`, `Character knowledge map`, and `Information that must remain unknown`.
+- Social care / payment / invitation / relationship goes in `Ownership of results`, `Social / relationship / obligation state`, and `Closed vs free`.
+- System names / power explanations go in `Capabilities explicitly prohibited`, `Character knowledge map`, and `Explicitly prohibited additions`.
+
 ---
 
 ## Scene title
