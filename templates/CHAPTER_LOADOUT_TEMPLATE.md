@@ -43,6 +43,23 @@
 - relevant character-state files:
 - `canon/relationships/RELATIONSHIP_STATE.md` or `not applicable` with reason:
 
+## Mielle invariant transfer
+
+Do not write only “read `MIELLE.md`.” Copy the scene-relevant invariant into the planning field that will guide prose.
+
+| Scene need | Mielle invariant or pointer copied here | Where it must appear in chapter artifacts |
+|---|---|---|
+| First impression / underestimation |  | scene card board; character knowledge map; closed vs free |
+| Clumsiness / pressure behavior |  | scene card immediate pressure; outcome/final state if it causes a consequence |
+| Bokken / Soulbond / item custody |  | ownership of results; object custody; capabilities used/prohibited |
+| Bag / backpack / clothing / glasses |  | relevant mechanics; ownership; end state |
+| Combat / threat / injury / no-hit |  | combat pre-check; capabilities used/prohibited; no-hit rule |
+| Inference / Holmes / reading behavior |  | Holmes scene map; knowledge map; decision-to-authority row |
+| Local knowledge / language / law / money |  | knowledge map; setting/faction; closed vs free |
+| Origin / archives / memory |  | knowledge map; Mielle protected agency; prohibited disclosure |
+| Social care / payment / invitation / relationship |  | ownership; relationship non-result; end state |
+| System names / power explanation |  | capabilities prohibited; knowledge map; prose/editing guard |
+
 ## Setting and faction
 
 - `canon/setting/EXANDRIA_BASELINE.md` or `not applicable` with reason:
@@ -120,6 +137,7 @@ Run after the factual scene sequence exists and before the draft is handed over.
 - [ ] Each conditional heading has exact paths or a justified `not applicable` entry.
 - [ ] Character voice, relationship, event tiles and knowledge documents cover every decision-relevant speaker.
 - [ ] Mielle-specific checks cover personality, voice, gear, drawbacks, constraints/geasa, knowledge and first-impression-underestimation where applicable.
+- [ ] Scene-relevant Mielle invariants were copied into the point-of-use fields that guide prose.
 - [ ] Setting documents cover every material setting, law, language, faction or NPC condition.
 - [ ] Power, Holmes and combat documents cover every meaningful use, non-use, possession, inference, evasion, injury/no-hit result, damage, resistance or threat.
 - [ ] Standard planning controls are present or explicitly not applicable before drafting.
