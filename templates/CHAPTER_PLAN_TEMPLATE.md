@@ -17,6 +17,17 @@ Use this section before filling chapter decisions.
 - Scene execution belongs later in `XX_CHAPTER_MINI_DELTA.md`, `XX_SCENE_CARDS.md`, and, when threat/combat exists, `XX_COMBAT_PRECHECK.md` or a combat translation card.
 - If a planned fact needs higher authority, stop and return that fact to `CANON_DELTA.md` rather than smoothing it over here.
 
+## Non-combat use
+
+This template is not only for combat chapters. If the chapter has no fight, mark combat pre-check as `not applicable` with one sentence of reason. The standard planning controls still apply to social scenes, travel, investigation, aftermath, money, objects, authority, secrets, invitations, refusal, custody, legal pressure, relationship boundaries and knowledge flow.
+
+For non-combat chapters, translate combat-shaped fields into material-consequence fields:
+
+- `death / decisive hit / rescue / finalization` becomes any result-bearing action: payment, invitation, refusal, disclosure, discovery, custody change, legal order, object transfer, route change, social commitment, suspicion or opened thread.
+- `injury count` becomes any physical, emotional, legal, social or object-state consequence the prose must not invent.
+- `ownership` still means the person who causes the result on page.
+- `closed vs free` still separates outcome, agency and knowledge from phrasing, rhythm and minor staging.
+
 ## Exact planning load
 
 ### Continuity
@@ -82,7 +93,7 @@ Write this in prose-usable terms, not a tabletop grid.
 
 ## Ownership of results
 
-List every death, decisive wound, disabling hit, rescue, finalization, spell result, possession transfer, social commitment, disclosure and legal action the chapter requires.
+List every death, decisive wound, disabling hit, rescue, finalization, spell result, possession transfer, social commitment, disclosure and legal action the chapter requires. In non-combat chapters, list payments, invitations, refusals, discoveries, object handling, suspicions, questions asked or not asked, authority moves and relationship non-results here.
 
 | Result | Owner | Authority source | Closed / free | What Mielle may do | What Mielle must not replace or imply |
 |---|---|---|---|---|---|
@@ -133,7 +144,7 @@ Use this for every person whose knowledge, suspicion, silence or wrong assumptio
 
 ## End state
 
-This field is mandatory. No body, wound, destroyed object, custody condition, lost item, unresolved legal order, relationship status, or consequence may appear in prose unless it is listed here or returned to planning first.
+This field is mandatory. No body, wound, destroyed object, custody condition, lost item, unresolved legal order, relationship status, or consequence may appear in prose unless it is listed here or returned to planning first. In non-combat chapters, this still controls who knows what, who left, who stayed, what object/money changed hands, what question was opened, what relationship status did not change, and what authority condition remains.
 
 - Dead / destroyed:
 - Injured:
@@ -175,5 +186,6 @@ Only if approved chapter text establishes them:
 - [ ] The plan identifies each source-required agency owner and decision point.
 - [ ] The plan identifies result ownership for every death, decisive hit, rescue, finalization, possession change, disclosure and legal action.
 - [ ] The plan defines the end state, including casualty/injury count and last concrete remainder.
+- [ ] For non-combat chapters, the plan defines material consequences, knowledge changes, object/money/custody state, relationship non-results and authority conditions instead of combat outcomes.
 - [ ] The plan marks closed vs free elements.
 - [ ] The plan does not create a new episode-level Canon Delta change.
