@@ -15,6 +15,10 @@
 - This file may close chapter execution details: allowed/prohibited local actions, scene constraints, witness limits, ownership application, and approval-gated promotion candidates.
 - If this file discovers a required outcome not authorized by source, continuity or `CANON_DELTA.md`, return that decision to `CANON_DELTA.md` before continuing.
 
+## Non-combat use
+
+If the chapter has no combat, keep this file. Mark combat-only fields as `not applicable` with a short reason, but still close local consequences: conversation ownership, questions asked or withheld, object and money handling, route changes, legal pressure, social boundaries, relationship non-results, discoveries, suspicions and knowledge flow.
+
 ## Exact files read
 
 ### Source and adaptation
@@ -43,7 +47,7 @@
 
 ## Ownership of results
 
-List every result the chapter must protect or assign. Include deaths, decisive wounds, finalizations, rescues, object custody, public disclosures, legal orders and major witness facts.
+List every result the chapter must protect or assign. Include deaths, decisive wounds, finalizations, rescues, object custody, public disclosures, legal orders and major witness facts. In non-combat chapters, include invitations, refusals, payments, accepted or rejected help, questions, silences, discoveries, suspicions, relationship non-results and authority movement.
 
 | Result | Owner | Authority source | Closed / free | What Mielle may do | What Mielle must not do or imply |
 |---|---|---|---|---|---|
@@ -101,7 +105,7 @@ Use prose-scale physical terms. Do not write a tabletop grid.
 
 ## Closed casualty / injury / custody count for planning
 
-This count controls drafting unless a higher-authority file changes it. Do not let prose create additional bodies, wounds, missing objects or legal conditions.
+This count controls drafting unless a higher-authority file changes it. Do not let prose create additional bodies, wounds, missing objects or legal conditions. In non-combat chapters, use this section for object custody, money, promises, social obligations, authority restrictions, emotional residue and knowledge-state consequences.
 
 - Dead / destroyed by chapter end:
 - Injured:
@@ -138,4 +142,5 @@ This count controls drafting unless a higher-authority file changes it. Do not l
 - [ ] Any needed larger change has been returned to `CANON_DELTA.md`.
 - [ ] Ownership of every death, decisive hit, rescue, finalization, custody change and disclosure is explicit.
 - [ ] Casualty, injury and custody counts are explicit and block unplanned additions.
+- [ ] Non-combat material consequences are explicit when no fight exists.
 - [ ] Closed vs free elements are marked.
