@@ -2,7 +2,7 @@
 
 ## Project status
 
-C2E1 Chapters 01 and 02 are approved and promoted. The story is inside the carnival tent, after admission and before the first performance begins.
+C2E1 Chapters 01, 02 and 03 are approved and promoted. The story is inside the carnival tent in Trostenwald, immediately after the transformation attack and Crownsguard lockdown.
 
 ## Read order
 
@@ -28,7 +28,10 @@ The Critical Role transcript is the primary source for original canon events. Th
 - Chapter 02 prose: `chapters/approved/02_Before_the_gates.md`
 - Chapter 02 record: `chapters/approved/02_Before_the_gates_APPROVED_RECORD.md`
 - Chapter 02 witness event: `continuity/events/C2E1-C02_BEFORE_THE_GATES.md`
+- Chapter 03 prose: `chapters/approved/03_The_curious_show.md`
+- Chapter 03 record: `chapters/approved/03_The_curious_show_APPROVED_RECORD.md`
+- Chapter 03 witness event: `continuity/events/C2E1-C03_THE_CURIOUS_SHOW.md`
 
 ## Current task
 
-Prepare C2E1 Chapter 03, `The curious show`, through the workflow step the user requests. Do not draft Chapter 03 before its combat-specific Canon Delta amendment, plan, mini delta, scene cards, combat pre-check, loadout and pre-draft guard are complete.
+Prepare the next requested C2E1 step from the post-Chapter-03 state. Do not draft the next chapter before its required source slice, Canon Delta check, chapter plan, mini delta, scene cards, loadout and any required combat or threat pre-check are complete.
