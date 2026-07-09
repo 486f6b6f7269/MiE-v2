@@ -2,7 +2,7 @@
 
 ## Status
 
-This is the active Chapter 03 combat pre-check. It implements `03_COMBAT_SCOPE_AMENDMENT.md`, `03_NO_HIT_RESOLUTION.md`, and the later user decision that Mielle's evasion is martial skill plus Observation Haki.
+This is the active Chapter 03 combat pre-check. It implements `work/c2e1/CANON_DELTA.md`, `03_COMBAT_SCOPE_AMENDMENT.md`, `03_NO_HIT_RESOLUTION.md`, and the later user decision that Mielle's evasion is martial skill plus Observation Haki.
 
 It supersedes conflicting combat detail in older Chapter 03 planning files. It does not approve the chapter, promote continuity, or write prose.
 
