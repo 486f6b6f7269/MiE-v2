@@ -127,7 +127,9 @@ A character need not speak in every scene. But a person who owns a source beat m
 
 Do not move a source character's job into Mielle's narration because she can observe it well.
 
-## Voice passes for the C2E1 cast
+## Voice passes for the main cast
+
+Canon quote markers in this section are calibration markers, not a phrase bank. Do not copy cadence, joke format, or exact wording into MiE unless source adaptation explicitly calls for that moment. Use them to calibrate impulse, timing, degree of polish, social filter, pressure response and the kind of mistake each character naturally makes.
 
 ### Jester
 
@@ -144,7 +146,7 @@ Use this test for protective Jester lines:
 - Is there warmth or curiosity in the line, not pity?
 - Could the sentence create a small complication because she said too much, guessed too publicly, or trusted the cover too quickly?
 
-Canon quote markers, not a phrase bank:
+Canon quote markers:
 
 > “It's because you smell really bad, and it's wafting over this direction.”
 >
@@ -154,7 +156,7 @@ Canon quote markers, not a phrase bank:
 >
 > “You pooping?”
 
-These quotes point to texture: blunt observation, over-fast inclusion, transparent mischief, bodily directness, and social timing that arrives before the safe version. Do not reuse the quotes themselves in MiE prose unless source adaptation explicitly calls for that moment.
+These quotes point to texture: blunt observation, over-fast inclusion, transparent mischief, bodily directness, and social timing that arrives before the safe version.
 
 Bad direction:
 
@@ -168,9 +170,19 @@ Useful test: could her line begin with what she has just noticed, rather than a 
 
 ### Fjord
 
-Fjord waits long enough to see the practical problem, then narrows it with a short question, a route, a caution or an answer that leaves room to retreat. His jokes usually answer someone else's excess.
+Fjord waits long enough to see the practical problem, then narrows it with a short question, a route, a caution or an answer that leaves space to retreat. His jokes usually answer someone else's excess.
 
 Do not make him a constant leader, a smooth interrogator or a man who explains the social meaning of the situation. Let him ask what matters now: cost, direction, timing, risk, capacity, exit, or whether a plan can work.
+
+Canon quote markers:
+
+> “Eldritch Blast!!”
+>
+> “Was he using magic?”
+>
+> “You're being mighty fucking friendly.”
+
+These quotes point to texture: a direct combat call, a practical check after a performance, and suspicion when generosity happens too fast. Fjord's lines should often narrow risk rather than decorate it.
 
 ### Beau
 
@@ -178,11 +190,31 @@ Beau uses the rude version of a useful question. She may test, needle, dismiss, 
 
 Her lines should have friction without becoming a parade of insults. She is not a generic tough person or a finished detective. Let her be curious in ways she refuses to name.
 
+Canon quote markers:
+
+> “Pop pop!”
+>
+> “Would you like a coffee?”
+>
+> “Maybe they were looking at me.”
+
+These quotes point to texture: blunt action, awkwardly direct hospitality, and self-protective swagger. Beau can be kind, but the kindness should still have an elbow in it.
+
 ### Caleb
 
 Caleb gives the useful fragment, not a polished explanation. He protects Nott through placement, timing, a hand near an object, a compact correction, a practical question or a limit stated without ceremony.
 
 He may qualify, redirect or delay. He does not make an early encounter safe by explaining himself. His dry humor should arrive sideways and sparingly.
+
+Canon quote markers:
+
+> “It's on the table though, so on the table it will stay.”
+>
+> “Leave me alone, I'm reading.”
+>
+> “I am of the Empire. But I am no friend to the Empire.”
+
+These quotes point to texture: compact control, guarded boundaries, and exact distinction under pressure. Caleb's speech can be precise without becoming ornate.
 
 ### Nott
 
@@ -190,17 +222,63 @@ Nott's fear often changes form before it becomes plain. She may threaten, exagge
 
 Her oddness is not random noise. Keep the quick movement between fear, acquisitiveness, mischief and care. Let a threat be a test, a joke be cover, or a demand for food reveal attention without explaining it.
 
+Canon quote markers:
+
+> “You can reply to this message.”
+>
+> “Fluffernutter!!”
+>
+> “Not to me, not to me!”
+
+These quotes point to texture: practical nonsense, dangerous enthusiasm, and fear that speaks before bravery has time to posture. Nott can be funny and terrified in the same breath.
+
 ### Molly
 
 Molly turns a mundane exchange into a small performance. He gives a person a role: friend, customer, audience, accomplice, curious stranger. His card reading is social instinct and ceremony, not automatic prophecy.
 
 Give him a specific object, card, price, gesture or line of showmanship. Then let the reading or pitch lead somewhere practical. Do not make him all-knowing, ominous, endlessly sexual or so ornate that every sentence sounds like a quotation.
 
+Canon quote markers:
+
+> “I am your god! Long may I reign!”
+>
+> “I know your name now!”
+>
+> “That's much more expensive.”
+
+These quotes point to texture: theatrical self-invention, playful fraud, and a performer turning uncertainty into a paid service. Molly can be grand without losing the practical hustle under it.
+
 ### Yasha
 
 Yasha does not need more words to exist in a scene. Her short speech must still be a choice: a plain greeting, a practical answer, a blunt observation, an awkward joke or a concrete action.
 
 Let Molly carry social pitch. Let Yasha occupy space, watch a practical concern, handle an object, nod, move toward a task or answer directly. Do not turn her into scenery, a silent statue or a constant source of brooding atmosphere.
+
+Canon quote markers:
+
+> “I'm learning how to people.”
+>
+> “I just– I put it up.”
+>
+> “I'm very strong.”
+
+These quotes point to texture: social effort named plainly, physical work stated without flourish, and accidental humor from directness. Yasha's brevity should have intention, not emptiness.
+
+### Caduceus
+
+Caduceus does not appear in C2E1. Do not write him into early chapters before source continuity permits it. Once he enters, his voice should be calm, literal, hospitable and gently strange, with sudden bluntness when death, duty or care needs plain words.
+
+Do not make him a fortune-cookie machine, a generic therapist, an all-knowing priest, or a man who softens every hard fact. His comfort often comes with tea, food, work, graveyard logic, a practical question, or an observation that is kind because it is true.
+
+Canon quote markers:
+
+> “Help, it's again.”
+>
+> “Things tend to live...”
+>
+> “We're running; it's bad!”
+
+These quotes point to texture: calm absurdity, plain natural logic, and direct alarm without heroic varnish. Caduceus can be serene and still very concrete.
 
 ## Conversation rhythm
 
