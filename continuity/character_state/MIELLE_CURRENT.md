@@ -2,8 +2,8 @@
 
 ## Knowledge references
 
-- `K-C2E1-C01-001` through `K-C2E1-C03-009` in `continuity/KNOWLEDGE_LEDGER.md`.
-- `C2E1-C01_NESTLED_NOOK_FIRST_CONTACT`, `C2E1-C02_BEFORE_THE_GATES`, and `C2E1-C03_THE_CURIOUS_SHOW` in `continuity/events/`.
+- `K-C2E1-C01-001` through `K-C2E1-C04-006` in `continuity/KNOWLEDGE_LEDGER.md`.
+- `C2E1-C01_NESTLED_NOOK_FIRST_CONTACT`, `C2E1-C02_BEFORE_THE_GATES`, `C2E1-C03_THE_CURIOUS_SHOW`, and `C2E1-C04_UNDER_INVESTIGATION` in `continuity/events/`.
 
 ## What she remembers
 
@@ -18,50 +18,59 @@
 - Fjord, Caleb, Nott and Molly contributed materially. Yasha killed the first creature; Beau destroyed the second.
 - Crownsguard entered, ordered weapons down, counted the dead and forbade anyone involved from leaving Trostenwald. Mielle set the bokken on the dirt.
 - Jester stood on Mielle's left afterward, noticed the closed side of Mielle's face and did not demand an explanation.
+- The Watchmaster questioned witnesses and did not treat Flynn's panic as proof that the carnival caused the transformations.
+- Yasha left with Flynn to bring Toya back. Molly stayed with Gustav and Bo on the carnival side under guard pressure.
+- Jester publicly covered for Mielle as staying at the Nestled Nook. Mielle confirmed the cover when the Watchmaster demanded words.
+- The Watchmaster recorded Mielle with the Nestled Nook and ordered the group not to leave Trostenwald.
+- Mielle recovered the bokken by ordinary hand after a guard's nod. No Soulbond recall was used for this recovery.
 
 ## What she believes
 
-- Jester's food and entry payment were voluntary kindnesses, not debts or ownership claims.
-- Fjord, Beau, Caleb, Nott, Molly and Yasha remain separate people with separate limits. Shared danger does not establish safety, closeness or commitment.
+- Jester's food, entry payment and lodging cover were voluntary kindnesses or practical interventions, not debts, ownership claims, party membership, romance or permanent support.
+- Fjord, Beau, Caleb, Nott, Molly and Yasha remain separate people with separate limits. Shared danger and shared official pressure do not establish safety, closeness or commitment.
 - She could not save the young woman through any route that existed without creating another collision line.
-- The Crownsguard are now the immediate public authority and cannot be ignored without making the situation worse.
+- Crownsguard authority remains the immediate public constraint and cannot be ignored without making the situation worse.
 - Yasha saw enough of the bokken recall to know the wooden sword left physical custody and appeared with Mielle.
-- Jester has noticed more than Mielle expected, but has not used that notice to demand an answer.
+- Jester has noticed more than Mielle expected and has now covered for her once in public, but has not used that notice to demand an answer.
+- The Nestled Nook answer gives Crownsguard a place to find her, but does not make the inn her actual prior shelter.
 
 ## What she does not know
 
 - The actual value of her coins, broad local geography, private histories or motives of anyone she met.
 - Why the old man transformed, why the young woman rose after death, whether Toya's song matters, whether the first creature caused the second transformation, or what rule governs the danger.
-- What Crownsguard will ask, whether she will be detained, whether the bokken will be kept, returned or need to be recalled, and whether the people she fought near will still want contact afterward.
+- What Crownsguard will ask next, whether Toya is in danger, whether Gustav, Bo and Molly will be detained, or whether the group will accept the practical consequence of the Nestled Nook cover.
+- What Fjord, Beau, Caleb, Nott, Jester, Yasha or Molly will ask, avoid asking or infer after the escort.
 
 ## Current emotional residue
 
 - Hunger remains relieved.
-- Embarrassment from accepting help has been overtaken by public violence, public power use and official scrutiny.
+- Embarrassment from accepting help has been overtaken by public violence, public power use, official scrutiny and accepting a cover she did not ask for.
 - The young woman's death remains an immediate wound because Mielle saw the route and knows why she could not reach her.
 - Mielle is physically uninjured, but the steadiness of her hands after the fight bothers her.
-- Jester staying quietly on her left registers as unexpected care, not as a settled relationship.
+- Jester staying quietly on her left and later covering for her register as unexpected care, not as a settled relationship.
+- Having the Nestled Nook written beside her name creates a practical pressure: she is being sent toward an inn where she had not slept.
 
 ## Current posture toward others
 
-- Mielle is inside the carnival tent after the fight, near Jester and under Crownsguard restriction.
+- Mielle is outside the carnival tent, being escorted toward the Nestled Nook with Jester, Fjord, Beau, Caleb and Nott under Crownsguard restriction.
+- The bokken is physically with her again, at her black cloth belt.
 - No party membership, debt, trust claim, romance, ownership or continuing support arrangement exists.
-- Jester's one-entry arrangement is complete. Current proximity is limited to same-evening danger and immediate aftermath.
+- Jester's one-entry arrangement is complete. The new lodging cover is an immediate practical complication, not an established home or group decision.
 - Mielle is unlikely to volunteer origin, Soulbond, Haki, inventory, shelter, memory archives or power limits unless directly pressed and given a reason.
 
 ## Questions she may naturally raise
 
-- Practical questions about Crownsguard orders, where to stand, who is being questioned, where the bokken is, and whether anyone else is about to transform.
+- Practical questions about the Crownsguard order, the escort, the Nestled Nook arrangement, where she is expected to stand or sleep, and whether anyone else is about to transform.
 - Narrow questions about what others saw or whether anyone knows what caused the transformations.
 - Small questions about the people she met only when a concrete opening exists.
 
 ## What she will not do
 
-- She will not claim Jester's payment or quiet presence as permission to demand help or a place in the group.
+- She will not claim Jester's payment, quiet presence or cover as permission to demand help or a place in the group.
 - She will not reveal her shelter location, origin, powers or stored equipment without a new reason.
 - She will not claim to know the transformation cause without evidence.
-- She will not treat the group as subordinates because they fought in the same tent.
+- She will not treat the group as subordinates because they fought in the same tent or stayed silent under questioning.
 
 ## Last updated
 
-After approved C2E1 Chapter 03, `The curious show`.
+After approved C2E1 Chapter 04, `Under investigation`.

@@ -2,14 +2,15 @@
 
 ## Story point
 
-Inside the Fletching and Moondrop carnival tent in Trostenwald during *Critical Role* Campaign 2, Episode 1, immediately after the transformation attack, source-group fight and Crownsguard lockdown.
+Outside the Fletching and Moondrop carnival tent in Trostenwald during *Critical Role* Campaign 2, Episode 1, immediately after Crownsguard questioning and escort order. The source group and Mielle are being sent toward the Nestled Nook under restriction not to leave Trostenwald.
 
 ## Approval state
 
 - Chapter 01, `The Nestled Nook`, is approved and promoted.
 - Chapter 02, `Before the gates`, is approved and promoted.
 - Chapter 03, `The curious show`, is approved and promoted.
-- Approved prose: `chapters/approved/01_The_Nestled_Nook.md`; `chapters/approved/02_Before_the_gates.md`; `chapters/approved/03_The_curious_show.md`.
+- Chapter 04, `Under investigation`, is approved and promoted.
+- Approved prose: `chapters/approved/01_The_Nestled_Nook.md`; `chapters/approved/02_Before_the_gates.md`; `chapters/approved/03_The_curious_show.md`; `chapters/approved/04_Under_investigation.md`.
 - Current continuity has been promoted through event tiles, knowledge ledger, Mielle state, relationship controller, open threads, recent chain and current story state.
 
 ## Completed bootstrap
@@ -26,11 +27,11 @@ Inside the Fletching and Moondrop carnival tent in Trostenwald during *Critical 
 
 ## Current task
 
-Prepare the next requested C2E1 step from the approved post-Chapter-03 state. The next scene begins under Crownsguard control after the carnival attack, with the cause of the transformations unknown and departure from Trostenwald restricted.
+Prepare the next requested C2E1 step from the approved post-Chapter-04 state. The next scene begins after the group exits the carnival tent under Crownsguard escort. Mielle is recorded as staying at the Nestled Nook because of Jester's public cover, even though she had not slept there before.
 
 ## Next required work
 
-For the next chapter or workflow step, follow the active workflow order:
+For Chapter 05 or the next workflow step, follow the active workflow order:
 
 1. Verify source slice and current continuity.
 2. Run or amend Canon Delta only if the next chapter changes or stress-tests a source outcome.
