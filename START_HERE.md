@@ -37,4 +37,4 @@ The Critical Role transcript is the primary source for original canon events. Th
 
 ## Current task
 
-Prepare the next requested C2E1 step from the post-Chapter-04 state. Do not draft the next chapter before its required source slice, Canon Delta check, chapter plan, mini delta, scene cards, loadout and any required combat or threat pre-check are complete.
+Prepare the next requested C2E1 step from the post-Chapter-04 state. Do not draft the next chapter before its required source slice, controlling Arc Map check, Canon Delta check, chapter plan, mini delta, scene cards, loadout and any required combat or threat pre-check are complete. Existing C2E1 planning remains valid under the transition rule in `PROJECT_STATE.md`.

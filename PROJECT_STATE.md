@@ -21,7 +21,7 @@ Outside the Fletching and Moondrop carnival tent in Trostenwald during *Critical
 - Campaign-wide Exandria setting bible, location guide, faction guide and C2E1 immediate anchors are recorded.
 - Character-state, relationship-state, knowledge, event-tile and open-thread controllers are active for approved-story updates.
 - Witness memory is recorded through event tiles and the knowledge ledger; no separate party-memory controller exists.
-- Workflow templates cover source verification, transcript extraction, both Delta levels, chapter planning, scene cards, combat pre-checks, loadouts, audits and approval records.
+- Workflow templates cover source verification, transcript extraction, arc mapping, episode mapping, both Delta levels, chapter planning, scene cards, combat pre-checks, loadouts, audits and approval records.
 - `canon/prose/` contains the prose package: global prose system, Mielle prose style, Mielle voice, chapter prose/voice pass and Anti-AI editing filter.
 - `canon/characters/MIELLE.md` includes scene invariants and required pointers by scene type.
 
@@ -29,14 +29,19 @@ Outside the Fletching and Moondrop carnival tent in Trostenwald during *Critical
 
 Prepare the next requested C2E1 step from the approved post-Chapter-04 state. The next scene begins after the group exits the carnival tent under Crownsguard escort. Mielle is recorded as staying at the Nestled Nook because of Jester's public cover, even though she had not slept there before.
 
+## Arc-map transition rule
+
+The Arc Map step is mandatory before the first Episode Map created for a new arc. Existing C2E1 planning artifacts remain valid and are not retroactively invalidated. Before C2E1's Episode Map is materially rebuilt, or before the first Episode Map for the next episode is created, create or update the controlling Arc Map with `templates/ARC_MAP_TEMPLATE.md`.
+
 ## Next required work
 
 For Chapter 05 or the next workflow step, follow the active workflow order:
 
 1. Verify source slice and current continuity.
-2. Run or amend Canon Delta only if the next chapter changes or stress-tests a source outcome.
-3. Create chapter plan.
-4. Create chapter mini delta and scene cards.
-5. Create combat/threat pre-check if the next chapter includes combat, pursuit, hostile magic, injury/no-hit, consequential power use or tactical prediction.
-6. Create chapter loadout.
-7. Draft only after the completed loadout and pre-draft guard.
+2. Confirm the controlling Arc Map exists and is current; use the transition rule above for the already-mapped C2E1 work.
+3. Run or amend Canon Delta only if the next chapter changes or stress-tests a source outcome.
+4. Create chapter plan.
+5. Create chapter mini delta and scene cards.
+6. Create combat/threat pre-check if the next chapter includes combat, pursuit, hostile magic, injury/no-hit, consequential power use or tactical prediction.
+7. Create chapter loadout.
+8. Draft only after the completed loadout and pre-draft guard.

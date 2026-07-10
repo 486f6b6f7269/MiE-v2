@@ -29,7 +29,7 @@ Before drafting, the Chapter Loadout must contain a completed decision-to-author
 5. what prose may show; and
 6. what prose must not imply.
 
-A conflict or missing authority blocks prose. Return it to the owner: source note, Episode Canon Delta, chapter plan, mini delta, permanent canon file or continuity record. Do not solve it by guessing in the draft.
+A conflict or missing authority blocks prose. Return it to the owner: source note, Arc Map, Episode Canon Delta, chapter plan, mini delta, permanent canon file or continuity record. Do not solve it by guessing in the draft.
 
 ## Template rule
 
@@ -39,6 +39,7 @@ Every work artifact begins from its exact template. Do not create an unstructure
 |---|---|
 | Verify source | `templates/SOURCE_NOTE_TEMPLATE.md` |
 | Extract transcript | `templates/TRANSCRIPT_EXTRACTION_TEMPLATE.md` |
+| Map arc | `templates/ARC_MAP_TEMPLATE.md` |
 | Map episode | `templates/EPISODE_MAP_TEMPLATE.md` |
 | Episode Canon Delta | `templates/CANON_DELTA_TEMPLATE.md` |
 | Plan chapter | `templates/CHAPTER_PLAN_TEMPLATE.md` |
@@ -73,52 +74,62 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 - Output: source obligations, agency owners, information state, causal sequence, tactical intent, later-dependent consequences and table artifacts to discard.
 - Must not: write prose, decide Mielle’s exact insertion, or turn later knowledge into episode knowledge.
 
-## 3. Map episode
+## 3. Map arc
+
+- Template: `templates/ARC_MAP_TEMPLATE.md`.
+- Use when: before the first Episode Map of a new arc. Reuse the same Arc Map for later episodes in that arc and amend it only when verified source or approved continuity changes the controlling cross-episode picture.
+- Read: Base production load; transcript extractions and source notes for the proposed episode range; current continuity; recent chain; open threads; `continuity/EVENT_INDEX.md`; relevant event tiles and knowledge ledger; relevant approved chapters; relevant character dossiers and relationship state; exact setting files; Power Guide, Holmes Engine and Combat Rules when a cross-episode constraint depends on capability, inference, combat or deliberate non-use.
+- May change: only `work/arcs/<ARC_ID>/ARC_MAP.md`.
+- Output: arc scope, entry and exit state, cross-episode causal chain, delayed revelations, agency ownership, material continuity, Mielle intervention range, episode functions and arc-level change flags that later Episode Canon Deltas must resolve.
+- Must not: divide chapters, write scenes or dialogue, decide exact power use, replace an Episode Map, create a canon change, or treat a provisional episode range as confirmed source fact.
+- Transition: Episode Maps completed before this step existed remain valid. Create the controlling Arc Map before materially rebuilding one of those Episode Maps or before mapping the next episode in the arc.
+
+## 4. Map episode
 
 - Template: `templates/EPISODE_MAP_TEMPLATE.md`.
-- Use when: after transcript extraction.
-- Read: Base production load; transcript extraction; `continuity/CURRENT_STORY_STATE.md`; `continuity/RECENT_STORY_CHAIN.md`; `continuity/OPEN_THREADS.md`; `continuity/EVENT_INDEX.md`; `continuity/C2E1_STARTING_STATE.md` for C2E1; relevant character dossiers; `canon/relationships/RELATIONSHIP_STATE.md`; exact setting files; relevant event tiles and knowledge ledger.
+- Use when: after transcript extraction and after the controlling Arc Map exists.
+- Read: Base production load; controlling Arc Map; transcript extraction; `continuity/CURRENT_STORY_STATE.md`; `continuity/RECENT_STORY_CHAIN.md`; `continuity/OPEN_THREADS.md`; `continuity/EVENT_INDEX.md`; `continuity/C2E1_STARTING_STATE.md` for C2E1; relevant character dossiers; `canon/relationships/RELATIONSHIP_STATE.md`; exact setting files; relevant event tiles and knowledge ledger.
 - May change: only `work/c2eX/EPISODE_MAP.md`.
-- Output: chapter divisions, pressure, source beats, agency lanes, information movement, setting use and chapter consequences.
-- Must not: establish a major canon change, make a later revelation available early, or decide a power answer without the relevant power and mechanics files.
+- Output: chapter divisions, pressure, source beats, agency lanes, information movement, setting use and chapter consequences within the function assigned by the Arc Map.
+- Must not: establish a major canon change, contradict the Arc Map without returning to it, make a later revelation available early, or decide a power answer without the relevant power and mechanics files.
 
-## 4. Episode Canon Delta
+## 5. Episode Canon Delta
 
 - Template: `templates/CANON_DELTA_TEMPLATE.md`.
 - Use when: after Episode Map and before chapter plans.
-- Read: Base production load; transcript extraction; episode map; current continuity; `continuity/EVENT_INDEX.md`; `continuity/C2E1_STARTING_STATE.md` for C2E1; Mielle dossier and current state; relevant character dossiers and relationship state; relevant event tiles and knowledge ledger; exact setting files; `canon/POWER_GUIDE.md` and module(s), `canon/HOLMES_ENGINE.md`, and `canon/COMBAT_RULES.md` whenever Mielle’s intervention can touch them.
+- Read: Base production load; controlling Arc Map; transcript extraction; episode map; current continuity; `continuity/EVENT_INDEX.md`; `continuity/C2E1_STARTING_STATE.md` for C2E1; Mielle dossier and current state; relevant character dossiers and relationship state; relevant event tiles and knowledge ledger; exact setting files; `canon/POWER_GUIDE.md` and module(s), `canon/HOLMES_ENGINE.md`, and `canon/COMBAT_RULES.md` whenever Mielle’s intervention can touch them.
 - May change: only `work/c2eX/CANON_DELTA.md`.
-- Output: explicit changes caused by Mielle, preserved source beats, honest outcome review, protected canon agency, knowledge effects, power/mechanics constraints and consequences for later promotion.
-- Must not: replace a canon character’s required agency without explicit permission; use undefined power mechanics as a bridge over an unresolved canon beat; or preserve a source outcome by inertia when Mielle’s established position and mechanics would causally change it.
+- Output: explicit changes caused by Mielle, preserved source beats, honest outcome review, protected canon agency, knowledge effects, power/mechanics constraints and consequences for later promotion. It must resolve any Arc Map change flag that reaches this episode.
+- Must not: replace a canon character’s required agency without explicit permission; use undefined power mechanics as a bridge over an unresolved canon beat; preserve a source outcome by inertia when Mielle’s established position and mechanics would causally change it; or silently alter the controlling Arc Map.
 
-## 5. Plan chapter
+## 6. Plan chapter
 
 - Template: `templates/CHAPTER_PLAN_TEMPLATE.md`.
 - Use when: before a chapter.
-- Read: Base production load; episode map; episode Canon Delta; transcript extraction slice for the chapter; current continuity; recent chain; open threads; `continuity/EVENT_INDEX.md`; last approved chapter; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; relevant character, relationship, setting, event, knowledge, power, Holmes and combat files.
+- Read: Base production load; controlling Arc Map; episode map; episode Canon Delta; transcript extraction slice for the chapter; current continuity; recent chain; open threads; `continuity/EVENT_INDEX.md`; last approved chapter; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; relevant character, relationship, setting, event, knowledge, power, Holmes and combat files.
 - May change: only the chapter plan.
 - Output: chapter contract, POV, source slice, causality, decision points, required decisions, social and knowledge boundaries, information that remains uncertain, agency owners, carry-forward facts, required files for the next step and end state.
-- Must not: write final dialogue, update continuity, force a fixed turn order or silently narrow/expand the episode Canon Delta.
+- Must not: write final dialogue, update continuity, force a fixed turn order or silently narrow/expand the Arc Map or Episode Canon Delta.
 
-## 6. Chapter mini delta
+## 7. Chapter mini delta
 
 - Template: `templates/CHAPTER_MINI_DELTA_TEMPLATE.md`.
 - Use when: immediately after every chapter plan and before scene cards.
-- Read: Base production load; chapter plan; episode Canon Delta; episode map; transcript extraction slice; current continuity; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md` when earlier events can constrain intervention or knowledge; every exact file governing Mielle’s planned intervention, including applicable character, relationship, setting, knowledge, power, Holmes and combat files.
+- Read: Base production load; chapter plan; controlling Arc Map; episode Canon Delta; episode map; transcript extraction slice; current continuity; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md` when earlier events can constrain intervention or knowledge; every exact file governing Mielle’s planned intervention, including applicable character, relationship, setting, knowledge, power, Holmes and combat files.
 - May change: only `work/c2eX/chapters/XX_CHAPTER_MINI_DELTA.md`.
-- Output: the chapter-specific application of the episode Canon Delta: Mielle’s allowed actions, prohibited shortcuts, protected agency, information created or withheld, mechanics/setting/social constraints, and approval-gated continuity consequences.
-- Must not: create a new episode-level change. If it needs one, return to Episode Canon Delta.
+- Output: the chapter-specific application of the Episode Canon Delta: Mielle’s allowed actions, prohibited shortcuts, protected agency, information created or withheld, mechanics/setting/social constraints, and approval-gated continuity consequences.
+- Must not: create a new episode-level or arc-level change. If it needs one, return to the Episode Canon Delta or Arc Map.
 
-## 7. Create scene cards and canon response pass
+## 8. Create scene cards and canon response pass
 
 - Template: `templates/SCENE_CARDS_TEMPLATE.md`.
 - Use when: a chapter includes relevant interaction among Mielle and canon characters.
-- Read: Base production load; chapter plan; chapter mini delta; `continuity/C2E1_STARTING_STATE.md` for C2E1 scenes; relevant character dossiers and current states; `canon/relationships/RELATIONSHIP_STATE.md`; `continuity/KNOWLEDGE_LEDGER.md`; `continuity/EVENT_INDEX.md`; relevant event tiles; exact setting files; Holmes Engine whenever an interpretation or inference matters.
+- Read: Base production load; chapter plan; chapter mini delta; controlling Arc Map when cross-episode knowledge, obligation or delayed consequence constrains the scene; `continuity/C2E1_STARTING_STATE.md` for C2E1 scenes; relevant character dossiers and current states; `canon/relationships/RELATIONSHIP_STATE.md`; `continuity/KNOWLEDGE_LEDGER.md`; `continuity/EVENT_INDEX.md`; relevant event tiles; exact setting files; Holmes Engine whenever an interpretation or inference matters.
 - May change: only scene cards.
 - Output: each person’s knowledge, interpretation, want, natural contact point, independent action and conclusion boundary; Mielle’s protected agency; event-tile and knowledge check.
 - Must not: require every present character to speak, make anyone know reader-only facts, press a subject that an event tile or character state leaves unresolved without a meaningful new trigger, or make dialogue perform the job of an author summary.
 
-## 8. Combat pre-check
+## 9. Combat pre-check
 
 - Template: `templates/COMBAT_TRANSLATION_CARD_TEMPLATE.md`.
 - Use when: combat, pursuit, physical threat, hostile magic, meaningful gear use, consequential power use, injury, evasion, no-hit result or damage result occurs.
@@ -127,16 +138,16 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 - Output: board, objectives, source obligations, pressure waves, tactical truth, hostile-effect review, agency lanes, Mielle’s allowed intervention, exact mechanics read receipt and aftermath.
 - Must not: produce a turn list, use Mielle to solve every threat, ignore a defense/mechanic because the source result is desired, or choose a power result before its source mechanics are read.
 
-## 9. Chapter loadout
+## 10. Chapter loadout
 
 - Template: `templates/CHAPTER_LOADOUT_TEMPLATE.md`.
 - Use when: immediately before prose.
-- Read: Base production load; chapter plan; chapter mini delta; scene cards; combat pre-check if any; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; every exact file required under the Matrix headings; `canon/prose/PROSE_SYSTEM.md`; `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/prose/MIELLE_VOICE_GUIDE.md`; `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
+- Read: Base production load; controlling Arc Map; chapter plan; chapter mini delta; scene cards; combat pre-check if any; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; every exact file required under the Matrix headings; `canon/prose/PROSE_SYSTEM.md`; `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/prose/MIELLE_VOICE_GUIDE.md`; `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - May change: only chapter loadout.
 - Output: exact paths and sections required for draft, grouped under source/adaptation, continuity, character/relationship, setting/faction, power/Holmes/combat, prose/editing and active chapter artifacts; plus a passing decision-to-authority check for every conflict-prone chapter fact, including first impressions, visible Mielle traits, character voice, power use, power non-use and deliberate underestimation.
 - Must not: summarize canon into new facts, leave a vague conditional reference, replace reading listed files with a summary, or let a conflict-prone fact reach prose without a completed authority row.
 
-## 10. Draft
+## 11. Draft
 
 - Template: no template. Drafts are chapter-specific prose files created only from a completed Chapter Loadout.
 - Use when: a complete chapter loadout exists and every decision-to-authority row passes.
@@ -150,16 +161,16 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 - Output: `XX_DRAFT.md` and a completed pre-draft-guard receipt in the loadout or audit record. The loadout records completion of the four verification passes.
 - Must not: update continuity, alter canon without delta, give characters unsupported knowledge, copy transcript dialogue as prose, use the Anti-AI filter to invent texture, stakes, dialogue or events, or begin prose before decision authority is reconciled.
 
-## 11. Audit
+## 12. Audit
 
 - Template: `templates/AUDIT_TEMPLATE.md`.
 - Use when: after a complete draft.
-- Read: Base production load; draft; loadout; chapter plan; chapter mini delta; scene cards; combat pre-check if any; transcript extraction; episode map; episode Canon Delta; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; relevant canon, continuity, setting, character, relationship, event, knowledge, power, Holmes, combat and prose-package files.
+- Read: Base production load; draft; loadout; chapter plan; chapter mini delta; scene cards; combat pre-check if any; transcript extraction; controlling Arc Map; episode map; Episode Canon Delta; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; relevant canon, continuity, setting, character, relationship, event, knowledge, power, Holmes, combat and prose-package files.
 - May change: audit only.
 - Output: issue list with severity, evidence, governing source and required correction.
 - Must not: invent facts, promote memory, silently revise story decisions, or call a problem style-only when its correction changes canon, agency, POV, relationship framing, knowledge control or mechanics.
 
-## 12. Revise
+## 13. Revise
 
 - Template: no separate template. Revise the existing draft and audit record, then run the Anti-AI Silent Edit.
 - Use when: audit identifies a correction.
@@ -168,7 +179,7 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 - Output: new draft version, resolved audit and completed Anti-AI Silent Edit receipt.
 - Must not: introduce a canon change without returning to the needed planning document, or continue polishing once the filter’s stop condition is met.
 
-## 13. Approve chapter
+## 14. Approve chapter
 
 - Template: `templates/APPROVED_CHAPTER_RECORD_TEMPLATE.md`.
 - Use when: the user approves the final draft.
@@ -177,16 +188,16 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 - Output: approved chapter record.
 - Must not: promote continuity before approval.
 
-## 14. Promote memory
+## 15. Promote memory
 
 - Templates: `templates/CHARACTER_STATE_TEMPLATE.md` for a new or rebuilt character state; `templates/RELATIONSHIP_STATE_TEMPLATE.md` for a material rebuild of the relationship-state controller; `templates/EVENT_TILE_TEMPLATE.md` for each new event tile. Update the existing `canon/relationships/RELATIONSHIP_STATE.md`, `continuity/KNOWLEDGE_LEDGER.md`, `continuity/EVENT_INDEX.md`, relevant event tiles and open threads; do not create a parallel party-memory controller.
 - Use when: only after approval.
-- Read: approved chapter; final audit; chapter mini delta; episode Canon Delta; current continuity; `continuity/EVENT_INDEX.md`; affected character states; relationship state; event tiles; knowledge ledger; open threads.
+- Read: approved chapter; final audit; chapter mini delta; Episode Canon Delta; current continuity; `continuity/EVENT_INDEX.md`; affected character states; relationship state; event tiles; knowledge ledger; open threads.
 - May change: current story state, recent chain, event index, event tiles, knowledge ledger, affected character states, `canon/relationships/RELATIONSHIP_STATE.md`, open threads and project state.
 - Output: continuity ready for the next chapter.
 - Must not: record an unused plan, omitted scene idea or author intention as a fact.
 
-## 15. Update permanent rule or decision
+## 16. Update permanent rule or decision
 
 - Template: use `templates/CHARACTER_TEMPLATE.md` only when a new or materially rebuilt character dossier is required; use `templates/CHARACTER_STATE_TEMPLATE.md`, `templates/RELATIONSHIP_STATE_TEMPLATE.md` and `templates/EVENT_TILE_TEMPLATE.md` under the same rule for a new state, relationship-controller rebuild or event record. Otherwise, update the owning file directly.
 - Use when: the user makes a new permanent decision about character, setting, adaptation, combat, power or production.
