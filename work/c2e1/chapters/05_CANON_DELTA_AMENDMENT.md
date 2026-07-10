@@ -7,51 +7,58 @@
 - Episode Map: `work/c2e1/EPISODE_MAP.md`
 - Source note: `work/c2e1/chapters/05_SOURCE_RETURN_NOTE.md`
 - Approved continuity through Chapter 04.
+- Newest user decision: after the guards leave, Jester directly and innocently asks where Mielle has actually been staying; Mielle blushes from embarrassment and tells the group about the abandoned building she has used for the last two days; Jester then invites her to stay in Jester's room. Mielle already wants to become Jester's friend, but shame, fear and anxiety keep her from initiating that closeness.
 
 ## Delta decision
 
-Chapter 05 is an adaptation bridge after the final verified C2E1 source beat. It does not alter a source outcome. It applies the approved lodging cover so Crownsguard can actually find Mielle at the recorded address.
+Chapter 05 remains an adaptation bridge after the final verified C2E1 source beat. It does not alter a source outcome. It applies the approved lodging cover through a character-owned exchange: Jester asks because direct curiosity is natural to her; Mielle answers because Jester's lack of malice and prior care lower the cost of honesty; Jester's invitation follows from the concrete inadequacy of the abandoned shelter.
 
 ## Closed outcomes
 
 | Result | Owner | Closed condition | Must not imply |
 |---|---|---|---|
 | Escort reaches the Nestled Nook | Crownsguard | The group and Mielle arrive under restriction | New arrest, clearance or investigation result |
-| Mielle states she had not previously slept there | Mielle | Narrow factual correction after guards are no longer listening | Shelter location, origin confession or accusation against Jester |
-| One-night place is offered | Jester | Jester offers space in her own room for that night | Permanent support, ownership, romance or party invitation |
+| Direct lodging question | Jester | After guards leave, Jester asks where Mielle has actually been staying | Interrogation, accusation or manipulation |
+| Embarrassed disclosure | Mielle | Mielle visibly blushes and says she has spent the last two days in an abandoned building | Exact route, ownership status, origin confession or complete biography |
+| One-night place is offered | Jester | After hearing the answer, Jester offers space in her own room for that night | Permanent support, ownership, romance or party invitation |
 | One-night place is accepted | Mielle | Mielle accepts only after the temporary limit is explicit | Debt, trust pact or willingness to travel together |
-| No payment occurs | none | Coins remain unvalued; no lodging price is established | Free lodging as permanent entitlement |
+| Mielle's private desire | Mielle | Internally, she wants to become Jester's friend and responds positively to Jester drawing her into contact | Friendship already achieved, public declaration or automatic trust |
+| No payment occurs | none | Coins remain unvalued; no lodging price is established | Permanent entitlement |
 | Crownsguard restriction remains | Crownsguard | No one leaves Trostenwald | Later source resolution |
 
 ## Honest outcome review
 
 - The source endpoint still follows. Chapter 05 begins only after the source action has closed.
-- A one-night arrangement is required by the approved Chapter 04 cover and does not replace any source character's accomplishment.
-- Jester owns the offer because she created the public cover. Mielle owns acceptance.
-- Fjord may set a practical boundary, Beau may ask one pointed question, Caleb may avoid disclosure, and Nott may react, but none decides for Mielle or Jester.
+- Jester owns both the direct question and the invitation. Her question is socially unfiltered, sincere and practical, not a calculated extraction.
+- Mielle owns the disclosure. She does not answer because the group is entitled to know. She answers because Jester's genuine concern reaches past the defensive answer Mielle would give to a colder question.
+- Mielle's wish to befriend Jester governs internal hesitation and receptivity. It does not promote friendship before approved prose establishes reciprocal behavior over time.
+- Fjord, Beau, Caleb and Nott retain independent reactions but do not take over the exchange.
 
 ## Protected agency
 
 | Character | Protected action | Mielle may | Mielle must not replace |
 |---|---|---|---|
-| Jester | Decide whether and how to make her cover practical | Accept, refuse, clarify limits | Jester's offer |
-| Fjord | Assess whether the arrangement exposes the group to more risk | Answer narrowly and acknowledge practical facts | His caution or group-facing boundary |
-| Beau | Decide whether to press the inconsistency | Answer one direct question or decline | Her skepticism |
-| Caleb | Protect Nott and avoid unnecessary disclosure | Leave them space | His decision to withdraw |
-| Nott | Choose humor, concern or silence | Respond without solving her fear | Her reaction |
+| Jester | Ask the direct question without malice; react to the abandoned building; offer her room | blush, answer, accept, fail to initiate | Jester's question or invitation |
+| Mielle | Choose to reveal the abandoned building and accept one night | speak honestly but incompletely | treat the answer as coerced |
+| Fjord | Assess practical and legal risk after the disclosure | answer if asked | his caution |
+| Beau | React bluntly to the unsafe or irregular shelter without turning it into an interrogation | withstand the reaction | her skepticism |
+| Caleb | Recognize precarious shelter without volunteering his own history | leave space | his protective judgment |
+| Nott | React from fear, recognition or odd humor | respond if addressed | her independent reaction |
 
 ## Knowledge effects
 
 Created if approved:
 
-- Jester, Fjord, Beau, Caleb and Nott learn that Mielle had not previously slept at the Nestled Nook.
-- They do not learn where she slept.
-- Mielle learns that Jester's cover was meant as immediate protection and that the offer extends only to one night unless later action changes it.
+- Jester, Fjord, Beau, Caleb and Nott learn that Mielle spent the last two days sheltering in an abandoned building.
+- They do not automatically learn the exact building, route, legal status, how she found it, her origin or how long she could have continued there.
+- Jester sees that the answer embarrasses Mielle and that Mielle nevertheless gives it to her.
+- Mielle experiences Jester's question and invitation as welcome contact from someone she already wants to befriend.
 
 Still unknown:
 
-- Mielle's shelter location, origin, Soulbond, Haki names, inventory and power ceiling.
+- Mielle's origin, Soulbond, Haki names, inventory, archives and power ceiling.
 - Transformation cause and later investigation results.
+- Whether the others interpret the building as trespass, desperation, caution or something else; each reaction stays character-specific and provisional.
 
 ## Mechanics and setting constraints
 
@@ -64,14 +71,14 @@ Still unknown:
 
 ## Relationship boundary
 
-The chapter may show care, awkward acceptance, caution and curiosity. It may not name or imply friendship, romance, trust, party membership, debt, ownership, permanent lodging or continuing financial support.
+The chapter may show Mielle's desire for friendship, Jester's natural inclusion, embarrassed honesty, care and growing ease. It may not state that they are already friends, romantically interested, mutually trusting, indebted, party members or in a permanent support arrangement.
 
 ## Delta release
 
 - [x] Source endpoint preserved.
-- [x] Arc-level lodging flag resolved for Chapter 05.
-- [x] Result ownership fixed.
+- [x] Direct question, disclosure and invitation ownership fixed.
+- [x] Mielle's positive internal orientation toward Jester fixed without promoting friendship.
 - [x] Knowledge limits fixed.
 - [x] Power and item non-use fixed.
-- [x] Chapter released for plan, mini delta, scene cards and loadout.
-- [ ] No prose until loadout and pre-draft guard pass.
+- [x] Chapter released for revised plan, mini delta, scene cards and loadout.
+- [ ] No prose until the revised loadout and pre-draft guard pass.

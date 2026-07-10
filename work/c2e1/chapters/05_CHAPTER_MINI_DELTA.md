@@ -6,7 +6,7 @@
 - Chapter: 05 — `Temporary address`
 - Chapter plan: `work/c2e1/chapters/05_CHAPTER_PLAN.md`
 - Episode Canon Delta: `work/c2e1/chapters/05_CANON_DELTA_AMENDMENT.md`
-- Transcript extraction slice: source endpoint; adaptation bridge only
+- Transcript slice: source endpoint; adaptation bridge only
 
 ## Exact files read
 
@@ -22,152 +22,141 @@
 
 `canon/characters/MIELLE.md`; `canon/characters/JESTER.md`; `canon/characters/FJORD.md`; `canon/characters/BEAUREGARD.md`; `canon/characters/CALEB.md`; `canon/characters/NOTT.md`; `canon/characters/MOLLY.md`; `canon/characters/YASHA.md`; `canon/relationships/RELATIONSHIP_STATE.md`.
 
-### Setting and faction
+### Setting and mechanics
 
-`canon/setting/EXANDRIA_BASELINE.md`; `canon/setting/LOCATIONS.md`; `canon/setting/FACTIONS_AND_NPCS.md`.
+`canon/setting/EXANDRIA_BASELINE.md`; `canon/setting/LOCATIONS.md`; `canon/setting/FACTIONS_AND_NPCS.md`; `canon/POWER_GUIDE.md`; `canon/mielle_current_power_guide/01_current_inventory_01.md`; `canon/mielle_current_power_guide/02_current_inventory_02.md`; `canon/mielle_current_power_guide/04_consolidated_architecture.md`.
 
-### Power, Holmes and combat
+## Source obligations
 
-`canon/POWER_GUIDE.md`; `canon/mielle_current_power_guide/01_current_inventory_01.md`; `canon/mielle_current_power_guide/02_current_inventory_02.md`; `canon/mielle_current_power_guide/04_consolidated_architecture.md`. `canon/HOLMES_ENGINE.md` and `canon/COMBAT_RULES.md` are not execution dependencies because no powered inference, combat or threat occurs.
-
-## Source obligations inside this chapter
-
-- Preserve the C2E1 endpoint: official restriction and escort toward the Nestled Nook.
+- Preserve the C2E1 endpoint and no-leaving order.
 - Do not begin C2E2 investigation events.
-- Keep Molly carnival-side and Yasha on the Toya route.
+- Molly remains carnival-side; Yasha remains on the Toya route.
 
-## Episode-delta constraints inherited here
+## Inherited chapter constraints
 
-- Jester owns the one-night offer.
-- Mielle owns acceptance and disclosure boundaries.
+- Jester owns the direct question and invitation.
+- Mielle owns embarrassed disclosure and acceptance.
+- Mielle reveals an abandoned building used for the last two days, but not its exact location.
+- Mielle wants to become Jester's friend; this remains private motivation, not established relationship status.
 - No money changes hands.
-- No permanent relationship or group status is created.
-- Shelter location, transformation cause and power mechanics remain unknown.
+- No power use or explanation.
 
 ## Mielle’s allowed intervention
 
 - Comply with escort.
-- Clarify that the Nestled Nook was not her prior lodging.
-- Withhold the actual shelter location.
-- Ask what the arrangement costs or means.
-- Offer her unvalued coins without establishing their value.
-- Accept one night in Jester's room after the limit is explicit.
-- Show one small non-combat clumsy action after immediate danger has passed.
+- Blush and hesitate when Jester asks where she has been staying.
+- Tell the group she has slept in an abandoned building for two days.
+- Withhold the exact building, route and details of how she used it.
+- Ask about cost or offer the unvalued coins.
+- Accept one night in Jester's room.
+- Let her desire for friendship make her more willing to answer and remain near Jester, while fear and anxiety still prevent direct pursuit.
+- Show one small non-combat clumsy action.
 
 ## Mielle’s prohibited shortcuts
 
-- No power use, recall, Bag retrieval or powered inference.
-- No local legal or lodging knowledge she has not learned.
-- No claim that Jester's cover creates entitlement.
-- No confession about origin, shelter, archives or combat systems.
+- No recall, Haki, Bag access, powered inference or local knowledge she has not learned.
+- No origin, archive, power-system or full survival-history confession.
+- No declaration that she and Jester are already friends.
+- No treating the offer as entitlement, debt or invitation to join the group.
 
 ## Protected canon agency
 
-| Character | Required decision or accomplishment | What Mielle may do around it | What Mielle must not replace |
+| Character | Required action | Mielle may do around it | Must not replace |
 |---|---|---|---|
-| Jester | Explain and make her cover practical through one-night offer | accept, question, set limit | make the offer for Jester |
-| Fjord | ask the practical lodging question and assess risk | answer narrowly | his caution |
-| Beau | test the inconsistency once and choose restraint | answer or decline | her skepticism |
-| Caleb | keep Nott close and avoid widening disclosure | leave space | his protective judgment |
-| Nott | react independently | answer if addressed | her humor or fear |
+| Jester | Ask directly without malice, listen, react, invite Mielle to her room | answer and accept | Jester's social initiative |
+| Fjord | assess practical risk after the answer | respond narrowly | his caution |
+| Beau | react bluntly and choose not to interrogate | hold boundary | her friction and restraint |
+| Caleb | recognize precarious shelter and leave disclosure controlled | remain quiet | his judgment |
+| Nott | react independently from fear, recognition or humor | answer if addressed | her voice |
 
 ## Ownership of results
 
-| Result | Owner | Authority source | Closed / free | What Mielle may do | Must not imply |
-|---|---|---|---|---|---|
-| Arrival at Nestled Nook | Crownsguard | source / Chapter 04 | closed | comply | clearance |
-| Prior lodging correction | Mielle | current state | closed | say she was not there | disclose location |
-| One-night offer | Jester | amendment | closed | receive it | permanent support |
-| One-night acceptance | Mielle | amendment | closed | accept explicitly | debt or membership |
-| No payment | none | coins unresolved | closed | ask / offer | coin valuation |
-| Relationship non-result | all | relationship state | closed | show behavior | friendship, romance, trust pact |
+| Result | Owner | Closed condition | Must not imply |
+|---|---|---|---|
+| Arrival | Crownsguard | group delivered to Nestled Nook | clearance |
+| Direct question | Jester | asks after guards leave | interrogation |
+| Abandoned-building disclosure | Mielle | two days stated; exact location withheld | full confession |
+| One-night offer | Jester | follows disclosure | permanent support or romance |
+| One-night acceptance | Mielle | explicit and limited | debt, party membership, friendship achieved |
+| Friendship desire | Mielle internal | affects receptivity and hesitation | mutual status already established |
+| No payment | none | coins remain unvalued | price fact |
 
 ## Canon cast action requirements
 
-| Character | Concrete action / behavior | What it changes | Voice / behavior note | Must not transfer to Mielle |
-|---|---|---|---|---|
-| Jester | says why she covered Mielle and offers one night | creates practical shelter | warm, quick, then gives Mielle room to choose | offer ownership |
-| Fjord | waits until guards leave, then asks whether the answer was true | opens practical discussion | controlled, direct | risk assessment |
-| Beau | asks one sharper follow-up and stops at the boundary | marks suspicion | blunt, not cruel | skepticism |
-| Caleb | observes guard departure and chooses not to press | preserves privacy | quiet, controlled | disclosure judgment |
-| Nott | makes one anxious or dry comment and stays with Caleb | keeps independent presence | wary, odd humor | her reaction |
-| Molly | absent under guard pressure | absence remains causal | not applicable | no off-page knowledge |
-| Yasha | absent with Flynn | absence remains causal | not applicable | no off-page knowledge |
+| Character | Concrete action | Voice / behavior limit |
+|---|---|---|
+| Jester | asks the socially direct question, notices the blush, listens, then offers her room | curious and warm, not therapeutic or possessive |
+| Fjord | narrows the practical risk after the answer | concise, not automatic captain |
+| Beau | gives the rude version of concern or disbelief, then stops | blunt, not cruel or omniscient |
+| Caleb | chooses not to press after the material fact is clear | guarded and practical |
+| Nott | reacts with wary recognition, fear or odd humor | not random comic relief |
+| Molly | absent under guard pressure | no off-page knowledge |
+| Yasha | absent with Flynn | no off-page knowledge |
 
 ## Information control
 
-### Information created
+### Created if approved
 
-- Present group learns Mielle had not previously slept at the Nestled Nook.
-- Present group witnesses Jester's one-night offer and Mielle's limited acceptance.
+- Jester, Fjord, Beau, Caleb and Nott learn that Mielle spent two days in an abandoned building.
+- Jester witnesses Mielle's embarrassment and voluntary honesty.
+- The present group witnesses Jester's one-night offer and Mielle's acceptance.
 
-### Information withheld or still uncertain
+### Still unknown
 
-- Shelter location, origin, powers, transformation cause, Toya/carnival outcomes.
-
-### Reader-only / author-only facts that must not leak
-
-- Later C2E2 conclusions or source decisions.
+- Exact building and route.
+- Whether Mielle was trespassing under local law.
+- Origin, powers, inventory, archives and power ceiling.
+- Transformation cause and C2E2 outcomes.
+- Mielle's internal wish for friendship unless she says or shows enough for someone to infer only a narrow version.
 
 ## Character knowledge map
 
-| Character | Knows | Suspects | Must not know / volunteer |
+| Character | Knows | Suspects | Must not know |
 |---|---|---|---|
-| Mielle | cover was improvised; guard expects her at inn | Jester acted protectively | local legal details; others' motives |
-| Jester | Mielle had nowhere she could safely name | prior arrangement was unsafe or irregular | exact shelter, origin, powers |
-| Fjord | cover created a practical responsibility | Mielle hides material facts | full mechanics or history |
-| Beau | Mielle's answer was evasive | shelter may be irregular | exact location or origin |
-| Caleb | contradiction under guard would be dangerous | Mielle controls information deliberately | explanation of powers |
-| Nott | Mielle is now attached to their address for the night | this may create risk | private truth |
+| Mielle | Jester wants her safe for the night | Jester may genuinely want her company | future relationship outcome |
+| Jester | Mielle used an abandoned building and was ashamed to say it | Mielle wanted to answer her despite fear | exact shelter, origin, powers |
+| Fjord | shelter was precarious | Mielle has practiced survival and secrecy | full history |
+| Beau | vague arrangement means abandoned building | Mielle hides more | exact biography |
+| Caleb | Mielle lacks secure lodging | her disclosure is controlled | origin and mechanics |
+| Nott | Mielle was hiding in poor shelter | she may understand precarious survival | deeper identity |
 
-## Mechanics and setting constraints
+## Mechanics and setting
 
-- Capabilities / gear used: ordinary carrying only.
-- Capabilities / gear prohibited: Soulbond recall, Haki, Bag access, power explanation.
-- Inference boundary: ordinary visible behavior only; no Holmes map required.
-- Setting: Imperial restriction remains; route is under escort; Nestled Nook is public lodging.
-- Witness limit: only Jester, Fjord, Beau, Caleb and Nott hear the private lodging clarification and one-night arrangement.
+- Ordinary carrying only: bokken at left hip, backpack and coins retained.
+- No Soulbond recall, Haki, Bag access or power explanation.
+- Mielle does not know lodging price or custom.
+- Witness limit: only Jester, Fjord, Beau, Caleb and Nott hear the disclosure and invitation.
 
 ## Prose-scale execution board
 
-- Scene 1: escorted cluster moving through cold night streets; guards front and rear; Mielle near Jester but outside established pairs.
-- Scene 2: Nestled Nook common room or entry after guards leave; enough privacy for a low-voiced practical discussion.
-- Scene 3: corridor / room threshold; no need to define full floor plan.
-- Bokken remains at Mielle's left hip throughout.
+- Scene 1: escorted night route; guards front and rear; Mielle near Jester but outside established pairs.
+- Scene 2: inn front room after guards leave; Jester asks directly; Mielle reveals the abandoned building; others react.
+- Scene 3: one-night invitation and room threshold.
 
 ## Closed consequence count
 
-- Dead / destroyed: none added.
-- Injured: none.
-- Uninjured but materially affected: Mielle accepts one night; group learns prior lodging answer was false.
-- Captured / escaped / detained: no change; travel restriction remains.
+- Dead / injured / detained: no change.
+- Material change: shelter fact disclosed; one night accepted.
 - Object custody: unchanged.
 - Legal condition: no leaving Trostenwald.
-- Explicitly prohibited: new body, wound, payment, promise, confession, investigation clue, permanent lodging or party status.
+- Relationship state: Mielle wants friendship; no friendship, romance, trust pact, debt, ownership, party status or permanent support exists.
+- Prohibited: new body, wound, payment, exact shelter map, investigation clue, confession, permanent lodging.
 
-## Chapter-specific consequences if approved
+## Closed vs free
 
-- [x] Character state
-- [x] Relationship-state behavior note, with explicit non-status
-- [x] Knowledge ledger
-- [x] Event tile
-- [x] Open thread resolution / replacement
-
-## Closed vs free summary
-
-| Element | Closed decision | Free execution |
+| Element | Closed | Free |
 |---|---|---|
-| Outcome | one-night shelter accepted, no payment | exact wording |
-| Agency | Jester offers; Mielle accepts | minor response order |
-| Knowledge | prior inn stay false; location withheld | narrow suspicion |
+| Outcome | disclosure, offer and acceptance | exact wording and pauses |
+| Agency | Jester asks/offers; Mielle reveals/accepts | reaction order |
+| Knowledge | abandoned building known; exact location unknown | provisional suspicions |
+| Relationship | Mielle wants friendship; status unchanged | visible embarrassment and receptivity |
 | Power | none used | ordinary movement |
-| Relationship | care without status | warmth, silence, awkwardness |
-| Staging | escort, inn discussion, threshold | minor layout and texture |
+| Staging | escort, common room, threshold | minor layout and texture |
 
 ## Escalation check
 
-- [x] Applies the Chapter 05 amendment only.
-- [x] No new episode-level change.
-- [x] Ownership and counts explicit.
+- [x] Newest user decision applied.
+- [x] No source outcome changed.
+- [x] Ownership and knowledge limits explicit.
 - [x] Non-combat consequences explicit.
 - [x] Closed vs free marked.
