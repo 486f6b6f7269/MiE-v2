@@ -8,9 +8,10 @@ It does **not** decide tactics, power use, negotiation thresholds, character cho
 
 Read this file with:
 
+- `canon/prose/PROSE_SYSTEM.md` for page-level evidence, show-don't-tell blockers and revision order;
 - `canon/HOLMES_ENGINE.md` for observation, inference and uncertainty;
 - `canon/COMBAT_RULES.md` for action structure and battlefield logic;
-- `canon/ANTI_AI_PROSE_EDITING_FILTER.md` for revision;
+- `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md` for revision;
 - the chapter loadout for voice, continuity and source obligations.
 
 The approved C32–C35 prose from the former project is the main style reference. C36 may be used only as supplementary evidence of cadence because it remains unapproved and noncanonical.
@@ -135,7 +136,7 @@ Do not use dialogue to summarize the chapter, state its theme, or make every cha
 
 ## IX. Action and tension at the prose level
 
-`COMBAT_RULES.md` governs fight structure. This guide governs how the page feels.
+`canon/COMBAT_RULES.md` governs fight structure. This guide governs how the page feels.
 
 In action:
 

@@ -15,7 +15,7 @@ It is an editing filter. It is not:
 - a word blacklist applied without judgment;
 - permission to replace a character's voice with polished generic prose.
 
-Read it with `canon/MIELLE_PROSE_STYLE_GUIDE.md`. The style guide governs the intended voice and rhythm. This file finds damage that appears when a draft smooths, explains, decorates, or generalizes that voice away.
+Read it with `canon/prose/PROSE_SYSTEM.md` and `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`. The prose system governs page-level evidence and blocker rules. The style guide governs Mielle-lens voice and rhythm. This file finds damage that appears when a draft smooths, explains, decorates, or generalizes that voice away.
 
 ## I. Editing contract
 
@@ -31,6 +31,12 @@ Preserve:
 Change only the smallest amount needed to correct a real cluster of symptoms.
 
 A prose correction that alters canon, agency, source fidelity, POV, relationship framing, a material action, a power result, or a scene's causal chain is not a style correction. Return to the governing plan, source extraction, Canon Delta, scene card, combat pre-check, or continuity record.
+
+## Blocking issue: unsupported telling
+
+A draft fails audit if a material emotional, relational, tactical, inferential, power, injury, danger, authority, knowledge or consequence claim is told without prior or immediate on-page evidence.
+
+Repair by adding or restoring action, object, body, speech, omission, timing, cost, position or consequence. Do not repair by adding explanation.
 
 ## II. When to use it
 

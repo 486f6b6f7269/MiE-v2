@@ -6,7 +6,7 @@
 - [ ] Source extraction, episode map, episode Canon Delta and chapter mini delta loaded.
 - [ ] Relevant character dossiers, states, relationship state, setting, knowledge and event records loaded.
 - [ ] Relevant Power Guide modules, Holmes Engine and Combat Rules loaded or explicitly not applicable.
-- [ ] Mielle prose style guide loaded.
+- [ ] Prose package loaded: `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`, `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - [ ] Pre-draft Anti-AI guard completed.
 - [ ] Post-draft Silent Edit completed or not applicable.
 
@@ -48,6 +48,24 @@
 - [ ] Other characters retain their own dialogue rhythm.
 - [ ] The scene ends on a concrete remainder rather than a moral.
 - [ ] No source chapter phrasing or sentence pattern has been copied mechanically.
+
+## Show-don't-tell evidence audit
+
+Unsupported telling is a blocking issue.
+
+| Claim in prose | Type | On-page evidence | Pass / blocker | Repair |
+|---|---|---|---|---|
+|  | emotion / relation / combat / inference / power / authority / knowledge / consequence |  | pass / blocker |  |
+
+Blocking cases:
+
+- emotional label without behavior;
+- relationship label without changed behavior;
+- Holmes conclusion without clue and live uncertainty;
+- combat no-hit without cause;
+- power effect without mechanism;
+- exposition without front-story trigger;
+- thematic/moral ending that explains meaning instead of leaving a concrete remainder.
 
 ## Issues
 

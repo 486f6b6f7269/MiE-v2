@@ -21,7 +21,7 @@ Inside the Fletching and Moondrop carnival tent in Trostenwald during *Critical 
 - Character-state, relationship-state, knowledge, event-tile and open-thread controllers are active for approved-story updates.
 - Witness memory is recorded through event tiles and the knowledge ledger; no separate party-memory controller exists.
 - Workflow templates cover source verification, transcript extraction, both Delta levels, chapter planning, scene cards, combat pre-checks, loadouts, audits and approval records.
-- `canon/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md` preserves Mielle-lens scene texture while keeping canon dialogue and decisions character-specific.
+- `canon/prose/` contains the prose package: global prose system, Mielle prose style, Mielle voice, chapter prose/voice pass and Anti-AI editing filter.
 - `canon/characters/MIELLE.md` includes scene invariants and required pointers by scene type.
 
 ## Current task

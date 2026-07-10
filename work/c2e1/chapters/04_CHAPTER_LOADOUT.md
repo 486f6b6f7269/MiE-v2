@@ -136,9 +136,11 @@
 
 ## Prose and editing
 
-- `canon/MIELLE_PROSE_STYLE_GUIDE.md`
-- `canon/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
-- `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
+- `canon/prose/PROSE_SYSTEM.md`
+- `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`
+- `canon/prose/MIELLE_VOICE_GUIDE.md`
+- `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
+- `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
 - Anti-AI pre-draft guard: complete — `work/c2e1/chapters/04_PRE_DRAFT_GUARD.md`.
 
 ## Sequential draft verification passes
@@ -146,7 +148,7 @@
 1. Source and continuity pass: pending for the drafter.
 2. Character and relationship pass: pending for the drafter.
 3. Mechanics, Holmes and combat pass: pending for the drafter.
-4. Prose and voice pass: pending for the drafter.
+4. Prose and voice pass: pending for the drafter; must use the prose package and treat unsupported telling as a blocker.
 
 ## Active chapter artifacts
 

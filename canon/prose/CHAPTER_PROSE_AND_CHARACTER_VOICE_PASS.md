@@ -7,15 +7,16 @@ Use this file after scene planning and before a draft is treated as finished. It
 1. Mielle-lens prose that stays concrete, observant and physically present.
 2. Canon characters who speak, hesitate, joke, refuse and act from their own immediate habits rather than from one polished narrative voice.
 
-This is a production method, not a source of canon. Character dossiers, scene cards, Canon Delta, the chapter plan, the source extraction, the Mielle prose guide, the Mielle voice guide and the Anti-AI editing filter remain higher authorities for their own subjects.
+This is a production method, not a source of canon. Character dossiers, scene cards, Canon Delta, the chapter plan, the source extraction, the prose system, the Mielle prose guide, the Mielle voice guide and the Anti-AI editing filter remain higher authorities for their own subjects.
 
 ## Required reading
 
 Read this file with:
 
-- `canon/MIELLE_PROSE_STYLE_GUIDE.md`
-- `canon/MIELLE_VOICE_GUIDE.md`
-- `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
+- `canon/prose/PROSE_SYSTEM.md`
+- `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`
+- `canon/prose/MIELLE_VOICE_GUIDE.md`
+- `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
 - the chapter plan, mini delta, scene cards and loadout
 - `canon/characters/MIELLE.md` and `continuity/character_state/MIELLE_CURRENT.md` whenever Mielle appears, speaks, decides, is viewed, uses gear, is underestimated, or is affected
 - each present or decision-relevant character dossier before writing or revising that character's action, dialogue, witness reaction or silence
@@ -24,7 +25,7 @@ Read this file with:
 - `canon/COMBAT_RULES.md` whenever the scene contains combat, pursuit, physical threat, hostile magic, meaningful gear use or consequential power use
 - the approved chapter most similar in scene type, when one exists
 
-`canon/MIELLE_PROSE_STYLE_GUIDE.md` governs POV, rhythm and scene texture. `canon/MIELLE_VOICE_GUIDE.md` governs Mielle's speech patterns and dialogue failure modes during draft and revision.
+`canon/prose/PROSE_SYSTEM.md` governs page-level evidence and show-don't-tell blockers. `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md` governs Mielle-lens POV, rhythm and scene texture. `canon/prose/MIELLE_VOICE_GUIDE.md` governs Mielle's spoken voice and dialogue failure modes. `canon/HOLMES_ENGINE.md` governs inference authority. `canon/COMBAT_RULES.md` governs combat authority. `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md` governs revision diagnostics.
 
 Do not use a previous draft as a phrase bank. Preserve methods, not wording.
 
