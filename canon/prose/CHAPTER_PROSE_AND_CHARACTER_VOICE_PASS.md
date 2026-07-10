@@ -55,7 +55,7 @@ A quiet social scene still needs movement. Useful movements include:
 - a concealed fact becomes visible;
 - an invitation changes the available route;
 - a person leaves a question unanswered;
-- a physical remainder is carried out of the room.
+- a physical remainder is carried into the next beat.
 
 ## Protect causal sequence
 
@@ -82,7 +82,7 @@ When a reading has not earned certainty, let the prose stop where the evidence s
 - a person waited too long before answering;
 - a coin was accepted without inspection.
 
-The narration does not need to say what the room “realized,” what a silence “meant,” or what relationship has formed when people have only shared a brief exchange.
+The narration does not need to say what everyone “realized,” what a silence “meant,” or what relationship has formed when people have only shared a brief exchange.
 
 Emotion should arrive through timing, body, attention, omission and the next small choice. Mielle can be embarrassed without naming embarrassment. She can accept care by not leaving the space that remains open to her. She can be curious without giving the reader a conclusion about trust.
 
@@ -107,9 +107,9 @@ When a source-required interaction changes later behavior, give it page time.
 
 Do not write:
 
-> They talked for a while, and the room grew easier.
+> They talked for a while, and everything grew easier.
 
-Write the small action that makes the room less one-sided: a question, a bad joke, a practical answer, a chair moved, a name offered, a hand kept away from a weapon, a cup passed without comment.
+Write the small action that makes the exchange less one-sided: a question, a bad joke, a practical answer, a chair moved, a name offered, a hand kept away from a weapon, a cup passed without comment.
 
 Summarize only the connective material that carries no decision, contact, knowledge change, complication or physical remainder. A chapter should not flatten a canon character's first source beat just because Mielle has a vivid internal voice.
 
@@ -131,9 +131,30 @@ Do not move a source character's job into Mielle's narration because she can obs
 
 ### Jester
 
-Jester sees a condition and makes contact. She asks, offers, points, draws, includes, jokes, or turns a strange thing into something shared before she has worked out the polite version.
+Jester sees a condition and makes contact before she has the careful version of the line. She asks, offers, points, draws, includes, jokes, pays, repeats herself, names the obvious thing too loudly, or turns a strange detail into something shared.
 
-Her kindness is direct and concrete. She can pay for food, invite a stranger, repeat herself, ask an awkward question or react with immediate delight. Do not make her speak like a counselor explaining boundaries or emotional needs. Do not make every line a joke that lands perfectly.
+Her kindness is direct and concrete. She can buy food, invite a stranger, defend someone, or cover for someone before she has measured the social cost. Do not make her speak like a counselor, lawyer, diplomat, or tactical coordinator unless the scene has already forced that exact mode.
+
+Her speech often moves faster than the safest answer. She may add color, an extra reason, a public guess, a weird detail, or a too-warm explanation because she is trying to help right now. When she protects someone under pressure, the line should not be the cleanest possible lie. It should be an impulsive cover that catches the person before they fall and may leave a small new problem for the others to manage.
+
+Use this test for protective Jester lines:
+
+- Does she act from the concrete thing she just noticed?
+- Did she speak before the group agreed on a shared version?
+- Is there warmth or curiosity in the line, not pity?
+- Could the sentence create a small complication because she said too much, guessed too publicly, or trusted the cover too quickly?
+
+Good direction:
+
+> “She's with us, she just came from a really really distant place and now she is staying with us.”
+
+Bad direction:
+
+> “She's with us.”
+
+The bad version may solve the scene, but it is too clean for Jester unless she is repeating a plan someone else just gave her. It removes the excess that makes her help feel like Jester rather than a function assigned by the chapter plan.
+
+Do not reduce the excess to random nonsense. Jester's messy line still needs an immediate purpose: include, protect, feed, invite, distract, reassure, get an answer, or make the scary thing less still.
 
 Useful test: could her line begin with what she has just noticed, rather than a general statement about the person?
 
@@ -141,7 +162,7 @@ Useful test: could her line begin with what she has just noticed, rather than a 
 
 Fjord waits long enough to see the practical problem, then narrows it with a short question, a route, a caution or an answer that leaves room to retreat. His jokes usually answer someone else's excess.
 
-Do not make him a constant leader, a smooth interrogator or a man who explains the social meaning of the room. Let him ask what matters now: cost, direction, timing, risk, capacity, exit, or whether a plan can work.
+Do not make him a constant leader, a smooth interrogator or a man who explains the social meaning of the situation. Let him ask what matters now: cost, direction, timing, risk, capacity, exit, or whether a plan can work.
 
 ### Beau
 
@@ -153,7 +174,7 @@ Her lines should have friction without becoming a parade of insults. She is not 
 
 Caleb gives the useful fragment, not a polished explanation. He protects Nott through placement, timing, a hand near an object, a compact correction, a practical question or a limit stated without ceremony.
 
-He may qualify, redirect or delay. He does not make an early room safe by explaining himself. His dry humor should arrive sideways and sparingly.
+He may qualify, redirect or delay. He does not make an early encounter safe by explaining himself. His dry humor should arrive sideways and sparingly.
 
 ### Nott
 
@@ -221,7 +242,7 @@ Change only the lines that fail. Preserve a line when it already belongs to the 
 
 Watch for these recurring failures:
 
-- narration announcing that a room changed instead of staging the change;
+- narration announcing that a group changed instead of staging the change;
 - a kindness explained after the action already showed it;
 - characters all answering with the same polished restraint;
 - a source beat summarized while Mielle receives all the active dialogue;
