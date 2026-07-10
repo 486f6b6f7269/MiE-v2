@@ -118,6 +118,7 @@ Rules:
 ## Prose and editing
 
 - `canon/MIELLE_PROSE_STYLE_GUIDE.md`
+- `canon/MIELLE_VOICE_GUIDE.md`
 - `canon/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/ANTI_AI_PROSE_EDITING_FILTER.md`
 - Anti-AI pre-draft guard: complete / pending
@@ -129,7 +130,7 @@ Run after the factual scene sequence exists and before the draft is handed over.
 1. **Source and continuity pass:** transcript/source obligations, chapter plan, mini delta, event tiles, ledger, current state and open threads. Check order, agency, knowledge, material facts and chapter boundary.
 2. **Character and relationship pass:** Mielle dossier/state, each present character dossier/state and relationship state. Check Mielle personality, voice, gear, drawbacks, constraints/geasa where present, first-impression-underestimation, action, speech, reactions, social distance and what no one can know.
 3. **Mechanics, Holmes and combat pass:** Power Guide and exact modules, Holmes Engine, Combat Rules and pre-check. Check capabilities, non-use decisions, physical possession, inference limits, tactical claims, evasion, injury/no-hit results, damage, resistance and future-combat leakage.
-4. **Prose and voice pass:** Mielle prose guide, chapter voice pass and Anti-AI filter. Rewrite only expression, rhythm, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue.
+4. **Prose and voice pass:** Mielle prose guide, Mielle voice guide, chapter voice pass and Anti-AI filter. Rewrite only expression, rhythm, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue.
 
 ## Read receipt
 
