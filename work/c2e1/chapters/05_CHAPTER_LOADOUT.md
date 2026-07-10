@@ -7,6 +7,7 @@
 - Chapter plan: `work/c2e1/chapters/05_CHAPTER_PLAN.md`
 - Chapter mini delta: `work/c2e1/chapters/05_CHAPTER_MINI_DELTA.md`
 - Scene cards: `work/c2e1/chapters/05_SCENE_CARDS.md`
+- Draft: `work/c2e1/chapters/05_DRAFT.md`
 - Combat pre-check: `work/c2e1/chapters/05_COMBAT_PRECHECK.md` — not applicable; no combat, pursuit, physical threat, hostile magic, injury, evasion, no-hit result, damage or tactical prediction occurs.
 
 ## Source and adaptation
@@ -63,14 +64,14 @@ Mielle checks: first-person voice; shame and anxiety; positive internal orientat
 
 | Scene need | Invariant at point of use | Location |
 |---|---|---|
-| Post-combat witness state | Present cast cannot reset to clean underestimation; they know concrete combat ability but not mechanism or ceiling. | Scene knowledge maps |
-| Clumsiness | Outside danger Mielle is genuinely awkward; one small practical cost, no slapstick or competence reset. | Scene 1 pressure/outcome |
-| Bokken | Same physical bokken remains at left hip; no recall, duplicate, transfer or special combat property. | All object-custody fields |
-| Backpack / Bag | Backpack remains with Mielle; Bag is unused and creates no money, food or lodging. | Mechanics fields |
-| Local knowledge | Mielle does not know lodging prices, law or custom without being told; coins remain unvalued. | Setting and payment rows |
-| Shelter disclosure | Jester's direct, genuine question gives Mielle a reason to reveal the abandoned-building fact; exact location remains protected. | Scene 2 agency and knowledge maps |
-| Social care | Mielle wants friendship with Jester, but care and proximity do not establish friendship, romance, debt, trust, ownership or party status. | Relationship rows and end state |
-| System names | No Haki, Soulbond, Bag, Holmes or archive explanation. | Prohibited capabilities and prose guard |
+| Post-combat witness state | Present cast cannot reset to clean underestimation; they know concrete combat ability but not mechanism or ceiling. | Draft walk reactions and dialogue |
+| Clumsiness | Outside danger Mielle is genuinely awkward; one small practical cost, no slapstick or competence reset. | Draft escort and stair beats |
+| Bokken | Same physical bokken remains at left hip; no recall, duplicate, transfer or special combat property. | Draft throughout |
+| Backpack / Bag | Backpack remains with Mielle; Bag is unused and creates no money, food or lodging. | Draft coin retrieval and threshold |
+| Local knowledge | Mielle does not know lodging prices, law or custom without being told; coins remain unvalued until Jester identifies three coppers and one button. | Draft payment attempt |
+| Shelter disclosure | Jester's direct, genuine question gives Mielle a reason to reveal the abandoned-building fact; exact location remains protected. | Draft inn exchange |
+| Social care | Mielle wants friendship with Jester, but care and proximity do not establish friendship, romance, debt, trust, ownership or party status. | Draft internal line and final boundary |
+| System names | No Haki, Soulbond, Bag, Holmes or archive explanation. | Draft entire chapter |
 
 ## Setting and faction
 
@@ -95,7 +96,7 @@ Mielle checks: first-person voice; shame and anxiety; positive internal orientat
 | Control | Owner | Status | Note |
 |---|---|---|---|
 | Outcome authority | Canon Delta amendment | pass | direct question, disclosure, invitation, acceptance, no payment, relationship non-result |
-| Prose-scale board | plan / scene cards | pass | escort, inn front room, room threshold |
+| Prose-scale board | plan / scene cards | pass | escort, inn front area, threshold |
 | Final state | scene cards | pass | knowledge, legal state, custody and relationship limits closed |
 | Non-combat consequences | plan / mini delta / scene cards | pass | shelter disclosure and one-night arrangement |
 | Ownership | all planning artifacts | pass | Jester asks/offers; Mielle reveals/accepts |
@@ -108,26 +109,26 @@ Mielle checks: first-person voice; shame and anxiety; positive internal orientat
 
 ## Decision-to-authority check
 
-| Planned decision or fact | Source / planning obligation | Governing rule | Continuity and witness limit | Draft may show | Draft must not imply | Status |
+| Planned decision or fact | Source / planning obligation | Governing rule | Continuity and witness limit | Draft shows | Draft does not imply | Status |
 |---|---|---|---|---|---|---|
 | Escort reaches Nestled Nook | C2E1 endpoint / Ch04 | Crownsguard legal control | escort witnesses only | guarded route and delivery | new arrest, violence or clearance | pass |
 | Guards leave after destination confirmed | bridge requirement | source boundary | no later legal conclusion | escort ending at inn | investigation resolved | pass |
-| Jester asks where Mielle has actually stayed | newest user decision | `JESTER.md` direct curiosity and care | asked only after guards leave | sincere, socially unfiltered question | accusation, manipulation or interrogation | pass |
-| Mielle blushes before answering | newest user decision | Mielle embarrassment / voice / social anxiety | visible to present group | bodily shame and hesitation | romantic certainty or childishness | pass |
-| Mielle reveals abandoned building for two days | newest user decision; `C2E1_STARTING_STATE.md` | Mielle owns disclosure | Jester/Fjord/Beau/Caleb/Nott hear; exact location withheld | concrete material fact | route, legal status, origin or full history | pass |
-| Mielle answers because Jester is genuine | newest user decision | Mielle positive orientation toward Jester | internal Mielle POV only | evasion becoming harder; choice to trust this question | mind-reading or settled mutual trust | pass |
-| Fjord reacts practically | cast agency | `FJORD.md` | knows shelter fact only | short risk question or observation | captaincy or authority over Mielle | pass |
-| Beau reacts bluntly and stops | cast agency | `BEAUREGARD.md` | knows shelter fact only | rude concern, disbelief or one test | polished interrogation or solved biography | pass |
-| Caleb leaves disclosure controlled | cast agency | `CALEB.md` | no private-history disclosure | quiet recognition and refusal to press | immediate confidant role | pass |
-| Nott reacts independently | cast agency | `NOTT.md` | knows same material fact | wary recognition, fear or odd humor | random comic relief or group verdict | pass |
-| Jester offers one night in her room | newest user decision / amendment | Jester social initiative | present group witnesses | concrete temporary offer after hearing shelter condition | permanent support, friendship declaration, ownership or romance | pass |
-| Mielle wants to become Jester's friend | newest user decision | Mielle internal state | not automatically known to others | internal receptivity, desire to remain near, difficulty initiating | friendship already mutual or established | pass |
-| Mielle offers coins or asks cost | local ignorance and embarrassment | `MIELLE.md`; inventory files | coin value remains unknown | attempt to reduce obligation | established price or payment | pass |
-| Mielle accepts one night | amendment | Mielle agency | witnesses know temporary acceptance | explicit bounded consent | debt, trust pact, party membership or friendship achieved | pass |
-| Bokken remains at hip | approved Ch04 custody | Mielle / Soulbond invariant | ordinary visible possession | carrying the same item | recall, duplicate or special property | pass |
-| Clumsy beat returns | Mielle invariant | `MIELLE.md` | observers already saw combat | small catch/bump and embarrassment | incompetence reset, slapstick or eye cause | pass |
-| No power use or explanation | chapter scope | power modules | witnesses retain prior observations only | silence and ordinary handling | system names, mechanics or ceiling | pass |
-| Molly and Yasha remain absent | approved Ch04 positions | current continuity | no knowledge of conversation | causal absence | automatic group memory | pass |
+| Jester asks where Mielle stayed | newest user decision | `JESTER.md` | after guards leave | direct, sincere question | accusation or manipulation | pass |
+| Mielle blushes before answering | newest user decision | Mielle embarrassment / anxiety | visible to present group | bodily heat, delay, glasses adjustment | romantic certainty or childishness | pass |
+| Mielle reveals abandoned building for two days | newest user decision; `C2E1_STARTING_STATE.md` | Mielle owns disclosure | present group hears; exact location withheld | concrete shelter fact | route, legal status, origin or full history | pass |
+| Mielle answers because Jester is genuine | newest user decision | Mielle positive orientation | internal POV only | rejected evasions and voluntary answer | mind-reading or settled trust | pass |
+| Fjord reacts practically | cast agency | `FJORD.md` | shelter fact only | town/location and guard-access questions | captaincy over Mielle | pass |
+| Beau reacts bluntly and stops | cast agency | `BEAUREGARD.md` | shelter fact only | roof question and dry pushback | solved biography or extended interrogation | pass |
+| Caleb keeps disclosure controlled | cast agency | `CALEB.md` | no private history | one practical question and no location demand | confidant role | pass |
+| Nott reacts independently | cast agency | `NOTT.md` | same material fact | rats, button and thief humor | random noise or group verdict | pass |
+| Jester offers one night | newest user decision / amendment | Jester initiative | present group witnesses | immediate bounded invitation | permanent support, friendship declaration, ownership or romance | pass |
+| Mielle wants friendship | newest user decision | Mielle internal state | not automatically known | one direct internal fact followed by uncertainty | reciprocal or established friendship | pass |
+| Mielle offers coins | local ignorance and embarrassment | `MIELLE.md`; inventory files | value unknown to Mielle | three coppers and one mistaken button identified | completed payment or lodging price | pass |
+| Mielle accepts one night | amendment | Mielle agency | witnesses know temporary acceptance | repeated one-night boundary and threshold choice | debt, party membership or friendship achieved | pass |
+| Bokken remains at hip | approved Ch04 custody | Mielle / Soulbond invariant | ordinary visible possession | belt, post and railing contact | recall, duplicate or special property | pass |
+| Clumsiness returns | Mielle invariant | `MIELLE.md` | witnesses saw prior combat | post/cloak stumble and stair contact | incompetence reset, slapstick or eye cause | pass |
+| No power use or explanation | chapter scope | power modules | prior observations only | ordinary carrying and discreet capability thought only | named systems, effects or ceiling | pass |
+| Molly and Yasha absent | approved Ch04 positions | continuity | no knowledge of exchange | neither appears | automatic group memory | pass |
 
 ## Prose and editing
 
@@ -136,7 +137,7 @@ Mielle checks: first-person voice; shame and anxiety; positive internal orientat
 - `canon/prose/MIELLE_VOICE_GUIDE.md`
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
-- Anti-AI pre-draft guard: complete after revision.
+- Anti-AI pre-draft guard: complete.
 
 ## Pre-draft prose receipt
 
@@ -148,27 +149,42 @@ Mielle checks: first-person voice; shame and anxiety; positive internal orientat
 - [x] Shelter exposition is triggered by Jester's direct question and the approved lodging contradiction.
 - [x] Unsupported telling is a blocker.
 
-### Likely failure pressures identified
-
-- Do not begin with a recap of the fight or a statement about belonging.
-- Do not have Fjord take Jester's question away from her.
-- Do not make Jester sound careful, therapeutic or knowingly strategic.
-- Do not explain Mielle's blush after the physical evidence and answer already show it.
-- Do not use the blush as automatic romance coding.
-- Do not make all four secondary reactions equally long or equally polished.
-- Do not turn the abandoned building into a melodramatic misery speech.
-- Do not state that Mielle and Jester are friends. Show Mielle wanting contact and failing to initiate it.
-- Do not give Mielle a perfect dry closing line after accepting.
-- End on the physical threshold, not an explanation of what it symbolizes.
-
 ## Sequential draft verification passes
 
-Pending until a draft exists:
+### 1. Source and continuity pass — complete
 
-1. Source and continuity pass.
-2. Character and relationship pass.
-3. Mechanics and non-use pass.
-4. Prose and voice pass.
+- Draft begins directly after Chapter 04 escort departure.
+- Crownsguard deliver the group to the Nestled Nook and preserve the no-leaving order.
+- No C2E2 discovery or carnival custody outcome enters.
+- Molly and Yasha remain absent.
+- Shelter history, item custody and witness knowledge match approved continuity and planning.
+
+### 2. Character and relationship pass — complete
+
+- Jester asks and offers from immediate curiosity and care, without polished therapeutic language.
+- Fjord narrows practical risk without taking command of Mielle.
+- Beau uses blunt concern and stops before interrogation.
+- Caleb protects disclosure limits and Nott's position.
+- Nott moves between fear, opportunism and humor without losing intelligence.
+- Mielle wants friendship but neither narrates nor receives an established friendship, romance, debt or group status.
+
+### 3. Mechanics and non-use pass — complete
+
+- No combat, Haki, Soulbond recall, Bag access, powered inference, defense or resistance occurs.
+- Bokken remains the same physical item at Mielle's hip.
+- Backpack and coins remain with Mielle.
+- The draft identifies three coppers and one button through Jester's ordinary local knowledge; no payment occurs and no lodging price is established.
+- A first-pass overreach involving an unplanned touch and an implied quoted lodging price was removed before completion.
+
+### 4. Prose and voice pass — complete
+
+- Chapter begins from the loose buckle and active escort, not recap or theme.
+- Material emotion and relationship claims are supported by position, delay, questions, objects, silence and choices.
+- Dialogue rhythms remain distinct across Jester, Fjord, Beau, Caleb and Nott.
+- Mielle's dry humor follows immediate objects and mistakes.
+- The abandoned building is stated without a misery speech.
+- Ending remains on the physical threshold and closed door, without explaining its future meaning.
+- Silent Anti-AI edit completed; no additional smoothing applied after the authority corrections.
 
 ## Read receipt
 
@@ -178,7 +194,9 @@ Pending until a draft exists:
 - [x] Mielle invariants copied to point of use.
 - [x] Setting and legal conditions covered.
 - [x] Gear and capability non-use covered.
-- [x] Newest user decision reconciled at Canon Delta, plan, mini delta and scene-card levels.
+- [x] Newest user decision reconciled at Canon Delta, plan, mini delta, scene-card and draft levels.
 - [x] Decision-to-authority rows pass.
 - [x] Revised pre-draft guard passes.
-- [ ] Draft not started. Stop here until the user requests prose.
+- [x] Draft written.
+- [x] Four sequential draft verification passes completed.
+- [ ] Audit not started.
