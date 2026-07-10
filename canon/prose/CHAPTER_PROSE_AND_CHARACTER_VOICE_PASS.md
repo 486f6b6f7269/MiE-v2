@@ -144,11 +144,17 @@ Use this test for protective Jester lines:
 - Is there warmth or curiosity in the line, not pity?
 - Could the sentence create a small complication because she said too much, guessed too publicly, or trusted the cover too quickly?
 
-C2E1 anchor quote:
+Canon quote markers, not a phrase bank:
 
 > “It's because you smell really bad, and it's wafting over this direction.”
+>
+> “We're a group, you guys!”
+>
+> “I'm a really good liar.”
+>
+> “You pooping?”
 
-This quote is not a reusable line. It is evidence of timing: Jester names the awkward obvious thing, explains why she said it, and keeps moving socially before anyone else has made the interaction safe.
+These quotes point to texture: blunt observation, over-fast inclusion, transparent mischief, bodily directness, and social timing that arrives before the safe version. Do not reuse the quotes themselves in MiE prose unless source adaptation explicitly calls for that moment.
 
 Bad direction:
 
