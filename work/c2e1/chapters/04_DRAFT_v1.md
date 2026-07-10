@@ -216,7 +216,7 @@ It did not free him. It did make one of the guards frown, which I suspected was 
 
 The guard line opened toward the main flap. Cold air came in low across the dirt and touched the hem of my cloak. The lanterns threw every shadow long enough that the bodies on the ground seemed to reach for the tent wall. No one stepped near them.
 
-I looked once at my sword on the ground, them at the guard. He looked back at me and gave me a little nod.
+I looked once at my sword on the ground, then at the guard. He looked back at me and gave me a little nod.
 
 It lay where I had left it, partly dusted by the guard's boot. I picked up from the ground and used my already dirtied cloak to clean the superficial dirt and slid the bokken to the black cloth belt around my waist.
 
