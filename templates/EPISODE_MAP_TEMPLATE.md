@@ -2,10 +2,20 @@
 
 ## Inputs
 
+- Controlling Arc Map:
+- Arc function assigned to this episode:
 - Transcript extraction:
 - Source notes:
 - Current continuity:
 - Exact files consulted:
+
+## Arc boundary receipt
+
+- Entry state inherited from Arc Map:
+- Exit obligations passed to later episodes:
+- Delayed revelations that remain closed:
+- Arc-level agency ownership that this episode must preserve:
+- Arc-level change flags reaching this episode:
 
 ## Episode contract
 
@@ -37,3 +47,9 @@
 ## Later-dependent consequences
 
 ## Open questions for Canon Delta
+
+## Episode Map boundary
+
+- This file may divide the episode into chapters and map episode-scale pressure, agency and information movement.
+- It may not change the Arc Map’s cross-episode causal chain, revelation schedule, entry/exit obligations or agency ownership without returning to the Arc Map.
+- It may not decide final scene prose or exact power execution.
