@@ -144,9 +144,11 @@ Use this test for protective Jester lines:
 - Is there warmth or curiosity in the line, not pity?
 - Could the sentence create a small complication because she said too much, guessed too publicly, or trusted the cover too quickly?
 
-Good direction:
+C2E1 anchor quote:
 
-> “She's with us, she just came from a really really distant place and now she is staying with us.”
+> “It's because you smell really bad, and it's wafting over this direction.”
+
+This quote is not a reusable line. It is evidence of timing: Jester names the awkward obvious thing, explains why she said it, and keeps moving socially before anyone else has made the interaction safe.
 
 Bad direction:
 
