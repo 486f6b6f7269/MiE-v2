@@ -250,13 +250,9 @@ She said it softly enough that the answer did not become another joke for everyo
 
 Beau looked toward the counter. "How much for another bed?"
 
-The woman named a number.
+The woman drew breath to answer.
 
-It meant nothing to me. I knew it was a number. I knew Beau's expression sharpened slightly and Fjord's did not. I knew Jester did not look at either of them.
-
-She looked at me.
-
-"You can stay with me."
+"You can stay with me," Jester said.
 
 The sentence went through every defense I had prepared and found none of them facing the right direction.
 
@@ -328,17 +324,15 @@ Nott slipped out from behind Caleb far enough to examine the evidence.
 
 I closed the cloth over the coins and button.
 
-Jester put her hand over mine before I could return them to the backpack. Not gripping. Just stopping the motion for one second.
+"You don't have to pay me," Jester said.
 
-"You don't have to pay me."
+I looked at her.
 
-My hand forgot what it had been doing.
-
-Her palm was warm. There was dried dirt along the side of one finger and a faint smear of dark blood near her wrist that neither of us had noticed until then.
+There was dried dirt along the side of one finger and a faint smear of dark blood near her wrist that neither of us had noticed until then. She did not look embarrassed by the offer. She did not look as though she had done anything unusual.
 
 I wanted to be her friend.
 
-The thought arrived without permission and with none of the useful instructions that usually came with a fact. It did not tell me how to become one. It did not explain whether she wanted the same thing. It only made the space beneath her hand harder to leave.
+The thought arrived without permission and with none of the useful instructions that usually came with a fact. It did not tell me how to become one. It did not explain whether she wanted the same thing. It only made leaving the offered space harder.
 
 "I do not want to become an obligation," I said.
 
@@ -420,11 +414,7 @@ The woman at the counter lifted her cup toward Jester. "No fire. No blood on the
 
 "Oh. That is fair."
 
-She released my hand.
-
-The absence remained warm for several seconds.
-
-"So," she said, and turned toward the stairs. "Do you need anything from the abandoned building?"
+"So," Jester said, and turned toward the stairs. "Do you need anything from the abandoned building?"
 
 "No."
 
