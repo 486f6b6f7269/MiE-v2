@@ -2,7 +2,7 @@
 
 ## Project status
 
-C2E1 Chapters 01, 02 and 03 are approved and promoted. The story is inside the carnival tent in Trostenwald, immediately after the transformation attack and Crownsguard lockdown.
+C2E1 Chapters 01, 02, 03 and 04 are approved and promoted. The story is outside the Fletching and Moondrop carnival tent in Trostenwald, immediately after Crownsguard questioning. The source group and Mielle are being escorted toward the Nestled Nook under restriction not to leave Trostenwald.
 
 ## Read order
 
@@ -31,7 +31,10 @@ The Critical Role transcript is the primary source for original canon events. Th
 - Chapter 03 prose: `chapters/approved/03_The_curious_show.md`
 - Chapter 03 record: `chapters/approved/03_The_curious_show_APPROVED_RECORD.md`
 - Chapter 03 witness event: `continuity/events/C2E1-C03_THE_CURIOUS_SHOW.md`
+- Chapter 04 prose: `chapters/approved/04_Under_investigation.md`
+- Chapter 04 record: `chapters/approved/04_Under_investigation_APPROVED_RECORD.md`
+- Chapter 04 witness event: `continuity/events/C2E1-C04_UNDER_INVESTIGATION.md`
 
 ## Current task
 
-Prepare the next requested C2E1 step from the post-Chapter-03 state. Do not draft the next chapter before its required source slice, Canon Delta check, chapter plan, mini delta, scene cards, loadout and any required combat or threat pre-check are complete.
+Prepare the next requested C2E1 step from the post-Chapter-04 state. Do not draft the next chapter before its required source slice, Canon Delta check, chapter plan, mini delta, scene cards, loadout and any required combat or threat pre-check are complete.
