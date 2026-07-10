@@ -20,3 +20,10 @@ Toya sings. An old man transforms during the performance. Jester acts first with
 
 - Approved source: `chapters/approved/03_The_curious_show.md`
 - Witness detail: `continuity/events/C2E1-C03_THE_CURIOUS_SHOW.md`
+
+## C2E1 Chapter 04 — Under investigation
+
+Crownsguard take control of the tent and question witnesses. The Watchmaster separates Flynn's panic account from proof: Flynn saw the transformations happen at the carnival, but did not see the carnival cause them. Gustav identifies himself as the person who runs the show. Bo and Molly remain on the carnival side under guard pressure. Yasha names Toya and leaves with Flynn to bring her back. The source group and Mielle say they do not know the cause. Fjord gives the Nestled Nook as the group's lodging. When the Watchmaster asks about Mielle, Jester covers for her too quickly and too warmly, saying Mielle is with them at the Nestled Nook. Mielle confirms the answer. The Watchmaster records Mielle with the Nestled Nook, orders them not to leave Trostenwald, and has them escorted out. Before leaving, Mielle recovers the bokken by ordinary hand after a guard's nod. She leaves the tent with the bokken at her waist and the Nestled Nook cover pulling her toward an inn where she had not slept.
+
+- Approved source: `chapters/approved/04_Under_investigation.md`
+- Witness detail: `continuity/events/C2E1-C04_UNDER_INVESTIGATION.md`
