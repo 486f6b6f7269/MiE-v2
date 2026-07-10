@@ -131,7 +131,7 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 
 - Template: `templates/CHAPTER_LOADOUT_TEMPLATE.md`.
 - Use when: immediately before prose.
-- Read: Base production load; chapter plan; chapter mini delta; scene cards; combat pre-check if any; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; every exact file required under the Matrix headings; `canon/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/ANTI_AI_PROSE_EDITING_FILTER.md`.
+- Read: Base production load; chapter plan; chapter mini delta; scene cards; combat pre-check if any; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; every exact file required under the Matrix headings; `canon/prose/PROSE_SYSTEM.md`; `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/prose/MIELLE_VOICE_GUIDE.md`; `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - May change: only chapter loadout.
 - Output: exact paths and sections required for draft, grouped under source/adaptation, continuity, character/relationship, setting/faction, power/Holmes/combat, prose/editing and active chapter artifacts; plus a passing decision-to-authority check for every conflict-prone chapter fact, including first impressions, visible Mielle traits, character voice, power use, power non-use and deliberate underestimation.
 - Must not: summarize canon into new facts, leave a vague conditional reference, replace reading listed files with a summary, or let a conflict-prone fact reach prose without a completed authority row.
@@ -145,7 +145,7 @@ A template is structure, not canon. Fill only sections that the task has evidenc
   1. **Factual scene pass.** Read source/adaptation, continuity and chapter artifacts. Build the scene’s causal sequence, agency, material facts, knowledge boundaries and ending. This may be skeletal prose, but it must already obey the decision-to-authority check.
   2. **Character pass.** Read Mielle’s dossier/state, each decision-relevant character dossier/state, relationship state, ledger and event tiles one at a time. Correct action, dialogue, reaction, social distance, first-impression treatment and knowledge before treating sentences as final.
   3. **Mechanics and inference pass.** Read Power Guide, exact modules, Holmes Engine, Combat Rules and pre-check one at a time. Correct power use, deliberate non-use, possession, physical consequences, inference, evasion, resistance, injury/no-hit result and threat boundaries. A conflict returns to planning; it is not smoothed over in prose.
-  4. **Prose pass.** Read the Mielle prose guide, chapter voice pass and Anti-AI filter one at a time. Rewrite expression, rhythm, scene clarity and dialogue texture only. This pass cannot create or solve story facts.
+  4. **Prose pass.** Read `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md` and `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md` one at a time. Rewrite expression, rhythm, scene clarity, evidence support and dialogue texture only. This pass cannot create or solve story facts.
 - May change: draft only.
 - Output: `XX_DRAFT.md` and a completed pre-draft-guard receipt in the loadout or audit record. The loadout records completion of the four verification passes.
 - Must not: update continuity, alter canon without delta, give characters unsupported knowledge, copy transcript dialogue as prose, use the Anti-AI filter to invent texture, stakes, dialogue or events, or begin prose before decision authority is reconciled.
@@ -154,7 +154,7 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 
 - Template: `templates/AUDIT_TEMPLATE.md`.
 - Use when: after a complete draft.
-- Read: Base production load; draft; loadout; chapter plan; chapter mini delta; scene cards; combat pre-check if any; transcript extraction; episode map; episode Canon Delta; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; relevant canon, continuity, setting, character, relationship, event, knowledge, power, Holmes, combat, prose and Anti-AI files.
+- Read: Base production load; draft; loadout; chapter plan; chapter mini delta; scene cards; combat pre-check if any; transcript extraction; episode map; episode Canon Delta; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; relevant canon, continuity, setting, character, relationship, event, knowledge, power, Holmes, combat and prose-package files.
 - May change: audit only.
 - Output: issue list with severity, evidence, governing source and required correction.
 - Must not: invent facts, promote memory, silently revise story decisions, or call a problem style-only when its correction changes canon, agency, POV, relationship framing, knowledge control or mechanics.
@@ -163,7 +163,7 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 
 - Template: no separate template. Revise the existing draft and audit record, then run the Anti-AI Silent Edit.
 - Use when: audit identifies a correction.
-- Read: Base production load; draft; audit; every source named by an issue; chapter loadout; character dossier for every revised speaker or actor; exact Power Guide module for every revised power, defense, injury/no-hit result, evasion, damage, gear state or non-use; Anti-AI filter.
+- Read: Base production load; draft; audit; every source named by an issue; chapter loadout; character dossier for every revised speaker or actor; exact Power Guide module for every revised power, defense, injury/no-hit result, evasion, damage, gear state or non-use; `canon/prose/PROSE_SYSTEM.md`; `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - May change: revised draft and audit resolution status.
 - Output: new draft version, resolved audit and completed Anti-AI Silent Edit receipt.
 - Must not: introduce a canon change without returning to the needed planning document, or continue polishing once the filter’s stop condition is met.
