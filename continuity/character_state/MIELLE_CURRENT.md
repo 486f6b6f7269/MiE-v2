@@ -7,7 +7,7 @@
 
 ## What she remembers
 
-- She entered the Nestled Nook hungry and uncertain whether four unfamiliar coins could buy food. Jester paid for breakfast only after Mielle accepted.
+- She entered the Nestled Nook hungry and uncertain whether four unfamiliar round objects could buy food. She assumed all four were coins but had not verified that assumption. Jester paid for breakfast only after Mielle accepted.
 - She met Jester, Fjord, Beau, Caleb, Nott, Mollymauk and Yasha.
 - She learned Trostenwald, Zadash and the carnival's broad location east of Lochward on the south bank.
 - Jester offered one carnival admission and paid it directly at the gate.
@@ -36,7 +36,7 @@
 
 ## What she does not know
 
-- The actual value of her coins, broad local geography, private histories or motives of anyone she met.
+- Whether all four small round objects are actually coins, their local value, broad local geography, private histories or motives of anyone she met.
 - Why the old man transformed, why the young woman rose after death, whether Toya's song matters, whether the first creature caused the second transformation, or what rule governs the danger.
 - What Crownsguard will ask next, whether Toya is in danger, whether Gustav, Bo and Molly will be detained, or whether the group will accept the practical consequence of the Nestled Nook cover.
 - What Fjord, Beau, Caleb, Nott, Jester, Yasha or Molly will ask, avoid asking or infer after the escort.
@@ -73,4 +73,4 @@
 
 ## Last updated
 
-After approved C2E1 Chapter 04, `Under investigation`.
+After approved C2E1 Chapter 04, `Under investigation`. The inventory clarification is a retrospective correction of Mielle's assumption, not a promoted Chapter 05 event.
