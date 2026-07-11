@@ -7,43 +7,52 @@
 - Episode Map: `work/c2e1/EPISODE_MAP.md`
 - Source note: `work/c2e1/chapters/05_SOURCE_RETURN_NOTE.md`
 - Approved continuity through Chapter 04.
-- Newest user decision: after the guards leave, Jester directly and innocently asks where Mielle has actually been staying; Mielle blushes from embarrassment and tells the group about the abandoned building she has used for the last two days; Jester then invites her to stay in Jester's room. Mielle already wants to become Jester's friend, but shame, fear and anxiety keep her from initiating that closeness.
+- Newest user decisions:
+  - after the guards leave, Jester directly and innocently asks where Mielle has actually been staying;
+  - Mielle blushes from embarrassment and tells the group about the abandoned building she has used for the last two days;
+  - Jester then invites her to stay in Jester's room;
+  - Mielle already wants to become Jester's friend, but shame, fear and anxiety keep her from initiating that closeness;
+  - the button beat is approved: Mielle believed she carried four coins, but Jester identifies three copper coins and one button.
 
 ## Delta decision
 
-Chapter 05 remains an adaptation bridge after the final verified C2E1 source beat. It does not alter a source outcome. It applies the approved lodging cover through a character-owned exchange: Jester asks because direct curiosity is natural to her; Mielle answers because Jester's lack of malice and prior care lower the cost of honesty; Jester's invitation follows from the concrete inadequacy of the abandoned shelter.
+Chapter 05 remains an adaptation bridge after the final verified C2E1 source beat. It applies the approved lodging cover through a character-owned exchange: Jester asks because direct curiosity is natural to her; Mielle answers because Jester's lack of malice and prior care lower the cost of honesty; Jester's invitation follows from the concrete inadequacy of the abandoned shelter.
+
+The inventory reveal is a correction of Mielle's prior assumption, not a new object appearing in the chapter. Before Chapter 05, Mielle objectively carries three copper coins and one button, while believing all four small round objects are coins because she has not examined or valued them properly.
 
 ## Closed outcomes
 
 | Result | Owner | Closed condition | Must not imply |
 |---|---|---|---|
 | Escort reaches the Nestled Nook | Crownsguard | The group and Mielle arrive under restriction | New arrest, clearance or investigation result |
-| Direct lodging question | Jester | After guards leave, Jester asks where Mielle has actually been staying | Interrogation, accusation or manipulation |
+| Direct lodging question | Jester | After guards leave and the exchange is private to Mielle and the group, Jester asks where Mielle has actually been staying | Interrogation, accusation or manipulation |
 | Embarrassed disclosure | Mielle | Mielle visibly blushes and says she has spent the last two days in an abandoned building | Exact route, ownership status, origin confession or complete biography |
 | One-night place is offered | Jester | After hearing the answer, Jester offers space in her own room for that night | Permanent support, ownership, romance or party invitation |
 | One-night place is accepted | Mielle | Mielle accepts only after the temporary limit is explicit | Debt, trust pact or willingness to travel together |
 | Mielle's private desire | Mielle | Internally, she wants to become Jester's friend and responds positively to Jester drawing her into contact | Friendship already achieved, public declaration or automatic trust |
-| No payment occurs | none | Coins remain unvalued; no lodging price is established | Permanent entitlement |
+| Coin/button reveal | Jester identifies; Mielle learns | Three objects are copper coins; the fourth is a button Mielle mistook for a coin | Generated item, theft, payment, broader currency competence or prior objective knowledge |
+| No payment occurs | none | Three coppers and the button remain with Mielle; no lodging price is established | Permanent entitlement |
 | Crownsguard restriction remains | Crownsguard | No one leaves Trostenwald | Later source resolution |
 
 ## Honest outcome review
 
 - The source endpoint still follows. Chapter 05 begins only after the source action has closed.
 - Jester owns both the direct question and the invitation. Her question is socially unfiltered, sincere and practical, not a calculated extraction.
-- Mielle owns the disclosure. She does not answer because the group is entitled to know. She answers because Jester's genuine concern reaches past the defensive answer Mielle would give to a colder question.
+- Mielle owns the disclosure. She answers because Jester's genuine concern reaches past the defensive answer Mielle would give to a colder question.
 - Mielle's wish to befriend Jester governs internal hesitation and receptivity. It does not promote friendship before approved prose establishes reciprocal behavior over time.
 - Fjord, Beau, Caleb and Nott retain independent reactions but do not take over the exchange.
+- The coin/button reveal uses ordinary visual identification by Jester. No power, hidden inventory change or payment result occurs.
 
 ## Protected agency
 
 | Character | Protected action | Mielle may | Mielle must not replace |
 |---|---|---|---|
-| Jester | Ask the direct question without malice; react to the abandoned building; offer her room | blush, answer, accept, fail to initiate | Jester's question or invitation |
-| Mielle | Choose to reveal the abandoned building and accept one night | speak honestly but incompletely | treat the answer as coerced |
+| Jester | Ask the direct question without malice; react to the abandoned building; offer her room; identify the three coppers and button | blush, answer, accept, offer the objects, fail to initiate friendship | Jester's question, invitation or local identification |
+| Mielle | Choose to reveal the abandoned building, expose the four objects for inspection and accept one night | speak honestly but incompletely | treat the answer as coerced or already know the objects' identities |
 | Fjord | Assess practical and legal risk after the disclosure | answer if asked | his caution |
 | Beau | React bluntly to the unsafe or irregular shelter without turning it into an interrogation | withstand the reaction | her skepticism |
 | Caleb | Recognize precarious shelter without volunteering his own history | leave space | his protective judgment |
-| Nott | React from fear, recognition or odd humor | respond if addressed | her independent reaction |
+| Nott | React from fear, recognition or odd humor, including interest in the button | respond if addressed | her independent reaction |
 
 ## Knowledge effects
 
@@ -53,10 +62,13 @@ Created if approved:
 - They do not automatically learn the exact building, route, legal status, how she found it, her origin or how long she could have continued there.
 - Jester sees that the answer embarrasses Mielle and that Mielle nevertheless gives it to her.
 - Mielle experiences Jester's question and invitation as welcome contact from someone she already wants to befriend.
+- Mielle learns that three of her four presumed coins are copper coins and the fourth object is a button.
+- The direct witnesses may know Mielle had not distinguished the button from the coins before Jester examined them.
 
 Still unknown:
 
-- Mielle's origin, Soulbond, Haki names, inventory, archives and power ceiling.
+- The exact abandoned building and route.
+- Mielle's origin, Soulbond, Haki names, inventory architecture, archives and power ceiling.
 - Transformation cause and later investigation results.
 - Whether the others interpret the building as trespass, desperation, caution or something else; each reaction stays character-specific and provisional.
 
@@ -65,9 +77,12 @@ Still unknown:
 - No combat, pursuit, hostile magic, injury, evasion or tactical prediction.
 - Bokken remains at Mielle's belt. No recall or transfer.
 - Backpack remains with Mielle. No Bag retrieval is required.
-- Four coins remain unvalued and unspent.
-- Mielle does not know lodging price or custom without being told.
-- Clumsiness returns outside immediate danger and may cause one small practical cost that changes no material outcome.
+- Mielle begins the chapter carrying three copper coins and one button while believing all four are coins.
+- Jester may identify the objects through ordinary local knowledge.
+- No payment occurs and no lodging price is established.
+- Mielle does not gain general knowledge of local prices or currency from this one identification.
+- Clumsiness causes one small practical cost during the escorted walk. No second clumsy beat is required.
+- The private lodging exchange occurs after guards and unrelated inn staff are no longer participants or witnesses.
 
 ## Relationship boundary
 
@@ -78,7 +93,8 @@ The chapter may show Mielle's desire for friendship, Jester's natural inclusion,
 - [x] Source endpoint preserved.
 - [x] Direct question, disclosure and invitation ownership fixed.
 - [x] Mielle's positive internal orientation toward Jester fixed without promoting friendship.
+- [x] Three-coppers-and-one-button reveal authorized as a prior mistaken assumption.
 - [x] Knowledge limits fixed.
 - [x] Power and item non-use fixed.
-- [x] Chapter released for revised plan, mini delta, scene cards and loadout.
-- [ ] No prose until the revised loadout and pre-draft guard pass.
+- [x] Chapter released for revision against the audit.
+- [ ] Revised prose must pass audit before approval.
