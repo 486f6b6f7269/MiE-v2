@@ -74,33 +74,19 @@ I faced forward before my mouth could do anything disloyal.
 
 The Nestled Nook appeared at the end of the street with two lamps burning over its sign. I knew the entrance. I knew the table where Jester had put food in front of me after asking first. I knew the stairs led somewhere above, because Caleb and Nott had come down them that morning. The rest of the building belonged to people who had paid for it.
 
-The guards brought us to the door as if delivering a parcel they expected to find unopened later.
+The guards brought us through the door as if delivering a parcel they expected to find unopened later. The common room was mostly dark. Whoever kept the inn had left one lamp burning near the stairs and gone elsewhere.
 
-One of them entered first. The woman behind the counter looked up from a cup and then looked past him at all of us. Her eyes moved over blood, dirt, weapons, Nott's mask, my cloak, and Beau's expression. Whatever question she had chosen did not survive the guard's face.
+The first guard looked at Fjord.
 
-"These people are staying here," he said. "They are not to leave Trostenwald until the Watchmaster calls for them. If they try, send for the Crownsguard."
+"This is where you stay?"
 
-The woman set her cup down.
+"It is."
 
-"All of them?"
-
-"All of them."
-
-Her gaze paused on me.
+The guard's eyes passed over the rest of us and stopped on me.
 
 I stood very still. This had not helped at the carnival. I tried it again anyway.
 
-Fjord stepped half a pace forward. "We understand the order."
-
-"You said that before," the guard replied.
-
-"Still true."
-
-The guard looked as though he might have preferred an argument. Fjord did not provide one.
-
-Behind him, the second guard rested a hand on the door and looked at Caleb and Nott. Caleb kept his chin lowered. Nott had become almost entirely cloak.
-
-"Until called," the first guard said. "No trips outside the walls. No disappearing before dawn."
+"Until called," he said. "No trips outside the walls. No disappearing before dawn."
 
 "We are very tired," Jester said. "Disappearing sounds like too much work."
 
@@ -116,29 +102,11 @@ The door shut.
 
 No one spoke.
 
-The woman behind the counter looked from Fjord to Beau. "I am going to assume the blood is not from a disagreement over supper."
-
-"Carnival," Beau said.
-
-The woman waited.
-
-"It was a bad carnival."
-
-"I gathered that."
-
-Fjord rubbed one hand over his face. "We can explain what we're allowed to explain in the morning."
-
-"You can explain why the Crownsguard believes six people are staying under my roof when I have keys out for five."
-
-Six.
-
-The count entered the air and found me immediately.
-
 Jester turned before anyone else did.
 
 "Where have you actually been staying?"
 
-There was no accusation in it. No careful opening. She asked the way she had asked what I wanted to eat, whether I knew the carnival, and if the closed side of my face hurt. The question arrived whole because it had occurred to her whole.
+There was no accusation in it. No careful opening. She asked the way she had asked what I wanted to eat and whether I knew the carnival. The question arrived whole because it had occurred to her whole.
 
 Heat climbed from my collar to my ears.
 
@@ -151,8 +119,6 @@ Her hands were empty. She did not reach for me. She only waited.
 "An abandoned building," I said.
 
 Jester blinked.
-
-The woman behind the counter stopped reaching for her cup.
 
 I adjusted my glasses, though they had not moved.
 
@@ -248,15 +214,11 @@ My face grew hotter.
 
 She said it softly enough that the answer did not become another joke for everyone to hold.
 
-Beau looked toward the counter. "How much for another bed?"
-
-The woman drew breath to answer.
-
 "You can stay with me," Jester said.
 
 The sentence went through every defense I had prepared and found none of them facing the right direction.
 
-Jester continued before I could answer.
+She continued before I could answer.
 
 "Just tonight. I have space, and you are small, and I don't kick very much unless I have a really exciting dream. Fjord says I kick, but he was in the other bed and therefore cannot be considered an unbiased witness."
 
@@ -268,9 +230,7 @@ Jester continued before I could answer.
 
 "Exactly. Suspicious."
 
-The woman behind the counter picked up her cup and decided not to participate.
-
-I put one hand into the side of my backpack. The four coins were wrapped in a piece of cloth near the top. I knew where they were by touch.
+I put one hand into the side of my backpack. The four small round objects were wrapped in a piece of cloth near the top. I knew where they were by touch.
 
 Jester watched my hand disappear.
 
@@ -286,15 +246,15 @@ Beau made a sound that might have been a laugh and then covered it with her knuc
 
 I brought out the cloth and unfolded it in my palm.
 
-Four coins. Still small. Still capable of being worth almost anything to someone who knew what they were.
+Four pieces. Still small. Still capable of being worth almost anything to someone who knew what they were.
 
-"I do not know whether this is enough," I said. "Or too much. Or currency from somewhere that would make the innkeeper summon another guard. But I can contribute."
+"I do not know whether this is enough," I said. "Or too much. But I can contribute."
 
 Jester leaned over my hand.
 
 "That one is a copper. That one too. That one is also a copper."
 
-She touched the last coin with one blue fingertip.
+She touched the last piece with one blue fingertip.
 
 "And this one is a button."
 
@@ -322,7 +282,7 @@ Nott slipped out from behind Caleb far enough to examine the evidence.
 
 "I said might. That is honesty."
 
-I closed the cloth over the coins and button.
+I closed the cloth over the three coins and the button.
 
 "You don't have to pay me," Jester said.
 
@@ -406,14 +366,6 @@ Beau followed more slowly. At the first step she looked back at me.
 
 She disappeared after Fjord.
 
-The woman at the counter lifted her cup toward Jester. "No fire. No blood on the blankets. If either of you breaks furniture, I charge the blue one."
-
-"That is discrimination," Jester said.
-
-"You paid for the room."
-
-"Oh. That is fair."
-
 "So," Jester said, and turned toward the stairs. "Do you need anything from the abandoned building?"
 
 "No."
@@ -428,7 +380,7 @@ I adjusted it.
 
 "Okay. Do you have sleeping clothes?"
 
-The Perfect Wardrobe could solve that. The backpack could provide whatever I selected if I reached into it carefully. Both answers were possible. Neither needed explanation in the front of an inn after midnight.
+I could retrieve something suitable from the backpack when we were alone.
 
 "Yes."
 
@@ -444,17 +396,7 @@ The Perfect Wardrobe could solve that. The backpack could provide whatever I sel
 
 She started up the stairs.
 
-I followed.
-
-The stair was narrow enough that the bokken brushed the railing on the first turn. I caught it before it struck hard. Jester looked over her shoulder.
-
-"The stairs are attacking you now."
-
-"They have allied with the doors."
-
-"I knew it."
-
-Her delight made the failure worse and easier at the same time.
+I followed without striking anything else.
 
 At the upper landing, the corridor divided around a support beam. Caleb and Nott had already vanished behind one of the closed doors. Fjord's voice carried faintly from farther down, followed by Beau telling him she was not going to discuss anything until she had washed carnival off her arms.
 
