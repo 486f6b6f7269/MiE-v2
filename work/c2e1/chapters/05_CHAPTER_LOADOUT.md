@@ -10,7 +10,7 @@
 - Pre-draft guard: `work/c2e1/chapters/05_PRE_DRAFT_GUARD.md` — reconstructed migration guard for the existing unapproved draft.
 - Draft: `work/c2e1/chapters/05_DRAFT.md`
 - Audit: `work/c2e1/chapters/05_DRAFT_AUDIT.md`
-- Combat pre-check: `work/c2e1/chapters/05_COMBAT_PRECHECK.md` — not applicable.
+- Combat pre-check: `work/c2e1/chapters/05_COMBAT_PRECHECK.md` — not applicable; no combat, pursuit, physical threat, hostile magic, consequential power use, injury, evasion, no-hit result or damage result occurs.
 
 ## Source and adaptation
 
@@ -19,6 +19,7 @@
 - `PROJECT_STATE.md`
 - `TASK_LOAD_MATRIX.md`
 - `workflow/00_WORKFLOWS.md`
+- `workflow/01_EXECUTION_APPLICATION_WORKFLOW.md`
 - `canon/ADAPTATION_PREMISE.md`
 - `canon/SOURCE_ADAPTATION_RULES.md`
 - `work/arcs/C2_TROSTENWALD/ARC_MAP.md`
@@ -70,7 +71,7 @@
 | Backpack / Bag | Backpack remains with Mielle; no Bag access or named capability. | Mielle retrieves the four pieces ordinarily and later plans only to retrieve clothing when alone. |
 | Local knowledge | Mielle begins believing four small round objects are coins; she lacks value knowledge. | Jester identifies three coppers and one button; no price lesson follows. |
 | Shelter disclosure | Jester's genuine question permits a bounded answer. | Abandoned building and two days disclosed; exact place withheld. |
-| Social care | Mielle wants friendship; no friendship, romance, debt, trust, ownership or party status is established. | Desire remains internal; one-night boundary repeated. |
+| Social care | Mielle wants friendship; no friendship, romance, debt, trust, ownership or party status is established. | Desire remains internal; one-night boundary must remain owned by Jester. |
 | Witness scope | Private exchange belongs only to Mielle and the group after guards leave. | Innkeeper participation and accounting dialogue removed. |
 | System names | No capability or system naming. | `Perfect Wardrobe` removed. |
 
@@ -87,9 +88,12 @@
 - `canon/mielle_current_power_guide/01_current_inventory_01.md`
 - `canon/mielle_current_power_guide/02_current_inventory_02.md`
 - `canon/mielle_current_power_guide/04_consolidated_architecture.md`
-- No combat, Haki, Soulbond recall, Bag access, powered inference, defense or resistance.
-- `canon/HOLMES_ENGINE.md`: not applicable.
-- `canon/COMBAT_RULES.md`: not applicable.
+- No combat, Haki, Soulbond recall, Bag access, defense or resistance.
+- `canon/HOLMES_ENGINE.md`: applicable to all three substantial scenes through ordinary observation, social uncertainty, withholding and bounded choice; no powered inference is used.
+- Scene 1 Holmes use: Mielle selects the guard's buckle, escort geometry, Jester's position and the post/cloak problem; she withholds private interpretation and adjusts behavior under surveillance.
+- Scene 2 Holmes use: Mielle evaluates whether Jester's question is accusation, trap or genuine curiosity; the model affects disclosure and must receive an on-page reply from Jester and the group rather than narrator certainty.
+- Scene 3 Holmes use: Mielle weighs temporary help, obligation, object value and relationship uncertainty; she tests the offer through attempted contribution and accepts only a bounded result.
+- `canon/COMBAT_RULES.md`: not applicable for execution; the chapter contains no combat-pre-check trigger.
 
 ## Decision-to-authority check
 
@@ -99,14 +103,14 @@
 | Private question after guard departure | newest user decision; plan; mini delta | only group present and participating | innkeeper witness or public disclosure | pass |
 | Jester asks directly | `JESTER.md`; newest user decision | sincere unfiltered question | manipulation or interrogation | pass |
 | Mielle reveals abandoned building | starting state; newest user decision | two days and incomplete roof | exact location, origin or legal status | pass |
-| Jester offers one night | Canon Delta amendment | immediate temporary offer | permanent support, romance or party invitation | pass |
+| Jester offers one night | Canon Delta amendment | immediate temporary offer with Jester owning the one-night limit | permanent support, romance or party invitation; Fjord replacing her ownership | return to draft revision |
 | Four presumed coins | corrected starting state and Mielle state | four small pieces exposed for inspection | Mielle objectively knew all were coins | pass |
 | Three coppers and one button | newest user approval; Canon Delta amendment | Jester identifies them through ordinary local knowledge | generated item, payment or broad currency competence | pass |
 | No payment | Canon Delta amendment | objects returned to Mielle | lodging price or entitlement | pass |
 | One clumsy beat | `MIELLE.md`; plan | post/cloak stumble during escort | repeated slapstick or incompetence reset | pass |
 | No capability naming | power modules and prose rule | ordinary backpack-level thought | `Perfect Wardrobe`, Bag or system explanation | pass |
 | Mielle wants friendship | newest user decision | direct internal desire with uncertainty | reciprocal or established friendship | pass |
-| One-night acceptance | Mielle agency | threshold choice and repeated limit | debt, trust pact or party membership | pass |
+| One-night acceptance | Mielle agency | threshold choice after Jester's bounded offer | debt, trust pact or party membership | return to draft revision until offer ownership is restored |
 
 ## Prose and editing
 
@@ -115,7 +119,57 @@
 - `canon/prose/MIELLE_VOICE_GUIDE.md`
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
+- `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`
+- `workflow/01_EXECUTION_APPLICATION_WORKFLOW.md`
 - Anti-AI pre-draft guard: `work/c2e1/chapters/05_PRE_DRAFT_GUARD.md`
+
+## Execution-system applicability and audit handoff
+
+### Scene applicability map
+
+| Scene | Prose System material change to verify | Mielle Prose Guide | Holmes | Combat | Protected material | Audit target |
+|---|---|---|---|---|---|---|
+| Escorted streets | escort pressure changes proximity, clumsiness consequence and arrival state | applicable: first-person attention, physical route, humor and one clumsy cost | applicable: Mielle selects surveillance, positions and whether to engage | not applicable | post-combat witness memory; one clumsy cost; Jester proximity without relationship conclusion | opening through inn entrance |
+| Where were you staying? | question creates voluntary disclosure and bounded knowledge | applicable: embarrassment, attention order, restraint and dialogue interruption | applicable: Mielle models Jester's intent, withholds the safer lie and commits to bounded honesty | not applicable | Jester owns question; Mielle owns disclosure; no exact location or mutual trust | guard departure through lodging offer |
+| One night | temporary offer, object identification, attempted contribution and acceptance change lodging/object state | applicable: attraction, practical defense, register continuity and threshold ending | applicable: Mielle weighs obligation and tests terms through contribution before acceptance | not applicable | Jester owns one-night limit; Mielle retains objects and unilateral friendship desire | offer through final threshold |
+
+### Material-claim evidence handoff
+
+| Scene | Material claim or change | Planned / required visible evidence | Choice owner | Consequence / remainder |
+|---|---|---|---|---|
+| Escorted streets | the group no longer treats Mielle as harmless but lacks mechanism knowledge | selected reactions to bokken/post contrast; no clean underestimation reset | witnesses individually | arrival under guard with question still withheld |
+| Escorted streets | clumsiness returns outside danger | cloak/post contact, balance problem and one assist | Mielle / Beau for assist | embarrassment and altered proximity; no injury |
+| Where were you staying? | Jester asks without accusation or manipulation | direct question plus concrete waiting/non-coercive behavior, not narrator label alone | Jester | Mielle may choose disclosure |
+| Where were you staying? | Mielle reveals abandoned building for two days | bodily embarrassment, considered evasions and spoken bounded answer | Mielle | direct witnesses gain limited knowledge |
+| One night | Jester offers one night | Jester states the temporary limit herself and offers concrete space | Jester | lawful temporary address becomes available |
+| One night | Mielle attempts contribution | ordinary retrieval of four pieces and uncertainty about value | Mielle | Jester identifies three coppers and one button; no payment |
+| One night | Mielle wants friendship but no friendship exists | authorized direct thought plus uncertainty and bounded behavior | Mielle internal | acceptance becomes harder to refuse without claiming reciprocity |
+| One night | Mielle accepts | explicit or unmistakable limited choice after offer terms | Mielle | threshold entry with objects and gear retained |
+
+### Character Voice Pass handoff
+
+| Character | Dossier / state anchor | Immediate attention and want | Voice pressure / likely failure | Required owned action, line or silence | Must not be transferred or equalized |
+|---|---|---|---|---|---|
+| Mielle | observant, tired, practical, embarrassed by care; dry humor; cautious claims | survive escort, hide precarity, remain near Jester, reduce obligation | can become over-formal, hedge-heavy or abruptly contemporary | bounded disclosure, contribution attempt, acceptance and unilateral friendship thought | Jester's initiative; group conclusions; polished explanation of every feeling |
+| Jester | acts from concrete need before careful social version; direct warmth and curiosity | find where Mielle stayed and give immediate practical help | can become counselor-clean or have her temporary boundary transferred to Fjord | direct question, object identification and one-night offer | interrogation, therapy voice, permanent promise |
+| Fjord | practical narrowing question and risk boundary | ensure recorded address is real and group exposure stays manageable | can become smooth interrogator or owner of Jester's offer | one practical question/non-objection after Jester acts | one-night offer ownership |
+| Beau | rude version of useful concern; friction without total interrogation | test the unsafe shelter claim | can become generic insult machine or second interrogator | one blunt pressure beat, then stop | full disclosure extraction |
+| Caleb | useful fragment, guarded boundary, practical care through placement | assess physical safety without exposing himself or Mielle | can become diagnostic narrator | one compact question or meaningful omission while keeping Nott close | emotional interpretation or group approval |
+| Nott | fear, acquisitiveness, odd humor and care shift quickly | understand precarious shelter and inspect the button | can become pure joke distribution | one independent shelter or button response | compulsory joke after every beat |
+
+### Holmes handoff
+
+| Scene | Scene-card map | Observation changing behavior | Live alternative / unknown | Test or withholding | Agency owner after Mielle | Remainder |
+|---|---|---|---|---|---|---|
+| Escorted streets | `05_SCENE_CARDS.md`, Scene 1 Holmes map | guard attention, escort arrangement and Jester proximity determine silence/position | Jester may simply be walking; guards may hear private talk | withhold lodging discussion; attend to route | guards own escort; Jester owns any contact | inn entrance under surveillance |
+| Where were you staying? | Scene 2 Holmes map | Jester's timing, wording and behavior determine whether Mielle risks honesty | concern does not prove future trust or friendship | consider evasive answer; disclose bounded fact after Jester waits | Jester owns response/offer; others own separate reactions | abandoned-building fact becomes shared limited knowledge |
+| One night | Scene 3 Holmes map | offer wording, object inspection and group reactions determine obligation model | help may be temporary without defining relationship | attempted contribution tests whether price/debt is expected | Jester owns terms; Mielle owns acceptance | threshold with no payment and relationship unresolved |
+
+### Combat handoff
+
+- Combat pre-check: not applicable for the stated chapter scope.
+- No no-hit/injury reconciliation is required.
+- Ordinary post-combat witness state remains a continuity/voice matter, not a new combat execution.
 
 ## Anti-AI pressure map and audit handoff
 
@@ -173,17 +227,23 @@ This migration applies the new evidence-based receipt to the existing unapproved
 - [x] `Perfect Wardrobe` removed.
 - [x] Second clumsiness beat removed.
 - [x] Source and continuity pass rerun.
-- [x] Character and relationship pass rerun.
-- [x] Mechanics and non-use pass rerun.
+- [x] Character and relationship pass rerun under the earlier workflow.
+- [x] Mechanics and non-use pass rerun under the earlier workflow.
 - [x] Prose and voice pass rerun under the earlier workflow.
 - [x] Earlier Silent Anti-AI edit recorded.
-- [ ] Evidence-based Anti-AI application receipt completed under the current workflow.
-- [ ] Changed paragraphs reread under the current second-order check.
+- [x] Execution-system applicability migration completed.
+- [ ] Prose System execution receipt closed.
+- [ ] Mielle Prose Style Guide execution receipt closed.
+- [ ] Character Voice Pass execution receipt closed.
+- [ ] Holmes Engine execution receipt closed.
+- [x] Combat Rules receipt not applicable with valid reason.
+- [ ] Evidence-based Anti-AI application receipt closed after revision.
+- [ ] Changed paragraphs reread under all applicable second-order checks.
 
 ## Current workflow state
 
 - Draft revision exists.
-- Earlier audit closure is superseded by the new mandatory receipt.
-- Audit reopened for evidence-based Anti-AI application.
+- Earlier audit closure is superseded by the mandatory execution receipts.
+- Audit remains open.
 - Chapter is not approved and continuity is not promoted.
-- Approval is blocked until the receipt closes or the user explicitly waives this named requirement for Chapter 05.
+- Approval is blocked until the Prose System, Prose Guide, Voice Pass, Holmes and Anti-AI receipts close, or the user explicitly waives a named receipt for Chapter 05.
