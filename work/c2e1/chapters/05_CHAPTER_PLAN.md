@@ -4,168 +4,105 @@
 
 - Episode: C2E1
 - Chapter: 05 — working title `Temporary address`
-- Transcript extraction slice: source endpoint after escort order; adaptation bridge only
+- Source slice: adaptation bridge after the verified C2E1 escort order
 - Arc Map: `work/arcs/C2_TROSTENWALD/ARC_MAP.md`
-- Episode map section: Chapter 05 row
-- Episode Canon Delta: `work/c2e1/chapters/05_CANON_DELTA_AMENDMENT.md`
-
-## Exact planning load
-
-### Continuity
-
-`continuity/CURRENT_STORY_STATE.md`; `continuity/RECENT_STORY_CHAIN.md`; `continuity/OPEN_THREADS.md`; `continuity/C2E1_STARTING_STATE.md`; `continuity/EVENT_INDEX.md`; `continuity/KNOWLEDGE_LEDGER.md`; `continuity/character_state/MIELLE_CURRENT.md`; `continuity/events/C2E1-C04_UNDER_INVESTIGATION.md`; `chapters/approved/04_Under_investigation.md`.
-
-### Character and relationship
-
-`canon/characters/MIELLE.md`; `canon/characters/JESTER.md`; `canon/characters/FJORD.md`; `canon/characters/BEAUREGARD.md`; `canon/characters/CALEB.md`; `canon/characters/NOTT.md`; `canon/characters/MOLLY.md`; `canon/characters/YASHA.md`; `canon/relationships/RELATIONSHIP_STATE.md`.
-
-### Setting and mechanics
-
-`canon/setting/EXANDRIA_BASELINE.md`; `canon/setting/LOCATIONS.md`; `canon/setting/FACTIONS_AND_NPCS.md`; `canon/POWER_GUIDE.md`; `canon/mielle_current_power_guide/01_current_inventory_01.md`; `canon/mielle_current_power_guide/02_current_inventory_02.md`; `canon/mielle_current_power_guide/04_consolidated_architecture.md`.
+- Episode Map: Chapter 05 row in `work/c2e1/EPISODE_MAP.md`
+- Canon Delta: `work/c2e1/chapters/05_CANON_DELTA_AMENDMENT.md`
+- Invariant application control: `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`
 
 ## Chapter contract
 
-### Narrative POV and voice
+### POV and voice
 
-- Primary POV: first-person Mielle.
-- Mielle is physically uninjured, emotionally tired and embarrassed by the material condition of her shelter.
-- Her opinion of Jester is already strongly positive. She wants to become Jester's friend, but shame, fear and anxiety keep her from initiating contact or naming that desire.
-- Jester's extroversion draws Mielle into the exchange without treating her as a project.
+- First-person Mielle.
+- Her voice may become faster, younger, less composed and more self-correcting when Jester's attention embarrasses her. This flexibility is allowed; it must still remain intelligible and locally motivated.
+- Mielle wants Jester's friendship and feels early attraction. Neither feeling is reciprocal knowledge or relationship status.
+- The chapter may show attraction through attention, blush, avoidance and one bounded private thought. It may not frame the shared room as romance.
 
-### Must be true by the end
+### Required end state
 
-- Escort reaches the Nestled Nook; guards leave without a new legal conclusion.
+- Crownsguard deliver Mielle, Jester, Fjord, Beau, Caleb and Nott to the Nestled Nook and leave.
 - The no-leaving order remains active.
-- After the guards leave and only Mielle and the group remain in the exchange, Jester directly asks where Mielle has actually been staying.
-- Mielle blushes and tells Jester and the present group that she has spent the last two days in an abandoned building.
-- The exact building and route remain unspecified.
-- Jester offers Mielle space in her room for one night because the answer makes the immediate problem concrete.
-- Mielle accepts only for that night.
-- Mielle exposes the four small round objects she believed were coins; Jester identifies three copper coins and one button.
-- No money changes hands; the three coppers and button remain with Mielle; no lodging price is established.
-- No friendship declaration, romance, debt, party membership, trust pact, ownership or permanent lodging is created.
-- Mielle's desire to befriend Jester remains internal orientation, not a promoted relationship status.
+- Jester directly asks where Mielle has been staying.
+- Mielle reveals an abandoned building used since she entered the city; the exact location and legal status remain unknown.
+- Jester explicitly offers her room for one night.
+- Mielle exposes four presumed coins; Jester identifies three coppers and one button.
+- No payment occurs. All four objects remain with Mielle.
+- Mielle accepts one night.
+- No friendship, romance, debt, trust pact, party status, ownership, permanent lodging or future support is established.
+- Molly remains detained with the carnival. Yasha remains on the Toya route.
 
-### Required causal beats
+## Revised causal chain
 
-1. Crownsguard escort keeps private questions suspended during the walk.
-2. The group reaches the Nestled Nook; guards confirm the destination and leave. Unrelated inn staff do not participate in the private exchange.
-3. Jester, without malice or careful social hedging, asks Mielle where she has actually been staying.
-4. Mielle's first response is visible embarrassment: she blushes, hesitates and considers a safer partial answer.
-5. Jester's genuine curiosity and prior care make evasion feel worse than the truth. Mielle says she has been sleeping in an abandoned building for the last two days.
-6. The group reacts independently. Fjord measures practical risk; Beau reacts bluntly; Caleb recognizes the precariousness without pressing; Nott responds from fear, recognition or odd humor.
-7. Jester reacts to the concrete condition and invites Mielle to stay in her room for one night.
-8. Mielle wants to accept because she wants more contact with Jester, but shame and fear make her offer the four presumed coins first.
-9. Jester identifies three coppers and one button through ordinary local knowledge, refuses payment and keeps the offer simple and temporary.
-10. Mielle accepts one night.
-11. The chapter ends at the room threshold or just inside it, with the offer made real but the relationship still unnamed.
+1. Guard surveillance keeps the walk mostly quiet.
+2. Mielle's attention keeps returning to Jester; Jester notices that Mielle is flushed and checks on her.
+3. One clumsy obstruction creates a practical cost and lets Beau help while preserving the group's combat memory.
+4. Guards confirm the inn and leave.
+5. Jester asks the private question directly.
+6. Mielle chooses bounded honesty because Jester's present behavior is genuine and non-coercive.
+7. Beau reacts once to the unsafe shelter. Fjord narrows the official risk. Caleb and Nott may enter through one compact shared lane rather than separate required questions.
+8. Jester acts on the concrete shelter condition and explicitly offers one night.
+9. Mielle tries to reduce obligation with the four objects.
+10. Jester identifies three coppers and one button; Nott may notice the button, but the object beat must not become a cast roll call.
+11. Mielle accepts the bounded offer and crosses the threshold.
 
-### Flexible elements
+## Agency and participation
 
-Exact wording, minor staging, one small clumsy beat during the escorted walk, order of secondary reactions and street detail that affects movement.
-
-## Prose-scale board at chapter start
-
-- Mielle: outside the carnival tent, bokken at left hip, backpack with her, near Jester but outside all established pairs.
-- Jester: nearest and most likely to break the silence once guards leave.
-- Fjord and Beau: watching route, guards and Mielle's position.
-- Caleb and Nott: close together, minimizing attention.
-- Crownsguard: front and rear during escort; no private conversation while in hearing.
-
-## External objective
-
-Reach the Nestled Nook and turn the false public address into a consensual one-night arrangement.
-
-## Pressure and change
-
-The legal problem has a simple answer in the guard's ledger. The private problem is physical: Mielle has been sleeping in an abandoned building. Jester's question exposes that condition, and her invitation gives Mielle a route she wants but would not have asked for herself.
-
-## Decision points
-
-| Decision point | Agency owner | Closed requirement | Free execution |
+| Character | Required owned action | Optional action | Must not own |
 |---|---|---|---|
-| Ask where Mielle has actually stayed | Jester | direct, sincere, after guards leave | exact wording and timing |
-| Reveal abandoned shelter | Mielle | blushes and gives the two-day abandoned-building fact | degree of hesitation and phrasing |
-| React to disclosure | Fjord, Beau, Caleb, Nott | each keeps independent voice and limit | exact order and wording |
-| Offer one night | Jester | follows from the disclosure | warmth, awkwardness, practical detail |
-| Offer presumed coins | Mielle | exposes all four pieces without knowing their identity or value | exact phrasing |
-| Identify pieces | Jester | three coppers and one button | exact comedic timing |
-| Accept one night | Mielle | explicit limited acceptance | unfinished sentence or silence |
+| Jester | check on Mielle; ask where she stayed; offer one night; identify the objects; refuse payment | door joke, room logistics | interrogation, therapy speech, permanent promise |
+| Mielle | disclose shelter; offer objects; accept one night | flustered internal correction, dry humor, attraction beat | Jester's offer or group conclusion |
+| Fjord | one practical risk line | silence after offer | terms of Jester's invitation |
+| Beau | catch Mielle during the clumsy beat or give one blunt shelter reaction | brief final jab | extended interrogation |
+| Caleb | keep Nott close and either ask one physical question or deliberately remain silent | guide withdrawal | diagnosis or group approval |
+| Nott | one shelter or button interaction with independent motive | silence in one of the two sequences | compulsory punchline after every beat |
+| Molly | absent under detention | none | knowledge of the exchange |
+| Yasha | absent with Flynn | none | knowledge of the exchange |
 
-## Ownership of results
+## Mielle invariant consequence plan
 
-| Result | Owner | Authority source | Closed | Must not imply |
+| Active invariant | Mode | Trigger | Concrete consequence or blocked result | What changes if removed? |
 |---|---|---|---|---|
-| Arrival | Crownsguard | source aftermath | yes | clearance or arrest |
-| Direct question | Jester | newest user decision / Jester dossier | yes | interrogation |
-| Shelter disclosure | Mielle | newest user decision / starting state | yes | exact location or full confession |
-| One-night offer | Jester | Canon Delta amendment | yes | permanent support or romance |
-| Coin/button identification | Jester | newest user approval / corrected starting state | yes | generated item, payment or general currency lesson |
-| One-night acceptance | Mielle | Canon Delta amendment | yes | debt, party membership or settled friendship |
-| Friendship desire | Mielle internal | newest user decision | yes | reciprocal friendship already exists |
-| No payment | none | Canon Delta amendment | yes | lodging price or entitlement |
+| Attraction and desire for connection | productive | Jester stays near, checks on her and later asks directly | Mielle notices Jester disproportionately, becomes visibly flustered and answers a question she would otherwise evade | the sleeve/check-on-her beat, voluntary disclosure and difficulty refusing the room would lose their cause |
+| Clumsiness outside danger | productive | post and cloak obstruct the escorted route | Mielle loses balance, Beau catches her, and the group reacts to the contrast with her combat precision | the walk loses its practical interruption and post-combat contrast |
+| Post-combat witness memory | restrictive | Mielle stumbles after everyone saw her fight | blocks a reset to treating her as harmless or incompetent; reactions refer to contradiction, not first impression | the stumble could wrongly erase the evidence from Chapter 03 |
+| Local ignorance about money and law | productive | shelter legality and attempted payment | Mielle asks whether trespassing exists and exposes objects she cannot value; Jester supplies only local object identification | Mielle would provide unsupported legal/currency knowledge and the button reveal would not occur |
+| Bounded revelation | restrictive | Jester asks where she stayed | permits abandoned-building and duration, blocks exact location, origin and survival history | disclosure could become a biography dump or reveal the shelter map |
+| Relationship boundary | restrictive | room offer and Mielle's attraction | blocks care from becoming friendship, romance, debt, trust or party membership; allowed replacement is one-night consent and uncertainty | the chapter could promote a relationship state from one act of care |
+| Bokken/Bag/system limits | restrictive | carrying gear and retrieving the objects | blocks recall, hidden Bag use and capability names; allowed replacement is ordinary physical handling through the backpack | gear could become a convenient system demonstration |
 
-## Canon cast action requirements
+## Knowledge map
 
-| Character | Concrete action | What it changes | Must not do |
+| Character | Knows by end | May suspect | Cannot know yet |
 |---|---|---|---|
-| Jester | asks directly, listens without ridicule, offers her room, identifies three coppers and the button | breaks Mielle's defensive isolation through contact | speak therapeutically, claim Mielle, demand more |
-| Fjord | asks or states one practical consequence after the disclosure | keeps risk visible | seize control of the invitation |
-| Beau | gives the rude version of concern or disbelief, then does not keep digging | shows friction and restraint | become a polished interrogator |
-| Caleb | notices the material precarity and leaves the question where Mielle stops | protects disclosure boundary | explain Mielle or volunteer his history |
-| Nott | reacts with wary recognition, fear or odd humor and notices the button | keeps her separate viewpoint | instantly welcome or reject Mielle for the group |
-| Molly | absent, held carnival-side | absence remains causal | know the exchange |
-| Yasha | absent with Flynn | absence remains causal | know the exchange |
+| Mielle | three objects are coppers; one is a button; Jester offers one night | Jester enjoys or welcomes her company | future friendship or romantic outcome |
+| Jester | Mielle used an abandoned building and was ashamed; she mistook a button for a coin | Mielle wants contact but struggles to ask | exact shelter, origin, powers |
+| Fjord | the recorded address was false and shelter precarious | Mielle has practiced survival/secrecy | origin and mechanics |
+| Beau | the arrangement meant an abandoned building | Mielle hides more | exact biography |
+| Caleb | Mielle lacked secure shelter | her disclosure is controlled | origin or power source |
+| Nott | Mielle used poor shelter and owns an interesting button | shared outsider/precarity experience | deeper identity |
 
-## Character knowledge map
-
-| Character | Knows by scene end | Suspects | Must not know |
-|---|---|---|---|
-| Mielle | Jester wants her safe for the night; three pieces are copper coins and one is a button | Jester may genuinely like having her near | whether friendship will be returned or continue; broader local prices |
-| Jester | Mielle spent two days in an abandoned building and was ashamed to say it; Mielle mistook a button for a coin | Mielle wants connection but is frightened of asking | origin, powers, exact building |
-| Fjord | Mielle's shelter was materially precarious | she has more survival history than she gives | origin and mechanics |
-| Beau | the “temporary arrangement” was an abandoned building | Mielle hides other things | exact biography |
-| Caleb | Mielle has been surviving without lawful or secure lodging | her controlled disclosure is practiced | origin and power source |
-| Nott | Mielle was also hiding in a poor shelter and carries a button among her money | she may understand precarious survival | deeper identity |
-
-## Power and threat review
-
-- Capabilities used: none.
-- Bokken, backpack, three copper coins and one button remain physically with Mielle by chapter end.
-- Prohibited: recall, Haki, Bag retrieval, powered inference, capability or system naming.
-- Combat pre-check: not applicable.
-
-## End state
-
-- No new dead, injured, detained or missing people.
-- Jester, Fjord, Beau, Caleb and Nott know the abandoned-building fact, but not its exact location.
-- Mielle learns that three presumed coins are copper and the fourth object is a button.
-- Mielle accepts one night in Jester's room.
-- Mielle's wish to become Jester's friend has affected her choice, but no friendship status is established.
-- Object custody remains unchanged except for the corrected identification; all three coppers and the button remain with Mielle.
-- Crownsguard restriction remains active.
-- Last image: Mielle at or just beyond Jester's room threshold, still carrying the bokken and backpack, with permission for one night.
-- Prohibited additions: payment, lodging price, exact abandoned-building map, confession of origin, capability name, kiss, romantic framing, party oath, C2E2 clue, Molly or Yasha return.
-
-## Closed vs free summary
+## Closed vs free
 
 | Element | Closed | Free |
 |---|---|---|
-| Outcome | shelter disclosed; coin/button reveal; one night offered and accepted | exact dialogue and pauses |
-| Agency | Jester asks/offers/identifies; Mielle reveals/offers pieces/accepts | secondary reaction order |
-| Knowledge | abandoned building known; three coppers and button known; exact shelter and origin unknown | provisional interpretations |
-| Relationship | Mielle wants friendship; no friendship yet | behavior showing attraction to contact |
-| Mechanics | no power; physical custody unchanged | ordinary movement |
-| Staging | escort, private group conversation, room threshold | minor layout and texture |
+| Outcome | disclosure, one-night offer/acceptance, object identification, no payment | exact wording and silence |
+| Agency | Jester asks/offers/identifies; Mielle reveals/offers/accepts | optional Beau/Caleb/Nott participation within limits |
+| Knowledge | shelter fact and object identities; exact shelter/origin withheld | provisional character-specific suspicion |
+| Relationship | attraction and desired friendship exist in Mielle; no status change | intensity of blush, awkwardness and private self-correction |
+| Mechanics | no power, recall or Bag use; custody unchanged | ordinary handling |
+| Staging | escorted walk, empty common room, stairs, threshold | minor sensory detail |
 
-## Carry-forward facts if approved
+## Draft revision targets
 
-Potential event tile, knowledge-ledger, Mielle-state and relationship-state updates. No planned fact promotes before approved prose.
+- Restore Jester's explicit `one night` term before Mielle accepts.
+- Reduce the shelter exchange from a sequence of required questions to pressure-selected participation.
+- Preserve Caleb and Nott as real participants without giving each a mandatory reaction in every beat.
+- Keep one clumsy event only.
+- Keep Mielle's voice flexible, but correct grammar and avoid unexplained register jumps.
+- Preserve attraction as early subtext; remove any line that makes romance a settled interpretation.
+- End on the threshold/door without a second explanatory ending.
 
-## Mini delta handoff
+## Carry-forward rule
 
-- [x] Newest user decisions applied.
-- [x] Agency, disclosure and object-identification ownership fixed.
-- [x] End state closed.
-- [x] Non-combat consequences controlled.
-- [x] No new source outcome change.
+No fact in this plan promotes until the user approves the chapter text.
