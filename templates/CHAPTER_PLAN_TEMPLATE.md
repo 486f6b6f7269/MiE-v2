@@ -7,6 +7,7 @@
 - Transcript extraction slice:
 - Episode map section:
 - Episode Canon Delta section:
+- Planning obligation guide: `workflow/03_PLANNING_OBLIGATION_LEVELS.md`
 
 ## Authority placement
 
@@ -16,6 +17,20 @@ Use this section before filling chapter decisions.
 - This chapter plan may apply the Episode Canon Delta to the chapter slice. It must not invent a new source-outcome change, new power permission/prohibition, new casualty result, new relationship status, or new legal conclusion by itself.
 - Scene execution belongs later in `XX_CHAPTER_MINI_DELTA.md`, `XX_SCENE_CARDS.md`, and, when threat/combat exists, `XX_COMBAT_PRECHECK.md` or a combat translation card.
 - If a planned fact needs higher authority, stop and return that fact to `CANON_DELTA.md` rather than smoothing it over here.
+- Repetition across work files does not raise authority. Classify every instruction under `workflow/03_PLANNING_OBLIGATION_LEVELS.md`.
+
+## Obligation map
+
+| Instruction or desired result | Authority source | Level | Required meaning | Free execution | Audit consequence |
+|---|---|---|---|---|---|
+|  |  | 1 hard / 2 semantic / 3 protective / 4 editorial / 5 free |  |  | blocker / evidence-based craft review / none |
+
+Rules:
+
+- Level 1–3 controls may block when their authorized meaning or boundary is violated.
+- Level 4 targets are not immutable. Audit the actual local effect before raising an issue.
+- Level 5 suggestions must never be promoted into requirements merely because they appear in planning.
+- Exact dialogue, a synonym, number of optional reactions and one possible staging choice are not hard authority unless the user or a governing source explicitly makes them so.
 
 ## Non-combat use
 
@@ -26,7 +41,7 @@ For non-combat chapters, translate combat-shaped fields into material-consequenc
 - `death / decisive hit / rescue / finalization` becomes any result-bearing action: payment, invitation, refusal, disclosure, discovery, custody change, legal order, object transfer, route change, social commitment, suspicion or opened thread.
 - `injury count` becomes any physical, emotional, legal, social or object-state consequence the prose must not invent.
 - `ownership` still means the person who causes the result on page.
-- `closed vs free` still separates outcome, agency and knowledge from phrasing, rhythm and minor staging.
+- obligation levels still separate required meaning from preferred execution.
 
 ## Exact planning load
 
@@ -38,6 +53,8 @@ For non-combat chapters, translate combat-shaped fields into material-consequenc
 
 ### Power, Holmes and combat
 
+### Prose, voice and application controls
+
 ## Chapter contract
 
 ### Narrative POV and voice
@@ -45,10 +62,11 @@ For non-combat chapters, translate combat-shaped fields into material-consequenc
 - Primary POV:
 - Any justified brief external POV:
 - Voice or knowledge constraint that must remain visible:
+- Voice preferences that remain flexible rather than lexical prohibitions:
 
 ### Must be true by the end
 
-List only closed end-of-chapter facts that are already supported by source, approved continuity, or Episode Canon Delta.
+List only Level 1–3 facts supported by source, approved continuity, stable canon or authorized Canon Delta.
 
 - Source outcomes preserved:
 - Approved / delta-governed changes:
@@ -56,9 +74,21 @@ List only closed end-of-chapter facts that are already supported by source, appr
 - Required relationship / trust / debt / group-status non-results:
 - Information that must remain unknown:
 
+### Required semantic outcomes
+
+List Level 2 meanings that must reach the page without fixing exact wording or minor order.
+
+### Protective constraints
+
+List Level 3 invalid implications or shortcuts the chapter must prevent. A protective constraint may pass through omission.
+
+### Editorial targets
+
+List Level 4 craft goals. These guide drafting but do not become blockers unless the actual draft creates a demonstrated failure.
+
 ### Required causal beats
 
-Number the causal chain. Each result-bearing beat must have an agency owner.
+Number only the result-bearing causal chain. Each result-bearing beat must have an agency owner. Do not turn optional texture into a required beat.
 
 1. 
 2. 
@@ -66,14 +96,16 @@ Number the causal chain. Each result-bearing beat must have an agency owner.
 
 ### Flexible elements
 
-List prose-flexible items only: phrasing, metaphor, small staging, rhythm, non-outcome sensory details, and exact minor movement that does not change agency, knowledge, count, injury, route, possession or final state.
+List Level 5 choices: phrasing, metaphor, small staging, rhythm, optional reaction, non-outcome sensory details, natural synonyms and exact minor movement that do not change agency, knowledge, count, injury, route, possession or final state.
 
 ## Prose-scale board at chapter start
 
 Write this in prose-usable terms, not a tabletop grid.
 
 - Mielle:
-- Canon cast members:
+- Decision-relevant canon cast members:
+- Meaningful witnesses:
+- Background presence:
 - NPCs / source figures:
 - Civilians or vulnerable people:
 - Exits, routes and bottlenecks:
@@ -87,31 +119,32 @@ Write this in prose-usable terms, not a tabletop grid.
 
 ## Decision points
 
-| Decision point | Agency owner | Options actually available | Closed requirement from source / Canon Delta | Free execution choices |
+| Decision point | Agency owner | Options actually available | Obligation level and governing source | Free execution choices |
 |---|---|---|---|---|
 |  |  |  |  |  |
 
 ## Ownership of results
 
-List every death, decisive wound, disabling hit, rescue, finalization, spell result, possession transfer, social commitment, disclosure and legal action the chapter requires. In non-combat chapters, list payments, invitations, refusals, discoveries, object handling, suspicions, questions asked or not asked, authority moves and relationship non-results here.
+List every result-bearing action the chapter requires. Do not list optional banter or texture as a closed result.
 
-| Result | Owner | Authority source | Closed / free | What Mielle may do | What Mielle must not replace or imply |
+| Result | Owner | Authority source | Level | What Mielle may do | What Mielle must not replace or imply |
 |---|---|---|---|---|---|
-|  |  |  | closed / free |  |  |
+|  |  |  | 1 / 2 / 3 |  |  |
 
-## Canon cast action requirements
+## Character presence and action classification
 
-Every canon cast member present or decision-relevant must have at least one concrete, encenável action or a stated reason why they do not act. Do not write only their function.
+Physical presence does not require a line. Use `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`.
 
-| Character | Present? | Concrete action in character voice / behavior | What it changes | What they must not know or do yet |
-|---|---|---|---|---|
-| Jester | yes / no |  |  |  |
-| Fjord | yes / no |  |  |  |
-| Beau | yes / no |  |  |  |
-| Caleb | yes / no |  |  |  |
-| Nott | yes / no |  |  |  |
-| Molly | yes / no |  |  |  |
-| Yasha | yes / no |  |  |  |
+| Character | Presence class | Required owned action or boundary | Optional texture lane | What changes if required action is removed? | What they must not know or do yet |
+|---|---|---|---|---|---|
+|  | decision-relevant / source owner / result owner / meaningful witness / texture participant / background |  |  |  |  |
+
+Rules:
+
+- Only required/result-bearing actions need a material or restrictive consequence.
+- Optional texture may be removable and still valid; it must not become a cast roll call or steal ownership.
+- A meaningful witness may remain silent while retaining knowledge state.
+- Do not preassign a line to every present character.
 
 ## Information entering the chapter
 
@@ -127,7 +160,7 @@ Every canon cast member present or decision-relevant must have at least one conc
 
 ## Character knowledge map
 
-Use this for every person whose knowledge, suspicion, silence or wrong assumption can affect the scene.
+Use this for every person whose knowledge, suspicion, silence or wrong assumption can affect the scene. Group background witnesses where individual distinction is unnecessary.
 
 | Character | Knows | Suspects | Must not know / must not volunteer |
 |---|---|---|---|
@@ -144,7 +177,7 @@ Use this for every person whose knowledge, suspicion, silence or wrong assumptio
 
 ## End state
 
-This field is mandatory. No body, wound, destroyed object, custody condition, lost item, unresolved legal order, relationship status, or consequence may appear in prose unless it is listed here or returned to planning first. In non-combat chapters, this still controls who knows what, who left, who stayed, what object/money changed hands, what question was opened, what relationship status did not change, and what authority condition remains.
+This field controls material and semantic results, not exact phrasing.
 
 - Dead / destroyed:
 - Injured:
@@ -154,19 +187,22 @@ This field is mandatory. No body, wound, destroyed object, custody condition, lo
 - Character positions:
 - Crowd / witness state:
 - Legal / faction control:
-- Last image or concrete remainder:
+- Required knowledge result:
+- Required relationship non-result:
+- Last image or concrete remainder target, if any:
 - Explicitly prohibited additions:
 
-## Closed vs free summary
+## Obligation summary
 
-| Element | Closed decision the prose must obey | Free execution choices |
-|---|---|---|
-| Outcome / casualty / injury count |  |  |
-| Agency / ownership |  |  |
-| Knowledge / disclosure |  |  |
-| Power / mechanics |  |  |
-| Relationship / social status |  |  |
-| Staging / texture |  |  |
+| Element | Level 1–3 meaning/boundary | Level 4 editorial target | Level 5 free execution |
+|---|---|---|---|
+| Outcome / casualty / injury count |  |  |  |
+| Agency / ownership |  |  |  |
+| Knowledge / disclosure |  |  |  |
+| Power / mechanics |  |  |  |
+| Character participation |  |  |  |
+| Relationship / social status |  |  |  |
+| Staging / texture / vocabulary |  |  |  |
 
 ## Carry-forward facts
 
@@ -182,10 +218,11 @@ Only if approved chapter text establishes them:
 ## Mini delta handoff
 
 - [ ] The next step is `XX_CHAPTER_MINI_DELTA.md`.
-- [ ] The plan identifies any Mielle intervention that requires power, Holmes, combat, setting, relationship, event or knowledge control.
+- [ ] Every instruction has an obligation level.
+- [ ] Level 1–3 controls have authority and do not conflict.
+- [ ] Level 4 targets are not disguised as immutable results.
+- [ ] Level 5 choices remain free.
 - [ ] The plan identifies each source-required agency owner and decision point.
-- [ ] The plan identifies result ownership for every death, decisive hit, rescue, finalization, possession change, disclosure and legal action.
-- [ ] The plan defines the end state, including casualty/injury count and last concrete remainder.
-- [ ] For non-combat chapters, the plan defines material consequences, knowledge changes, object/money/custody state, relationship non-results and authority conditions instead of combat outcomes.
-- [ ] The plan marks closed vs free elements.
+- [ ] The plan defines material consequences, knowledge changes, object/money/custody state, relationship non-results and authority conditions.
+- [ ] Character presence is classified without a fixed cast roll call.
 - [ ] The plan does not create a new episode-level Canon Delta change.

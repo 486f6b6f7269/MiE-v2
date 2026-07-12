@@ -7,17 +7,15 @@
 - Chapter plan:
 - Episode Canon Delta:
 - Transcript extraction slice:
+- Planning obligation guide: `workflow/03_PLANNING_OBLIGATION_LEVELS.md`
 
 ## Authority placement
 
 - This file applies `work/c2eX/CANON_DELTA.md` to a chapter. It does not replace it.
 - Any episode-level or chapter-level change to source outcome, casualty count, protected canon agency, allowed/prohibited power, kill/finalization ownership, legal aftermath or relationship-state consequence must already exist in `CANON_DELTA.md` before this mini delta uses it.
-- This file may close chapter execution details: allowed/prohibited local actions, scene constraints, witness limits, ownership application, and approval-gated promotion candidates.
+- This file may close chapter execution details: allowed/prohibited local actions, witness limits, ownership application, and approval-gated promotion candidates.
+- Repetition across planning files does not raise authority. Preserve the obligation level assigned in the chapter plan.
 - If this file discovers a required outcome not authorized by source, continuity or `CANON_DELTA.md`, return that decision to `CANON_DELTA.md` before continuing.
-
-## Non-combat use
-
-If the chapter has no combat, keep this file. Mark combat-only fields as `not applicable` with a short reason, but still close local consequences: conversation ownership, questions asked or withheld, object and money handling, route changes, legal pressure, social boundaries, relationship non-results, discoveries, suspicions and knowledge flow.
 
 ## Exact files read
 
@@ -31,53 +29,74 @@ If the chapter has no combat, keep this file. Mark combat-only fields as `not ap
 
 ### Power, Holmes and combat
 
+### Prose, voice and application controls
+
+## Obligation map inherited from the plan
+
+| Instruction or result | Authority source | Level | Required meaning | Free execution | Audit consequence |
+|---|---|---|---|---|---|
+|  |  | 1 hard / 2 semantic / 3 protective / 4 editorial / 5 free |  |  | blocker / evidence-based craft review / none |
+
+Do not strengthen a Level 4 or 5 item merely because this file repeats it.
+
 ## Source obligations inside this chapter
 
 ## Episode-delta constraints inherited here
 
-## Mielle’s allowed intervention
+## Mielle's allowed intervention
 
-## Mielle’s prohibited shortcuts
+Separate result-bearing permissions from optional voice/staging possibilities.
+
+### Required or authority-bearing permissions
+
+### Optional execution possibilities
+
+## Mielle's prohibited shortcuts
+
+List only Level 3 protective constraints or higher-authority prohibitions. Do not use this section as a word blacklist or preferred-staging list.
 
 ## Protected canon agency
 
-| Character | Required decision or accomplishment | What Mielle may do around it | What Mielle must not replace |
-|---|---|---|---|
-|  |  |  |  |
+| Character | Required decision or accomplishment | Obligation level | What Mielle may do around it | What Mielle must not replace |
+|---|---|---|---|---|
+|  |  | 1 / 2 / 3 |  |  |
 
 ## Ownership of results
 
-List every result the chapter must protect or assign. Include deaths, decisive wounds, finalizations, rescues, object custody, public disclosures, legal orders and major witness facts. In non-combat chapters, include invitations, refusals, payments, accepted or rejected help, questions, silences, discoveries, suspicions, relationship non-results and authority movement.
+List only result-bearing actions, knowledge changes and boundaries. Optional banter and texture do not belong here.
 
-| Result | Owner | Authority source | Closed / free | What Mielle may do | What Mielle must not do or imply |
+| Result | Owner | Authority source | Level | What Mielle may do | What Mielle must not do or imply |
 |---|---|---|---|---|---|
-|  |  |  | closed / free |  |  |
+|  |  |  | 1 / 2 / 3 |  |  |
 
-## Canon cast action requirements
+## Character participation classification
 
-Every canon cast member present or decision-relevant must keep at least one concrete action or a stated reason for non-action. The entry must be encenável in prose, not merely a function label.
+| Character | Presence class | Required owned action or boundary | Optional texture lane | Existing tie/task protected | What must not transfer to Mielle or another character |
+|---|---|---|---|---|---|
+|  | decision-relevant / source owner / result owner / meaningful witness / texture participant / background |  |  |  |  |
 
-| Character | Concrete action / behavior in this chapter | What it changes | Voice or behavior note | What the prose must not transfer to Mielle |
-|---|---|---|---|---|
-| Jester |  |  |  |  |
-| Fjord |  |  |  |  |
-| Beau |  |  |  |  |
-| Caleb |  |  |  |  |
-| Nott |  |  |  |  |
-| Molly |  |  |  |  |
-| Yasha |  |  |  |  |
+Rules:
+
+- Physical presence alone does not require a line.
+- Optional texture may remain removable; it is audited for voice and cumulative coverage, not as an automatic blocker.
+- Required/result-bearing actions must retain their owner.
+- Meaningful witnesses may remain silent while retaining knowledge limits.
 
 ## Information control
 
-### Information created
+### Required information created
+
+For Level 2 information, specify the meaning that must be delivered. Exact wording remains free unless explicitly fixed by the user.
 
 ### Information withheld or still uncertain
 
 ### Reader-only / author-only facts that must not leak
 
+### Optional information that may remain unspoken
+
 ## Character knowledge map
 
-| Character | Knows | Suspects | Must not know / must not volunteer |
+| Character | Knows by end | May suspect | Must not know / must not volunteer |
 |---|---|---|---|
 | Mielle |  |  |  |
 |  |  |  |  |
@@ -89,13 +108,16 @@ Every canon cast member present or decision-relevant must keep at least one conc
 - Inference or Holmes boundary:
 - Setting, terrain, legal or faction constraints:
 - Witness limitation:
+- Vocabulary preferences that remain flexible rather than mechanical rules:
 
 ## Prose-scale execution board
 
 Use prose-scale physical terms. Do not write a tabletop grid.
 
 - Mielle:
-- Canon cast:
+- Decision-relevant canon cast:
+- Meaningful witnesses:
+- Background presence:
 - NPCs / source figures:
 - Civilians or vulnerable people:
 - Exits, routes, bottlenecks and obstacles:
@@ -103,9 +125,9 @@ Use prose-scale physical terms. Do not write a tabletop grid.
 - Relevant object / weapon custody:
 - Distances or relative positions that affect timing:
 
-## Closed casualty / injury / custody count for planning
+## Material end-state controls
 
-This count controls drafting unless a higher-authority file changes it. Do not let prose create additional bodies, wounds, missing objects or legal conditions. In non-combat chapters, use this section for object custody, money, promises, social obligations, authority restrictions, emotional residue and knowledge-state consequences.
+This section controls results, not exact lines or optional reactions.
 
 - Dead / destroyed by chapter end:
 - Injured:
@@ -113,7 +135,13 @@ This count controls drafting unless a higher-authority file changes it. Do not l
 - Rescued / captured / escaped / detained:
 - Object and weapon custody:
 - Legal or faction custody / travel restriction:
+- Required knowledge result:
+- Required relationship non-result:
 - Explicitly prohibited additions:
+
+## Editorial targets
+
+List Level 4 craft goals. The audit must show actual local damage before treating divergence as an issue.
 
 ## Chapter-specific consequences if approved
 
@@ -124,23 +152,25 @@ This count controls drafting unless a higher-authority file changes it. Do not l
 - [ ] Open thread
 - [ ] None yet
 
-## Closed vs free summary
+## Obligation summary
 
-| Element | Closed decision the prose must obey | Free execution choices |
-|---|---|---|
-| Outcome / casualty / injury count |  |  |
-| Agency / ownership |  |  |
-| Knowledge / disclosure |  |  |
-| Power / mechanics |  |  |
-| Relationship / social status |  |  |
-| Staging / texture |  |  |
+| Element | Level 1–3 meaning/boundary | Level 4 editorial target | Level 5 free execution |
+|---|---|---|---|
+| Outcome / casualty / injury count |  |  |  |
+| Agency / ownership |  |  |  |
+| Knowledge / disclosure |  |  |  |
+| Power / mechanics |  |  |  |
+| Character participation |  |  |  |
+| Relationship / social status |  |  |  |
+| Staging / texture / vocabulary |  |  |  |
 
 ## Escalation check
 
 - [ ] This document only applies the episode Canon Delta.
+- [ ] Every instruction preserves its plan-level obligation strength.
+- [ ] Level 4 and 5 items are not disguised as blockers.
 - [ ] No new episode-level change was introduced.
 - [ ] Any needed larger change has been returned to `CANON_DELTA.md`.
-- [ ] Ownership of every death, decisive hit, rescue, finalization, custody change and disclosure is explicit.
-- [ ] Casualty, injury and custody counts are explicit and block unplanned additions.
-- [ ] Non-combat material consequences are explicit when no fight exists.
-- [ ] Closed vs free elements are marked.
+- [ ] Ownership of every result-bearing action and disclosure is explicit.
+- [ ] Material, knowledge, custody and relationship boundaries are explicit.
+- [ ] Character participation is pressure-selected rather than form-selected.

@@ -6,89 +6,168 @@
 - Chapter: 05 — `Temporary address`
 - Chapter plan: `work/c2e1/chapters/05_CHAPTER_PLAN.md`
 - Canon Delta: `work/c2e1/chapters/05_CANON_DELTA_AMENDMENT.md`
-- Invariant control: `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`
+- Planning review: `work/c2e1/chapters/05_PLANNING_REVIEW.md`
+- Obligation guide: `workflow/03_PLANNING_OBLIGATION_LEVELS.md`
 
 ## Source and continuity limits
 
-- Preserve the C2E1 endpoint, Crownsguard escort and no-leaving order.
-- Do not introduce C2E2 discoveries.
+- Preserve the C2E1 endpoint, Crownsguard escort and no-leaving-Trostenwald order.
+- Do not introduce C2E2 discoveries or investigation results.
 - Molly remains detained with Gustav and Bo.
 - Yasha remains outside the group with Flynn on the Toya route.
 - Only Mielle, Jester, Fjord, Beau, Caleb and Nott witness the private inn exchange.
 
+## Obligation map
+
+| Instruction or result | Authority | Level | Required meaning | Free execution |
+|---|---|---|---|---|
+| Jester asks after guards leave | user decision | 1/2 | Jester initiates sincere private question | exact wording and pause |
+| Mielle reveals abandoned building and two days | user decision | 2 | witnesses receive both facts | exact phrasing/order |
+| Jester offers one night | user decision / bridge boundary | 1/2 | Jester owns temporary offer before acceptance | exact joke/logistics |
+| Mielle accepts | user decision | 1 | Mielle chooses | spoken answer or threshold action |
+| Three coppers and one button | user decision / inventory correction | 1/2 | Jester identifies; Mielle learns; no payment | inspection texture |
+| Exact shelter/origin/powers withheld | continuity/canon | 3 | no unauthorized disclosure | omission/partial answer |
+| No relationship/debt/status promotion | relationship state | 3 | practical care only | degree of warmth |
+| Clumsiness once | drawback/editorial target | 4 | one useful ordinary-life cost if retained | exact obstacle/reactions |
+| Uneven participation | prose/voice target | 4 | no compulsory cast roll call | optional character beats |
+| Vocabulary/minor staging | work preference | 5 | physical meaning remains coherent | fully free |
+
 ## Chapter-specific delta application
 
-- Jester owns the direct lodging question, the room offer, the explicit `one night` limit, ordinary object identification and refusal of payment.
-- Mielle owns the shelter disclosure, the choice to expose the four pieces, the internal desire/attraction and acceptance.
-- Fjord owns one practical risk check, not the terms of Jester's offer.
-- Beau owns one blunt intervention per pressure sequence at most.
-- Caleb and Nott remain a pair with independent actions; neither must react to every reveal.
+### Required/result-bearing actions
+
+- Jester owns the direct lodging question, room offer, temporary meaning, ordinary object identification and refusal of payment.
+- Mielle owns the shelter disclosure, the choice to expose the four pieces, private orientation and acceptance.
+- Crownsguard own route and legal restriction.
 - The four pieces are objectively three copper coins and one button. Mielle does not know this until Jester inspects them.
 - No payment, price, debt or object transfer occurs.
 
-## Allowed Mielle actions
+### Pressure-selected participation
 
-- Notice Jester more than the situation strictly requires and become visibly flustered.
-- Answer Jester's ordinary concern during the escort.
-- Suffer one practical clumsy cost outside danger.
-- Reveal the abandoned building and duration after Jester's direct question.
-- Ask a limited question about trespassing or admit uncertainty about local law.
+- Beau may own the physical catch if the clumsiness beat remains and may have one rude-useful shelter line.
+- Fjord may provide one practical official-risk line if the scene needs it.
+- Caleb's strongest lane is preserving the Caleb/Nott pair through placement, correction or withdrawal.
+- Nott may own one outsider/object response, preferably the button lane.
+- None of Beau, Fjord, Caleb or Nott is required to react to every reveal.
+
+## Mielle's required or authority-bearing permissions
+
+- Reveal the abandoned building and two-day duration after Jester's direct question.
 - Offer the four presumed coins.
-- React protectively or absurdly to the button in a brief way.
-- Accept one night in Jester's room.
-- Think directly that she wants Jester's friendship and register attraction without naming romance as a relationship.
+- Learn the object identities.
+- Accept or refuse one night.
+- Retain exact shelter, origin, power and inventory privacy.
 
-## Prohibited Mielle actions
+## Optional Mielle execution possibilities
+
+- Notice Jester disproportionately and become visibly flustered.
+- Answer an ordinary escort check-in.
+- Suffer one practical clumsy cost outside danger.
+- Ask a narrow local-law question if it fits the final rhythm.
+- React protectively or absurdly to the button in one brief beat.
+- Think directly that she wants Jester's friendship.
+- Register attraction without declaring romance or reciprocity.
+
+These possibilities are not required lines or mandatory beat counts.
+
+## Prohibited shortcuts
 
 - No exact shelter location, route, origin, archive, power-system or full survival-history disclosure.
-- No local legal or currency competence beyond what she learns in the scene.
+- No unsupported local legal or currency competence.
 - No Bag access, recall, Haki, powered inference or capability name.
 - No declaration that Jester reciprocates friendship or attraction.
 - No treatment of the room as permanent lodging, party admission or debt.
+- No narrator certainty about another character's private thoughts without evidence.
 
-## Invariant consequence receipt
+## Protected agency
 
-| Invariant | Mode | Required consequence / blocked result | Execution limit |
-|---|---|---|---|
-| Attraction / desire for connection | productive | changes attention, embarrassment, disclosure and willingness to accept | one or two clear internal beats; no settled romance |
-| Clumsiness | productive | creates one obstruction, Beau assist and post-combat contrast | one event only; no second stair gag |
-| Witness memory | restrictive | blocks harmless/incompetent reset | reactions may note contradiction, not forget combat |
-| Local ignorance | productive | creates trespass uncertainty and coin/button inspection | no broad law or price lesson |
-| Bounded revelation | restrictive | exact shelter/origin remain unknown | abandoned building and duration only |
-| Relationship boundary | restrictive | offer remains one night; no friendship/romance/debt/status promotion | Jester states the limit; Mielle accepts it |
-| Gear/system limits | restrictive | ordinary physical handling only | no system names or hidden mechanics demonstration |
+| Character | Required result-bearing action | Level | Mielle may | Mielle must not replace |
+|---|---|---|---|---|
+| Jester | question, temporary offer, object identification, refusal of payment | 1/2 | answer, offer objects, choose | Jester's social initiative or local knowledge |
+| Mielle | disclose, expose objects, accept/refuse | 1/2 | speak honestly but incompletely | her own consent or disclosure boundary |
+| Crownsguard | escort and maintain restriction | 1 | comply and ask ordinary questions | legal control |
+| Beau | physical catch if clumsiness beat retained | 4 editorial execution | recover and respond | Beau's chosen physical intervention |
+| Fjord | practical risk narrowing if used | 4 editorial execution | answer if asked | offer terms |
+| Caleb/Nott | pair/object texture if used | 4 editorial execution | respond naturally | their pair priority or independent motive |
 
-## Participation map
+## Information control
 
-| Character | Required | Optional | Prohibited excess |
-|---|---|---|---|
-| Jester | escort check-in; lodging question; one-night offer; coin/button identification | room logistics | therapy speech; permanent promise |
-| Fjord | one practical question or conclusion | silence after offer | taking over terms |
-| Beau | catch Mielle or one blunt shelter reaction; at least one of these must remain | one brief final jab | repeated questioning plus repeated jokes |
-| Caleb | protective placement and either one compact physical question or purposeful silence | guide Nott away | diagnosis/explanation |
-| Nott | one independent shelter or button beat | second brief beat only if it changes pressure | joke chain across both sequences |
+### Required information created
 
-## Knowledge and witness result if approved
+- Jester, Fjord, Beau, Caleb and Nott learn that Mielle used an abandoned building for two days.
+- Mielle learns that three pieces are coppers and one is a button.
+- Jester sees that Mielle is embarrassed but answers voluntarily.
 
-- Group witnesses learn Mielle stayed in an abandoned building since entering the city.
-- They do not learn the exact place or origin.
-- Mielle learns three pieces are coppers and one is a button.
-- Jester sees Mielle's embarrassment and voluntary answer.
-- No one gains access to Mielle's internal wish for friendship or attraction unless they infer only that she is flustered.
+### Information withheld or uncertain
+
+- Exact building, route and legal status.
+- Origin, powers, inventory architecture and memory history.
+- Transformation cause and later investigation results.
+- Future friendship, romance or group status.
+- Each witness's deeper interpretation unless shown through their own action or speech.
+
+### Optional information that may remain unspoken
+
+- Whether the building was dry, had rats, was formally condemned or could be found by guards.
+- Exact sleeping arrangement before the threshold.
+- Broad local trespass law.
+
+These are not required knowledge results unless the draft uses them to change a choice.
+
+## Character participation classification
+
+| Character | Presence class | Required lane | Optional lane | Background allowed |
+|---|---|---|---|---|
+| Mielle | decision/result owner | disclosure, objects, acceptance | humor/fluster | no |
+| Jester | decision/result owner | question, offer, identification, refusal | door/room joke | no |
+| Beau | scene-limited | physical catch if clumsiness retained | one shelter line | yes after lane |
+| Fjord | texture/scene-limited risk owner | none unless risk line used | one practical line | yes |
+| Caleb | pair owner / witness | pair placement or withdrawal | compact correction | yes |
+| Nott | texture participant | none unless object lane used | one button/outsider beat | yes |
+| Molly | absent | none | none | yes |
+| Yasha | absent | none | none | yes |
+
+## Mechanics and setting constraints
+
+- Capabilities/gear used: ordinary carrying of bokken and backpack; ordinary retrieval of cloth-wrapped pieces.
+- Capabilities explicitly prohibited: Soulbond recall, Haki, Bag access, capability naming and powered inference.
+- Holmes boundary: ordinary social reading only; Mielle may infer present willingness from waiting and space, not private biography or future intent.
+- Setting/legal boundary: no leaving Trostenwald; do not introduce unsupported town walls or new Crownsguard conditions.
+- Witness limitation: guards and unrelated staff are gone before disclosure/offer.
+- Vocabulary preference: Mielle usually uses `bokken`; synonyms remain permissible if the same object and POV ownership are clear.
+
+## Prose-scale execution board
+
+- Escort: guards front/rear; Mielle near Jester; Beau able to catch one stumble; Fjord on practical outer lane; Caleb/Nott together.
+- Common room: dim and quiet enough for private group speech; stairs provide a natural withdrawal route.
+- Objects: bokken at Mielle's hip; backpack and cloth bundle remain with her.
+- Threshold: Jester and Mielle own the final decision space; exact room number/floor plan remain free.
 
 ## Material end state
 
 - Dead/injured/detained: no change.
 - Object custody: bokken, backpack, three coppers and button remain with Mielle.
-- Legal state: no-leaving order active.
+- Legal state: no-leaving-Trostenwald order remains active.
 - Lodging: one night in Jester's room accepted.
-- Relationship: unilateral desire and attraction may be present; no reciprocal status.
+- Knowledge: direct group witnesses know abandoned building and two days; exact place remains unknown.
+- Relationship: unilateral desire/attraction may be present; no reciprocal status.
+- Explicitly prohibited: payment, debt, party membership, permanent lodging, power explanation, C2E2 clue.
+
+## Editorial targets
+
+- Avoid an interview-shaped shelter exchange.
+- Keep optional participation unequal and pressure-selected.
+- Prefer one Nott object beat over separate rat and button routines.
+- Preserve Caleb/Nott pair logic through action rather than duplicate questioning.
+- Let Jester's waiting and offered space carry sincerity.
+- End at threshold/door without a second explanation.
 
 ## Release status
 
 - [x] Source outcome preserved.
-- [x] Agency ownership reconciled.
-- [x] Invariant consequences defined.
-- [x] Witness and object states closed.
-- [x] Draft may be revised under the updated scene cards and loadout.
+- [x] Ownership and semantic results reconciled.
+- [x] Obligation strength preserved from the plan.
+- [x] Editorial targets separated from blockers.
+- [x] Witness, relationship and object states closed.
+- [x] Draft may be recreated under updated scene cards and loadout.
 - [ ] No approval or promotion.
