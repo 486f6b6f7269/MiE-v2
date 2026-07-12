@@ -2,13 +2,7 @@
 
 ## Status
 
-This file is the mandatory Character Dossier Application appendix to:
-
-- `work/c2e1/chapters/05_CHAPTER_LOADOUT.md`;
-- `work/c2e1/chapters/05_SCENE_CARDS.md`;
-- `work/c2e1/chapters/05_DRAFT_AUDIT.md`.
-
-It migrates the still-unapproved Chapter 05 to `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`. It does not rewrite the draft.
+This receipt audits the current `work/c2e1/chapters/05_DRAFT.md` after the latest revision. It supersedes the migration-only conclusions that Jester's one-night term and embodied waiting were still absent.
 
 ## Identity
 
@@ -16,139 +10,129 @@ It migrates the still-unapproved Chapter 05 to `canon/characters/CHARACTER_DOSSI
 - Draft inspected: `work/c2e1/chapters/05_DRAFT.md`
 - Previous comparison point: same draft path at commit `3a8fdbcc1ea07d8491d1e4914e53dd06b436ec59`
 - Scene cards: `work/c2e1/chapters/05_SCENE_CARDS.md`
+- Scene-card dossier addendum: `work/c2e1/chapters/05_SCENE_CARDS_CHARACTER_DOSSIER_ADDENDUM.md`
 - Loadout: `work/c2e1/chapters/05_CHAPTER_LOADOUT.md`
-- Audit: `work/c2e1/chapters/05_DRAFT_AUDIT.md`
+- Loadout dossier addendum: `work/c2e1/chapters/05_CHARACTER_DOSSIER_LOADOUT_ADDENDUM.md`
+- Main audit: `work/c2e1/chapters/05_DRAFT_AUDIT.md`
 - Governing standard: `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`
 
 ## Applicability
 
-| Character | Applicable scenes | Why decision-relevant | Background-only scenes |
+| Character | Applicable scenes | Why decision-relevant | Background-only lanes |
 |---|---|---|---|
-| Mielle | all | POV, disclosure owner, contribution owner and acceptance owner | none |
-| Jester | all | contact owner, direct-question owner, offer owner and object-identification owner | none |
-| Beau | escorted streets; possibly one bounded shelter reaction | physically catches Mielle during the clumsy beat; may own one blunt pressure response | button sequence and later room terms may leave her quiet |
-| Fjord | shelter/offer transition only | may narrow official-address risk after Jester acts | early proximity and button comedy do not require him |
-| Caleb | group-withdrawal / Nott-protection lane | his position and withdrawal preserve the Caleb–Nott unit | shelter questioning may remain silent if no concrete safety need survives revision |
-| Nott | button/object lane; Caleb-pair withdrawal | object attention and acquisitive humor can independently alter the button beat | shelter interrogation does not require a rat question |
-| Molly | absent | not physically present; no chapter action | all scenes |
-| Yasha | absent | not physically present; no chapter action | all scenes |
+| Mielle | all | POV, disclosure, contribution and acceptance owner | none |
+| Jester | all | contact, question, offer, object-identification and room-boundary owner | none |
+| Beau | escorted streets; bounded shelter pressure | physically prevents a fall and may challenge one unsafe assumption | button and withdrawal beats may remain background |
+| Fjord | official-risk lane | narrows Crownsguard/address risk after Jester and Mielle establish the problem | attraction, button and room-choice lanes |
+| Caleb | Nott-protection and withdrawal lane | keeps the pair together and can ask one necessary physical question | shelter details that do not change action |
+| Nott | one outsider/object lane | may contribute one independent survival or button response | other reaction lanes and repeated punchlines |
+| Molly | absent | detained with carnival | all scenes |
+| Yasha | absent | away with Flynn/Toya route | all scenes |
 
 ## Stable and current-state synthesis
 
-| Character | Stable dossier phase anchor | Current approved-event / knowledge / relationship anchor | Writer-only / spoiler boundary | Existing ties and task before Mielle |
+| Character | Stable dossier phase anchor | Current approved-event / relationship anchor | Existing ties and task before Mielle | Writer-only / spoiler boundary |
 |---|---|---|---|---|
-| Mielle | early Exandria; lonely, cautious, locally ignorant, clumsy outside danger | `C2E1-C01` through `C2E1-C04`; wants connection, has accepted Jester's cover, remains under Crownsguard restriction | origin, seal, archives and systems remain private | survive official restriction, preserve agency and find lawful shelter |
-| Jester | early impulsive contact-maker; direct concrete care before social calculation | event tiles: food offer, carnival payment, quiet post-fight presence, public Nestled Nook cover | later loneliness insight, mature boundaries and relationship conclusions must not leak | maintain the new Fjord/Beau traveling arrangement while acting on Mielle's immediate need |
-| Beau | early abrasive observer; intelligent but not polished investigator | saw Mielle's hunger/awkwardness and combat capability; remains wary under official pressure | later Expositor polish and emotional articulation prohibited | travel with Jester/Fjord; resist authority; assess concrete contradictions without taking over |
-| Fjord | early controlled practical risk-narrower; not settled captain | saw public combat fragments and participated in Crownsguard aftermath; knows Jester made the cover | pact history, later leadership confidence and settled trust prohibited | keep Jester/Beau arrangement and legal exposure manageable without owning Jester's decision |
-| Caleb | early guarded survivor protecting Nott and minimizing scrutiny | saw partial combat and official lockdown; no trust promotion | Volstrucker history, later openness and party commitment prohibited | keep Nott close, preserve low visibility and avoid unnecessary disclosure |
-| Nott | early frightened, acquisitive, funny and fiercely protective of Caleb | saw Mielle accept help and partial combat; remains uncertain about trust | Veth identity/family and later security prohibited | stay with Caleb, monitor objects and risk, use humor as cover rather than scene service |
+| Mielle | early Exandria; lonely, locally ignorant, careful and genuinely clumsy outside danger | Chapters 01–04: Jester's food/ticket care, shared fight, quiet aftermath and Nestled Nook cover | survive the official restriction, preserve privacy and find lawful shelter | origin, seal, archives, systems and power ceiling remain private |
+| Jester | early direct contact-maker; practical care before social calculation | Jester has already paid twice, stayed beside Mielle after combat and supplied the public lodging cover | maintain the new Fjord/Beau arrangement while acting on an immediate human need | later maturity, settled trust and relationship conclusions do not leak backward |
+| Beau | early abrasive observer; intelligent but not polished investigator | witnessed Mielle's hunger, awkwardness, exact combat and post-fight cover | travel with Jester/Fjord, resist authority and test contradictions without taking over | later Expositor polish and emotional articulation remain unavailable |
+| Fjord | early practical risk-narrower, not automatic captain | witnessed Mielle's combat and Jester's improvised cover; remains under Crownsguard restriction | keep the Jester/Beau travel unit and official exposure manageable | pact history, later leadership confidence and settled party trust remain unavailable |
+| Caleb | early guarded survivor who prioritizes Nott and low visibility | witnessed partial combat and the official lockdown; no trust promotion | keep Nott close and avoid unnecessary scrutiny | Volstrucker history, later openness and party commitment remain private |
+| Nott | early frightened, acquisitive and funny, with Caleb first | witnessed Mielle accepting help, fighting and entering the official cover | protect the Caleb/Nott survival unit and watch food, objects and risk | Veth identity/family and later security remain private |
 
 ## Scene execution receipt
 
-| Scene | Character | Immediate attention | Immediate want | Pressure behavior | Practical competence or restrictive boundary | Owned expression | Material consequence | Knowledge / spoiler limit | Prohibited reduction | Result |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Escorted streets | Jester | Mielle's silence, proximity and clumsy obstruction under guard surveillance | maintain contact without exposing private shelter question | moves toward contact and jokes before measuring social safety | restrictive: no counselor-clean reading or relationship claim | ordinary check-in, sleeve proximity and door/pole joke | gives Mielle a present social point while delaying private disclosure | present care does not prove friendship or future intent | cheerful caretaker assigned to narrate Mielle's feelings | partial — core is material; narration explains after the action lands |
-| Escorted streets | Beau | Mielle physically catches cloak/bokken and loses balance | prevent a fall and register the contradiction without making a verdict | acts physically, then uses blunt humor | practical intervention: catch or steady Mielle | assist plus one blunt comment | changes physical result from fall to recovered stumble | combat evidence does not explain clumsiness or origin | generic tough-girl joke distributor | pass if later reaction chain is compressed |
-| Escorted streets | Fjord | guard route and possible social escalation | keep escort uneventful | restraint and silence are more useful than another comment | restrictive: does not claim leadership over ordinary contact | watch route or remain quiet | preserves official-risk pressure without adding cast coverage | no full account of Mielle's capability | automatic captain | current draft can leave him background here |
-| Shelter disclosure | Jester | where Mielle actually slept | obtain the immediate practical truth and act on it | direct question, waits through embarrassment, then offers concrete help | practical care: ask, listen, offer her own space | direct question and one-night offer | creates voluntary bounded disclosure and lawful temporary option | cannot diagnose trauma or declare friendship | therapist/interrogator | blocker — physical waiting/non-coercion evidence regressed; explicit one-night limit was removed from her line |
-| Shelter disclosure | Beau | unsafe shelter detail | test one obvious practical contradiction | rude-useful question, then stop | restrictive: early Beau does not conduct a polished interview | at most one roof/safety pressure beat | may expose one concrete inadequacy | cannot settle motive or history | serial interrogator | partial — one beat can pass; sequence currently contributes to Q&A chain |
-| Shelter disclosure | Fjord | whether the official address can withstand scrutiny | narrow legal risk after Jester/Mielle establish the fact | asks one practical question and leaves room to retreat | practical route/risk sense | one address-risk question or concise non-objection | keeps Crownsguard constraint present | cannot infer hidden agenda or own offer terms | smooth interrogator / captain | blocker in current revision because `tonight` transfers Jester's offer boundary to him |
-| Shelter disclosure | Caleb | whether the scene creates danger for Nott and whether shelter fact has an immediate physical implication | keep Nott close and avoid unnecessary scrutiny | useful fragment or silence | practical positioning; no need to ask if the answer changes nothing | hand/position near Nott; optional compact safety question only if consequential | preserves Caleb–Nott unit and may narrow immediate physical safety | cannot diagnose Mielle or become confidant | diagnostic narrator | current `Was it dry?` is removable without clear consequence; revise or justify |
-| Shelter disclosure | Nott | stranger's shelter precarity and Caleb's safety | understand whether danger follows them | talks around fear through odd question or remains quiet | restrictive: no compulsory joke; object/survival knowledge can matter later | silence, watchfulness or one question only if it changes choice | should alter risk reading or be omitted | cannot diagnose history or trust | random comic relief | current rat sequence is removable and functions mainly as coverage |
-| One night / button | Jester | immediate shelter problem and Mielle's attempted payment | solve tonight's problem and reject transaction without claiming ownership | acts before group consensus; identifies concrete objects | practical local knowledge and generosity | explicit one-night offer; identify three coppers and one button; refuse payment | makes legal shelter available and corrects object knowledge | no broad currency lesson or lifelong promise | polished counselor / permanent guardian | blocker until one-night term returns to Jester; object lane otherwise passes |
-| One night / button | Nott | unusual small object and ownership boundary | inspect, joke or covet without taking it | acquisitive humor gives cover to interest | practical object attention / quick hands remain bounded by no theft result | one button-focused observation or threat/joke | makes button socially salient without changing custody | cannot know Bag, origin or value beyond visible object | endless theft mascot | partial — one beat is material; extended escalation becomes coverage |
-| One night / button | Caleb | Nott's interest and end of group's necessary role | keep Nott from escalating and withdraw | compact correction or physical redirection | practical pair management | one correction or withdrawal action | ends Nott's participation and preserves pair priority | cannot approve relationship for group | exhausted exposition machine | pass if concise; avoid extra consensus line |
-| One night / button | Beau | no source-owned result after offer terms are clear | none required | may remain quiet or withdraw | background classification preferred | no required line | prevents cast roll call | no new trust conclusion | compulsory snark | current added reaction should be removed unless it changes pressure |
-| One night / button | Fjord | official address risk after Jester states terms | recognize practical sufficiency | concise non-objection | restrictive: does not own offer or relationship | optional short confirmation after Jester | may close legal-risk concern | no group-leader approval | automatic captain | must not supply the term Jester owns |
+| Scene | Character | Immediate want and pressure behavior | Practical competence or restrictive boundary | Owned expression | Material consequence | Prohibited reduction | Result |
+|---|---|---|---|---|---|---|---|
+| Escorted streets | Jester | maintain contact while guards still control privacy; asks and jokes before overthinking | restrictive: no therapy speech or relationship claim | check-in, withheld follow-up, door joke | creates a present social point and preserves the private question for later | cheerful caretaker explaining Mielle to herself | pass with prose trim recommended after the door joke |
+| Escorted streets | Beau | stop the fall and register the combat/clumsiness contradiction | physical intervention | catches Mielle and gives one blunt reply | changes physical result and preserves post-combat witness memory | generic tough-girl joke distributor | pass |
+| Escorted streets | Fjord | keep escort from becoming a new official problem | route and guard-risk attention; silence is valid | brief glance/forward movement | may close the public exchange without taking over | automatic captain or private-thought object | partial — narration assigns him a private judgment rather than showing only the visible action |
+| Escorted streets | Caleb | preserve compact position with Nott | qualification or silence | `The evidence is limited` | supports bounded witness interpretation | detached narrator | pass, though the full ensemble reaction is close to coverage density |
+| Escorted streets | Nott | make sense of the ordinary/combat contradiction through odd humor | restrictive: one shared lane only | pole-weakness joke | supports witness-memory contradiction | compulsory punchline | pass in this scene, but chapter-wide participation becomes excessive |
+| Shelter disclosure | Jester | obtain the practical truth and act on it | direct question, waiting and personal offer | asks once, waits, returns to food/shelter and says `Just tonight` | permits voluntary disclosure and creates lawful temporary shelter | therapist/interrogator | pass; previous blockers are resolved |
+| Shelter disclosure | Beau | challenge the shelter's practical inadequacy | early Beau may test once but must not conduct a polished interview | condemned/roof/defense exchange | exposes the roof problem but continues after the necessary pressure has landed | serial interrogator | revise — the lane is longer than the planned single blunt beat |
+| Shelter disclosure | Fjord | determine whether the recorded address can survive official scrutiny | risk narrowing | two questions plus the address conclusion | keeps Crownsguard pressure active | automatic captain/interrogator | revise — one practical lane expands into repeated questions and a conclusion |
+| Shelter disclosure | Caleb | determine whether the shelter was physically survivable while protecting Nott | one necessary question or purposeful silence | `Was it dry?` plus later withdrawal | current question adds information but changes no later action; withdrawal preserves the pair | diagnostic narrator / information-field collector | superficial in current form; retain the pair action or give the question a concrete consequence |
+| Shelter disclosure | Nott | respond from outsider survival experience or remain quiet | one independent shelter or button beat, not both full chains | trespass joke and extended rat-naming exchange | the trespass joke changes tone; the rat chain does not alter action, knowledge boundary or result | random comic relief | revise — select one consequential shelter beat or move her weight to the button scene |
+| One night / button | Jester | solve the shelter problem and reject transaction | local object knowledge and generosity | identifies three coppers/button, refuses payment, leaves threshold choice open | corrects Mielle's knowledge and keeps offer non-transactional | permanent guardian or polished counselor | pass |
+| One night / button | Nott | inspect and covet an unusual small object without changing custody | object attention / quick hands bounded by no theft result | `nice button`, possible theft, later warning | makes custody socially active but repeats the same object lane several times | theft mascot | revise/compress to one material button beat plus, at most, one callback |
+| One night / button | Caleb | keep Nott from escalating and end their participation | compact pair management | name correction, shoulder guidance and withdrawal | preserves Caleb/Nott priority and ends their scene lane | group-approval spokesman | pass after the optional shelter question is removed or made consequential |
+| One night / button | Fjord | acknowledge the practical address solution after Jester owns the terms | concise non-objection | `safest choice` line | closes official-risk concern without owning the offer | automatic captain | pass at ownership level; later narrated look overstates private content |
+| One night / button | Beau | no separate result remains after offer/object state are clear | background classification is valid | button `Do you?`, later shelter-honor comments and exit jab | little changes if these lines disappear | compulsory snark | revise — retain no more than one consequential late beat, if any |
 
 ## Removal and replacement tests
 
-| Scene | Character | What changes if removed? | Could another present character perform same action/consequence unchanged? | Resolution | Result |
-|---|---|---|---|---|---|
-| escorted streets | Jester | Mielle loses the chosen contact point and the delayed private-question owner | no; her established contact pattern and prior events uniquely motivate it | retain | pass |
-| escorted streets | Beau | physical assist disappears or must become self-recovery; one practical consequence changes | Yasha is absent; Fjord could physically help but it would change pressure and voice | retain Beau assist, limit reaction chain | pass |
-| shelter disclosure | Jester | no natural direct question or owned offer remains | no | restore embodied wait and one-night term | blocker until revised |
-| shelter disclosure | Beau | roof fact may remain undisclosed without affecting final result | yes, or it may be omitted entirely | keep only if it changes Mielle's answer/pressure; otherwise background | superficial in current chain |
-| shelter disclosure | Fjord | official-address risk may be less explicit | Jester or narration could carry it, but Fjord uniquely narrows practical legal risk | retain one narrow question; remove offer ownership | partial |
-| shelter disclosure | Caleb | current dryness question can vanish without changing choice or outcome | yes; any character could ask it | replace with meaningful position/silence or omit | superficial current line |
-| shelter disclosure | Nott | rat questions can vanish without changing choice or outcome | yes; generic odd-question slot | omit or make one question alter risk/object behavior | superficial current sequence |
-| button | Nott | object beat loses acquisitive counterpressure and humor | no, not without changing character logic | retain one concise independent beat | pass after compression |
-| button | Caleb | Nott lacks a pair-owned boundary/withdrawal cue | Fjord could correct facts, but not preserve Caleb–Nott priority the same way | retain concise pair action | pass |
-| button | Beau | little or nothing changes | yes | classify background | fail if compulsory reaction retained |
-
-## Physical-habit and practical-action check
-
-| Character | Habit or competence considered | Natural trigger | Consequence / inactivity | Risk | Result |
-|---|---|---|---|---|---|
-| Jester | moves toward interest; generosity with food/money; object-level social action | Mielle's shelter and object uncertainty | direct question, offer and identification | converting action into therapeutic explanation | revise evidence, retain competence |
-| Beau | physical confidence and sudden intervention | Mielle's stumble | catches/steadies her | every movement becoming threat or joke | pass if limited |
-| Fjord | route, bargain and risk narrowing | Crownsguard address problem | one practical question after disclosure | automatic captain | partial |
-| Caleb | compact footprint and protection of Nott | crowded private exchange | position/withdrawal with Nott | diagnostic question inserted for coverage | revise |
-| Nott | watches small objects and possessions | button reveal | one acquisitive observation without custody change | endless theft comedy | revise/compress |
+| Scene | Character / beat | What changes if removed? | Replacement result | Audit result |
+|---|---|---|---|---|
+| escorted streets | Jester contact | setup for disclosure and attraction disappears | no other character owns the same approved relationship history | pass |
+| escorted streets | Beau catch | fall outcome and practical clumsiness consequence change | another helper would alter pressure/voice | pass |
+| shelter | Beau roof exchange after first useful pressure | final outcome remains; exact roof fact may remain but repeated banter is not required | several characters could continue the questions | trim |
+| shelter | Fjord's two questions plus conclusion | official-risk pressure needs one line, not all three | the conclusion can carry the lane alone | compress |
+| shelter | Caleb `Was it dry?` | no later choice, route, object or offer changes | another character could ask it unchanged | superficial unless consequence is added |
+| shelter | Nott rat chain | no material result changes | generic odd-question slot | superficial; remove or reduce to one pressure-changing beat |
+| button | Nott first object reaction | object custody tension and Nott-specific interest weaken | not fully replaceable without changing voice/logic | keep one concise beat |
+| button | Nott repeated theft/warning callbacks | custody remains unchanged and same point is already established | interchangeable comedy repetition | compress |
+| button/withdrawal | Caleb pair management | Nott's participation lacks a pair-owned endpoint | Fjord cannot preserve the same pair priority | pass |
+| late common room | Beau repeated final jabs | no choice or result changes | generic snark role | background or one line only |
 
 ## Existing-ties preservation
 
-| Character or pair | Existing tie / obligation | How scene should preserve it | Current result |
+| Pair/group | Existing tie | Current execution | Result |
 |---|---|---|---|
-| Jester / Fjord / Beau | early traveling arrangement with uneven initiative | Jester may act first; Fjord narrows risk; Beau may give one blunt practical response; neither must approve Jester's kindness | damaged when Fjord receives Jester's temporary term and all three are given required beats |
-| Caleb / Nott | closest established pair; safety and low visibility first | Caleb keeps Nott close and ends their participation; Nott's interest remains subordinate to pair safety | mostly present, but separate shelter questions over-center Mielle and weaken pair logic |
-| Mielle / Jester | new unilateral desire and present care, not established relationship | direct help can affect Mielle's choice without creating reciprocity | protected in stated facts; explanatory prose risks enlarging it |
+| Jester / Fjord / Beau | early travel unit with uneven initiative | Jester acts first and owns the offer; Fjord manages risk; Beau challenges | ownership passes, but repeated late lines keep all three onstage longer than needed |
+| Caleb / Nott | closest established pair and shared survival priority | physical placement and withdrawal are present | core tie passes; separate shelter questions temporarily make them information collectors for Mielle |
+| Mielle / Jester | practical care and public cover, no established trust/status | Mielle answers, tests payment and crosses the threshold after a repeated choice | pass; desire remains unilateral |
 
-## Conversation and group-structure check
+## Knowledge and spoiler check
 
-| Exchange | Necessary participants | Quiet/withdrawal allowed | Does every contribution change pressure/information? | Risk | Result |
-|---|---|---|---|---|---|
-| escorted contact | Mielle, Jester, Beau for physical assist; guards as pressure | Fjord, Caleb and Nott may remain quiet | no; multiple reactions to one stumble do not all change result | cast roll call | revise |
-| shelter disclosure | Mielle and Jester; Fjord only if legal risk must be explicit; Beau only for one blunt pressure beat | Caleb and Nott may preserve pair through position/silence | no; dryness and rat questions currently collect planned fields | interrogation chain | revise |
-| offer/button | Jester, Mielle and one concise Nott object beat; Caleb may withdraw Nott | Beau may remain silent; Fjord may give brief non-objection after Jester owns terms | no; current sequence distributes reaction/joke coverage | cast roll call | revise |
+- No later-canon biography, maturity or relationship conclusion leaks.
+- No one infers Mielle's origin, mechanics or power ceiling.
+- The draft does not currently give the group the closed `two days` duration; `since I entered the city` is not equivalent because they do not know when she entered.
+- Mielle's private attraction/friendship desire remains private.
 
 ## Revision comparison
 
-| Character | Before | After | Gain | Loss / flattening | Ownership changed? | Resolution |
-|---|---|---|---|---|---|---|
-| Jester | empty hands/waiting and explicit `Just tonight` | narrator says no accusation/trap; Fjord later says tonight | faster surface pacing | embodied social evidence and offer boundary lost | yes | restore evidence and Jester ownership |
-| Fjord | practical supporting role after Jester's offer | carries `tonight` boundary | practical clarity | becomes partial offer owner | yes | narrow to risk/non-objection |
-| Beau | limited blunt/physical beats | additional reactions in shelter/button sequences | more visibility | increased coverage pressure | no | retain assist and at most one consequential question |
-| Caleb | compact boundary/protection role | dryness question plus correction/reaction | more dialogue | pair logic diluted by information collection | no | prefer position, concise correction or withdrawal |
-| Nott | compact odd/object response | rat sequence and extended button escalation | more comic texture | reduced to coverage/comedy | no | retain one material object beat |
+| Character / area | Previous comparison point | Current draft | Gain | Remaining loss or defect |
+|---|---|---|---|---|
+| Jester question | intent partly explained; waiting evidence existed in older version | asks once, waits, supplies no guess | embodied non-coercion is restored | explanatory sentence after the door joke remains |
+| Jester offer | explicit temporary term was unstable across versions | `Just tonight` is now in Jester's line | ownership restored | none |
+| Fjord | previously carried part of the temporary term | now supports official-risk logic after Jester | ownership improved | too many practical beats; private mental content assigned through narration |
+| Beau | physical assist plus several social reactions | physical assist retained; shelter/button/exit comments remain | strongest practical beat preserved | coverage still excessive |
+| Caleb | question and pair withdrawal | same basic structure | pair action preserved | dryness question still fails removal test |
+| Nott | rat and button material | both chains remain extended | character-specific humor preserved | chapter-wide comic coverage remains too dense |
+| duration | `For the last two days` in earlier version | `Since I entered the city` | smoother phrasing | closed duration knowledge is lost |
 
 ## Second-order reread
 
-- Changed paragraphs: none in this receipt; draft revision pending.
-- Dossier consequences preserved: pending.
-- Voice roughness or failure mode flattened: current risk present for Jester, Caleb and Nott.
-- Practical competence removed or reassigned: Jester's term partly reassigned to Fjord.
-- Knowledge/spoiler leakage introduced: no.
-- Existing ties weakened to center Mielle: yes, in the sequential group questioning.
-- New cast-coverage beat introduced: yes.
-- New ownership transfer introduced: yes.
+- Draft revision has been inspected from beginning to end.
+- Jester's ownership and waiting evidence are restored.
+- No later knowledge or relationship promotion was introduced.
+- Existing ties remain visible but are weakened locally by the shelter Q&A chain.
+- Practical competence is present for Jester and Beau; Caleb/Nott are strongest in their pair/object lanes rather than as sequential questioners.
+- Cast-coverage and removal failures remain.
 
 ## Root-cause result
 
-- Characters used materially: Mielle, Jester, Beau in the physical assist, Fjord in legal-risk narrowing, Nott in one object lane, Caleb in pair protection/withdrawal.
-- Characters reduced to voice/function: Beau, Caleb and Nott in parts of the shelter/button chains; Fjord when used to carry Jester's term.
-- Shared cause: planning fields were surfaced as dialogue so every dossier appeared visible, rather than allowing silence, background classification and unequal participation.
-- Corrections required: restore Jester's owned one-night term and embodied waiting; compress Q&A; preserve Beau's physical assist; reduce Caleb/Nott to pair-driven consequential actions; allow Beau/Fjord silence where no consequence exists; rerun tests after revision.
-- Deliberate background classifications: Molly and Yasha absent; Fjord/Caleb/Nott may be background in the escorted contact; Beau may be background after offer terms are set.
-- Deliberate leave-alone decisions: Mielle's direct friendship desire, Jester's direct curiosity, Beau's bluntness, Nott's object interest and Caleb's protective attachment remain protected.
+- Characters used materially: Mielle, Jester, Beau's physical assist, Fjord's official-risk lane, Caleb's pair withdrawal, Nott's concise object lane.
+- Characters used superficially in some beats: Beau's repeated late jabs, Caleb's dry-shelter question, Nott's extended rat chain and repeated button callbacks.
+- Shared cause: the draft attempts to preserve every liked interaction and every dossier distinction, so multiple characters continue speaking after their unique consequence has already landed.
+- Required repair: restore the exact two-day disclosure; compress Beau/Fjord shelter questioning; choose a consequential Caleb/Nott shelter configuration; keep one strong Nott button beat; remove unsupported private-state narration; rerun removal/replacement tests.
+- Deliberate leave-alone: Jester's direct curiosity, Mielle's friendship thought, Beau's physical assist, Caleb/Nott pair withdrawal and one Nott object interaction.
 - Stop condition reached: no.
 
-## Receipt validity and closure
+## Closure
 
-- [x] Stable dossiers are reconciled with exact approved-event sources.
-- [x] Existing ties are identified.
-- [x] Decision-relevant and background presence are separated.
-- [x] Practical competence and restrictive boundaries are tested.
-- [x] Removal and replacement tests are completed.
-- [x] Revision comparison is completed.
-- [ ] Required draft revision is complete.
-- [ ] Second-order reread after revision is complete.
-- [ ] Every decision-relevant character passes.
+- [x] Stable/current synthesis complete.
+- [x] Existing ties identified.
+- [x] Decision-relevant/background classification complete.
+- [x] Practical competence checked.
+- [x] Removal and replacement tests rerun.
+- [x] Revision comparison complete.
+- [ ] Every decision-relevant application passes.
+- [ ] Cast-coverage/removal failures repaired.
+- [ ] Second-order reread after the next revision complete.
 - [ ] Audit may close under the Character Dossier Application standard.
 
 ## Approval result
 
-`blocked — character dossier application receipt found ownership, removal, replacement and cast-coverage failures`
-
-Chapter 05 cannot be approved until this receipt closes or the user explicitly waives the Character Dossier Application receipt for Chapter 05.
+`blocked — core ownership is repaired, but removal, replacement and cast-coverage failures remain`
