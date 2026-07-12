@@ -5,11 +5,13 @@
 - [ ] Chapter loadout completed with exact paths.
 - [ ] Source extraction, episode map, episode Canon Delta and chapter mini delta loaded.
 - [ ] Relevant character dossiers, states, relationship state, setting, knowledge and event records loaded.
+- [ ] `canon/characters/CHARACTER_DOSSIER_APPLICATION.md` and `workflow/02_CHARACTER_DOSSIER_APPLICATION_WORKFLOW.md` loaded when a canon character is decision-relevant.
 - [ ] `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md` loaded when Mielle appears.
 - [ ] Relevant Power Guide modules, Holmes Engine and Combat Rules loaded or explicitly not applicable under valid applicability rules.
 - [ ] Prose package loaded: `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`, `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`, `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`.
 - [ ] `workflow/01_EXECUTION_APPLICATION_WORKFLOW.md` loaded.
-- [ ] Prose System, Prose Guide, Holmes, Combat and Character Voice applicability copied from the loadout and checked against the actual draft.
+- [ ] Prose System, Prose Guide, Holmes, Combat, Character Voice and Character Dossier applicability copied from the loadout and checked against the actual draft.
+- [ ] Chapter-specific Character Dossier Application receipt completed from `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md` or explicitly not applicable with a valid reason.
 - [ ] Pre-draft Anti-AI guard completed with chapter-specific risks and protected material.
 - [ ] Post-draft Anti-AI application receipt completed.
 - [ ] Post-draft Silent Edit completed or explicitly not applicable with reason.
@@ -22,6 +24,45 @@
 - [ ] No character rediscovered an established fact, upgraded a limited inference into proof, or pressed an unresolved subject without a meaningful new trigger.
 
 ## Character voice and agency
+
+## Character Dossier Application receipt
+
+- Receipt exact path:
+- Decision-relevant characters:
+- Intentionally background characters:
+- Meaningful witness-only characters:
+- Current status: pass / revise / blocker / not applicable with reason
+
+This audit uses the separate completed receipt from `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md`. Do not duplicate the full tables here.
+
+The receipt must prove for every decision-relevant canon character:
+
+- stable campaign phase and later-earned traits that must not leak;
+- current approved-event, knowledge and relationship state;
+- existing ties and task before Mielle contact;
+- immediate attention and want;
+- pressure behavior;
+- practical competence or restrictive boundary;
+- character-owned line, action, silence, position or object handling;
+- material consequence;
+- knowledge and spoiler limit;
+- prohibited reduction;
+- removal and replacement results;
+- revision comparison and second-order reread where applicable.
+
+Blocking cases:
+
+- only a dossier path, trait, accent or voice label is supplied;
+- a plausible line has no productive or restrictive consequence;
+- a character can be removed without material change and was not intentionally background;
+- another present character can perform the same action and consequence unchanged without justification;
+- approved-event residue or existing ties disappear so the character can react only to Mielle;
+- practical competence is ignored despite a natural opening;
+- later-canon knowledge, maturity or relationship state leaks backward;
+- every present character receives a compulsory beat for coverage;
+- a substantial revision lacks removal/replacement rerun and second-order reread.
+
+A passing Character Voice receipt does not automatically pass Character Dossier Application.
 
 ## Mielle invariant application audit
 
@@ -113,7 +154,7 @@ Receipt checks:
 
 ## Character Voice Pass execution receipt
 
-Complete for every decision-relevant speaker or present character whose action, silence, reaction or witness state affects the scene. Do not force a line merely to fill the table.
+Complete for every decision-relevant speaker or character whose action, silence, reaction or witness state affects the scene. Do not force a line merely to fill the table.
 
 | Character | Dossier / state anchor | Immediate attention and want | Voice pressure | Representative line, action or silence | Why it belongs to this character | Interchangeability test | Agency/source action retained? | Result |
 |---|---|---|---|---|---|---|---|---|
@@ -314,9 +355,10 @@ The audit cannot close and the chapter cannot move to approval while any applica
 1. Prose System execution receipt;
 2. Mielle Prose Style Guide execution receipt;
 3. Character Voice Pass execution receipt;
-4. Holmes Engine execution receipt;
-5. Combat Rules execution receipt;
-6. Anti-AI application receipt;
-7. Mielle invariant application audit.
+4. Character Dossier Application receipt;
+5. Holmes Engine execution receipt;
+6. Combat Rules execution receipt;
+7. Anti-AI application receipt;
+8. Mielle invariant application audit.
 
 An explicit user waiver applies only when it names the specific receipt and chapter. General approval of the prose does not silently waive any receipt.
