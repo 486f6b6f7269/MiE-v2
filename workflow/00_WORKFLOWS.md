@@ -31,6 +31,33 @@ Before drafting, the Chapter Loadout must contain a completed decision-to-author
 
 A conflict or missing authority blocks prose. Return it to the owner: source note, Arc Map, Episode Canon Delta, chapter plan, mini delta, permanent canon file or continuity record. Do not solve it by guessing in the draft.
 
+## Anti-AI application rule
+
+An exact Anti-AI path or checked read box proves only that the filter was opened. It does not prove that the draft was inspected or revised under it.
+
+Before prose, the Chapter Loadout and pre-draft guard must identify chapter-specific failure pressure. Each risk must name:
+
+1. the scene trigger;
+2. the fact, voice, uncertainty, awkwardness or causal detail that must be protected;
+3. the visible pattern the later audit must inspect; and
+4. whether an additional targeted Anti-AI cluster is justified.
+
+After prose exists, every complete-draft audit must contain the evidence-based Anti-AI application receipt from `templates/AUDIT_TEMPLATE.md`. The receipt must:
+
+- return to every risk named by the pre-draft guard;
+- check the seven universal clusters: explanatory aftertaste, specificity regression, mechanical symmetry and template cadence, flattened dialogue, false certainty and invented consensus, coverage compulsion and planning leakage, and generation residue;
+- select only additional targeted clusters justified by the chapter rather than filling all clusters automatically;
+- cite local evidence or the exact pattern inspected;
+- group repeated symptoms by root cause and use representative examples rather than an exhaustive word inventory;
+- record the smallest safe correction or a specific leave-alone reason;
+- identify protected material that the correction must not damage;
+- compare versions after substantial revision or Silent Edit; and
+- reread changed paragraphs for new loss of voice, specificity, causality, uncertainty or character ownership.
+
+`Anti-AI: pass`, `filter read`, `checked`, `complete`, `no issues`, or equivalent unsupported wording is invalid. A universal cluster marked `not present` without local evidence or a named inspected pattern is also invalid.
+
+A missing, generic or incomplete receipt blocks audit closure and chapter approval. A user waiver applies only when the user explicitly names this Anti-AI receipt requirement for that chapter. General approval of the prose does not silently waive it.
+
 ## Template rule
 
 Every work artifact begins from its exact template. Do not create an unstructured substitute because a task feels simple.
@@ -144,8 +171,8 @@ A template is structure, not canon. Fill only sections that the task has evidenc
 - Use when: immediately before prose.
 - Read: Base production load; controlling Arc Map; chapter plan; chapter mini delta; scene cards; combat pre-check if any; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; every exact file required under the Matrix headings; `canon/prose/PROSE_SYSTEM.md`; `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`; `canon/prose/MIELLE_VOICE_GUIDE.md`; `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - May change: only chapter loadout.
-- Output: exact paths and sections required for draft, grouped under source/adaptation, continuity, character/relationship, setting/faction, power/Holmes/combat, prose/editing and active chapter artifacts; plus a passing decision-to-authority check for every conflict-prone chapter fact, including first impressions, visible Mielle traits, character voice, power use, power non-use and deliberate underestimation.
-- Must not: summarize canon into new facts, leave a vague conditional reference, replace reading listed files with a summary, or let a conflict-prone fact reach prose without a completed authority row.
+- Output: exact paths and sections required for draft, grouped under source/adaptation, continuity, character/relationship, setting/faction, power/Holmes/combat, prose/editing and active chapter artifacts; a passing decision-to-authority check for every conflict-prone chapter fact; and an Anti-AI pressure map that names chapter-specific risks, protected material, universal clusters and justified targeted clusters for the post-draft audit.
+- Must not: summarize canon into new facts, leave a vague conditional reference, replace reading listed files with a summary, let a conflict-prone fact reach prose without a completed authority row, or use generic Anti-AI warnings without a scene trigger and audit target.
 
 ## 11. Draft
 
@@ -156,37 +183,38 @@ A template is structure, not canon. Fill only sections that the task has evidenc
   1. **Factual scene pass.** Read source/adaptation, continuity and chapter artifacts. Build the scene’s causal sequence, agency, material facts, knowledge boundaries and ending. This may be skeletal prose, but it must already obey the decision-to-authority check.
   2. **Character pass.** Read Mielle’s dossier/state, each decision-relevant character dossier/state, relationship state, ledger and event tiles one at a time. Correct action, dialogue, reaction, social distance, first-impression treatment and knowledge before treating sentences as final.
   3. **Mechanics and inference pass.** Read Power Guide, exact modules, Holmes Engine, Combat Rules and pre-check one at a time. Correct power use, deliberate non-use, possession, physical consequences, inference, evasion, resistance, injury/no-hit result and threat boundaries. A conflict returns to planning; it is not smoothed over in prose.
-  4. **Prose pass.** Read `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md` and `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md` one at a time. Rewrite expression, rhythm, scene clarity, evidence support and dialogue texture only. This pass cannot create or solve story facts.
+  4. **Prose pass.** Read `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md` and `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md` one at a time. Rewrite expression, rhythm, scene clarity, evidence support and dialogue texture only. This pass cannot create or solve story facts. Record the paragraphs materially changed for the later Anti-AI receipt.
 - May change: draft only.
-- Output: `XX_DRAFT.md` and a completed pre-draft-guard receipt in the loadout or audit record. The loadout records completion of the four verification passes.
-- Must not: update continuity, alter canon without delta, give characters unsupported knowledge, copy transcript dialogue as prose, use the Anti-AI filter to invent texture, stakes, dialogue or events, or begin prose before decision authority is reconciled.
+- Output: `XX_DRAFT.md`, a completed pre-draft-guard receipt in the loadout or guard artifact, completion state for the four verification passes, and a list of materially changed paragraphs for audit handoff when the prose pass alters them.
+- Must not: update continuity, alter canon without delta, give characters unsupported knowledge, copy transcript dialogue as prose, use the Anti-AI filter to invent texture, stakes, dialogue or events, begin prose before decision authority is reconciled, or declare the Anti-AI application complete before the post-draft receipt exists.
 
 ## 12. Audit
 
 - Template: `templates/AUDIT_TEMPLATE.md`.
 - Use when: after a complete draft.
-- Read: Base production load; draft; loadout; chapter plan; chapter mini delta; scene cards; combat pre-check if any; transcript extraction; controlling Arc Map; episode map; Episode Canon Delta; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; relevant canon, continuity, setting, character, relationship, event, knowledge, power, Holmes, combat and prose-package files.
+- Read: Base production load; draft; previous draft when one exists; loadout; pre-draft guard; chapter plan; chapter mini delta; scene cards; combat pre-check if any; transcript extraction; controlling Arc Map; episode map; Episode Canon Delta; `continuity/C2E1_STARTING_STATE.md` for C2E1 chapters; `continuity/EVENT_INDEX.md`; relevant canon, continuity, setting, character, relationship, event, knowledge, power, Holmes, combat and prose-package files.
 - May change: audit only.
-- Output: issue list with severity, evidence, governing source and required correction.
-- Must not: invent facts, promote memory, silently revise story decisions, or call a problem style-only when its correction changes canon, agency, POV, relationship framing, knowledge control or mechanics.
+- Output: issue list with severity, evidence, governing source and required correction; show-don't-tell evidence table; and a complete Anti-AI application receipt that returns to pre-draft risks, checks universal and targeted clusters, compares substantial revisions, records protected material and confirms a second-order reread.
+- Must not: invent facts, promote memory, silently revise story decisions, call a problem style-only when its correction changes canon, agency, POV, relationship framing, knowledge control or mechanics, close on unsupported `pass` language, omit a pre-draft risk, or approve a generic Anti-AI receipt.
+- Blocker: the audit remains open while the Anti-AI application receipt is absent, generic or invalid. Only an explicit chapter-specific user waiver naming this receipt requirement may override the blocker.
 
 ## 13. Revise
 
 - Template: no separate template. Revise the existing draft and audit record, then run the Anti-AI Silent Edit.
 - Use when: audit identifies a correction.
-- Read: Base production load; draft; audit; every source named by an issue; chapter loadout; character dossier for every revised speaker or actor; exact Power Guide module for every revised power, defense, injury/no-hit result, evasion, damage, gear state or non-use; `canon/prose/PROSE_SYSTEM.md`; `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
+- Read: Base production load; current draft; previous draft; audit; every source named by an issue; chapter loadout; character dossier for every revised speaker or actor; exact Power Guide module for every revised power, defense, injury/no-hit result, evasion, damage, gear state or non-use; `canon/prose/PROSE_SYSTEM.md`; `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`; `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - May change: revised draft and audit resolution status.
-- Output: new draft version, resolved audit and completed Anti-AI Silent Edit receipt.
-- Must not: introduce a canon change without returning to the needed planning document, or continue polishing once the filter’s stop condition is met.
+- Output: new draft version, resolved audit, completed Anti-AI Silent Edit receipt, material before/after comparison and second-order reread of every changed paragraph.
+- Must not: introduce a canon change without returning to the needed planning document, preserve a smoother sentence that loses material specificity, skip comparison because the approximate meaning survived, or continue polishing once the filter’s stop condition is met.
 
 ## 14. Approve chapter
 
 - Template: `templates/APPROVED_CHAPTER_RECORD_TEMPLATE.md`.
 - Use when: the user approves the final draft.
-- Read: final draft; closed audit; chapter plan; chapter mini delta.
+- Read: final draft; closed audit; completed Anti-AI application receipt; chapter plan; chapter mini delta.
 - May change: `chapters/approved/` and project state.
 - Output: approved chapter record.
-- Must not: promote continuity before approval.
+- Must not: promote continuity before approval or approve while the Anti-AI application receipt is absent, generic or invalid. A waiver is valid only when the user explicitly names this receipt requirement for the chapter.
 
 ## 15. Promote memory
 

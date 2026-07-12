@@ -7,8 +7,9 @@
 - [ ] Relevant character dossiers, states, relationship state, setting, knowledge and event records loaded.
 - [ ] Relevant Power Guide modules, Holmes Engine and Combat Rules loaded or explicitly not applicable.
 - [ ] Prose package loaded: `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`, `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
-- [ ] Pre-draft Anti-AI guard completed.
-- [ ] Post-draft Silent Edit completed or not applicable.
+- [ ] Pre-draft Anti-AI guard completed with chapter-specific risks and protected material.
+- [ ] Post-draft Anti-AI application receipt completed.
+- [ ] Post-draft Silent Edit completed or explicitly not applicable with reason.
 
 ## Continuity
 
@@ -67,9 +68,87 @@ Blocking cases:
 - exposition without front-story trigger;
 - thematic/moral ending that explains meaning instead of leaving a concrete remainder.
 
+## Anti-AI application receipt
+
+This receipt proves application, not merely that the filter file was opened. `Read`, `checked`, `complete`, `pass`, or an ungrounded claim that no issue exists is not a valid receipt.
+
+### Inspection scope
+
+- Draft inspected:
+- Full chapter read from beginning to end: yes / no
+- Pre-draft guard used:
+- Previous version compared: exact path / `not applicable — first complete draft`
+- Paragraphs changed by this pass:
+- Changed paragraphs reread after correction: yes / no / not applicable
+- Generation-residue sanitation gate: pass / blocker, with evidence if blocker
+
+### Return to pre-draft risks
+
+Copy every chapter-specific risk from the pre-draft guard. Do not replace the list with a general summary.
+
+| Pre-draft risk | Trigger or protected material | Found in draft? | Local evidence | Editorial decision | Second-order check |
+|---|---|---|---|---|---|
+|  |  | yes / no / near-cluster | paragraph, exchange or brief quotation | correct / leave alone with reason / return to planning | no new loss of voice, specificity, causality or uncertainty |
+
+### Universal cluster check
+
+These seven clusters are mandatory for every complete draft. Group repeated occurrences by root cause and use one to three representative examples. `Not present` must name what was inspected; it cannot stand alone.
+
+| Required cluster | Local evidence or inspected pattern | Result | Smallest safe correction or reason to leave alone | Protected material | Second-order check |
+|---|---|---|---|---|---|
+| Explanatory aftertaste |  | found / near-cluster / not present |  |  |  |
+| Specificity regression |  | found / near-cluster / not present / not applicable on first draft |  |  |  |
+| Mechanical symmetry and template cadence |  | found / near-cluster / not present |  |  |  |
+| Flattened dialogue |  | found / near-cluster / not present / not applicable |  |  |  |
+| False certainty and invented consensus |  | found / near-cluster / not present |  |  |  |
+| Coverage compulsion and planning leakage |  | found / near-cluster / not present |  |  |  |
+| Generation residue |  | found / not present |  | file integrity |  |
+
+### Targeted cluster check
+
+Select only clusters justified by this chapter's scene pressure, pre-draft guard or observed draft behavior. Do not fill all seventeen clusters to prove diligence.
+
+| Targeted cluster | Why this chapter is at risk | Local evidence | Result and action | Protected material | Second-order check |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+
+### Revision comparison, when applicable
+
+Required after any substantial revision or Silent Edit. Record only material changes, not every copyedit.
+
+| Revised location | Concrete information before | Concrete information after | Information lost, added or generalized? | Resolution |
+|---|---|---|---|---|
+|  |  |  | none / describe | keep / restore / return to governing source |
+
+### Root-cause result
+
+- Meaningful clusters found:
+- Shared cause, if any:
+- Corrections made:
+- Deliberate leave-alone decisions and why:
+- Facts, voice, uncertainty, awkwardness or causal details protected from overcorrection:
+- Stop condition reached: yes / no
+
+### Receipt validity
+
+The receipt is invalid and blocks audit closure when:
+
+- a pre-draft risk is omitted;
+- a universal cluster has only `pass`, `not present`, or equivalent without local evidence or an inspected pattern;
+- a substantial revision lacks version comparison;
+- corrected paragraphs were not reread for new damage;
+- the report inventories surface words without identifying root cause;
+- a correction changes canon, agency, knowledge, relationship state, mechanics or material outcome instead of returning to the governing source;
+- the sanitation gate is incomplete;
+- the analysis is generic enough to fit an unrelated chapter unchanged.
+
+An explicit user waiver can override this blocker only when the user names this Anti-AI receipt requirement for the chapter. General approval of the prose does not silently waive the receipt.
+
 ## Issues
 
 | Severity | Location | Governing source | Problem | Required correction | Status |
 |---|---|---|---|---|---|
 
 ## Approval result
+
+The audit cannot close and the chapter cannot move to approval while the Anti-AI application receipt is absent, generic or invalid, unless an explicit chapter-specific user waiver is recorded above.

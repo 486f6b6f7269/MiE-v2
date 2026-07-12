@@ -7,6 +7,7 @@
 - Chapter plan: `work/c2e1/chapters/05_CHAPTER_PLAN.md`
 - Chapter mini delta: `work/c2e1/chapters/05_CHAPTER_MINI_DELTA.md`
 - Scene cards: `work/c2e1/chapters/05_SCENE_CARDS.md`
+- Pre-draft guard: `work/c2e1/chapters/05_PRE_DRAFT_GUARD.md` — reconstructed migration guard for the existing unapproved draft.
 - Draft: `work/c2e1/chapters/05_DRAFT.md`
 - Audit: `work/c2e1/chapters/05_DRAFT_AUDIT.md`
 - Combat pre-check: `work/c2e1/chapters/05_COMBAT_PRECHECK.md` — not applicable.
@@ -114,6 +115,54 @@
 - `canon/prose/MIELLE_VOICE_GUIDE.md`
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
+- Anti-AI pre-draft guard: `work/c2e1/chapters/05_PRE_DRAFT_GUARD.md`
+
+## Anti-AI pressure map and audit handoff
+
+This migration applies the new evidence-based receipt to the existing unapproved draft. The earlier `Silent Anti-AI edit rerun` checkbox does not prove application by itself.
+
+### Chapter-specific risks
+
+| Risk | Scene trigger | Protected material | Audit target |
+|---|---|---|---|
+| Explanatory double landing around Jester proximity and care | escorted walk, door joke and offer | Mielle's attraction and embarrassment without established romance | paragraphs after physical gestures and Jester's offer |
+| Dialogue becomes an information-extraction chain | abandoned-building disclosure | Jester owns the question; Mielle owns disclosure; others retain independent pressure | Beau/Fjord/Caleb/Nott/Jester question-answer sequence |
+| Cast coverage becomes a roll call | shelter and button revelations | ensemble agency without compulsory reaction from everyone | order and necessity of each reaction |
+| Temporary help becomes relationship conclusion | one-night offer and internal friendship thought | unilateral desire; no reciprocal friendship, trust, romance or party status | offer, internal interpretation, acceptance and ending |
+| Cautious voice becomes hedge fog | shelter legality, dryness, food and sleeping questions | exact observation; uncertainty limited to meaning and law | `probably`, `I guess`, alternatives and softened answers |
+| Clumsiness becomes slapstick or competence reset | escort collision | one practical cost; post-combat witness memory remains | stumble and subsequent jokes/reactions |
+| Button becomes an inflated comedy object | coin inspection | three coppers and one button; no payment or broad knowledge | object jokes and distributed reactions |
+| Register changes abruptly | attraction and button-related inner thought | user's authority over Mielle's evolving voice; deliberate roughness protected | all-caps contemporary inner commentary versus adjacent restrained narration |
+| Ending explains after the threshold already lands | room entry and door close | temporary shelter and unresolved relationship state | final lines after physical entry |
+| Revision loses concrete information | current draft versus prior commit | left/right continuity, one-night boundary, object state, witness scope and character ownership | exact comparison against commit `3a8fdbcc1ea07d8491d1e4914e53dd06b436ec59` |
+
+### Universal post-draft clusters
+
+- explanatory aftertaste;
+- specificity regression;
+- mechanical symmetry and template cadence;
+- flattened dialogue;
+- false certainty and invented consensus;
+- coverage compulsion and planning leakage;
+- generation residue.
+
+### Targeted post-draft clusters
+
+- hedge fog and counterfeit nuance;
+- over-polished human exchange / stock emotional micro-gestures;
+- register seam;
+- forced emotional closure;
+- artificial intensity where the offer or friendship thought exceeds the scene's scale.
+
+### Revision comparison
+
+- Prior comparison point: `work/c2e1/chapters/05_DRAFT.md` at commit `3a8fdbcc1ea07d8491d1e4914e53dd06b436ec59`.
+- Material that must survive: physical escort continuity, source/legal pressure, direct-question ownership, bounded disclosure, temporary offer, three-coppers-and-button state, Mielle's unilateral desire and the non-result relationship boundary.
+- Every paragraph changed by a future Silent Edit must be reread for new loss of voice, specificity, causality, uncertainty or character ownership.
+
+### Closure rule
+
+`Anti-AI: pass`, `Silent Anti-AI edit rerun`, or the earlier statement that interpretive density is acceptable cannot close the new receipt without local evidence and a root-cause result. General user approval of prose does not silently waive this requirement.
 
 ## Revision receipt
 
@@ -126,13 +175,15 @@
 - [x] Source and continuity pass rerun.
 - [x] Character and relationship pass rerun.
 - [x] Mechanics and non-use pass rerun.
-- [x] Prose and voice pass rerun.
-- [x] Silent Anti-AI edit rerun.
-- [x] Audit closed with `pass — ready for user review and approval decision`.
+- [x] Prose and voice pass rerun under the earlier workflow.
+- [x] Earlier Silent Anti-AI edit recorded.
+- [ ] Evidence-based Anti-AI application receipt completed under the current workflow.
+- [ ] Changed paragraphs reread under the current second-order check.
 
 ## Current workflow state
 
-- Draft revision complete.
-- Audit closed.
+- Draft revision exists.
+- Earlier audit closure is superseded by the new mandatory receipt.
+- Audit reopened for evidence-based Anti-AI application.
 - Chapter is not approved and continuity is not promoted.
-- Next step requires explicit user approval or further requested revision.
+- Approval is blocked until the receipt closes or the user explicitly waives this named requirement for Chapter 05.
