@@ -6,8 +6,10 @@
 - [ ] Source extraction, episode map, episode Canon Delta and chapter mini delta loaded.
 - [ ] Relevant character dossiers, states, relationship state, setting, knowledge and event records loaded.
 - [ ] `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md` loaded when Mielle appears.
-- [ ] Relevant Power Guide modules, Holmes Engine and Combat Rules loaded or explicitly not applicable.
-- [ ] Prose package loaded: `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`, `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
+- [ ] Relevant Power Guide modules, Holmes Engine and Combat Rules loaded or explicitly not applicable under valid applicability rules.
+- [ ] Prose package loaded: `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`, `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`, `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`.
+- [ ] `workflow/01_EXECUTION_APPLICATION_WORKFLOW.md` loaded.
+- [ ] Prose System, Prose Guide, Holmes, Combat and Character Voice applicability copied from the loadout and checked against the actual draft.
 - [ ] Pre-draft Anti-AI guard completed with chapter-specific risks and protected material.
 - [ ] Post-draft Anti-AI application receipt completed.
 - [ ] Post-draft Silent Edit completed or explicitly not applicable with reason.
@@ -56,13 +58,7 @@ The audit cannot close while an active invariant is superficial, forced, missing
 - [ ] Location, law, language, faction, money, travel and NPC facts match the loaded setting sources.
 - [ ] Physical space, objects, terrain, injury and access remain causally consistent.
 
-## Combat and powers, if applicable
-
-- [ ] Every meaningful ability, gear use, hostile effect and defense matches the loaded source mechanics.
-- [ ] Holmes inference stays evidence-bounded and preserves live uncertainty.
-- [ ] Combat follows the pre-check or has a documented reason for departure.
-
-## Prose and POV
+## Prose and POV preliminary check
 
 - [ ] Mielle-lens prose remains first-person limited except for a justified short external POV.
 - [ ] Each substantial scene begins from a concrete present condition.
@@ -73,6 +69,144 @@ The audit cannot close while an active invariant is superficial, forced, missing
 - [ ] Other characters retain their own dialogue rhythm.
 - [ ] The scene ends on a concrete remainder rather than a moral.
 - [ ] No source chapter phrasing or sentence pattern has been copied mechanically.
+
+These checkboxes are orientation only. They do not replace the evidence-based receipts below.
+
+## Prose System execution receipt
+
+`canon/prose/PROSE_SYSTEM.md` applies to every prose scene. It cannot be marked not applicable.
+
+| Scene | Immediate condition | Active pressure | Material claim or change | On-page evidence | Choice owner | Consequence | Concrete remainder | Result |
+|---|---|---|---|---|---|---|---|---|
+|  |  |  |  | action / object / body / speech / omission / position / timing / cost |  |  |  | pass / blocker / revise |
+
+Receipt checks:
+
+- [ ] Every material emotional, relational, tactical, inferential, power, injury, danger, authority, knowledge, obligation, legal or outcome claim introduced or advanced by the chapter appears in the table or a justified grouped row.
+- [ ] The evidence column does not merely restate the claim.
+- [ ] Choice appears before practical result where consent or agency matters.
+- [ ] Description and dialogue change action, risk, understanding, pressure or consequence.
+- [ ] Every substantial scene leaves a remainder the next beat can inherit.
+- [ ] Any connective beat with no material change is identified and proportionate.
+
+A generic `show-don't-tell pass` is invalid.
+
+## Mielle Prose Style Guide execution receipt
+
+Complete for every substantial Mielle-lens scene. Mark not applicable only when no Mielle-lens prose appears.
+
+| Scene | Concrete entry | Order of attention | Orientation/rhythm evidence | Landing/shortening evidence | Emotion carried by behavior | POV boundary | Concrete ending | Drift or leave-alone decision | Result |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  | pass / revise |
+
+Receipt checks:
+
+- [ ] The entry identifies a present object, body, task, route, sound or person already affecting behavior.
+- [ ] Mielle notices evidence before interpretation.
+- [ ] At least one cited passage shows orientation and one shows a landing, decision, joke or danger receiving space.
+- [ ] Emotion is carried by timing, omission, orientation, attention or consequence.
+- [ ] The audit names what Mielle does not know or claim for another person.
+- [ ] Any camera-report, manual, generic lyricism, detached praise, contemporary-commentary seam or other register drift receives an explicit keep/revise decision.
+- [ ] A leave-alone decision protects character-specific roughness or user-approved register with a concrete reason.
+
+`The prose sounds like Mielle` is not a valid receipt.
+
+## Character Voice Pass execution receipt
+
+Complete for every decision-relevant speaker or present character whose action, silence, reaction or witness state affects the scene. Do not force a line merely to fill the table.
+
+| Character | Dossier / state anchor | Immediate attention and want | Voice pressure | Representative line, action or silence | Why it belongs to this character | Interchangeability test | Agency/source action retained? | Result |
+|---|---|---|---|---|---|---|---|---|
+|  | relevant impulse / limit / rhythm / social filter |  |  |  |  | pass / fails | yes / no | pass / revise / return to planning |
+
+### Conversation-structure check
+
+| Exchange | Who initiates and why | Who resists, redirects or answers partially | Uneven rhythm / interruption | Information or pressure changed | Coverage or interrogation risk | Result |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  | pass / revise |
+
+Receipt checks:
+
+- [ ] The dossier anchor names an actual relevant behavior, not only a file path.
+- [ ] Representative evidence includes attached action or meaningful silence when that is the person's voice choice.
+- [ ] A correct fact in the wrong voice is marked for revision.
+- [ ] A voice-accurate line that steals another person's decision or source action is returned to planning.
+- [ ] Individually plausible lines are checked as an exchange so they do not form an author-driven Q&A chain or cast roll call.
+- [ ] Substantial dialogue revision includes representative before/after comparison.
+
+`Jester sounds like Jester`, `voices distinct`, or equivalent labels are invalid without evidence.
+
+## Holmes Engine applicability and execution receipt
+
+### Applicability decision
+
+- Applicable scenes:
+- Scenes marked not applicable and valid reason:
+
+Holmes applies whenever Mielle's observation or interpretation changes action, silence, route, preparation, care, suspicion, a question, object handling, danger assessment or a decision to wait, test, disclose, refuse or leave. `No powered inference`, `no mystery`, `quiet social scene`, or `no deduction speech` is not a valid reason by itself.
+
+### Scene execution
+
+| Scene | Frame | Selected evidence | Model | Live alternative / unknown | Test or withholding | Committed action | Reply / falsifying result | Revision of model | Agency release | Remainder | Result |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  |  |  | pass / blocker / revise |
+
+### High-confidence fairness record, when applicable
+
+| Conclusion | Anchor | Pattern / constraint | Excluded alternative and excluding fact | Remaining unknown | Fair chain delivered now or deferred? |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+
+Receipt checks:
+
+- [ ] The table cites draft execution, not only the scene-card plan.
+- [ ] Social and domestic readings are included when they affect behavior.
+- [ ] A person, object, terrain or situation replies to the model where the scene has room.
+- [ ] Mielle revises, narrows or explicitly retains the model after the reply.
+- [ ] Another character retains the decision that belongs to them.
+- [ ] Any startling conclusion has anchor, pattern, exclusion and boundary.
+
+`Holmes stays bounded` is invalid without a scene chain.
+
+## Combat Rules execution receipt
+
+### Applicability decision
+
+- Combat pre-check exact path:
+- Combat not applicable reason, if no pre-check is required:
+
+A completed pre-check proves planned authorization, not draft execution.
+
+### Major action chains
+
+| Draft location | Board before | Hostile line / objective | Observable anchor | Mechanic or capability | Physical answer | Contact / miss / result | Enemy or scene reply | Changed condition / escalation | Ally or result owner | Concrete remainder | Status |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  |  |  | pass / blocker / return to planning |
+
+### Complete no-hit / injury reconciliation
+
+| Attack / effect in draft | Target | Line and timing | Warning / anchor | Physical response or defense | Cause of miss / consequence of hit | Board consequence | Authority |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
+
+### Pressure-wave comparison
+
+| Planned pressure wave | Draft execution | What changed on the board | Enemy / scene adaptation | Authorized deviation? |
+|---|---|---|---|---|
+|  |  |  |  | yes / no / return to planning |
+
+Receipt checks:
+
+- [ ] Every major hostile action, Mielle-owned shift, decisive ally action, damage result, rescue, finalization and escalation appears in the action table.
+- [ ] Every depicted attack, hazard or hostile effect targeting a protected character appears in the no-hit/injury table.
+- [ ] Physical cause precedes or immediately explains result.
+- [ ] Adjectives such as `fast`, `precise`, `graceful`, `effortless` or generic strength do not replace mechanism.
+- [ ] The enemy or situation replies after a failed tactic when another pressure wave follows.
+- [ ] Escalation follows a named changed condition.
+- [ ] Ally ownership is visible in prose.
+- [ ] Deviations from the pre-check are authorized or returned to planning.
+
+`Combat follows the pre-check` is invalid without action-chain reconciliation.
 
 ## Show-don't-tell evidence audit
 
@@ -175,7 +309,14 @@ An explicit user waiver can override this blocker only when the user names this 
 
 ## Approval result
 
-The audit cannot close and the chapter cannot move to approval while either condition remains true:
+The audit cannot close and the chapter cannot move to approval while any applicable receipt remains absent, generic, incomplete or awaiting second-order verification:
 
-1. the Anti-AI application receipt is absent, generic or invalid, unless an explicit chapter-specific user waiver is recorded;
-2. any active Mielle invariant is superficial, forced, missing, generic or supported only by a trait label.
+1. Prose System execution receipt;
+2. Mielle Prose Style Guide execution receipt;
+3. Character Voice Pass execution receipt;
+4. Holmes Engine execution receipt;
+5. Combat Rules execution receipt;
+6. Anti-AI application receipt;
+7. Mielle invariant application audit.
+
+An explicit user waiver applies only when it names the specific receipt and chapter. General approval of the prose does not silently waive any receipt.
