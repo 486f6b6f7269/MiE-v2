@@ -12,12 +12,22 @@ This directory contains the prose-facing production files.
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`: application pass tying prose, voice, character dossiers, source, Holmes, combat and Anti-AI checks together.
 - `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`: evidence standard proving that the Prose System, Mielle Prose Style Guide, Holmes Engine, Combat Rules and Character Voice Pass reached the actual draft rather than being satisfied by file paths or generic pass language.
 
+## Character-dossier boundary
+
+Character Voice Pass proves expression and conversation structure. Complete character application is governed separately by:
+
+- `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`;
+- `workflow/02_CHARACTER_DOSSIER_APPLICATION_WORKFLOW.md`;
+- `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md`.
+
+A voice-accurate but causally unnecessary line may pass Voice Pass and still fail complete dossier application.
+
 ## Application workflow
 
-Use `workflow/01_EXECUTION_APPLICATION_WORKFLOW.md` with the Chapter Loadout and Audit templates. Opening a file is not proof of application. Every applicable system must leave local draft evidence, an editorial result and a second-order check after revision.
+Use `workflow/01_EXECUTION_APPLICATION_WORKFLOW.md` and `workflow/02_CHARACTER_DOSSIER_APPLICATION_WORKFLOW.md` with the Chapter Loadout, Audit and Character Dossier Application templates. Opening a file is not proof of application. Every applicable system must leave local draft evidence, an editorial result and a second-order check after revision.
 
 ## Boundaries
 
-`canon/HOLMES_ENGINE.md` remains the authority for inference. `canon/COMBAT_RULES.md` remains the authority for combat. The prose system includes only the page-level application of those rules. `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md` does not change their mechanics; it defines how an audit proves their execution.
+`canon/HOLMES_ENGINE.md` remains the authority for inference. `canon/COMBAT_RULES.md` remains the authority for combat. Stable character logic remains in `canon/characters/`; approved current state remains in continuity files. The prose system includes only the page-level application of those rules.
 
 This directory does not decide canon, plot, powers, tactics, relationship status, source outcomes or continuity.
