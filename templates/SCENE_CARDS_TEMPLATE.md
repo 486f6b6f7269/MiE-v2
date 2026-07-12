@@ -8,47 +8,70 @@
 - Source slice:
 - Combat pre-check, if any:
 - Other active controls:
+- Planning obligation guide: `workflow/03_PLANNING_OBLIGATION_LEVELS.md`
 - Character dossier application standard: `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`
 
-## Closed planning rules for all scenes
+## Obligation preservation
 
-- Closed facts: source outcomes, casualty/injury count, ownership of results, protected canon agency, power use/prohibition, witness limits, legal/faction control, object custody and relationship-status boundaries.
-- Free facts: sentence rhythm, metaphor, small gesture texture, exact non-outcome movement, minor sensory detail and exact wording where source ownership remains intact.
-- No body, wound, rescue, confession, authority claim, relationship upgrade, object custody change, power result or legal consequence may appear in prose unless listed here, in the mini delta, in the combat pre-check, or returned to planning.
-- In non-combat scenes, the same rule applies to social and material consequences: no new debt, promise, trust shift, suspicion, disclosure, object transfer, money exchange, route change, legal order, invitation, refusal or question may appear unless listed here or returned to planning.
+Copy the chapter-level obligation map into scene-relevant rows. Scene cards may localize staging, triggers and pressure. They may not strengthen an instruction.
 
-## Mielle invariant use
-
-When Mielle appears, copy the scene-relevant invariant from `canon/characters/MIELLE.md` into the field that controls prose. Do not leave the rule only as “read MIELLE.md.” Also apply `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`.
-
-- First impression / underestimation goes in `Prose-scale board`, `Character knowledge map`, and `Closed vs free`.
-- Clumsiness / pressure behavior goes in `Immediate pressure`, `Mielle's protected agency`, and `Scene outcome / final state` if it causes a consequence.
-- Bokken / Soulbond / item custody goes in `Relevant mechanics`, `Ownership of results`, and `Scene outcome / final state`.
-- Bag / backpack / clothing / glasses goes in `Relevant mechanics`, `Ownership of results`, and `Explicitly prohibited additions`.
-- Combat / threat / injury / no-hit goes in the combat pre-check and is summarized here only where it affects this scene's board, knowledge or final state.
-- Inference / Holmes / reading behavior goes in `Holmes scene map` and `Character knowledge map`.
-- Local knowledge / language / law / money goes in `Setting and physical conditions`, `Character knowledge map`, and `Closed vs free`.
-- Origin / archives / memory goes in `Mielle's protected agency`, `Character knowledge map`, and `Information that must remain unknown`.
-- Social care / payment / invitation / relationship goes in `Ownership of results`, `Social / relationship / obligation state`, and `Closed vs free`.
-- System names / power explanations go in `Capabilities explicitly prohibited`, `Character knowledge map`, and `Explicitly prohibited additions`.
-
-### Mielle invariant consequence test
-
-Select only invariants with a natural trigger in this scene. Do not force every trait into every scene.
-
-For each active invariant, identify either a productive consequence or a restrictive consequence. A copied trait, a tone note or a single decorative mention is not sufficient.
-
-| Active invariant | Productive or restrictive | Scene trigger or concrete temptation | Action, choice, cost, reaction, limit or blocked result | Evidence expected in prose | What would change if the invariant were removed? |
+| Instruction / result / boundary | Authority source | Level | Required meaning in this scene | Free execution | Audit consequence |
 |---|---|---|---|---|---|
-|  | productive / restrictive |  |  |  |  |
+|  |  | 1–5 |  |  | blocker / evidence-based craft review / none |
 
 Rules:
 
-- Productive rows must change an action, choice, pacing beat, reaction, knowledge state, object state or scene outcome.
-- Restrictive rows must name the tempting invalid result they block and the allowed replacement, if any.
-- `It affects tone`, `Mielle acts like herself`, `do not break canon` and equivalent answers fail.
-- If removing the invariant leaves the scene materially unchanged, return to planning or mark the invariant inactive.
-- An invariant may be inactive because the scene has no natural trigger; this is preferable to a forced beat.
+- Level 1–3 control authority, semantic result or protective boundary.
+- Level 4 guides craft and needs demonstrated local damage before becoming an issue.
+- Level 5 remains free unless continuity, physical coherence, knowledge, ownership, mechanics or voice is damaged.
+- Repetition from plan to mini delta to scene card does not increase authority.
+- Exact wording, reaction count, optional gesture and one suggested staging choice remain free unless a higher authority fixes them.
+
+## Closed chapter rules for all scenes
+
+List only Level 1–3 chapter-wide controls here:
+
+- source outcomes and causal results;
+- casualty/injury count;
+- ownership of results;
+- protected canon agency;
+- power use/prohibition;
+- witness and knowledge limits;
+- legal/faction control;
+- object custody;
+- relationship-status boundaries.
+
+Do not place editorial preferences or optional lines in this section.
+
+## Chapter-wide editorial targets
+
+List Level 4 craft pressure here. Examples: uneven participation, no interrogation chain, one clumsy beat, concrete ending, limited joke lane.
+
+Divergence from this section is not automatically a blocker. The later audit must inspect actual local effect.
+
+## Chapter-wide free execution
+
+List Level 5 freedom here: exact wording, minor movement, natural synonyms, optional silence, object vocabulary, joke wording, furniture and non-outcome texture.
+
+## Mielle invariant use
+
+When Mielle appears, copy the scene-relevant invariant from `canon/characters/MIELLE.md` into the field that controls prose. Also apply `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`.
+
+Activate an invariant only when planning expects it to change a choice, action, pressure, knowledge state, object state, result or restrictive boundary. Incidental voice or physical texture may remain Level 4–5 without becoming an active material invariant.
+
+### Mielle invariant consequence test
+
+| Active invariant | Obligation level | Productive or restrictive | Scene trigger or concrete temptation | Action, choice, cost, reaction, limit or blocked result | Evidence expected in prose | What would change if the invariant were removed? |
+|---|---|---|---|---|---|---|
+|  | 1–4 | productive / restrictive |  |  |  |  |
+
+Rules:
+
+- Productive rows must change action, choice, pacing, reaction, knowledge, object state or outcome.
+- Restrictive rows must name the invalid result blocked and the allowed replacement or omission.
+- If the invariant is Level 1–3 and removal leaves its required result unchanged, return to planning.
+- A Level 4 incidental texture is not required to pass a material removal test unless planning explicitly made it result-bearing.
+- Do not activate every trait merely to fill the table.
 
 ---
 
@@ -56,26 +79,26 @@ Rules:
 
 ### Present-character classification
 
-List everyone physically present, decision-relevant, witnessed through line of sight, or directly affected. Then classify them. Physical presence alone does not require a line, reaction or dossier beat.
+List everyone physically present, directly witnessed or materially affected. Then classify them before assigning dialogue.
 
-| Character | Presence class | Why this class applies | Later witness relevance |
+| Character | Presence class | Authority / causal reason | Later witness relevance |
 |---|---|---|---|
-|  | decision-relevant / source-action owner / result owner / meaningful witness / background |  |  |
+|  | required/result-bearing / meaningful witness / optional texture / background |  |  |
 
 Rules:
 
-- Only decision-relevant characters and source/result owners require detailed dossier-application rows.
-- Meaningful witnesses require knowledge boundaries but not compulsory dialogue or reaction.
-- Background characters belong on the board and may remain unreported in prose.
-- Do not promote a background character to decision-relevant merely to display a dossier trait.
+- Required/result-bearing characters own a source action, user decision, material result, protected boundary or causal pressure change.
+- Meaningful witnesses need knowledge boundaries but not compulsory dialogue.
+- Optional texture may contribute one natural character-specific beat without carrying a hard result.
+- Background characters may remain unreported in prose.
+- Physical presence or a line in a prior draft does not by itself create required status.
 
 ### Prose-scale board at scene start
 
-Use physical terms the prose can use. Do not write a tabletop grid.
-
 - Mielle:
-- Decision-relevant canon cast members:
-- Background / witness-only cast members:
+- Required/result-bearing canon cast:
+- Meaningful witnesses:
+- Optional texture / background cast:
 - NPCs / source figures:
 - Civilians or vulnerable people:
 - Exits, routes and bottlenecks:
@@ -92,6 +115,8 @@ Use physical terms the prose can use. Do not write a tabletop grid.
 
 ### Source obligations in this scene
 
+List Level 1 source actions and owners.
+
 ### Mini-delta constraints
 
 - Mielle’s allowed intervention:
@@ -99,29 +124,43 @@ Use physical terms the prose can use. Do not write a tabletop grid.
 - Protected canon agency:
 - Information that must remain unknown:
 
-### Character dossier application planning
+### Required/result-bearing character dossier planning
 
-Apply `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`. Reconcile each decision-relevant stable dossier with approved current state before assigning an action.
+Use the full table only for required/result-bearing characters.
 
-| Character | Stable phase anchor | Current event / knowledge / relationship anchor | Existing ties and task before Mielle | Immediate attention and want | Pressure behavior | Practical competence or restrictive boundary | Owned action / silence / position | Material consequence | Prohibited reduction |
+| Character | Stable phase anchor | Current event / knowledge / relationship anchor | Existing ties and task before Mielle | Immediate attention and want | Pressure behavior | Practical competence or restrictive boundary | Owned action / silence / position | Productive consequence or protected boundary | Prohibited reduction |
 |---|---|---|---|---|---|---|---|---|---|
 |  |  | exact event tile / ledger / relationship / state |  |  |  |  |  |  |  |
 
 Rules:
 
 - A dossier path, trait or voice label is not a valid row.
-- Every active row needs a productive or restrictive consequence.
-- Name later-earned maturity, knowledge or relationship conclusions that must not leak backward where relevant.
-- Preserve source-owned pairs, duties and goals that exist before Mielle contact.
-- Use practical competence when the scene offers a natural lane.
-- If removal leaves the scene unchanged, classify the character as background or return to planning.
-- If another character could perform the same action and consequence unchanged, justify ownership or revise.
+- Every required/result-bearing row needs a productive consequence or restrictive boundary.
+- Preserve source-owned pairs, duties and goals before Mielle contact.
+- Use practical competence when the required result depends on a natural action lane.
+- If the beat fails removal or replacement, reclassify or return to planning.
+
+### Meaningful witness planning
+
+| Character | Directly witnessed fact | Reasonable conclusion | Unsupported conclusion | Later relevance |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
+Silence is valid.
+
+### Optional texture lanes
+
+| Character | Natural trigger | Character-specific optional action / line / silence | Ownership and knowledge boundary | Repetition / coverage risk |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
+Optional texture does not need a material consequence. It must remain specific, proportionate and non-repetitive.
 
 ### Canon actions that must be encenável
 
-Only list decision-relevant characters, source-action owners and result owners. A meaningful silence, refusal, withdrawal, position change or object action is valid. Do not build a fixed main-cast roll call.
+Only list Level 1–3 required/result-bearing actions or meaningful silences.
 
-| Character | Concrete action / behavior / silence | What it changes | What must not be transferred to Mielle or another character |
+| Character | Concrete action / behavior / silence | What it changes or protects | What must not be transferred to Mielle or another character |
 |---|---|---|---|
 |  |  |  |  |
 
@@ -148,18 +187,18 @@ For non-combat scenes, mark combat-only entries `not applicable`, but still list
 
 ### Ownership of results
 
-List every result that happens in this scene. If no result of a type occurs, write `none`.
+List only result-bearing actions or protected boundaries. Do not turn optional banter into a closed result.
 
-| Result type | Result | Owner | Closed / free | What Mielle may do | What Mielle must not do or imply |
+| Result type | Result | Owner | Obligation level | What Mielle may do | What Mielle must not do or imply |
 |---|---|---|---|---|---|
-| Death / destruction |  |  | closed / free |  |  |
-| Injury / decisive hit |  |  | closed / free |  |  |
-| Rescue / protection |  |  | closed / free |  |  |
-| Finalization / capture / escape |  |  | closed / free |  |  |
-| Object / weapon custody |  |  | closed / free |  |  |
-| Disclosure / knowledge change |  |  | closed / free |  |  |
-| Legal / faction action |  |  | closed / free |  |  |
-| Social / relationship / obligation result |  |  | closed / free |  |  |
+| Death / destruction |  |  | 1–3 / none |  |  |
+| Injury / decisive hit |  |  | 1–3 / none |  |  |
+| Rescue / protection |  |  | 1–3 / none |  |  |
+| Finalization / capture / escape |  |  | 1–3 / none |  |  |
+| Object / weapon custody |  |  | 1–3 / none |  |  |
+| Disclosure / knowledge change |  |  | 1–3 / none |  |  |
+| Legal / faction action |  |  | 1–3 / none |  |  |
+| Social / relationship / obligation result |  |  | 1–3 / none |  |  |
 
 ### Witness, knowledge and boundary check
 
@@ -170,8 +209,6 @@ List every result that happens in this scene. If no result of a type occurs, wri
 - Meaningful new trigger for a question, if any:
 
 ### Character knowledge map
-
-Include decision-relevant characters and meaningful witnesses. Background characters need not receive an individual row unless later witness state matters.
 
 | Character | Knows | Suspects | Must not know / must not volunteer |
 |---|---|---|---|
@@ -193,7 +230,7 @@ Include decision-relevant characters and meaningful witnesses. Background charac
 
 ### Canon response pass
 
-For each decision-relevant character or meaningful witness:
+For each required/result-bearing character or meaningful witness:
 
 - What they know:
 - What they interpret:
@@ -203,17 +240,27 @@ For each decision-relevant character or meaningful witness:
 - Existing tie or task they continue to protect:
 - Conclusion they cannot make yet:
 
-Do not fill this pass for background presence unless a later witness state depends on it.
+Optional texture may be recorded in its own table. Do not expand it into a full dossier pass unless it becomes result-bearing.
 
 ### Removal and replacement pre-check
 
+#### Required/result-bearing beats
+
 | Character | What changes if removed? | Could another present character perform the same action and consequence unchanged? | Ownership justification or required revision | Status |
 |---|---|---|---|---|
-|  |  | yes / no |  | pass / background / return to planning |
+|  |  | yes / no |  | pass / reclassify / return to planning |
+
+#### Optional texture and witness handling
+
+| Character / beat | Removal effect | Voice/interchangeability warning | Cumulative coverage risk | Status |
+|---|---|---|---|---|
+|  | may be none | none / warning | none / repetition / roll call | keep / revise / remove |
+
+A removable optional beat is not automatically superficial.
 
 ### Scene outcome / final state
 
-This field is mandatory. No body, wound, destroyed object, custody condition, lost item, unresolved legal order, relationship status, or consequence may appear in prose unless listed here or returned to planning first. In non-combat scenes, this controls who knows what, who leaves with whom, who owes nothing, who accepted or refused help, what object/money/document changed hands, what question remains unasked, and what relationship did not change.
+This field controls material Level 1–3 results and the concrete remainder. Do not list every optional line as an outcome.
 
 - Dead / destroyed:
 - Injured:
@@ -223,20 +270,22 @@ This field is mandatory. No body, wound, destroyed object, custody condition, lo
 - Character positions:
 - Crowd / witness state:
 - Legal / faction control:
+- Required knowledge result:
 - Social / relationship / obligation state:
-- Character-specific consequences that survive removal test:
+- Meaningful witnesses and later relevance:
+- Optional texture that must not be promoted:
 - Background characters with no manufactured beat:
 - Last image or concrete remainder:
 - Explicitly prohibited additions:
 
-### Closed vs free
+### Obligation summary
 
-| Element | Closed decision the prose must obey | Free execution choices |
-|---|---|---|
-| Outcome / casualty / injury count |  |  |
-| Agency / ownership |  |  |
-| Knowledge / disclosure |  |  |
-| Power / mechanics |  |  |
-| Character phase / dossier consequence |  |  |
-| Relationship / social status |  |  |
-| Staging / texture |  |  |
+| Element | Level 1–3 meaning / boundary | Level 4 editorial target | Level 5 free execution |
+|---|---|---|---|
+| Outcome / casualty / injury count |  |  |  |
+| Agency / ownership |  |  |  |
+| Knowledge / disclosure |  |  |  |
+| Power / mechanics |  |  |  |
+| Character participation |  |  |  |
+| Relationship / social status |  |  |  |
+| Staging / texture / vocabulary |  |  |  |

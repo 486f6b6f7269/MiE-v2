@@ -4,16 +4,17 @@
 
 This file governs how the project proves that prose, style, inference, combat and character-voice standards were actually applied to a draft.
 
-It does not replace:
+Read it with:
 
+- `workflow/03_PLANNING_OBLIGATION_LEVELS.md`;
 - `canon/prose/PROSE_SYSTEM.md`;
 - `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`;
 - `canon/HOLMES_ENGINE.md`;
 - `canon/COMBAT_RULES.md`;
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`;
-- character dossiers, scene cards, combat pre-checks, Canon Delta, continuity or user decisions.
+- character dossiers, scene cards, combat pre-checks, Canon Delta, continuity and user decisions.
 
-Those files define the rules. This file defines the evidence required to show that the rules reached the page.
+Those files define rules and authority. This file defines the evidence required to show that they reached the page without changing obligation strength.
 
 ## Governing principle
 
@@ -21,9 +22,27 @@ A path in a loadout, a checked read box, a copied rule, or a statement such as `
 
 Application requires a traceable chain:
 
-> governing rule → chapter or scene trigger → local draft evidence → editorial judgment → correction or leave-alone reason → second-order check.
+> authority source and obligation level → scene trigger → local draft evidence → result → editorial judgment → correction or leave-alone reason → second-order check.
 
-The receipt must be specific enough that another reviewer can inspect the cited passage and disagree intelligently.
+The receipt must be specific enough that another reviewer can inspect the passage and disagree intelligently.
+
+## Obligation-level interpretation
+
+Before completing any receipt, identify whether the inspected requirement is:
+
+- Level 1 hard authority;
+- Level 2 required semantic outcome;
+- Level 3 protective constraint;
+- Level 4 editorial target;
+- Level 5 free execution.
+
+Rules:
+
+- Level 1–3 failure may block when the authorized fact, meaning, ownership, knowledge, mechanics or boundary is actually lost.
+- Level 4 divergence becomes an issue only when local evidence shows sustained craft damage.
+- Level 5 wording and staging are checked for coherence, not conformity.
+- Repetition across planning and receipts does not raise authority.
+- Version comparison must distinguish lost Level 1–3 material from equivalent wording, editorial gain/loss and neutral execution change.
 
 ## Shared validity rules
 
@@ -31,108 +50,94 @@ Every required receipt must:
 
 - identify the draft and exact scene or passage inspected;
 - cite local evidence or a clearly named inspected pattern;
-- distinguish a found problem, a near-failure, a verified absence and a deliberate leave-alone decision;
-- name the protected fact, voice, uncertainty, agency, mechanism or physical detail that revision must preserve;
+- distinguish a found problem, near-failure, verified absence and deliberate leave-alone decision;
+- name protected fact, voice, uncertainty, agency, mechanism or physical detail;
 - return non-style conflicts to the governing planning or canon file;
-- compare versions after a substantial revision;
+- compare versions after substantial revision;
 - reread changed paragraphs for new damage;
-- avoid exhaustive word inventories when representative examples establish the root cause.
+- avoid exhaustive word inventories when representative examples establish the root cause;
+- preserve the assigned obligation level.
 
 A receipt is invalid when:
 
-- it contains only `pass`, `checked`, `complete`, `not present`, `voice accurate`, `Holmes used`, `combat clear`, or equivalent unsupported wording;
-- its explanation could be pasted into an unrelated chapter unchanged;
-- it cites only the planning artifact and not the resulting prose;
-- it declares a rule satisfied without showing the consequence of that rule;
-- it confuses the absence of a violation with successful positive execution;
+- it contains only unsupported `pass`, `checked`, `complete` or `not present` language;
+- its explanation could fit an unrelated chapter unchanged;
+- it cites only planning and not resulting prose;
+- it declares a Level 1–3 rule satisfied without evidence of its result or boundary;
+- it confuses absence of a violation with positive execution where positive execution is required;
 - it repairs canon, agency, mechanics, knowledge or relationship state inside a prose-only pass;
-- corrected passages are not reread.
+- corrected passages are not reread;
+- it promotes a Level 4 or Level 5 choice into a blocker without demonstrated damage.
 
-## I. Prose System execution receipt
+## I. Obligation-level execution receipt
 
-`canon/prose/PROSE_SYSTEM.md` applies to every prose scene. It cannot be marked not applicable.
+Complete before the system-specific receipts.
 
-The receipt proves that permitted facts earned their place on the page.
+| Scene / control | Authority source | Planned level | Draft execution | Required meaning / boundary preserved? | Free execution used safely? | Result |
+|---|---|---|---|---|---|---|
+|  |  | 1–5 |  | yes / no | yes / no / not applicable | pass / blocker / craft review / neutral change |
+
+This receipt prevents the later tables from auditing a suggestion as canon.
+
+## II. Prose System execution receipt
+
+`canon/prose/PROSE_SYSTEM.md` applies to every prose scene.
 
 For every substantial scene, record:
 
-| Scene | Immediate condition | Active pressure | Material claim or change | On-page evidence | Choice owner | Consequence | Concrete remainder | Result |
+| Scene | Immediate condition | Active pressure | Level 1–3 material claim or change | On-page evidence | Choice owner | Consequence | Concrete remainder | Result |
 |---|---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  | pass / blocker / revise |
 
 Rules:
 
-- Include every material emotional, relational, tactical, inferential, power, injury, danger, authority, knowledge, obligation, legal or outcome claim introduced or materially advanced by the scene.
-- Group repeated low-risk claims only when they share the same evidence chain and owner.
-- A scene with no material change must be identified as a genuinely connective beat and kept proportionate.
-- The evidence column must name action, object, body, speech, omission, position, timing, cost or consequence. A restatement of the claim is not evidence.
-- The remainder must be something the next beat can inherit, not a thematic summary.
+- Include every material emotional, relational, tactical, inferential, power, injury, danger, authority, knowledge, obligation, legal or outcome claim introduced or materially advanced.
+- Group repeated low-risk claims when they share evidence and owner.
+- A genuinely connective beat with no material change may remain proportionate; do not invent a result to fill the table.
+- Evidence names action, object, body, speech, omission, position, timing, cost or consequence.
+- Remainder is something the next beat can inherit, not a thematic summary.
 
 Blocking conditions:
 
-- a material claim has no visible evidence;
-- a choice appears after its practical result already occurred;
-- description carries no action, risk, misunderstanding or consequence;
-- dialogue exists only to state theme or planning information;
-- Holmes or combat language supplies information without its governing chain;
-- a scene ending explains meaning instead of leaving the altered condition.
+- a Level 1–3 material claim has no visible evidence;
+- consent or choice appears after its practical result;
+- dialogue states planning information while changing no pressure, knowledge, risk or action;
+- Holmes or combat information appears without its governing chain;
+- an ending adds a material relationship, moral or causal conclusion unsupported by prior evidence.
 
-## II. Mielle Prose Style Guide execution receipt
+A Level 4 preference for a concrete ending does not make every other honest ending a blocker. Direct thought is not unsupported merely because it names an emotion when evidence and POV authority support it.
 
-`canon/prose/MIELLE_PROSE_STYLE_GUIDE.md` applies to every substantial Mielle-lens scene. It may be not applicable only when no Mielle-lens prose appears.
+## III. Mielle Prose Style Guide execution receipt
 
-The receipt proves the positive page effect, not merely the absence of bad habits.
+`canon/prose/MIELLE_PROSE_STYLE_GUIDE.md` applies to every substantial Mielle-lens scene.
 
-For every substantial Mielle-lens scene, record:
-
-| Scene | Concrete entry | Order of attention | Orientation/rhythm evidence | Landing/shortening evidence | Emotion carried by behavior | POV boundary | Concrete ending | Drift or leave-alone decision |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |  |  |
+| Scene | Concrete entry | Order of attention | Orientation/rhythm evidence | Landing/shortening evidence | Emotion carried by behavior | POV boundary | Ending | Drift or leave-alone decision | Result |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  | pass / revise |
 
 Rules:
 
-- `Concrete entry` identifies the present object, body, task, route, sound or person already affecting behavior.
-- `Order of attention` shows what Mielle notices before interpretation and why that detail matters now.
-- `Orientation/rhythm evidence` cites a passage whose longer movement locates body, route, sequence or emotional condition.
-- `Landing/shortening evidence` cites a point where a fact, decision, danger or joke receives space.
-- `Emotion carried by behavior` names timing, omission, orientation, attention or consequence rather than an emotion label alone.
-- `POV boundary` records what Mielle does not know, claim or narrate for another person.
-- `Drift` identifies any local seam where narration becomes camera report, manual, generic lyricism, contemporary commentary, detached praise or another unearned register.
+- `Concrete entry` identifies a present object, body, task, route, sound or person affecting behavior.
+- `Order of attention` shows evidence before interpretation.
+- `Orientation/rhythm` cites a passage locating body, route, sequence or emotional condition.
+- `Landing/shortening` cites a fact, decision, danger or joke receiving space.
+- `Emotion carried by behavior` names timing, omission, orientation, attention or consequence.
+- `POV boundary` records what Mielle does not know or narrate for another person.
+- `Drift` identifies a camera-report, manual, generic lyricism, commentary seam or other unearned register.
 
-A valid leave-alone decision may protect plainness, repetition, abrupt thought, humor, awkwardness or user-approved register. It must explain why the passage belongs to Mielle and why revision would flatten it.
+A leave-alone decision may protect plainness, repetition, abrupt thought, humor, awkwardness or user-approved register. It must explain why revision would flatten the passage.
 
-## III. Holmes Engine applicability and execution receipt
+Preferred wording, sentence length or ending shape is normally Level 4–5. Audit actual identity, clarity and pressure damage rather than lexical compliance.
+
+## IV. Holmes Engine applicability and execution receipt
 
 ### Applicability gate
 
-`canon/HOLMES_ENGINE.md` applies whenever Mielle's observation or interpretation affects:
+Holmes applies whenever Mielle's observation or interpretation affects action, silence, route, preparation, care, suspicion, a question, response, danger assessment, testimony, object handling or a decision to wait, test, disclose, refuse or leave.
 
-- action;
-- silence or withholding;
-- route or position;
-- preparation;
-- care;
-- suspicion;
-- a question;
-- a social response;
-- danger assessment;
-- testimony;
-- object handling;
-- a decision to wait, test, disclose, refuse or leave.
-
-It is not limited to detective scenes, powered inference or combat prediction.
-
-`Not applicable` is valid only when:
-
-- Mielle is absent and no Mielle-owned inference matters;
-- the passage is a genuinely minimal connector;
-- no observation, interpretation or uncertainty changes any action, omission, route, preparation or response.
-
-`No powered inference`, `no mystery`, `no deduction speech`, or `quiet social scene` are invalid reasons by themselves.
+`Not applicable` is valid only when Mielle is absent and no Mielle-owned inference matters, the passage is a minimal connector, or no observation/interpretation changes behavior.
 
 ### Scene execution receipt
-
-For every substantial applicable scene, compare the scene-card Holmes map with the draft:
 
 | Scene | Frame | Selected evidence | Model | Live alternative / unknown | Test or withholding | Committed action | Reply / falsifying result | Revision of model | Agency release | Remainder | Result |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -140,31 +145,27 @@ For every substantial applicable scene, compare the scene-card Holmes map with t
 
 Rules:
 
-- Cite the draft, not only the scene card.
-- A social reading may be small: an observed delay, a bounded interpretation, a decision not to press, the other person's reply and a revised or retained model.
-- `Reply / falsifying result` cannot be omitted merely because Mielle was correct. The person, object, terrain or situation must answer the model when the scene has room.
+- Cite draft execution, not only scene cards.
+- A social reading may be small and provisional.
+- `Reply / falsifying result` may be compressed, but identify where the person, object or situation answers the model when the scene has room.
 - `Agency release` names who owns the decision after Mielle's intervention.
-- If a stage is compressed, identify where its function appears rather than inserting an explanatory lecture.
+- Do not insert a deduction lecture merely to expose every map field.
 
 ### High-confidence fairness record
-
-For every startling or unusually early conclusion, record:
 
 | Conclusion | Anchor | Pattern / constraint | Excluded alternative and excluding fact | Remaining unknown | Fair chain delivered now or deferred? |
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
 
-A conclusion without this record is blocked unless it is an ordinary direct observation rather than a deduction.
+A startling conclusion without a fair chain is blocked unless it is ordinary direct observation.
 
-## IV. Combat Rules execution receipt
+## V. Combat Rules execution receipt
 
-`canon/COMBAT_RULES.md` applies whenever the combat pre-check is required.
+`canon/COMBAT_RULES.md` applies whenever a combat pre-check is required.
 
-A completed combat pre-check proves authorization and planned logic. It does not prove that the draft staged that logic.
+A pre-check proves authorization, not draft execution.
 
 ### Major action chain
-
-Record every major hostile action, Mielle-owned shift, decisive ally action, damage result, rescue, finalization and escalation:
 
 | Draft location | Board before | Hostile line / objective | Observable anchor | Mechanic or capability | Physical answer | Contact / miss / result | Enemy or scene reply | Changed condition / escalation | Ally or result owner | Concrete remainder | Status |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -172,70 +173,69 @@ Record every major hostile action, Mielle-owned shift, decisive ally action, dam
 
 Rules:
 
-- Physical cause must precede or immediately explain result.
-- `Fast`, `precise`, `graceful`, `effortless`, `too strong`, or `too skilled` are not mechanisms.
-- The enemy or situation must reply after a failed tactic when the encounter has another pressure wave.
-- Escalation requires a named changed condition.
-- Ally ownership must be visible on the page, not merely preserved in the pre-check.
+- Physical cause precedes or immediately explains result.
+- Generic adjectives are not mechanisms.
+- The enemy or situation replies after a failed tactic when another pressure wave follows.
+- Escalation requires a changed condition.
+- Ally ownership appears on page.
 
 ### Complete no-hit / injury reconciliation
-
-Every depicted attack, hazard or hostile effect targeting a protected character must appear here:
 
 | Attack / effect in draft | Target | Line and timing | Warning / anchor | Physical response or defense | Cause of miss / consequence of hit | Board consequence | Authority |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |
 
-An attack missing from this table has not been audited. Generic speed, automatic immunity, unexplained avoidance or outcome-only wording blocks closure.
-
 ### Pressure-wave comparison
 
-| Planned pressure wave | Draft execution | What changed on the board | Enemy / scene adaptation | Authorized deviation? |
-|---|---|---|---|---|
-|  |  |  |  | yes / no / return to planning |
+| Planned pressure wave | Obligation level | Draft execution | What changed on the board | Enemy / scene adaptation | Difference classification |
+|---|---|---|---|---|---|
+|  | 1–5 |  |  |  | preserved / authorized / neutral staging / return to planning |
 
-The draft does not need to copy the pre-check's wording or paragraph division. It must preserve the tactical function, ownership and causal change or document an authorized deviation.
+The draft need not copy wording or paragraph division. It must preserve Level 1–3 tactical function, ownership, mechanics and outcome. Level 4–5 staging may vary safely.
 
-## V. Character Voice Pass execution receipt
+## VI. Character Voice Pass execution receipt
 
-`canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md` applies to every decision-relevant speaker or present character whose action, silence, reaction or witness state affects the scene.
+Apply to required/result-bearing speakers and any meaningful-witness or optional-texture beat whose voice is materially reviewed.
 
-A character does not need a line to pass. Silence, refusal, object handling, position, interruption or withdrawal may be the correct voice action.
+A character does not need a line to pass. Silence, refusal, object handling, position, interruption or withdrawal may be the correct expression.
 
 ### Per-character evidence
 
-| Character | Dossier / state anchor | Immediate attention and want | Voice pressure | Representative line, action or silence | Why it belongs to this character | Interchangeability test | Agency/source action retained? | Result |
-|---|---|---|---|---|---|---|---|---|
-|  |  |  |  |  |  | pass / fails | yes / no | pass / revise / return to planning |
+| Character | Presence class | Dossier / state anchor | Immediate attention and want | Voice pressure | Representative line, action or silence | Why it belongs to this character | Interchangeability interpretation | Agency/source action retained? | Result |
+|---|---|---|---|---|---|---|---|---|---|
+|  | required/result-bearing / meaningful witness / optional texture / background |  |  |  |  |  | required ownership / optional voice warning / not applicable | yes / no | pass / revise / return to planning |
 
 Rules:
 
-- The dossier anchor must name a relevant impulse, limit, rhythm, social filter or pressure behavior, not only the file path.
-- `Why it belongs` must explain the character-specific timing, omission, mistake, practical aim or form of care/conflict.
-- The interchangeability test asks whether another present character could own the line or action unchanged. If yes, revise or justify why context uniquely assigns it.
-- A correct fact spoken in the wrong voice still fails.
-- A voice-accurate line that steals another person's source action or decision still fails.
-- Do not force a reaction from every present character to satisfy coverage.
+- Dossier anchor names relevant impulse, limit, rhythm, social filter or pressure behavior.
+- `Why it belongs` explains timing, omission, mistake, practical aim or form of care/conflict.
+- For required/result-bearing action, interchangeability may signal lost ownership and requires justification or revision.
+- For optional texture, interchangeability is a voice warning, not an automatic story blocker.
+- A correct fact in the wrong voice fails.
+- A voice-accurate line that steals ownership fails.
+- Do not force a reaction from every present character.
 
 ### Conversation-structure check
 
-| Exchange | Who initiates and why | Who resists, redirects or answers partially | Uneven rhythm / interruption | Information or pressure changed | Coverage or interrogation risk | Result |
-|---|---|---|---|---|---|---|
-|  |  |  |  |  |  | pass / revise |
+| Exchange | Required initiator and reason | Resistance / redirection / partial answer | Meaningful silence | Optional texture | Information or pressure changed | Coverage or interrogation risk | Result |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  | pass / revise |
 
-This check prevents individually plausible lines from forming an author-driven question-and-answer chain or cast roll call.
+This check prevents individually plausible lines from forming an author-driven question chain or cast roll call.
 
 ### Revision comparison
 
-After substantial dialogue revision, record representative before/after lines and identify whether the revision:
+After substantial dialogue revision, record whether it:
 
-- preserved the speaker's impulse and social filter;
-- removed a character-specific mistake or roughness;
-- made several speakers more alike;
+- preserved Level 1–3 ownership and meaning;
+- preserved speaker impulse and social filter;
+- removed character-specific mistake or roughness;
+- made speakers more alike;
 - transferred ownership;
-- improved clarity without increasing polish beyond the scene.
+- changed optional texture neutrally;
+- improved clarity without unearned polish.
 
-## VI. Audit closure rule
+## VII. Audit closure rule
 
 The audit cannot close while any applicable receipt is:
 
@@ -243,16 +243,18 @@ The audit cannot close while any applicable receipt is:
 - generic;
 - supported only by planning labels;
 - missing local draft evidence;
+- missing required obligation-level classification;
 - missing required version comparison;
-- awaiting a second-order reread after correction;
-- hiding a canon, agency, knowledge, relationship or mechanics conflict as style.
+- awaiting second-order reread;
+- hiding a canon, agency, knowledge, relationship or mechanics conflict as style;
+- promoting Level 4–5 material into a blocker without demonstrated damage.
 
-An explicit user waiver applies only when it names the specific receipt and chapter. General approval of prose does not silently waive these receipts.
+An explicit user waiver applies only when it names the specific receipt and chapter. General approval of prose does not silently waive receipts.
 
-## VII. Proportionality rule
+## VIII. Proportionality rule
 
-These receipts must not become an excuse to explain every sentence.
+Receipts must not become an excuse to explain every sentence or force every character to perform.
 
-Use scene-level rows, material claims, representative voice examples and major action chains. Tiny connective beats may be grouped. Repeated symptoms may share a root-cause row. The purpose is inspectable application, not bureaucratic volume.
+Use scene-level rows, Level 1–3 material claims, representative voice examples and major action chains. Tiny connective beats may be grouped. Repeated symptoms may share a root-cause row. Optional texture is reviewed at exchange/chapter scale.
 
 A concise receipt with exact evidence is stronger than a long receipt filled with labels.
