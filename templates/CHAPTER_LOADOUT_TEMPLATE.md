@@ -8,6 +8,7 @@
 - Chapter mini delta:
 - Scene cards:
 - Combat pre-check: `not applicable` / exact path
+- Character dossier application receipt: exact future path / pending
 
 ## Source and adaptation
 
@@ -36,12 +37,20 @@
 
 ## Character and relationship
 
+- `canon/characters/README.md`
+- `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`
+- `workflow/02_CHARACTER_DOSSIER_APPLICATION_WORKFLOW.md`
+- `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md`
 - `canon/characters/MIELLE.md`
 - `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`
 - `continuity/character_state/MIELLE_CURRENT.md`
 - Mielle checks required in this chapter: personality / voice / gear / drawback / constraints-geasa / first-impression-underestimation / knowledge / other:
-- present or decision-relevant character dossiers:
+- physically present character dossiers:
+- decision-relevant character dossiers:
+- intentionally background characters:
+- meaningful witness-only characters:
 - relevant character-state files:
+- relevant current-state synthesis sources: event tiles / knowledge ledger / relationship state / recent chain / approved chapter:
 - `canon/relationships/RELATIONSHIP_STATE.md` or `not applicable` with reason:
 
 ## Mielle invariant transfer
@@ -78,6 +87,37 @@ Rules:
 - Do not activate an invariant without a natural trigger merely to fill the table.
 - Any failed or superficial row blocks drafting and returns to scene cards.
 
+## Character dossier application handoff
+
+Complete before prose for every decision-relevant canon character. Use `canon/characters/CHARACTER_DOSSIER_APPLICATION.md` and the scene-card dossier rows.
+
+### Presence classification
+
+| Character | Presence class | Why decision-relevant or background | Later witness relevance |
+|---|---|---|---|
+|  | decision-relevant / source-action owner / result owner / meaningful witness / background |  |  |
+
+### Stable/current synthesis and consequence
+
+| Character | Stable phase anchor | Current approved-event / knowledge / relationship anchor | Existing ties and task before Mielle | Immediate attention and want | Pressure behavior | Practical competence or restrictive boundary | Planned material consequence | Knowledge/spoiler limit | Prohibited reduction |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  | exact source |  |  |  |  |  |  |  |
+
+### Removal and replacement pre-check
+
+| Character | What changes if removed? | Could another present character perform the same action and consequence unchanged? | Ownership justification or required revision | Status |
+|---|---|---|---|---|
+|  |  | yes / no |  | pass / background / return to planning |
+
+Rules:
+
+- A dossier path, trait, accent or voice label is not a valid handoff.
+- Each decision-relevant character must have a productive or restrictive consequence.
+- Existing source-owned ties and tasks must remain active before Mielle contact is considered.
+- Practical competence must be considered where the scene gives a natural opening.
+- A character may be intentionally background. Do not manufacture a line or reaction for coverage.
+- Any failed removal/replacement row blocks drafting and returns to scene cards.
+
 ## Setting and faction
 
 - `canon/setting/EXANDRIA_BASELINE.md` or `not applicable` with reason:
@@ -110,7 +150,8 @@ For non-combat chapters, `combat pre-check` may be `not applicable` with one sen
 | Scene final state with casualty, injury, custody and last-image controls | scene cards; combat pre-check if combat exists | yes / no / not applicable |  |
 | Non-combat material-consequence state: object, money, route, disclosure, suspicion, authority, social obligation and relationship non-result | chapter plan / mini delta / scene cards | yes / no / not applicable |  |
 | Ownership of deaths, decisive hits, rescues, finalizations, custody changes, disclosures and legal actions | chapter plan / mini delta / scene cards / combat pre-check | yes / no / not applicable |  |
-| Concrete encenável action for each present canon cast member | scene cards; combat pre-check if combat exists | yes / no / not applicable |  |
+| Decision-relevant/source/result character action or intentional background classification | scene cards; combat pre-check if combat exists | yes / no / not applicable | no fixed cast roll call |
+| Character dossier productive/restrictive consequence and removal/replacement pre-check | scene cards / loadout | yes / no / not applicable |  |
 | Character knowledge map: knows / suspects / must not know or volunteer | chapter plan / mini delta / scene cards / combat pre-check | yes / no / not applicable |  |
 | Closed vs free summary | chapter plan / mini delta / scene cards / combat pre-check | yes / no / not applicable |  |
 | Capabilities used and prohibited | mini delta / combat pre-check | yes / no / not applicable |  |
@@ -126,7 +167,7 @@ Complete before prose. Include every chapter decision, material fact or visible 
 
 | Planned decision or fact | Source / planning obligation | Governing character, power, relationship or setting rule | Continuity and witness limit | What the draft may show | What the draft must not imply | Status |
 |---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  | pass / return to planning |
+|  |  |  |  |  |  | pass / return to planning |
 
 Rules:
 
@@ -134,7 +175,7 @@ Rules:
 - A row with an unresolved conflict blocks drafting until the conflict returns to its proper owner: episode Canon Delta, chapter plan, mini delta, scene cards, combat pre-check, permanent rule or source note.
 - “No conflict noticed” is not a valid row. State the permitted application and the forbidden implication.
 - Add a row whenever Mielle uses, declines to use, visibly carries, loses physical possession of, is underestimated because of public presentation, or is materially affected by an item, power, inference, relationship condition or public rule.
-- Add a row whenever a canon character speaks, takes a source-owned action, reacts to Mielle, witnesses a power, or is expected to misread or correctly read Mielle.
+- Add a row whenever a decision-relevant canon character speaks, takes a source-owned action, reacts, meaningfully remains silent, witnesses a consequential fact, or is expected to misread or correctly read Mielle.
 - Add a row whenever a fight uses a power, gear item, defense, evasion, no-hit result, injury, resistance, damage result, or deliberate non-use.
 - Add a row for every death, decisive wound, rescue, finalization, custody change, disclosure and legal/faction result.
 - In non-combat chapters, add rows for payments, invitations, refusals, accepted help, rejected help, object transfers, information withheld, suspicions, questions not asked, and explicit relationship non-results when those can affect later behavior.
@@ -148,7 +189,10 @@ Rules:
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
 - `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`
+- `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`
 - `workflow/01_EXECUTION_APPLICATION_WORKFLOW.md`
+- `workflow/02_CHARACTER_DOSSIER_APPLICATION_WORKFLOW.md`
+- `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md`
 - Anti-AI pre-draft guard exact path:
 - Anti-AI pre-draft guard: complete / pending
 
@@ -185,6 +229,8 @@ List every decision-relevant speaker or character whose action, silence, reactio
 | Character | Dossier / state anchor | Immediate attention and want | Voice pressure / likely failure mode | Required owned action, line or silence | What must not be transferred or equalized |
 |---|---|---|---|---|---|
 |  |  |  |  |  |  |
+
+Voice Pass does not replace the complete Character Dossier Application handoff above.
 
 ### Holmes handoff
 
@@ -241,10 +287,11 @@ Choose only the additional clusters justified by this chapter's pressure. Do not
 - Previous draft/version to compare after substantial revision: exact path / `not applicable — first complete draft`
 - Material that must not be generalized or lost during revision:
 - Paragraphs changed by a Silent Edit must be reread for new loss of voice, specificity, causality, uncertainty or character ownership: required / not applicable
+- Character dossier receipt must rerun removal/replacement, existing-ties, phase and practical-competence checks after substantial character revision: required / not applicable
 
 ### Audit closure rule
 
-The audit may not close on `Anti-AI: pass`, `filter read`, `no issues`, or equivalent unsupported wording. It must complete the evidence-based receipt in `templates/AUDIT_TEMPLATE.md`. An explicit user waiver counts only when it names this receipt requirement for this chapter; general prose approval does not silently waive it.
+The audit may not close on `Anti-AI: pass`, `filter read`, `voice accurate`, `dossiers read`, `no issues`, or equivalent unsupported wording. It must complete the evidence-based receipts in `templates/AUDIT_TEMPLATE.md` and `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md`. An explicit user waiver counts only when it names the specific receipt and chapter; general prose approval does not silently waive it.
 
 ## Pre-draft prose receipt
 
@@ -253,6 +300,8 @@ The audit may not close on `Anti-AI: pass`, `filter read`, `no issues`, or equiv
 - [ ] Every applicable Holmes scene lists frame, evidence, model, live alternative, test/withholding, action, reply, agency release and remainder.
 - [ ] Every combat result lists line, timing, physical cause, enemy/scene reply and consequence.
 - [ ] Every decision-relevant character has a dossier-anchored Voice Pass handoff; silence remains available.
+- [ ] Every decision-relevant character has stable/current synthesis, existing ties, a productive or restrictive consequence and passing removal/replacement pre-check.
+- [ ] Every physically present background character is intentionally classified without a manufactured beat.
 - [ ] Every relationship movement lists behavior, not label.
 - [ ] Every exposition/backstory insertion is triggered by front-story object, question, pressure or consequence.
 - [ ] Every active Mielle invariant passes the consequence test; superficial use blocks drafting.
@@ -265,15 +314,18 @@ The audit may not close on `Anti-AI: pass`, `filter read`, `no issues`, or equiv
 Run after the factual scene sequence exists and before the draft is handed over. Read each listed source in the named family one at a time and correct only the defects that family governs.
 
 1. **Source and continuity pass:** transcript/source obligations, chapter plan, mini delta, event tiles, ledger, current state and open threads. Check order, agency, knowledge, material facts and chapter boundary.
-2. **Character and relationship pass:** Mielle dossier/state, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, each present character dossier/state and relationship state. Check every active Mielle invariant against its planned consequence or blocked alternative, then check personality, voice, gear, drawbacks, constraints/geasa, first-impression-underestimation, action, speech, reactions, social distance and what no one can know. Record representative lines, actions or silences for the later Voice Pass receipt.
+2. **Character and relationship pass:** Mielle dossier/state, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, each decision-relevant character dossier, `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`, relevant event tiles, knowledge ledger, character state and relationship state. Check every active Mielle invariant, then check each character's phase, current approved residue, existing ties, pressure behavior, practical competence, voice, action, silence, knowledge limit, productive/restrictive consequence and removal/replacement result. Record intentionally background characters instead of forcing coverage.
 3. **Mechanics, Holmes and combat pass:** Power Guide and exact modules, Holmes Engine, Combat Rules and pre-check. Check capabilities, non-use decisions, physical possession, inference limits, tactical claims, evasion, injury/no-hit results, damage, resistance and future-combat leakage. Record applicable Holmes stages and major combat action chains for audit handoff.
-4. **Prose and voice pass:** prose system, Mielle prose guide, Mielle voice guide, chapter voice pass, execution receipts and Anti-AI filter. Rewrite only expression, rhythm, evidence support, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue. Record changed paragraphs, material evidence changes, style decisions and voice revisions for the later receipts instead of declaring a generic pass.
+4. **Prose and voice pass:** prose system, Mielle prose guide, Mielle voice guide, chapter voice pass, character dossier application standard, execution receipts and Anti-AI filter. Rewrite only expression, rhythm, evidence support, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue. Record changed paragraphs, material evidence changes, style decisions, voice revisions and dossier-specific gains/losses for the later receipts instead of declaring a generic pass.
 
 ## Read receipt
 
 - [ ] Every listed path was read.
 - [ ] Each conditional heading has exact paths or a justified `not applicable` entry.
-- [ ] Character voice, relationship, event tiles and knowledge documents cover every decision-relevant speaker.
+- [ ] Physically present characters are classified as decision-relevant, meaningful witnesses or intentional background.
+- [ ] Character voice, stable dossiers, approved event tiles, knowledge documents and relationship state cover every decision-relevant character.
+- [ ] Every decision-relevant character has a productive or restrictive dossier consequence and passing removal/replacement pre-check.
+- [ ] Existing source-owned ties and tasks remain active before Mielle contact is applied.
 - [ ] Mielle-specific checks cover personality, voice, gear, drawbacks, constraints/geasa, knowledge and first-impression-underestimation where applicable.
 - [ ] Scene-relevant Mielle invariants were copied into the point-of-use fields that guide prose.
 - [ ] Every active Mielle invariant has a passing productive or restrictive consequence row; no superficial row remains.
@@ -284,7 +336,8 @@ Run after the factual scene sequence exists and before the draft is handed over.
 - [ ] Non-combat material consequences are present or explicitly not applicable before drafting.
 - [ ] Decision-to-authority check has a passing row for every conflict-prone chapter fact.
 - [ ] Execution-system applicability and audit handoff is scene-specific and complete.
-- [ ] Pre-draft prose receipt passes, including unsupported telling and superficial invariant use as blockers.
+- [ ] Character dossier application handoff is complete and non-generic.
+- [ ] Pre-draft prose receipt passes, including unsupported telling, superficial invariant use and superficial dossier use as blockers.
 - [ ] Anti-AI pressure map names chapter-specific risks, universal clusters, targeted clusters and protected material.
 - [ ] Sequential draft verification passes are pending / complete:
 - [ ] No source is missing.
