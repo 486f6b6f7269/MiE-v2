@@ -3,263 +3,254 @@
 ## Audit status
 
 - Draft: `work/c2e1/chapters/05_DRAFT.md`
-- Previous comparison point: same path at commit `3a8fdbcc1ea07d8491d1e4914e53dd06b436ec59`
+- Planning review: `work/c2e1/chapters/05_PLANNING_REVIEW.md`
+- Plan: `work/c2e1/chapters/05_CHAPTER_PLAN.md`
+- Mini delta: `work/c2e1/chapters/05_CHAPTER_MINI_DELTA.md`
+- Scene cards: `work/c2e1/chapters/05_SCENE_CARDS.md`
+- Loadout: `work/c2e1/chapters/05_CHAPTER_LOADOUT.md`
 - Character Dossier Application receipt: `work/c2e1/chapters/05_CHARACTER_DOSSIER_APPLICATION.md`
 - Combat: not applicable; no combat-pre-check trigger occurs.
 - Chapter remains unapproved and unpromoted.
 
-`blocked — revision required before user approval`
+`pass — ready for user review and approval decision`
 
-The current draft repairs Jester's question/offer ownership and the threshold ending, but the previous `pass` audit was too permissive. Closed duration knowledge is missing, the Crownsguard order introduces unsupported town-wall wording, several lines state private interpretations without sufficient evidence, and the ensemble dialogue still fails the complete character-dossier removal/coverage tests.
+This pass means the draft satisfies the current planning, continuity, ownership, knowledge, relationship, mechanics, character, prose, Holmes and Anti-AI controls. It does not approve the chapter or promote its events.
 
 ## Read receipt
 
-- [x] `START_HERE.md`, `AUTHORITY_MAP.md`, `PROJECT_STATE.md`, `TASK_LOAD_MATRIX.md` and relevant workflow controls loaded.
-- [x] Chapter plan, mini delta, scene cards, pre-draft guard, loadout and dossier addenda loaded.
-- [x] Chapter 05 Canon Delta amendment and source extraction loaded.
-- [x] Approved Chapter 04 and relationship/knowledge continuity through Chapter 04 loaded.
-- [x] Mielle, Jester, Fjord, Beau, Caleb and Nott dossiers loaded.
-- [x] Mielle invariants, Prose System, Mielle Prose Style Guide, Voice Pass, Holmes Engine, Anti-AI filter and execution receipts loaded.
-- [x] Current draft read from beginning to end.
-- [x] Previous draft comparison performed.
-- [x] Character Dossier Application receipt rerun.
-- [ ] Revision and second-order reread remain pending.
+- [x] Base project, authority and workflow files loaded.
+- [x] `workflow/03_PLANNING_OBLIGATION_LEVELS.md` loaded and used to distinguish hard authority, semantic outcome, protective constraint, editorial target and free execution.
+- [x] Source note, Arc Map, Episode Map, episode Canon Delta and Chapter 05 Canon Delta amendment loaded.
+- [x] Approved Chapter 04 and continuity through Chapter 04 loaded.
+- [x] Rebuilt plan, mini delta, scene cards, loadout and pre-draft guard loaded.
+- [x] Mielle, Jester, Fjord, Beau, Caleb and Nott dossiers and current approved-event residue loaded.
+- [x] Relationship state, event tiles and knowledge ledger loaded.
+- [x] Prose System, Mielle Prose Style Guide, Mielle Voice Guide, Character Voice Pass, Holmes Engine, Anti-AI filter and execution receipts loaded.
+- [x] Final recreated draft read from beginning to end after the Silent Edit.
+- [x] Previous draft compared for material gains and losses.
+- [x] Character Dossier Application receipt closed.
+- [x] Second-order reread completed on changed paragraphs.
+
+## Obligation-level audit
+
+| Control | Level | Draft evidence | Result |
+|---|---|---|---|
+| Crownsguard escort and active restriction | 1 hard | guards deliver the group; `Stay in Trostenwald`; Watch may call for them | pass |
+| Jester owns the private lodging question | 1 ownership / 2 semantic | `Where have you actually been sleeping?`; she waits rather than supplying an answer | pass |
+| Mielle reveals abandoned building and two days | 2 semantic | `An abandoned building. For the last two days.` | pass |
+| Jester owns a temporary room offer | 1 ownership / 2 semantic | `You can stay in my room. Just tonight, if you want.` | pass |
+| Mielle owns acceptance | 1 agency | she repeats `Only tonight`, follows upstairs and crosses the open threshold | pass |
+| Three coppers and one button; no payment | 1 fact / 2 discovery / 3 boundary | Jester identifies the pieces; Mielle retains them; Jester refuses payment | pass |
+| Exact shelter, origin and powers withheld | 3 protective | no exact location, origin, archive, power or mechanics disclosure | pass |
+| No friendship, romance, debt, party status or permanent support | 3 protective | desire remains private; one-night limit repeated; no reciprocal status | pass |
+| Uneven participation and no cast roll call | 4 editorial | Beau has catch/roof lane; Fjord one risk line; Caleb/Nott one object/pair lane; others withdraw | target achieved |
+| One clumsiness sequence | 4 editorial | one cloak/bokken obstruction and Beau catch; no second accident | target achieved |
+| Natural vocabulary and room staging | 5 free | bokken, backpack, one coherent bed and open threshold remain physically clear | no authority issue |
+
+No Level 4 or Level 5 choice was treated as a blocker merely because it differed from an earlier work-file suggestion.
 
 ## Continuity, source and authority
 
-### Passing controls
-
-- [x] The chapter begins directly from the Chapter 04 Crownsguard escort.
-- [x] Guards deliver Mielle, Jester, Fjord, Beau, Caleb and Nott to the Nestled Nook.
-- [x] Molly remains detained with the carnival and Yasha remains on the Toya route.
-- [x] Guards and unrelated inn staff leave before the private lodging exchange.
-- [x] The no-leaving investigation state remains intended as active.
-- [x] Jester owns the direct lodging question and explicitly states `Just tonight` before Mielle accepts.
-- [x] Mielle owns the disclosure, contribution attempt, private desire and acceptance.
-- [x] Three coppers and one button are discovered through ordinary inspection; no item appears from nowhere.
-- [x] No payment, price, debt, object transfer, party status or permanent lodging is created.
-- [x] Bokken/backpack custody remains with Mielle and no power, recall, Bag access or capability name appears.
-- [x] The final threshold leaves Mielle a second concrete choice before she enters.
-
-### Blocking authority defects
-
-1. **The required two-day duration is not delivered.**
-   - Closed authority requires Mielle to reveal that she used the abandoned building for the last two days.
-   - Current prose says `Since I entered the city`.
-   - Jester, Fjord, Beau, Caleb and Nott do not know when Mielle entered, so they cannot recover the required duration from that line.
-   - This is specificity regression and a knowledge-result failure, not an equivalent rephrasing.
-
-2. **The Crownsguard order introduces unsupported physical/legal wording.**
-   - Approved Chapter 04 establishes `No leaving Trostenwald`.
-   - Current Chapter 05 says `No trips outside the walls`.
-   - The loaded location guide does not establish enclosing Trostenwald walls, and the new wording narrows/changes an already approved legal order.
-   - Restore the approved town-level restriction or return the change to source/setting authority.
-
-### Material-logic issue
-
-- Jester says Fjord witnessed her kicking from `the other bed`, but the later room logistics present one small bed and floor options. The current wording implies a second usable bed that the final arrangement ignores. Clarify whether Fjord was in another room/nearby bed or stage the second bed consistently.
+- [x] Chapter begins directly from the approved Chapter 04 escort.
+- [x] Molly remains carnival-side and Yasha remains on the Toya route.
+- [x] Guards and unrelated staff are absent from the private exchange.
+- [x] The legal condition remains town-level and introduces no unsupported wall boundary, clearance or new arrest.
+- [x] The recorded Nestled Nook address becomes practically true for the night.
+- [x] No C2E2 fact, transformation cause or carnival-custody result enters.
+- [x] Bokken and backpack remain with Mielle; no Soulbond recall, Bag access, Haki or capability name appears.
+- [x] No injury, death, detention, payment, debt or object transfer is added.
+- [x] Room furniture and sleeping logistics are coherent: one narrow bed and no contradictory second-bed reference.
 
 ## Knowledge and witness control
 
-| Fact or claim | Intended witnesses | Current result | Audit result |
+| Knowledge result | Who receives it | Evidence | Result |
 |---|---|---|---|
-| abandoned building | Jester, Fjord, Beau, Caleb, Nott | delivered | pass |
-| last two days | same group | not delivered; `since I entered the city` is insufficient | blocker |
-| exact building / route / origin | none | withheld | pass |
-| three coppers and one button | Mielle plus direct witnesses | delivered | pass |
-| Mielle wants Jester's friendship | Mielle only | private POV only | pass |
-| relationship reciprocity | unsupported | remains unknown | pass |
-| power/origin/mechanics | unsupported | remain unknown | pass |
+| abandoned-building shelter | Jester, Fjord, Beau, Caleb and Nott | direct private answer | pass |
+| duration of two days | same witnesses | `For the last two days` | pass |
+| exact building, route and legal status | no one | not disclosed | pass |
+| three coppers and one button | Mielle and direct witnesses | ordinary inspection | pass |
+| Mielle wants Jester's friendship | Mielle only | first-person private thought | pass |
+| reciprocal friendship/attraction | no one | remains unresolved | pass |
+| Mielle's origin and mechanics | no one | withheld | pass |
 
-No public relationship status is promoted. The group may see fluster and voluntary disclosure, but no one gains Mielle's internal conclusion.
+No character converts a provisional observation into proof or receives reader-only information.
 
 ## Character Dossier Application result
 
-See `work/c2e1/chapters/05_CHARACTER_DOSSIER_APPLICATION.md` for the complete receipt.
+The complete receipt at `work/c2e1/chapters/05_CHARACTER_DOSSIER_APPLICATION.md` passes.
 
-### Core results
+- **Mielle:** owns disclosure, attempted contribution and acceptance. Her caution, local ignorance, clumsiness, attraction and privacy materially affect choices without becoming checklist traits.
+- **Jester:** acts from concrete need, asks directly, waits, offers before group consensus, identifies the objects and leaves the threshold open. She does not become therapist, diplomat or permanent guardian.
+- **Beau:** acts physically by catching Mielle and receives one rude-useful roof test. Her lane ends afterward.
+- **Fjord:** narrows official risk in one line without taking Jester's offer or becoming automatic captain.
+- **Caleb:** protects the Caleb/Nott unit through a compact correction and withdrawal rather than diagnosing Mielle.
+- **Nott:** receives one contained, object-motivated button exchange. She is funny and acquisitive without being distributed across several joke routines.
+- **Molly/Yasha:** remain causally absent without manufactured knowledge or retrospective reactions.
 
-- **Jester:** pass. Her waiting evidence and explicit one-night ownership are restored. She asks, offers, identifies and leaves room for renewed consent.
-- **Beau:** partial. The physical catch is material and specific. The shelter, button and exit comments continue after her unique consequence has landed.
-- **Fjord:** partial. His official-risk role is valid, but it expands into two questions, a conclusion and later narrated private content.
-- **Caleb:** partial. His placement and withdrawal with Nott are material; `Was it dry?` currently fails the removal/replacement test.
-- **Nott:** revise. Pole, trespass, rat, button and warning beats accumulate into chapter-wide comic coverage. The button/object lane is strongest; the rat chain changes no later choice or result.
-- **Mielle:** core agency and voice pass, with a terminology violation and some explanatory density.
-
-### Existing ties
-
-- Jester/Fjord/Beau remain an early travel unit with Jester acting first and Fjord managing risk.
-- Caleb and Nott remain physically paired, but the shelter Q&A temporarily turns both into information collectors for Mielle rather than letting pair priority govern participation.
-
-### Receipt status
-
-`blocked — removal, replacement and cast-coverage failures remain`
+Optional Beau and Nott texture is removable at hard-outcome level but valid under the corrected obligation-aware dossier rule: it is character-specific, does not steal ownership, does not repeat a completed function and does not accumulate into cast coverage.
 
 ## Mielle invariant application audit
 
-| Active invariant | Mode | On-page evidence | Removal consequence | Result |
+| Invariant | Mode | On-page evidence | Consequence / boundary | Result |
 |---|---|---|---|---|
-| attraction / desire for connection | productive | sleeve fixation, blush, `Focus, Mielle`, voluntary answer, `I wanted to be her friend`, difficulty refusing | disclosure/acceptance become purely logistical | material |
-| clumsiness | productive | one post/cloak/bokken obstruction and Beau catch | no practical cost or routine/combat contrast | material |
-| post-combat witness memory | restrictive | Beau compares post/sword result; Nott/Caleb treat the contradiction as uncertain evidence | stumble could reset the group's knowledge | material, though the reaction lane is dense |
-| local ignorance | productive | trespass question; inability to value objects; Jester identifies them | unsupported law/currency competence replaces the scene | material |
-| bounded revelation | restrictive | exact place, route, origin and mechanics remain withheld | disclosure could become a biography dump | material, but the required duration fact is missing |
-| relationship boundary | restrictive | `Just tonight`; unilateral private desire; threshold choice | care could become friendship/romance/debt/status | material |
-| gear/system limits | restrictive | ordinary backpack/object handling; same physical weapon at hip | scene could imply Bag/recall/system use | mechanical limit passes |
-| bokken word-use invariant | restrictive/voice | Mielle's narration says `the wood of my sword` and later `My sword rested against my hip` | Mielle-specific vocabulary is flattened into the cast term | revise |
+| attraction / desire for connection | productive | sleeve attention, moving away then back, warmth, direct friendship thought, difficulty answering offer | makes disclosure and acceptance emotionally motivated rather than purely logistical | pass |
+| clumsiness outside danger | productive | cloak catches; bokken hits wall; Beau catches her | creates one ordinary-life cost and practical intervention | pass |
+| post-combat witness memory | restrictive | Beau glances from bokken to harmless wood but no one resets to clean incompetence | preserves Chapter 03 evidence without explaining mechanism | pass |
+| local ignorance | productive/restrictive | Mielle cannot value pieces; Jester identifies them | creates object discovery while blocking broad currency competence | pass |
+| bounded revelation | restrictive | building and duration given; exact location/origin withheld | prevents biography dump | pass |
+| relationship boundary | restrictive | `Just tonight`; `Only tonight`; private unilateral desire; open threshold | prevents care from becoming status | pass |
+| gear/system limits | restrictive | ordinary backpack retrieval and same physical bokken at hip | prevents capability demonstration | pass |
 
-The chapter does not need another clumsy event. `I followed without striking anything else` is a callback, not a second physical gag.
+No invariant is forced merely to prove coverage.
 
 ## Prose System execution receipt
 
-| Scene | Immediate condition | Active pressure | Material change | Evidence | Choice owner | Consequence / remainder | Result |
-|---|---|---|---|---|---|---|---|
-| Escorted streets | loose buckle and controlled route | guard surveillance, silence, attraction and post-combat uncertainty | Mielle's ordinary clumsiness returns without resetting combat knowledge; group reaches inn | buckle cadence; sleeve; guard glance; post collision; Beau catch; weapon/post contrast | Mielle, Beau, guards, Jester | inn reached with private question withheld | revise — strong causal body, but reaction coverage is dense and private interpretations are stated for Fjord/Jester |
-| Shelter disclosure | guards leave and door closes | Jester asks; Mielle weighs a safe cover against desired connection | abandoned shelter becomes group knowledge and motivates the offer | waiting; blush; cover alternatives; spoken answer; shelter questions | Jester asks; Mielle discloses | exact shelter stays private; offer becomes possible | blocker — closed two-day fact is absent; dialogue becomes an interview-shaped sequence |
-| One night / threshold | Jester offers temporary space | Mielle fears obligation and tests whether help is transactional | objects are identified; payment refused; Mielle accepts | explicit term; cloth bundle; Jester inspection/refusal; private desire; threshold space | Jester owns terms; Mielle owns contribution/entry | door closes with gear/objects retained | revise — core chain passes, but button/withdrawal coverage and unsupported Fjord-state narration remain |
+| Scene | Immediate condition | Active pressure | Material change | Evidence and agency | Concrete remainder | Result |
+|---|---|---|---|---|---|---|
+| Escort | dried blood on cuff and controlled route | aftermath, guard hearing, Jester proximity and ordinary clumsiness | contact is maintained; one stumble is resolved; inn is reached | Mielle answers; Jester withholds; Beau catches; guards own route | Nestled Nook becomes immediate destination | pass |
+| Private common room | guards leave and Jester asks | public cover confronts actual shelter; Mielle chooses disclosure | building/two-day fact becomes shared; temporary option is created | Jester asks/waits/offers; Mielle answers | one-night offer exists | pass |
+| Objects and threshold | Mielle tries to contribute | obligation, local ignorance and consent | objects identified; payment refused; one-night arrangement accepted | Jester identifies/refuses; Mielle chooses; Caleb/Nott withdraw | Mielle crosses threshold with objects and gear retained | pass |
 
-### Unsupported-telling findings
-
-The following statements exceed or repeat the visible evidence:
-
-- `Fjord looked at the guard, judged that no one intended to stop us...` assigns a private judgment where the visible glance/turn is enough.
-- `She had put the embarrassment between us and made herself stand beside it` explains Jester's intent after the door joke already performs the social action.
-- `a look containing at least three practical warnings and one tired acceptance` invents exact mental content from a look.
-- `He did not believe it` states Fjord's private conclusion without a visible reply.
-
-The Fjord lines are blocking under the unsupported-telling rule because they assert another character's internal interpretation. Preserve the visible look, posture, silence or response instead.
+Every material claim has action, speech, object, timing or consequence. No choice is written as completed before its owner acts.
 
 ## Mielle Prose Style Guide execution receipt
 
-| Scene | Concrete entry | Attention order / rhythm | Emotion through behavior | POV boundary | Ending | Result |
-|---|---|---|---|---|---|---|
-| escorted streets | loose buckle | sound → route → Jester → guard → physical obstruction | sleeve attention, blush, short answers, dry pole/door humor | mostly bounded; slips when private judgments are assigned | inn/door/buckle silence | revise |
-| shelter disclosure | closed door and Jester's question | question → defensive alternatives → bodily embarrassment → answer → group pressure | glasses adjustment, formal answers, hotter face | Mielle's own uncertainty passes; others' questions are over-sequenced | Jester's offer | revise/blocker for exact fact |
-| one night | offer and attempted contribution | offer → object test → friendship thought → bounded acceptance → room threshold | object handling, refusal difficulty, avoided gaze, quiet thanks | relationship future remains unknown | closed door | pass ending; trim explanatory density |
+| Scene | Concrete entry and attention order | Rhythm / landing | Emotion and POV boundary | Ending | Result |
+|---|---|---|---|---|---|
+| Escort | blood on cuff → route → Jester → guard → obstruction | longer orientation narrows into short answers and physical comedy | emotion through attention, hands and avoidance; no private biography assigned to others | inn reached | pass |
+| Common room | guard departure → Jester's question → possible evasions → answer → offer | `An abandoned building. For the last two days.` and `That is kind` receive space | embarrassment carried through heat, glasses and formality; future trust remains unknown | offer/object action begins | pass |
+| Threshold | object test → private desire → bounded acceptance → room | direct friendship thought lands without a legalistic paragraph; dialogue shortens at choice | attraction remains private and unilateral; Jester's intent shown through waiting and space | door closes once | pass |
 
-### Style strengths
+The repeated `That was not important / That was also not important` is a local character-specific denial around attraction, not a chapter-wide template. The final `Jester's smile softened` is an isolated ordinary gesture, not a stock-gesture cluster.
 
-- Strong concrete opening and route orientation.
-- First-person lens remains stable.
-- Dry humor generally grows from present objects.
-- `Focus, Mielle` is locally motivated and not a recurring all-caps tic.
-- Final threshold and door close provide a clean remainder.
+## Character Voice Pass
 
-### Style revision targets
+| Character | Representative execution | Voice result |
+|---|---|---|
+| Mielle | exact-but-defensive answers, dry object humor, formal gratitude, incomplete social competence | pass |
+| Jester | concrete concern, blunt question, direct offer, playful roof/floor logic, refusal to over-negotiate | pass |
+| Beau | physical catch and rude-useful roof test | pass |
+| Fjord | short guard cutoff and one practical risk conclusion | pass |
+| Caleb | compact boundary: `Admire it from the stairs`; pair-guided withdrawal | pass |
+| Nott | acquisitive button admiration and physical approach | pass |
 
-- Preserve `I wanted to be her friend`, but inspect the following `It did not... It did not... It only...` explanation for double landing.
-- `The sentence went through every defense...` is near artificial intensity for a small offer; keep the emotional impact but reduce trailer-like abstraction.
-- Replace first-person `sword` with Mielle's `bokken` where she owns the noun.
-- Retain the stronger concrete left/right continuity if the side change matters; the current revision makes `There were several ordinary reasons` less specific than the previous version.
+### Conversation structure
 
-## Character Voice Pass execution receipt
+- Escort exchange is interrupted by guard hearing and a physical obstruction.
+- Shelter disclosure has one direct question, one Beau test and one Fjord consequence before Jester acts; it no longer inventories roof, law, dryness, rats and food.
+- Button exchange belongs to Nott and is closed by Caleb's pair action.
+- Fjord and Beau withdraw without an approval roll call.
+- Jester and Mielle own the final room decision.
 
-| Character | Representative evidence | Voice result | Structural result |
-|---|---|---|---|
-| Mielle | practical self-correction, rude-pole joke, formal defensive answers, direct friendship thought | pass with bokken-term and explanatory-density repairs | owns all required decisions |
-| Jester | direct check, single lodging question, playful room offer, object identification, immediate `No`, threshold space | pass | owns question/offer/term; no therapy voice |
-| Fjord | practical address questions and safety conclusion | lines sound like Fjord | too many beats for the planned one-lane role; narration overstates his private thoughts |
-| Beau | physical catch, blunt shelter challenges and dry jabs | individual lines fit | repeated shelter/button/exit participation becomes compulsory snark coverage |
-| Caleb | limited-evidence correction, dry-shelter question, Nott redirection and withdrawal | voice fits | `Was it dry?` lacks unique consequence; pair action is the stronger owned lane |
-| Nott | theft-law joke, rat naming, button interest and warning | individual lines fit | too many separate comic lanes; dossier becomes visible through repetition rather than consequence |
-
-### Conversation-structure check
-
-| Exchange | Necessary participants | Current structure | Result |
-|---|---|---|---|
-| escort stumble | Mielle, Beau, Jester; others may witness quietly | Nott, Caleb and Fjord all receive immediate response/actions | near coverage cluster; compress only if rhythm remains crowded after other cuts |
-| shelter disclosure | Mielle/Jester; one Fjord risk lane; optional one Beau or Caleb/Nott lane | Beau questions, Fjord questions/concludes, Mielle asks law, Nott answers, Caleb asks, Nott performs full rat chain, Jester returns to food | fail — interview-shaped dialogue and planning-field leakage |
-| button / withdrawal | Jester/Mielle; one Nott object beat; Caleb may withdraw Nott | Beau reacts, Nott repeats object/theft/warning, Caleb corrects/guides, Fjord comments, Beau exits with another jab | fail — cast roll call persists after core result |
-| room threshold | Jester/Mielle | unequal, concrete, choice-driven | pass |
+No voice-accurate line steals agency or exists solely to make every present character speak.
 
 ## Holmes Engine receipt
 
-| Scene | Frame/evidence | Model and live unknown | Test/withholding | Reply/revision | Agency release | Result |
-|---|---|---|---|---|---|---|
-| escorted streets | buckle cadence, escort arrangement, guard glance, Jester proximity | guards still control privacy; Jester's current attention does not prove future relationship | Mielle answers briefly and withholds private subject | Jester keeps contact; guards continue route | guards/Jester/Beau retain their actions | pass core; revise private-thought attributions |
-| shelter disclosure | guards gone; Jester asks once and waits | present concern appears genuine; future trust remains unknown | Mielle considers cover and gives bounded shelter fact | Jester acts on concrete inadequacy | Jester owns offer; others own only distinct responses | partial/blocker — exact duration is lost and reply phase becomes an extraction chain |
-| one night | explicit temporary offer and uncertain objects | help appears non-transactional; friendship remains unknown | Mielle exposes objects to test payment/obligation | Jester identifies and refuses payment | Jester owns terms; Mielle chooses at threshold | pass core; revise unsupported Fjord mental-content lines |
+| Scene | Evidence/model | Test or withholding | Reply/revision | Agency release | Result |
+|---|---|---|---|---|---|
+| Escort | guard hearing and Jester's proximity support only present concern | Mielle gives a limited answer and withholds lodging subject | Jester nods and stops asking | guards retain route; Jester retains contact | pass |
+| Common room | one question, waiting hands and lack of supplied answer support present sincerity | Mielle chooses bounded facts rather than vague cover | Jester responds to concrete shelter inadequacy with an offer | Jester owns offer; Mielle retains later choice | pass |
+| Objects/threshold | explicit one-night terms, no price demand and object inspection test whether help is transactional | Mielle offers presumed money | Jester refuses payment; future relationship remains unknown | Mielle chooses at threshold | pass |
 
-No powered inference or high-confidence deduction occurs. Combat receipt is correctly not applicable.
+No powered inference or high-confidence deduction occurs. Provisional readings stop at visible evidence.
+
+## Combat Rules receipt
+
+`not applicable` — the chapter contains no combat, pursuit, hostile effect, injury, evasion, no-hit result, consequential power use or tactical prediction.
 
 ## Show-don't-tell evidence audit
 
-| Claim | Evidence | Result |
+| Claim | On-page evidence | Result |
 |---|---|---|
-| Mielle is flustered by Jester | sleeve fixation, blush, self-command, avoided gaze, formal defense | pass |
-| Jester's question is non-coercive | asks once, waits, supplies no guess, later leaves threshold space | pass |
-| Mielle controls disclosure | considers cover; gives shelter fact; withholds exact place/origin | pass, but required duration missing |
-| group retains combat memory | Beau's look and Nott/Caleb uncertainty | pass |
-| help is temporary/non-transactional | `Just tonight`, object inspection, payment refusal | pass |
-| Mielle wants friendship but does not know reciprocity | direct private thought and explicit uncertainty | pass |
-| Fjord has three warnings, tired acceptance and disbelief | only a narrated look/silence is supplied | blocker |
+| Mielle remains affected by the fight | dried blood, repeated rubbing, steady hands she dislikes | pass |
+| Jester is concerned but non-coercive | lowered question, stops under guards, asks once later, waits | pass |
+| Mielle is embarrassed and wants contact | heat, glasses adjustment, formal wording, private friendship thought | pass |
+| shelter was inadequate | abandoned building, two days, partial roof | pass |
+| help is temporary and non-transactional | explicit one-night terms, object test, payment refusal | pass |
+| acceptance belongs to Mielle | she repeats the limit, follows and crosses an open threshold | pass |
+| Beau/Fjord/Caleb/Nott retain distinct lanes | physical catch, risk line, pair correction, object attention | pass |
 
 ## Anti-AI application receipt
 
+### Inspection scope
+
+- Full rebuilt draft inspected beginning to end: yes.
+- Previous draft compared: yes.
+- Silent Edit completed: yes.
+- Changed paragraphs reread: yes.
+- Generation-residue sanitation gate: pass; no placeholders, tool tokens, audit language or assistant preamble appears in prose.
+
+### Return to pre-draft risks
+
+| Risk | Inspection result | Editorial decision |
+|---|---|---|
+| circular compliance | draft delivers authorized meaning without copying old required wording | pass |
+| interrogation chain | shelter sequence reduced to direct question, one Beau test, one Fjord consequence and offer | resolved |
+| cast coverage | characters enter through distinct lanes and withdraw unevenly | resolved |
+| explanatory aftertaste | Silent Edit removed explicit agency explanation and over-explained threshold language | resolved |
+| private-state certainty | no objective claims about Fjord/Jester private thoughts; Beau comparison remains deliberately unspoken | resolved |
+| attraction inflation | attraction affects attention and warmth but no reciprocity/status is implied | pass |
+| button inflation | one contained Nott exchange, one Caleb closure, no later callbacks | resolved |
+| artificial intensity | no defense-penetration/trailer metaphor around offer | resolved |
+| forced closure | chapter ends on threshold choice, thanks and door close | pass |
+
 ### Universal clusters
 
-| Cluster | Evidence and result |
-|---|---|
-| explanatory aftertaste | found: embarrassment metaphor after door joke; defense metaphor after offer; extended explanation after direct friendship thought; Jester's ordinary-help interpretation after refusal |
-| specificity regression | found: `last two days` becomes `since I entered the city`; `bokken` becomes `sword`; previous explicit left-side continuity is generalized |
-| mechanical symmetry / template cadence | found: repeated question-answer-joke-return units in shelter and button sequences |
-| flattened dialogue | voices remain distinct, but the conversation is interview-shaped and surfaces plan fields in sequence |
-| false certainty / invented interpretation | found: Fjord `judged`; look contains enumerated warnings/acceptance; `He did not believe it`; Jester's intent explained after action |
-| coverage compulsion / planning leakage | found: nearly every present character receives stumble, shelter, button or withdrawal material after their consequence is complete |
-| generation residue | not present; no placeholders, tool markers or accidental audit text in prose |
+| Cluster | Inspected pattern | Result |
+|---|---|---|
+| explanatory aftertaste | paragraphs after Jester's waiting, offer, friendship thought and threshold | not present as a cluster; direct thought is followed by one practical social problem, not repeated disclaimer |
+| specificity regression | compared Level 1–3 facts and free wording against previous draft | not present; two-day fact and town restriction restored; neutral staging changes not misclassified |
+| mechanical symmetry | repeated short paragraphs, dialogue beats and contrasts across chapter | not present as a stable pattern; local repetition is pressure-specific |
+| flattened dialogue | speaker interchangeability and Q&A sequencing | not present; voices and functions remain distinct |
+| false certainty / invented consensus | looks, silence, group interpretation | not present; no collective realization or private-state assertion |
+| coverage compulsion / planning leakage | participation after stumble, disclosure and button reveal | not present; optional lanes remain bounded |
+| generation residue | full file sanitation | not present |
 
 ### Targeted clusters
 
-- **Hedge fog:** not a major cluster. `Probably` is tied to real legal/shelter uncertainty.
-- **Stock micro-gestures:** near-cluster: narrowed eyes, folded arms, head tilt, shoulder-hand and repeated looks carry several adjacent reactions.
-- **Register seam:** not present. The younger flustered register remains legible and locally triggered.
-- **Artificial intensity:** found near `The sentence went through every defense...`; emotion is authorized, but the abstraction exceeds the scale of the offer.
-- **Button inflation:** found. Identification is followed by Beau's reaction, Nott's praise/threat, Caleb's correction, later warning and Mielle's precaution.
-- **Forced emotional closure:** not present. The door close is a valid final remainder.
+- **Artificial intensity:** absent after Silent Edit.
+- **Button inflation:** absent; one object exchange only.
+- **Register seam:** absent; flustered formality remains locally motivated.
+- **Forced closure:** absent.
+- **Stock gestures:** no meaningful cluster. Glasses adjustment, jaw rub and softened smile occur in separate functions and do not substitute for all emotion.
 
 ### Revision comparison
 
-| Area | Previous version | Current version | Result |
+| Area | Previous draft | Recreated draft | Result |
 |---|---|---|---|
-| Jester's temporary offer | term was vulnerable to ownership drift in an intermediate revision | `Just tonight` is explicitly hers | repaired |
-| embodied non-coercion | earlier version used empty hands/waiting; intermediate audit reported regression | current version asks once and waits without a supplied answer | repaired |
-| relationship ending | prior version repeated `one night`; intermediate version reportedly added a second emotional ending | current quiet thanks and closed door | acceptable |
-| exact shelter duration | earlier version stated `For the last two days` | current says `Since I entered the city` | material regression |
-| cast participation | previous version already had rat/button chains | current still retains full shelter and button coverage | unresolved |
-| Mielle item vocabulary | previous used `bokken` at threshold | current uses `sword` | regression |
+| opening | buckle-based route plus ensemble reactions | blood/aftermath entry with constrained contact and one physical beat | emotional residue strengthened; route remains clear |
+| shelter disclosure | sequential roof, location, law, dryness, rats and food extraction | direct question, building/two days, one roof test, one risk line, offer | causality and natural pressure restored |
+| Jester | concern/offer often followed by explanation | waiting, direct action and open threshold carry meaning | explanatory aftertaste reduced |
+| ensemble | nearly everyone received several reactions | each non-central character has one lane or background withdrawal | cast coverage removed |
+| Nott/Caleb | multiple shelter and button routines | one button interaction plus pair redirection | character identity and pair logic strengthened |
+| Fjord | repeated questions and narrated private judgments | one practical line, quiet withdrawal | ownership and POV boundary restored |
+| objects/room | button callbacks and ambiguous second-bed reference | one coherent object beat and one-bed room | material clarity improved |
+| ending | already concrete but surrounded by more explanation in earlier versions | open threshold, choice, thanks, closed door | clean remainder retained |
 
-### Root cause
+### Root-cause result
 
-The draft is protecting several individually liked interactions at once. Each line can be defended by voice, but the aggregate continues after the scene's pressure has already selected the necessary participants. This creates an interrogation chain, repeated comic lanes and explanatory sentences that make already visible meaning explicit.
+- Previous root cause: planning tried to make every dossier and control visible through dialogue.
+- Rebuild correction: only Level 1–3 meanings are required; Level 4 targets guide pressure; Level 5 choices remain free.
+- Facts, voice and roughness protected: Mielle's dry formality, direct friendship thought, Jester's messy practical warmth, Beau's bluntness, Nott's acquisitiveness and Caleb's pair boundary.
+- Stop condition reached: yes. Further polishing would risk replacing natural unevenness with a new controlled pattern.
 
 ## Issues
 
-| Severity | Location | Governing source | Problem | Required correction | Status |
-|---|---|---|---|---|---|
-| blocker | shelter disclosure | Canon Delta amendment; plan; mini delta | required `last two days` knowledge is absent | restore explicit two-day duration | open |
-| blocker | Crownsguard delivery | approved Chapter 04; setting authority | `outside the walls` changes the approved no-leaving-Trostenwald order and introduces unsupported walls | restore town-level wording or return to source/setting authority | open |
-| blocker | Fjord narration | Prose System; Holmes | private judgment/warnings/acceptance/disbelief are asserted without sufficient visible evidence | retain visible look/action or add a concrete reply; do not narrate private content as fact | open |
-| blocker | shelter/button ensemble | Character Dossier Application standard | Caleb/Nott/Beau beats fail removal or coverage tests; receipt cannot close | compress participation around unique consequence and existing ties | open |
-| major | shelter exchange | Scene cards; Voice Pass; Anti-AI | sequential roof, guard, law, dryness, rats and food questions form an interview-shaped chain | keep only pressure-selected questions; allow silence | open |
-| major | Nott across chapter | Nott dossier; mini delta | pole, trespass, full rat, full button and warning lanes reduce her toward comic coverage | select one strong shelter/object lane and one optional callback at most | open |
-| major | Beau/Fjord late participation | dossiers; participation map | repeated comments continue after their practical consequence | retain Beau catch and one useful challenge; retain one Fjord risk line | open |
-| important | Mielle weapon terms | `MIELLE.md` | first-person narration calls the bokken `sword` | use `bokken` where Mielle owns the noun | open |
-| important | room furniture logic | setting/material logic | `other bed` conflicts with later one-bed/floor negotiation | clarify sleeping arrangement | open |
-| important | explanatory aftertaste | Prose System; Prose Guide; Anti-AI | several interpretations repeat meaning after action | preserve action/direct thought and cut smallest repeated explanation | open |
-| optional | side continuity | previous draft / Chapter 04 | previous left-to-right change was more concrete than current generalized setup | restore only if the side change matters to attraction/attention | optional |
+No blocker, major or important issue remains.
+
+| Severity | Location | Observation | Decision |
+|---|---|---|---|
+| optional | opening attraction denial | `That was not important / That was also not important` is visible repetition | keep; it is local, motivated and belongs to Mielle's failed self-control |
+| optional | final gesture | `Jester's smile softened` is a familiar gesture | keep; isolated and supported by the preceding choice, not carrying the scene alone |
 
 ## Approval result
 
-`blocked — not ready for user approval`
+`pass — ready for user review and approval decision`
 
-Required before closure:
-
-1. restore the two-day disclosure;
-2. restore the approved Crownsguard restriction wording;
-3. remove unsupported private-state narration;
-4. revise shelter/button participation until the Character Dossier Application receipt passes;
-5. correct bokken terminology and room-material ambiguity;
-6. rerun Prose System, Voice, Holmes, Anti-AI and dossier receipts on every changed paragraph;
-7. complete a second-order reread.
-
-This audit does not authorize rewriting canon facts, relationship status, mechanics or character ownership. Those must remain as fixed by the governing artifacts.
+- [x] Level 1–3 authority and semantic outcomes pass.
+- [x] Level 4 craft targets were evaluated by actual effect rather than treated as immutable rules.
+- [x] Character Dossier Application receipt is closed.
+- [x] Prose System, Prose Guide, Voice Pass, Holmes and Anti-AI receipts pass.
+- [x] Silent Edit and second-order reread are complete.
+- [ ] User approval remains required.
+- [ ] No continuity promotion has occurred.
