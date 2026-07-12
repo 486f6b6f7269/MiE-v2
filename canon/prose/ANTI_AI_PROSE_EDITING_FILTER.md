@@ -84,7 +84,8 @@ Before drafting, read the planned scene for likely failure pressure:
 - dialogue written as policy or explanation;
 - symmetry used because it sounds polished;
 - manufactured emotional closure;
-- a plan that has already decided what every character "realizes." 
+- a plan that has already decided what every character "realizes";
+- scene-card fields likely to be surfaced as compulsory prose rather than kept as controls.
 
 This is preventive only. Do not invent revisions to prose that does not exist.
 
@@ -96,7 +97,8 @@ After continuity, source, agency and mechanics checks, run a Silent Edit pass:
 2. preserve all protected facts and decisions;
 3. correct Critical or Important clusters with the fewest safe edits;
 4. reread the altered paragraphs for new loss of voice, causality or information;
-5. repeat after a substantial rewrite.
+5. compare substantial revisions against the prior wording for lost specificity;
+6. repeat after a substantial rewrite.
 
 Do not produce a separate report unless the user asks for one.
 
@@ -113,9 +115,13 @@ Use only when the user requests diagnosis. For each issue, record:
 - smallest safe correction;
 - what must remain unchanged.
 
+Group repeated examples under one root cause. Use one to three representative quotations unless separate occurrences require different repairs. Do not itemize every lexical occurrence after the pattern is established. Do not call an audit exhaustive unless the whole draft was checked for that exact pattern. Rank problems by damage to voice, evidence, causality and scene pressure, not by ease of detection.
+
+A short audit that identifies the correct root cause is better than a complete inventory of surface symptoms.
+
 ## III. Diagnose clusters, not isolated lines
 
-A single short sentence, metaphor, repeated object, contrast, quiet ending, em dash, sentence fragment or abstract word is not a defect by itself.
+A single short sentence, metaphor, repeated object, contrast, quiet ending, em dash, sentence fragment, abstract word, hedge, stock gesture or three-part list is not a defect by itself.
 
 Intervene when several symptoms create a stable artificial effect across a paragraph, exchange, scene, or chapter. A line may be plain because a character is tired. A repeated object may be deliberate. A quiet ending may be exactly right. The question is whether the choice belongs to the scene or only to a default writing pattern.
 
@@ -145,7 +151,9 @@ Do not add vague atmosphere merely to make the scene less report-like.
 
 - a beat lands, followed by a sentence explaining its emotion, moral, theme or lasting importance;
 - dialogue says the exact meaning of a gesture after the gesture already showed it;
-- a scene end repeats its own conclusion in larger words.
+- a scene end repeats its own conclusion in larger words;
+- a paragraph lands once through action and again through interpretation;
+- two consecutive sentences deliver the same emotional result, first concretely and then abstractly.
 
 **Repair**
 
@@ -176,7 +184,10 @@ A useful test: could the sentence be pasted into ten unrelated stories unchanged
 - balanced contrast appears sentence after sentence;
 - characters all answer with equally polished clarity;
 - every beat receives a three-part list, a reversal, and a final verdict;
-- the draft repeats a favored sentence shell until it becomes visible.
+- the draft repeats a favored sentence shell until it becomes visible;
+- consecutive paragraphs repeat observation → interpretation → short verdict;
+- each dialogue line receives one action beat and one internal explanation;
+- one-line paragraphs repeatedly manufacture gravity with phrases such as `For now`, `Not yet`, `That was enough`, or `That was the problem`.
 
 **Repair**
 
@@ -192,13 +203,19 @@ Do not replace one mechanical pattern with another.
 - every speaker has the same articulation and emotional access;
 - banter exists only to deliver theme;
 - replies land too perfectly;
-- dialogue could be rearranged among speakers without changing who they are.
+- dialogue could be rearranged among speakers without changing who they are;
+- the exchange advances through a chain of clean question-and-answer pairs;
+- a character asks the exact question needed to expose the next planning fact;
+- answers are complete despite a reason to evade, misunderstand, deflect, object or answer only part of the question;
+- an interrogator behaves like the author collecting required exposition;
+- one answer exists only to make the following question possible;
+- the exchange produces information without changing risk, authority, comfort, suspicion or action.
 
 **Repair**
 
-Restore character-specific omissions, practical evasions, interruptions, social mistakes, private limits, incomplete understanding and rhythm. Do not add jokes merely to make dialogue lively.
+Restore character-specific omissions, practical evasions, interruptions, social mistakes, private limits, incomplete understanding and rhythm. Give each question an immediate owner and purpose. Let an answer redirect, resist, expose too much, answer the wrong part, create a cost or change the next action.
 
-A good correction can be a line removed, a reply delayed, a physical action retained, or an answer left incomplete.
+A good correction can be a line removed, a reply delayed, a physical action retained, or an answer left incomplete. Do not add jokes merely to make dialogue lively.
 
 ### 6. Decorative sensory inventory
 
@@ -257,6 +274,9 @@ Restore the read, constraint, deliberate non-action where relevant, choice, resu
 
 - narration treats a likely inference as settled fact;
 - unnamed people "all knew," "everyone understood," or some collective awareness settles something no one has demonstrated;
+- one or two visible reactions are generalized into a group conclusion;
+- narration assigns an interpretation to `the group`, `the silence`, `the scene`, `the moment`, or an unnamed collective when no specific witness owns it;
+- a relationship, suspicion or consensus is declared established when only one character has acted;
 - the draft supplies hidden motives, future outcomes or public reactions only to complete a paragraph.
 
 **Repair**
@@ -271,11 +291,17 @@ Separate fact, inference and uncertainty. Name the witness or remove the consens
 - every question receives a useful answer;
 - every joke lands;
 - every intimate exchange is complete, articulate and safe from awkwardness;
-- no one is late, tired, distracted, embarrassed, wrong, or occupied by an ordinary task.
+- no one is late, tired, distracted, embarrassed, wrong, or occupied by an ordinary task;
+- the same small set of eye, jaw, breath, shoulder, smile and hand gestures carries emotion for every character;
+- a stock gesture appears whenever the draft needs to signal concern, attraction, suspicion or relief;
+- physical business functions only as an emotion label in disguise;
+- several consecutive dialogue lines receive one interpretive micro-gesture each.
 
 **Repair**
 
 Restore minor friction only where the scene supports it: an answer that comes late, a chair shifted aside, a repair unfinished, a cup cooling, a joke that misses, a hand withdrawn, an object in the wrong place, a task done imperfectly.
+
+Use behavior that belongs to the person's current task, habits, objects, posture, social strategy or available action. A character may move a cup, fail to finish a repair, check a door, adjust a strap, interrupt too quickly or continue working. Do not replace one stock gesture with another.
 
 Do not manufacture clumsiness or conflict merely to make prose look human.
 
@@ -308,6 +334,74 @@ Use `tent` if the tent matters. Use `inn`, `table`, `aisle`, `flap`, `ledger`, `
 
 Do not ban a literal use that is plainly the right word. Do not keep a vague use because it sounds like Mielle.
 
+### 14. Specificity regression
+
+**Symptoms**
+
+- a revision preserves the general meaning while removing the exact object, action, sequence, witness, quantity, physical mechanism or character-specific word;
+- an unusual but accurate detail becomes a smoother emotional or thematic statement;
+- a concrete social or material fact becomes a general claim about trust, fear, importance, connection or change;
+- the revised paragraph is easier to transplant into another story than the original;
+- paraphrase retains the conclusion but removes the evidence that made the conclusion possible;
+- a revision sounds cleaner while making it harder to reconstruct what physically happened.
+
+**Repair**
+
+Compare the revision against the previous wording and governing material. Restore the irreducible noun, verb, clue, sequence, cost or limitation. Do not preserve a smoother sentence merely because it retains the approximate idea.
+
+Ask: what specific information can no longer be recovered from the revision? If the answer is anything material, the revision has damaged the prose.
+
+### 15. Hedge fog and counterfeit nuance
+
+**Symptoms**
+
+- repeated use of `seemed`, `almost`, `perhaps`, `somehow`, `something in`, `some kind of`, `as if`, `might have been`, or equivalent qualifiers makes every observation provisional;
+- the prose is vague about the visible action even when only its cause or meaning is uncertain;
+- uncertainty is added to make a sentence sound subtle rather than because the POV lacks evidence;
+- several possible interpretations are named without affecting the character's next action;
+- narration retreats from a concrete fact into an atmospheric impression.
+
+**Repair**
+
+Be exact about the observation and limited about the conclusion.
+
+Name the hand that stopped, the answer that came late, the distance that changed or the object that moved. Hedge only the meaning the evidence has not settled. Do not remove uncertainty that belongs to the POV.
+
+### 16. Coverage compulsion and planning leakage
+
+**Symptoms**
+
+- every present character receives a line or reaction regardless of immediate pressure;
+- every scene-card field becomes visible prose;
+- dialogue confirms information that only needed to remain an author control;
+- all planned relationship, knowledge and emotional beats are completed in one scene;
+- the scene behaves like proof that the planning documents were followed;
+- reactions arrive in a roll call rather than through independent action;
+- a protected intention is explained even though it only needed to govern behavior;
+- an open thread is closed because the plan named it.
+
+**Repair**
+
+Treat planning information as control, not mandatory surface content.
+
+Stage only what becomes active under present pressure. A character may remain present without speaking. A protected intention may govern behavior without being explained. An open thread may remain open. Preserve ownership of source-required beats without distributing filler reactions to the whole cast.
+
+### 17. Register seam
+
+**Symptoms**
+
+- a paragraph abruptly becomes essayistic, promotional, therapeutic, lyrical, corporate or trailer-like;
+- a character's vocabulary, sentence control or variety of English changes without pressure or context causing it;
+- a revision is locally polished but no longer belongs beside the paragraphs around it;
+- an outside-POV passage sounds like detached praise or commentary;
+- dialogue shifts toward a default polished register rather than the speaker's established register.
+
+**Repair**
+
+Compare the passage with adjacent prose, the character dossier and the approved scene reference. Restore continuity of attention and voice.
+
+Preserve deliberate code-switching, stress effects, performance, disguise, ritual, technical language or formal speech when the scene earns them.
+
 ## V. Mielle-specific diagnostic checks
 
 These are checks against distortion, not instructions to write a new scene.
@@ -315,6 +409,7 @@ These are checks against distortion, not instructions to write a new scene.
 - Do not revise Mielle into a polished prodigy, generic caretaker, omniscient analyst, lyrical oracle or passive object of everyone else's care.
 - Her silence can be a decision, uncertainty, boundary, embarrassment, fatigue, attention, or lack of a useful answer. Do not fill it automatically.
 - Her intelligence must still come from observable evidence, physical reading, learned method or a stated capability. Do not let elegant phrasing grant her information.
+- Be exact about what she observes and careful only about what the observation means. Do not make every visible fact vague merely to preserve her cautious voice.
 - Her dry humor should arise from the thing in front of her. Do not add a quip merely because the paragraph is serious.
 - Returned memories and archival competence should not swallow the scene in monologue. Restore the present object, body, task or person.
 - Do not let a capability erase a setting's human response before the source, mechanics and scene have earned that answer.
@@ -400,11 +495,27 @@ These are not banned in literal use. They are flagged because the current drafti
 
 - Prefer plain verbs when they are exact. Do not replace `is`, `was`, `has`, `had`, `walked`, `looked`, `held`, `said`, or `stopped` merely to sound elevated.
 - Repeat the precise word when it is the right word. Forced synonym variation often makes a scene less clear.
+- Treat hedge words as a density signal, not a blacklist. Keep them when the uncertainty is real and remove them when the visible fact itself is already known.
 - Do not use an em dash unless interruption or abrupt reversal is the actual effect.
 - Do not use bold, lists, dividers, or headings in finished prose as decorative emphasis.
 - Do not rely on stock assistant openings, fake collaboration, generic conclusions, or automatic invitations for more work in project-facing prose.
 
-## VIII. Severity and escalation
+## VIII. Generation-residue sanitation gate
+
+Before treating any file as finished, verify that it contains no:
+
+- response preamble or closing addressed to the user;
+- unfilled placeholder, bracket instruction or template prompt;
+- tool, search, citation, attachment or internal reference token;
+- accidental writing-block, chat-format or message-role marker;
+- statement about what the assistant has done, will do or recommends doing;
+- copied audit instruction inside chapter prose;
+- example label such as `Weak`, `Usable`, `Improved`, `Option`, or `Draft` that was not meant to remain;
+- fabricated source, citation or quotation inserted to make the file appear complete.
+
+This is a sanitation check, not a prose-style diagnosis. Resolve any occurrence directly. Do not rewrite the surrounding prose unless the residue damaged it.
+
+## IX. Severity and escalation
 
 ### Critical
 
@@ -430,7 +541,7 @@ A line is unusual, blunt, repetitive, unfinished, plain, slightly messy, or less
 
 Do not touch it.
 
-## IX. Finish checklist
+## X. Finish checklist
 
 Before delivery, ask:
 
@@ -446,6 +557,14 @@ Before delivery, ask:
 10. Did the revision preserve the chapter's actual scale instead of inflating it?
 11. Did the edit introduce a diagnostic pattern that was worse than the original problem?
 12. Did the prose use vague spatial nouns where a physical object, location, person, route, or decision could be named?
+13. Did the revision preserve the exact object, sequence, witness, mechanism, cost and character-specific wording that carried the original evidence?
+14. Is the narration exact about observation and limited only about interpretation?
+15. Did a question-and-answer chain expose planning information without changing pressure or action?
+16. Did every present character receive a compulsory reaction, or did the scene surface only what became active?
+17. Did stock eye, jaw, breath, shoulder, smile or hand gestures become a shared emotional language?
+18. Does any paragraph change register without a scene-based reason?
+19. Does the file contain any assistant residue, placeholder, internal token or accidental example label?
+20. Did the audit group repeated symptoms under their actual root cause?
 
 ## Stop condition
 
