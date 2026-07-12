@@ -37,6 +37,7 @@
 ## Character and relationship
 
 - `canon/characters/MIELLE.md`
+- `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`
 - `continuity/character_state/MIELLE_CURRENT.md`
 - Mielle checks required in this chapter: personality / voice / gear / drawback / constraints-geasa / first-impression-underestimation / knowledge / other:
 - present or decision-relevant character dossiers:
@@ -59,6 +60,23 @@ Do not write only “read `MIELLE.md`.” Copy the scene-relevant invariant into
 | Origin / archives / memory |  | knowledge map; Mielle protected agency; prohibited disclosure |
 | Social care / payment / invitation / relationship |  | ownership; relationship non-result; end state |
 | System names / power explanation |  | capabilities prohibited; knowledge map; prose/editing guard |
+
+## Mielle invariant consequence receipt
+
+Complete before prose. Use the rows from the scene cards and reconcile them chapter-wide under `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`.
+
+| Active invariant | Productive or restrictive | Scene trigger or temptation | Concrete consequence or blocked result | Exact scene-card location | What would materially change if removed? | Status |
+|---|---|---|---|---|---|---|
+|  | productive / restrictive |  |  |  |  | pass / return to planning |
+
+Rules:
+
+- A trait mention, voice label, mood note or decorative beat is not a consequence.
+- Productive rows must change action, choice, pacing, reaction, knowledge, object state or outcome.
+- Restrictive rows must name the invalid result that was blocked and the allowed replacement or omission.
+- `Only tone changes`, `Mielle feels like herself`, `do not break canon` and equivalent answers fail.
+- Do not activate an invariant without a natural trigger merely to fill the table.
+- Any failed or superficial row blocks drafting and returns to scene cards.
 
 ## Setting and faction
 
@@ -95,6 +113,7 @@ For non-combat chapters, `combat pre-check` may be `not applicable` with one sen
 | Capabilities used and prohibited | mini delta / combat pre-check | yes / no / not applicable |  |
 | No-hit or injury rule with cause for misses / consequence for hits | combat pre-check | yes / no / not applicable |  |
 | Exact limit of what Mielle accomplishes and what remains for others | mini delta / combat pre-check | yes / no / not applicable |  |
+| Mielle invariant consequence receipt | scene cards / loadout | yes / no | every active invariant has a material or restrictive effect |
 
 ## Decision-to-authority check
 
@@ -120,6 +139,7 @@ Rules:
 - `canon/prose/PROSE_SYSTEM.md`
 - `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`
 - `canon/prose/MIELLE_VOICE_GUIDE.md`
+- `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
 - Anti-AI pre-draft guard exact path:
@@ -176,6 +196,7 @@ The audit may not close on `Anti-AI: pass`, `filter read`, `no issues`, or equiv
 - [ ] Every combat result lists line, timing, physical cause and consequence.
 - [ ] Every relationship movement lists behavior, not label.
 - [ ] Every exposition/backstory insertion is triggered by front-story object, question, pressure or consequence.
+- [ ] Every active Mielle invariant passes the consequence test; superficial use blocks drafting.
 - [ ] Unsupported telling is treated as a blocker.
 - [ ] Anti-AI risks are chapter-specific and name trigger, protected material and post-draft inspection target.
 - [ ] Universal and targeted Anti-AI audit handoff is complete.
@@ -185,7 +206,7 @@ The audit may not close on `Anti-AI: pass`, `filter read`, `no issues`, or equiv
 Run after the factual scene sequence exists and before the draft is handed over. Read each listed source in the named family one at a time and correct only the defects that family governs.
 
 1. **Source and continuity pass:** transcript/source obligations, chapter plan, mini delta, event tiles, ledger, current state and open threads. Check order, agency, knowledge, material facts and chapter boundary.
-2. **Character and relationship pass:** Mielle dossier/state, each present character dossier/state and relationship state. Check Mielle personality, voice, gear, drawbacks, constraints/geasa where present, first-impression-underestimation, action, speech, reactions, social distance and what no one can know.
+2. **Character and relationship pass:** Mielle dossier/state, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, each present character dossier/state and relationship state. Check every active Mielle invariant against its planned consequence or blocked alternative, then check personality, voice, gear, drawbacks, constraints/geasa, first-impression-underestimation, action, speech, reactions, social distance and what no one can know.
 3. **Mechanics, Holmes and combat pass:** Power Guide and exact modules, Holmes Engine, Combat Rules and pre-check. Check capabilities, non-use decisions, physical possession, inference limits, tactical claims, evasion, injury/no-hit results, damage, resistance and future-combat leakage.
 4. **Prose and voice pass:** prose system, Mielle prose guide, Mielle voice guide, chapter voice pass and Anti-AI filter. Rewrite only expression, rhythm, evidence support, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue. Record changed paragraphs for the later Anti-AI receipt instead of declaring a generic pass.
 
@@ -196,12 +217,13 @@ Run after the factual scene sequence exists and before the draft is handed over.
 - [ ] Character voice, relationship, event tiles and knowledge documents cover every decision-relevant speaker.
 - [ ] Mielle-specific checks cover personality, voice, gear, drawbacks, constraints/geasa, knowledge and first-impression-underestimation where applicable.
 - [ ] Scene-relevant Mielle invariants were copied into the point-of-use fields that guide prose.
+- [ ] Every active Mielle invariant has a passing productive or restrictive consequence row; no superficial row remains.
 - [ ] Setting documents cover every material setting, law, language, faction or NPC condition.
 - [ ] Power, Holmes and combat documents cover every meaningful use, non-use, possession, inference, evasion, injury/no-hit result, damage, resistance or threat.
 - [ ] Standard planning controls are present or explicitly not applicable before drafting.
 - [ ] Non-combat material consequences are present or explicitly not applicable before drafting.
 - [ ] Decision-to-authority check has a passing row for every conflict-prone chapter fact.
-- [ ] Pre-draft prose receipt passes, including unsupported telling as a blocker.
+- [ ] Pre-draft prose receipt passes, including unsupported telling and superficial invariant use as blockers.
 - [ ] Anti-AI pressure map names chapter-specific risks, universal clusters, targeted clusters and protected material.
 - [ ] Sequential draft verification passes are pending / complete:
 - [ ] No source is missing.

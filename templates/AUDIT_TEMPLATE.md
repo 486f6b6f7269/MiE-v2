@@ -5,8 +5,9 @@
 - [ ] Chapter loadout completed with exact paths.
 - [ ] Source extraction, episode map, episode Canon Delta and chapter mini delta loaded.
 - [ ] Relevant character dossiers, states, relationship state, setting, knowledge and event records loaded.
+- [ ] `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md` loaded when Mielle appears.
 - [ ] Relevant Power Guide modules, Holmes Engine and Combat Rules loaded or explicitly not applicable.
-- [ ] Prose package loaded: `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`, `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
+- [ ] Prose package loaded: `canon/prose/PROSE_SYSTEM.md`, `canon/prose/MIELLE_PROSE_STYLE_GUIDE.md`, `canon/prose/MIELLE_VOICE_GUIDE.md`, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`, `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`.
 - [ ] Pre-draft Anti-AI guard completed with chapter-specific risks and protected material.
 - [ ] Post-draft Anti-AI application receipt completed.
 - [ ] Post-draft Silent Edit completed or explicitly not applicable with reason.
@@ -19,6 +20,29 @@
 - [ ] No character rediscovered an established fact, upgraded a limited inference into proof, or pressed an unresolved subject without a meaningful new trigger.
 
 ## Character voice and agency
+
+## Mielle invariant application audit
+
+Copy every active invariant from the Chapter Loadout consequence receipt. Do not add new active traits after the draft merely to justify existing prose.
+
+Apply the removal test:
+
+> If this invariant and its on-page evidence were removed, would the scene's action, choice, limit, reaction, information state, object state, pacing or outcome remain materially unchanged?
+
+| Active invariant | Productive or restrictive | Planned consequence or blocked result | On-page evidence | What changes if removed? | Material / superficial / forced | Required repair |
+|---|---|---|---|---|---|---|
+|  | productive / restrictive |  |  |  | material / superficial / forced | none / revise / return to planning |
+
+Blocking results:
+
+- `superficial`: the invariant is mentioned or textured but changes no material choice, reaction, limit, pacing, knowledge, object state or consequence;
+- `forced`: the invariant has no natural trigger and was inserted only to prove coverage;
+- `missing`: a planned productive consequence does not occur, or a planned restrictive boundary fails to block the named invalid result;
+- `generic`: the explanation could be pasted into an unrelated chapter without changing its meaning.
+
+A restrictive invariant may pass through a verified absence, but the audit must name the concrete invalid alternative that was blocked and inspect the allowed replacement or omission. `Canon was not broken` is not sufficient evidence.
+
+The audit cannot close while an active invariant is superficial, forced, missing or supported only by a label.
 
 ## Source adaptation and delta compliance
 
@@ -151,4 +175,7 @@ An explicit user waiver can override this blocker only when the user names this 
 
 ## Approval result
 
-The audit cannot close and the chapter cannot move to approval while the Anti-AI application receipt is absent, generic or invalid, unless an explicit chapter-specific user waiver is recorded above.
+The audit cannot close and the chapter cannot move to approval while either condition remains true:
+
+1. the Anti-AI application receipt is absent, generic or invalid, unless an explicit chapter-specific user waiver is recorded;
+2. any active Mielle invariant is superficial, forced, missing, generic or supported only by a trait label.
