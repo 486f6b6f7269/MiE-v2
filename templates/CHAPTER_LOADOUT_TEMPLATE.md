@@ -122,7 +122,52 @@ Rules:
 - `canon/prose/MIELLE_VOICE_GUIDE.md`
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
+- Anti-AI pre-draft guard exact path:
 - Anti-AI pre-draft guard: complete / pending
+
+## Anti-AI pressure map and audit handoff
+
+This section selects what the later audit must verify. It does not diagnose prose before prose exists.
+
+A generic warning such as `avoid AI writing`, `use the filter`, or `watch for over-explanation` is invalid. Each risk must name the chapter trigger, protected material and the visible symptom the post-draft audit will inspect.
+
+### Chapter-specific pre-draft risks
+
+Copy these risks into the pre-draft guard and later into the audit receipt.
+
+| Chapter-specific risk | Scene trigger | Protected fact, voice, uncertainty or causal detail | What the post-draft audit must inspect |
+|---|---|---|---|
+|  |  |  | exact paragraph, exchange, scene ending, reaction pattern or revision seam |
+
+### Universal post-draft clusters
+
+The audit must check all seven. The loadout does not pre-judge whether they will be found.
+
+- explanatory aftertaste;
+- specificity regression;
+- mechanical symmetry and template cadence;
+- flattened dialogue;
+- false certainty and invented consensus;
+- coverage compulsion and planning leakage;
+- generation residue.
+
+### Targeted post-draft clusters
+
+Choose only the additional clusters justified by this chapter's pressure. Do not select all clusters automatically.
+
+| Targeted cluster | Why this chapter is at risk | Likely location or trigger | Protected material |
+|---|---|---|---|
+|  |  |  |  |
+
+### Revision-comparison requirement
+
+- Previous draft/version to compare after substantial revision: exact path / `not applicable — first complete draft`
+- Material that must not be generalized or lost during revision:
+- Paragraphs changed by a Silent Edit must be reread for new loss of voice, specificity, causality, uncertainty or character ownership: required / not applicable
+
+### Audit closure rule
+
+The audit may not close on `Anti-AI: pass`, `filter read`, `no issues`, or equivalent unsupported wording. It must complete the evidence-based receipt in `templates/AUDIT_TEMPLATE.md`. An explicit user waiver counts only when it names this receipt requirement for this chapter; general prose approval does not silently waive it.
 
 ## Pre-draft prose receipt
 
@@ -132,6 +177,8 @@ Rules:
 - [ ] Every relationship movement lists behavior, not label.
 - [ ] Every exposition/backstory insertion is triggered by front-story object, question, pressure or consequence.
 - [ ] Unsupported telling is treated as a blocker.
+- [ ] Anti-AI risks are chapter-specific and name trigger, protected material and post-draft inspection target.
+- [ ] Universal and targeted Anti-AI audit handoff is complete.
 
 ## Sequential draft verification passes
 
@@ -140,7 +187,7 @@ Run after the factual scene sequence exists and before the draft is handed over.
 1. **Source and continuity pass:** transcript/source obligations, chapter plan, mini delta, event tiles, ledger, current state and open threads. Check order, agency, knowledge, material facts and chapter boundary.
 2. **Character and relationship pass:** Mielle dossier/state, each present character dossier/state and relationship state. Check Mielle personality, voice, gear, drawbacks, constraints/geasa where present, first-impression-underestimation, action, speech, reactions, social distance and what no one can know.
 3. **Mechanics, Holmes and combat pass:** Power Guide and exact modules, Holmes Engine, Combat Rules and pre-check. Check capabilities, non-use decisions, physical possession, inference limits, tactical claims, evasion, injury/no-hit results, damage, resistance and future-combat leakage.
-4. **Prose and voice pass:** prose system, Mielle prose guide, Mielle voice guide, chapter voice pass and Anti-AI filter. Rewrite only expression, rhythm, evidence support, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue.
+4. **Prose and voice pass:** prose system, Mielle prose guide, Mielle voice guide, chapter voice pass and Anti-AI filter. Rewrite only expression, rhythm, evidence support, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue. Record changed paragraphs for the later Anti-AI receipt instead of declaring a generic pass.
 
 ## Read receipt
 
@@ -155,5 +202,6 @@ Run after the factual scene sequence exists and before the draft is handed over.
 - [ ] Non-combat material consequences are present or explicitly not applicable before drafting.
 - [ ] Decision-to-authority check has a passing row for every conflict-prone chapter fact.
 - [ ] Pre-draft prose receipt passes, including unsupported telling as a blocker.
+- [ ] Anti-AI pressure map names chapter-specific risks, universal clusters, targeted clusters and protected material.
 - [ ] Sequential draft verification passes are pending / complete:
 - [ ] No source is missing.
