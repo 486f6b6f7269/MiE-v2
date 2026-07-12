@@ -8,6 +8,7 @@ Read it with:
 
 - `workflow/00_WORKFLOWS.md`;
 - `workflow/02_CHARACTER_DOSSIER_APPLICATION_WORKFLOW.md`;
+- `workflow/03_PLANNING_OBLIGATION_LEVELS.md`;
 - `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`;
 - `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`;
 - `templates/CHAPTER_LOADOUT_TEMPLATE.md`;
@@ -20,31 +21,50 @@ Opening a governing file is not application. Copying a rule into a loadout is no
 
 Every draft and audit must leave an inspectable chain:
 
-> rule → trigger → draft evidence → result → correction or leave-alone reason → second-order reread.
+> authority and obligation level → trigger → draft evidence → result → correction or leave-alone reason → second-order reread.
 
-For character dossiers, the chain extends through current state and consequence:
+For required/result-bearing character applications, the chain extends through current state and consequence:
 
-> stable dossier → approved-event/current-state context → scene trigger → character-owned expression → material or restrictive consequence → removal/replacement test.
+> stable dossier → approved-event/current-state context → scene trigger → character-owned expression → productive consequence or restrictive boundary → removal/replacement test.
+
+For meaningful witnesses:
+
+> approved knowledge → direct evidence or line of sight → reasonable conclusion boundary → later relevance.
+
+For optional texture:
+
+> natural trigger → character-specific expression → ownership/knowledge safety → cumulative coverage check.
+
+`workflow/03_PLANNING_OBLIGATION_LEVELS.md` controls how all receipts interpret `required`, `material`, `active`, removal, replacement, severity and blockers.
 
 ## Before prose
 
-The Chapter Loadout must complete an execution-system applicability and audit handoff.
+The Chapter Loadout must complete:
 
-For each substantial scene, it must identify:
+- obligation-strength preservation;
+- decision-to-authority reconciliation;
+- execution-system applicability and audit handoff;
+- character-presence classification;
+- Anti-AI pressure map.
 
-- the Prose System material changes and evidence paths that will need verification;
+For each substantial scene, identify:
+
+- Level 1–3 material changes and evidence paths;
+- Level 4 craft targets and the actual pattern the audit should inspect;
+- Level 5 free execution that must not be frozen;
 - whether the Mielle Prose Style Guide applies;
 - whether Holmes applies under its broad social, domestic, tactical and uncertainty scope;
 - whether Combat Rules and a combat pre-check apply;
-- which decision-relevant characters require Character Voice evidence;
-- which decision-relevant characters require complete Character Dossier Application evidence;
-- which physically present characters are intentionally background;
-- the stable dossier phase, current approved-event residue, existing ties, practical competence and knowledge/spoiler boundary relevant to each decision-relevant character;
-- the protected facts, voice features, uncertainty, agency and physical mechanisms that revision must not damage.
+- which characters are required/result-bearing;
+- which characters are meaningful witnesses;
+- which characters have optional texture lanes;
+- which characters are intentionally background;
+- stable dossier phase, current approved-event residue, existing ties, practical competence and knowledge/spoiler boundary for required applications;
+- protected facts, voice features, uncertainty, agency and physical mechanisms that revision must not damage.
 
 `Holmes: not applicable` is invalid merely because no power, formal mystery or deduction speech appears.
 
-A physically present character is not automatically decision-relevant. Do not create a line, reaction or dossier trait merely to fill a cast row.
+Physical presence is not required participation. A line in a prior draft does not establish causal necessity.
 
 ## During drafting
 
@@ -52,59 +72,80 @@ The four sequential passes remain separate.
 
 ### Factual and continuity pass
 
-Build permitted facts, causal order, ownership, knowledge, objects and consequences.
+Build Level 1–3 permitted facts, causal order, ownership, knowledge, objects, mechanics and consequences.
+
+Do not surface Level 4–5 planning fields merely to prove they were read.
 
 ### Character and relationship pass
 
-Read each decision-relevant dossier one at a time, then reconcile it with event tiles, the knowledge ledger, relationship state and current character-state files where they exist.
+For required/result-bearing characters:
 
-Record:
+- reconcile stable dossier with event tiles, ledger, relationship state and current character state;
+- preserve current phase and later-earned limits;
+- write from immediate attention and want;
+- use practical competence where the required result depends on it;
+- preserve source-owned ties and tasks;
+- record productive consequence or restrictive boundary;
+- preserve owned source action and result.
 
-- current phase and later-earned traits that must not leak;
-- immediate attention and want;
-- pressure behavior;
-- practical competence or restrictive boundary;
-- existing ties and task before Mielle;
-- representative lines, actions or silences for the Voice Pass;
-- a productive or restrictive consequence for the Character Dossier Application receipt;
-- intentionally background characters who require no manufactured beat.
+For meaningful witnesses:
 
-Do not force every present character to speak or react.
+- preserve position, evidence access, memory and conclusion limits;
+- allow silence.
+
+For optional texture:
+
+- use a natural trigger;
+- keep it character-specific and proportionate;
+- stop when its function lands;
+- do not turn it into equal cast coverage.
+
+For background:
+
+- do not manufacture a beat.
 
 ### Mechanics, Holmes and combat pass
 
 For each applicable scene:
 
-- compare the draft with the Holmes scene map;
-- record major combat action chains, no-hit/injury chains and pressure-wave execution;
-- return any conflict in power, agency, outcome or knowledge to the governing artifact.
+- compare the draft with Holmes and combat maps;
+- record major action chains, no-hit/injury chains and pressure-wave execution;
+- preserve Level 1–3 mechanics, ownership and outcomes;
+- allow valid Level 4–5 tactical staging variation;
+- return any real conflict to the governing artifact.
 
 ### Prose and voice pass
 
 Record:
 
 - substantial paragraphs changed;
-- material claims whose evidence was added, restored or removed;
+- Level 1–3 claims whose evidence was added, restored or removed;
 - scene-entry, rhythm, POV and ending decisions;
-- dialogue lines or attached actions changed for voice;
-- dossier-specific practical actions, mistakes, silences or limits changed;
-- protected roughness or user-approved register deliberately left alone.
+- dialogue or attached actions changed for voice;
+- required dossier actions, mistakes, silences or limits changed;
+- optional texture added, removed or compressed;
+- protected roughness or user-approved register deliberately left alone;
+- Level 4–5 choices deliberately kept free.
 
 Do not declare any application receipt complete during drafting. Drafting records the handoff; audit verifies it.
 
 ## Audit
 
-The audit must complete every applicable receipt in `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`:
+The audit must begin with obligation-level compliance before executing prose diagnostics.
+
+Complete every applicable receipt in `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`:
 
 1. Prose System receipt for every substantial scene;
 2. Mielle Prose Style Guide receipt for every substantial Mielle-lens scene;
-3. Holmes receipt for every scene where observation or interpretation changes action, silence, route, preparation, care, suspicion, questioning, disclosure, withholding or response;
+3. Holmes receipt for every scene where observation or interpretation changes behavior;
 4. Combat receipt for every scene requiring a combat pre-check;
-5. Character Voice Pass receipt for every decision-relevant speaker or character whose action, silence, reaction or witness state affects the scene.
+5. Character Voice Pass receipt for required speakers and optional texture under voice review.
 
-The audit must also complete a separate Character Dossier Application receipt from `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md` whenever a canon character is decision-relevant.
+Complete a separate Character Dossier Application receipt whenever canon characters are required/result-bearing, meaningful witnesses or optional texture participants that need chapter-level review.
 
-The dossier receipt must verify:
+### Required/result-bearing audit
+
+Verify:
 
 - stable phase;
 - current approved-event state;
@@ -112,25 +153,48 @@ The dossier receipt must verify:
 - pressure behavior;
 - practical competence or restrictive boundary;
 - knowledge and spoiler limit;
-- material consequence;
-- removal test;
-- replacement test;
+- productive consequence or protected boundary;
+- removal and replacement tests;
 - prohibited reduction;
 - revision comparison and second-order reread where applicable.
 
-The audit must use local prose evidence. Planning fields alone do not pass.
+### Meaningful witness audit
 
-A voice-accurate but causally unnecessary line may pass the Voice Pass and fail Character Dossier Application.
+Verify:
+
+- direct evidence access;
+- reasonable conclusion;
+- unsupported conclusion blocked;
+- later relevance;
+- silence allowed.
+
+### Optional texture audit
+
+Verify:
+
+- natural trigger;
+- character-specific expression;
+- ownership and knowledge safety;
+- no repeated function;
+- no cumulative cast coverage;
+- no false promotion into required status.
+
+Local prose evidence is required. Planning labels alone do not pass.
+
+A voice-accurate but causally unnecessary line may be valid optional texture. It fails only when it claims required status, steals ownership, leaks knowledge, flattens voice, repeats a completed function or contributes to a demonstrated structural cluster.
 
 ## Revision
 
 After revision:
 
 - compare representative before/after passages;
-- update every affected receipt;
-- rerun dossier removal and replacement tests;
-- reread changed paragraphs for lost evidence, voice flattening, unsupported certainty, broken physical cause, transferred agency, removed practical competence, leaked later maturity, weakened existing ties, register seams and new Anti-AI patterns;
-- leave unaffected receipts unchanged only when their cited evidence remains intact.
+- distinguish lost Level 1–3 facts from equivalent wording, editorial gain/loss and neutral execution;
+- update affected receipts;
+- rerun removal/replacement tests for required/result-bearing beats;
+- recheck meaningful witness boundaries;
+- recheck optional texture cumulatively;
+- reread changed paragraphs for lost evidence, voice flattening, unsupported certainty, broken cause, transferred agency, removed required competence, leaked later maturity, weakened ties, register seams and new Anti-AI patterns;
+- confirm that no Level 4–5 choice was promoted into a new blocker.
 
 ## Blockers
 
@@ -142,23 +206,34 @@ Audit closure and chapter approval are blocked when any applicable receipt is:
 - missing local draft evidence;
 - missing required version comparison;
 - waiting for a second-order reread;
-- using style repair to hide a canon, agency, knowledge, relationship or mechanics conflict.
+- using style repair to hide a canon, agency, knowledge, relationship or mechanics conflict;
+- missing obligation-level preservation.
 
-They are also blocked when a decision-relevant character:
+They are also blocked when:
 
-- is supported only by a plausible line or voice label;
-- has no productive or restrictive consequence;
-- can be removed without material change and was not intentionally background;
-- can be replaced by another present character without justification;
-- loses approved-event residue or existing ties to become only a reaction to Mielle;
-- ignores natural practical competence;
-- leaks later-canon knowledge, maturity or relationship state;
-- receives a compulsory beat only for cast coverage.
+- a required/result-bearing character is supported only by a plausible line or voice label;
+- a required application has no productive consequence or restrictive boundary;
+- required ownership fails removal or replacement without reclassification or justification;
+- approved-event residue or existing ties disappear;
+- practical competence required for the result is ignored;
+- later-canon knowledge, maturity or relationship state leaks backward;
+- all present characters receive compulsory beats;
+- optional texture accumulates into a demonstrated roll call, repetition or flattened-dialogue cluster;
+- the audit treats a removable optional line as automatically superficial;
+- Level 4–5 divergence is called a blocker without demonstrated Level 1–3 damage.
 
-An explicit user waiver must name the specific receipt and chapter. General approval of the prose does not silently waive it.
+The following do not block by themselves:
+
+- meaningful witness silence;
+- background presence without a beat;
+- removable optional texture;
+- unused competence without a natural/result-bearing trigger;
+- equivalent wording or minor staging variation.
+
+An explicit user waiver must name the specific receipt and chapter. General approval of prose does not silently waive it.
 
 ## Approved chapters
 
 Do not retroactively invalidate approved chapters solely because they predate this workflow.
 
-If an approved chapter is materially revised, apply all receipts affected by that revision. Existing approved facts remain authority unless the user explicitly reopens them.
+If an approved chapter is materially revised, apply all receipts affected by the revision and preserve approved facts as authority unless the user explicitly reopens them.
