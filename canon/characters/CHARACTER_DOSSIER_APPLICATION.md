@@ -17,17 +17,19 @@ A dossier is not only a voice reference. It governs the character as a complete 
 - contact pattern with Mielle;
 - current approved-event residue.
 
-The Character Voice Pass remains required, but it proves only voice expression and conversation structure. This standard proves that the whole dossier changed the scene.
+The Character Voice Pass remains required, but it proves only voice expression and conversation structure. This standard proves that the whole dossier shaped the scene where the character owns a decision, result, pressure change or meaningful witness state.
+
+Read `workflow/03_PLANNING_OBLIGATION_LEVELS.md` before turning a dossier suggestion into a required beat.
 
 ## Governing principle
 
 A file path, quoted trait, plausible line or voice label does not prove application.
 
-Valid application requires a traceable chain:
+For a result-bearing character action, valid application requires a traceable chain:
 
-> dossier rule → current-state/event context → scene trigger → character-owned choice, action, silence, mistake or limit → material consequence → removal test.
+> dossier rule → current-state/event context → scene trigger → character-owned choice, action, silence, mistake or limit → consequence or protected boundary.
 
-The application must be specific enough that another reviewer can identify what would change if the character were replaced or removed.
+Optional low-stakes dialogue may exist for rhythm, texture or relationship color without carrying a material result. It must still be character-specific, knowledge-safe and non-disruptive, but it does not become mandatory merely because it appears in planning.
 
 ## Stable dossier versus current state
 
@@ -40,24 +42,23 @@ The dossier defines durable character logic and the correct campaign phase. Curr
 - a current character-state file when one exists;
 - the latest approved chapter and recent story chain.
 
-A dossier must never be treated as if the character has not experienced approved MiE events. Conversely, an event tile must not overwrite the durable limits and failure modes in the dossier.
+A dossier must never be treated as if the character has not experienced approved MiE events. Conversely, an event tile must not overwrite durable limits and failure modes in the dossier.
 
-## Applicability
+## Presence classes
 
-Apply this standard to every decision-relevant character who:
+Classify physically present characters before assigning requirements:
 
-- owns a source action or result;
-- speaks or chooses meaningful silence;
-- changes position, custody, risk, knowledge, pressure or relationship state;
-- witnesses something that can affect later behavior;
-- independently acts, refuses, redirects, protects, tests, withdraws or makes a mistake;
-- is materially affected even without speaking.
+- **decision-relevant:** owns a choice, result, pressure change, refusal, test or meaningful witness consequence;
+- **source/result owner:** must visibly retain an authorized action or accomplishment;
+- **meaningful witness:** may need knowledge control without needing a line;
+- **texture participant:** may contribute one optional character-specific beat that changes no hard result;
+- **background:** physically present without compulsory surface prose.
 
-A physically present background character is not automatically decision-relevant. Do not manufacture a beat merely to fill a row.
+Do not manufacture a beat merely to fill a row. Do not classify every speaker as decision-relevant after the fact merely because the draft gave them a line.
 
 ## Required planning record
 
-For each decision-relevant character, planning must identify:
+For each decision-relevant or source/result-owning character, planning must identify:
 
 | Field | Required question |
 |---|---|
@@ -70,12 +71,14 @@ For each decision-relevant character, planning must identify:
 | Knowledge/spoiler boundary | What do they not know, and what author knowledge must not leak? |
 | Response logic | Why does this specific trigger produce this reaction rather than a generic one? |
 | Owned expression | What line, action, silence, refusal, position or object handling belongs to them? |
-| Material consequence | What changes because they are present? |
+| Consequence or protected boundary | What changes, or what invalid result is prevented, because they are present? |
 | Prohibited reduction | Which dossier failure mode or chapter-function caricature must be prevented? |
+
+Texture participants need only a concise note naming the natural trigger, voice ownership and why the beat does not alter authority or create coverage pressure.
 
 ## Consequence test
 
-Every active dossier application must produce either a productive consequence or a restrictive consequence.
+Every **required** dossier application must produce either a productive consequence or a restrictive consequence.
 
 ### Productive consequence
 
@@ -95,14 +98,26 @@ The character changes at least one of:
 The dossier blocks a tempting but invalid result and leaves a concrete replacement or omission. Examples:
 
 - Jester's care blocks counselor-clean speech and instead produces a direct offer with a small complication;
-- Fjord's caution blocks automatic command and instead produces one narrowing question;
-- Beau's early phase blocks polished investigation and instead produces a messy test or decision to stop pressing;
-- Caleb's protection of Nott blocks open curiosity and instead changes his position, question or silence;
-- Nott's fear and acquisitiveness block pure comic relief and instead produce a costly choice, watchfulness or object-focused test;
+- Fjord's caution blocks automatic command and instead produces one narrowing question or purposeful silence;
+- Beau's early phase blocks polished investigation and instead produces a messy test or a decision to stop pressing;
+- Caleb's protection of Nott blocks open curiosity and instead changes position, timing, a compact question or silence;
+- Nott's fear and acquisitiveness block pure comic relief and instead produce watchfulness, an object-focused test, or frightened courage;
 - Molly's respect for self-invention blocks trauma extraction and instead produces an invitation, role or dignity-preserving performance;
 - Yasha's sparse speech blocks silent-statue treatment and instead produces a practical act, brief judgment or chosen withdrawal.
 
-A trait mention, accent, joke, gesture or dossier quotation is not a consequence by itself.
+A trait mention, accent, joke, gesture or dossier quotation is not a required consequence by itself.
+
+## Optional texture beats
+
+An optional beat may remain even when removing it would not alter the material result, provided that:
+
+- it belongs specifically to the character;
+- it does not carry a fact, decision or ownership the character does not possess;
+- it does not repeat a function already completed;
+- it does not force equal cast participation;
+- it improves local rhythm, relationship texture or pressure rather than serving checklist visibility.
+
+Audit optional beats as craft choices, not automatic blockers. A cluster of individually acceptable optional beats may still fail when it creates a roll call, interrogation rhythm or repeated joke lane.
 
 ## Removal and replacement tests
 
@@ -110,9 +125,14 @@ A trait mention, accent, joke, gesture or dossier quotation is not a consequence
 
 Ask:
 
-> If this character and the cited dossier logic were removed, would the scene's action, pressure, choice, knowledge, object state, timing or outcome remain materially unchanged?
+> If this character or beat were removed, what changes in action, pressure, choice, knowledge, object state, timing, relationship distance or outcome?
 
-If yes, the use is superficial unless the character is intentionally background and removed from the decision-relevant record.
+Interpret the result by obligation level:
+
+- a required/result-bearing beat that changes nothing fails and returns to planning;
+- a meaningful witness may pass without a line if knowledge control remains;
+- an optional texture beat may be removable and still pass locally, but must be checked for cumulative coverage;
+- background presence needs no surface justification.
 
 ### Replacement test
 
@@ -120,7 +140,7 @@ Ask:
 
 > Could another present character perform the same line, action and consequence unchanged?
 
-If yes, revise or explain the unique context that assigns it to this character. A voice-shaped sentence is not enough when the practical role is interchangeable.
+For required/result-bearing beats, a yes answer requires ownership justification or revision. For optional texture, interchangeability is a warning about flattened voice, not an automatic story blocker.
 
 ## Existing-ties test
 
@@ -131,11 +151,11 @@ Before centering a dossier on Mielle, identify what the character was already pr
 - Molly and Yasha have carnival duties and an existing division of social/practical labor;
 - every later cast member retains source-owned relationships, goals and obligations.
 
-A character must not become only a reaction surface for Mielle. Their Mielle contact pattern must interact with, not replace, their existing ties and immediate task.
+A character must not become only a reaction surface for Mielle. Their Mielle contact pattern must interact with, not replace, existing ties and immediate tasks.
 
 ## Practical competence test
 
-At least one planning or audit row must consider what the dossier says the character can actually do outside dialogue.
+When a scene offers a natural practical lane, consider what the dossier says the character can do outside dialogue.
 
 Examples include:
 
@@ -147,7 +167,7 @@ Examples include:
 - crowd work, card reading, spectacle, minor cons, blades and dignity protection for Molly;
 - carrying, weapon custody, guarding, fairness, strength and concrete task completion for Yasha.
 
-Do not prove a dossier only through dialogue when the scene gives the character a natural practical lane.
+Do not force a practical action when silence or background presence is more natural. The test prevents dialogue-only reduction; it does not require a competence demonstration in every scene.
 
 ## Knowledge and spoiler-rail test
 
@@ -160,7 +180,7 @@ A correct voice with leaked later-canon maturity, hidden biography or settled in
 
 ## Physical-habit test
 
-A physical habit passes only when it affects position, attention, action, timing, social pressure or object handling. Decorative repetition fails.
+A physical habit belongs when it affects position, attention, action, timing, social pressure or object handling. Decorative repetition is an editorial issue, not automatically a canon blocker.
 
 Do not assign every dossier habit to every scene. Inactive is better than forced.
 
@@ -180,16 +200,16 @@ Do not copy a growing list of events into every stable dossier.
 
 ## Audit receipt
 
-The completed receipt must use `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md` and include local draft evidence.
+The completed receipt must use `templates/CHARACTER_DOSSIER_APPLICATION_TEMPLATE.md` and include local draft evidence for required/result-bearing applications.
 
 A valid receipt must show:
 
 - stable dossier anchor;
 - current-state/event anchor;
 - owned expression;
-- practical or restrictive consequence;
+- practical consequence or restrictive boundary for required beats;
 - knowledge/spoiler boundary;
-- removal and replacement results;
+- removal and replacement results interpreted by obligation level;
 - existing ties preserved;
 - prohibited reduction avoided or identified;
 - revision comparison and second-order reread where applicable.
@@ -198,22 +218,23 @@ A valid receipt must show:
 
 Audit closure and chapter approval are blocked when:
 
-- a decision-relevant character has only a voice label or file path;
-- a character has a plausible line but no material or restrictive consequence;
+- a required decision-relevant character has only a voice label or file path;
+- a required/result-bearing beat has no consequence or protected boundary;
 - every present character is given a beat only to prove coverage;
-- practical competence is ignored despite a natural scene opening;
+- practical competence is ignored when the planned result depends on it;
 - approved-event residue is absent or contradicted;
 - later-canon knowledge, maturity or relationship state leaks backward;
 - a Mielle contact pattern replaces the character's existing ties and task;
-- removal leaves the scene materially identical without an intentional background classification;
-- replacement by another character leaves action and consequence unchanged without justification;
+- a required/result-bearing beat fails removal or replacement without justification;
 - a revision flattens character-specific roughness, error, timing or ownership;
 - the receipt is generic enough to fit another chapter unchanged.
+
+An optional removable line is not a blocker by itself. It becomes a craft issue only when local evidence shows interchangeability, repetition, lost pressure or cumulative cast coverage.
 
 An explicit user waiver applies only when it names the Character Dossier Application receipt and the specific chapter. General prose approval does not silently waive it.
 
 ## Proportionality
 
-Use one row per decision-relevant character per substantial scene or one chapter-level row when the same pressure and consequence remain stable. Background presence may be recorded once.
+Use one row per required decision-relevant character per substantial scene or one chapter-level row when the same pressure and consequence remain stable. Group texture participants and meaningful witnesses where useful. Background presence may be recorded once.
 
-The goal is causal individuality, not paperwork or forced cast coverage.
+The goal is causal individuality and natural ensemble rhythm, not paperwork or forced cast coverage.
