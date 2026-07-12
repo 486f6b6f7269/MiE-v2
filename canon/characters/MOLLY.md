@@ -76,7 +76,7 @@ The Fletching and Moondrop Traveling Carnival of Curiosities, Gustav, Lestera an
 
 ## Event index
 
-No approved MiE v2 events yet.
+See `continuity/EVENT_INDEX.md` for approved MiE-v2 events and the controlling event tiles that define Molly's current knowledge, memory and posture toward Mielle. Stable dossier logic remains here; approved event residue does not get duplicated into this file.
 
 ## Research basis
 
