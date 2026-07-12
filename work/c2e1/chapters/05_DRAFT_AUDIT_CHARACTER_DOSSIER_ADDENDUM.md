@@ -1,42 +1,47 @@
 # Chapter 05 draft audit — character dossier addendum
 
-## Governing receipt
+## Status
 
-- Character Dossier Application receipt: `work/c2e1/chapters/05_CHARACTER_DOSSIER_APPLICATION.md`
-- Loadout addendum: `work/c2e1/chapters/05_CHARACTER_DOSSIER_LOADOUT_ADDENDUM.md`
-- Scene-card addendum: `work/c2e1/chapters/05_SCENE_CARDS_CHARACTER_DOSSIER_ADDENDUM.md`
-- Governing standard: `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`
+The complete current result now lives in:
 
-This file supplements `work/c2e1/chapters/05_DRAFT_AUDIT.md`. It does not replace its continuity, prose, Holmes, combat, voice or Anti-AI findings.
+- `work/c2e1/chapters/05_DRAFT_AUDIT.md`;
+- `work/c2e1/chapters/05_CHARACTER_DOSSIER_APPLICATION.md`.
 
-## Result
+This addendum remains only as a migration pointer. Its earlier findings that Jester's explicit one-night term and embodied waiting were absent are superseded: the current draft restores both.
 
-`blocker — Character Dossier Application receipt remains open`
+## Current receipt result
 
-The receipt found:
+`blocked — core ownership repaired; removal, replacement and cast-coverage failures remain`
 
-- Jester's explicit one-night term was transferred to Fjord;
-- Jester's embodied waiting/non-coercion evidence regressed into narrator explanation;
-- Beau, Caleb and Nott receive removable dialogue/reaction beats in the shelter exchange;
-- Caleb and Nott's existing pair logic is weakened by information-collection dialogue;
-- Nott's material button interest is expanded into repeated comedy coverage;
-- Beau and Fjord are not allowed to remain quiet after their consequential roles end;
-- the scene structure treats dossier visibility as a cast roll call.
+### Repaired
 
-## Required correction
+- Jester asks once and waits without supplying Mielle's answer.
+- Jester explicitly says `Just tonight`.
+- Mielle owns disclosure, contribution, private desire and threshold entry.
+- Fjord no longer owns the temporary offer term.
 
-Revision must follow the scene-card addendum, then rerun:
+### Still blocking
 
-- stable/current synthesis;
-- productive or restrictive consequence test;
-- removal test;
-- replacement test;
-- existing-ties test;
-- practical-competence test;
-- spoiler/phase check;
-- representative before/after comparison;
+- The required two-day duration is missing from the spoken disclosure.
+- Beau's shelter/button/exit reactions continue after her material contribution.
+- Fjord's valid official-risk lane expands into repeated questions and narrated private interpretation.
+- Caleb's `Was it dry?` currently fails the removal/replacement test.
+- Nott receives pole, trespass, full rat, full button and warning lanes; the object lane is material, but the aggregate becomes comic coverage.
+- Caleb/Nott pair logic is present in position and withdrawal but weakened by sequential information-collection dialogue.
+- The shelter and button sequences remain cast roll calls.
+
+## Required next step
+
+Revise the draft under the main audit, then rerun:
+
+- productive/restrictive consequence tests;
+- removal and replacement tests;
+- existing-ties and practical-competence checks;
+- voice and conversation-structure receipt;
+- Holmes and unsupported-telling checks;
+- Anti-AI revision comparison;
 - second-order reread.
 
 ## Approval state
 
-Chapter 05 remains unapproved. The original audit, this addendum and all other required receipts must close before approval, unless the user explicitly waives the Character Dossier Application receipt for Chapter 05.
+Chapter 05 remains unapproved. This addendum cannot close the audit independently.
