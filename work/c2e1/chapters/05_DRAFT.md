@@ -1,421 +1,291 @@
 # Chapter 05 — Temporary address
 
-The guard behind me had a loose buckle.
+The blood on my cuff had dried into a dark crescent.
 
-It clicked against his breastplate every fourth step, then every third when the street tilted downward. I listened to it because the alternative was listening to the silence walking with us.
+I rubbed it with my thumb as we walked. It had stopped coming off three streets ago. I continued anyway.
 
-Trostenwald had closed around the carnival. Shutters covered most of the windows. A few lamps remained behind glass, too high and too far inside to warm the street. Where people had gathered at the corners, the guards sent them back with a look or a lifted hand. No one asked what had happened beneath the striped canvas. They looked at the dried blood on us and decided they could wait.
+The Crownsguard kept us between two pairs of uniforms, close enough that leaving the route would have required an explanation before it required an escape. Trostenwald had gone quiet around us. Lamps burned behind shutters. People who had found reasons to stand near their doors found different reasons when the guards looked at them.
 
 Jester walked on my right.
 
-There were several ordinary reasons. The guards had arranged us badly. Fjord had taken the outer edge. Beau kept moving ahead and falling back whenever the pace irritated her. Caleb and Nott had become one narrow piece of darkness behind us.
+That was not important.
 
-Jester was simply walking.
+Her sleeve brushed mine when the street narrowed around a handcart.
 
-Her sleeve brushed mine when we avoided a cart wheel left against a wall.
+That was also not important.
 
-Why was I noticing her sleeve? There were guards around us. Blood on our clothes. A town waiting for answers.
+I moved half a step away and nearly walked into Fjord.
 
-Focus, Mielle.
+He looked down at me, then at the amount of road available on my other side.
 
-"Are you okay?" she whispered.
+I moved back.
 
-The guard with the loose buckle looked at us.
+Jester leaned closer. “Are you okay?”
 
-"Yes," I said.
+“I am not injured.”
 
-Jester leaned closer. "Are you sure? Your face is really red. Are you getting sick?"
+“I know. I looked.” Her voice dropped further. “I meant the other kind.”
 
-That made it worse.
+The guard behind us shifted his spear against his shoulder.
 
-"N-no. I'm fine. We should keep moving."
+I looked at the dark mark on my cuff. My hands had been steady after the fight. They were steady now. I did not like either fact.
 
-She glanced at the clasp of my cloak, then at my face. Her mouth opened.
+“I do not know yet,” I said.
 
-Fjord looked over his shoulder.
+Jester’s mouth tightened. She nodded once and did not ask another question while the guards could hear it.
 
-Jester closed it again.
+That should have made it easier to stop noticing her.
 
-This was apparently what restraint looked like on her. It seemed painful.
+It did not.
 
-The street narrowed near a cooper's shop. A post leaned out from the covered front at exactly the height of my sword. I saw it. I adjusted for it. The edge of my cloak caught anyway, and the wood of my sword struck the post with a hollow knock loud enough to turn three heads.
+A cooper had left a broken length of wood beside his shop. I saw the splintered end. I saw the loose corner of my cloak moving toward it. I adjusted.
 
-I stopped before the cloak could pull me backward.
+The cloak caught anyway.
 
-The guard behind me did not.
+My next step pulled the fabric tight across my shoulders. The bokken knocked against the wall, my heel found the edge of the cloak, and the street made a brief, convincing argument for my immediate surrender.
 
-His breastplate touched my backpack. I stepped forward, caught the cloak under my heel, and spent one graceless second deciding which part of myself to rescue first.
+Beau caught my arm before I completed the negotiation.
 
-Beau's hand closed around my elbow before the street did.
+“You saw that, right?” she asked.
 
-"Careful," she said.
+“Yes.”
 
-It sounded like an accusation.
+“And?”
 
-"Thank you." I found my feet and kept my attention on the post. "That pole was really rude."
+“I disagreed with the outcome.”
 
-"Yeah. Looked personal."
+She set me upright. “The ground didn’t care.”
 
-She released me. Her eyes dropped to the wooden sword and stayed there for half a beat. She had watched it break limbs inside the tent. The post had survived without difficulty.
+“It rarely does.”
 
-Nott made a small noise from behind Caleb's coat.
+Jester inspected the piece of wood as though it had behaved dishonorably.
 
-"Maybe poles are her weakness."
+“That was very sneaky,” she whispered.
 
-Caleb considered the post. "The evidence is limited."
+“It was beside the wall before we arrived.”
 
-Fjord looked at the guard, judged that no one intended to stop us over a defeated piece of wood, and faced forward again.
+“Exactly. It had time to plan.”
 
-Jester leaned closer.
+I fixed my cloak and kept walking.
 
-"I do that with doors," she whispered. "Not the sword thing. I don't have a sword. But sometimes the door is very clearly there and then it attacks me."
+Beau released my arm. She glanced once at the bokken at my hip, then at the harmless piece of wood behind us. Whatever comparison occurred stayed on her side of her face.
 
-I looked at her.
+The Nestled Nook came into view before anyone else decided the incident deserved a theory.
 
-She was smiling, but not at me. Not exactly. She had put the embarrassment between us and made herself stand beside it.
+Two lamps hung over the sign. I knew the door, the common room and the table where Jester had purchased breakfast after waiting for me to say yes. I knew there were rooms upstairs because Caleb and Nott had come down from them that morning.
 
-"Do the doors apologize?" I asked.
+Everything beyond that was still somebody else’s building.
 
-"Never. Doors are assholes."
+The guards brought us inside.
 
-The guard's buckle clicked.
+The common room was dim. A lamp had been left near the stairs, and the hearth held enough red light to show the empty tables without warming them. No innkeeper appeared. Either someone had heard the guards approaching and decided we could manage a door alone, or people in Trostenwald had excellent instincts.
 
-I faced forward before my mouth could do anything disloyal.
+One guard looked at Fjord. “You’re staying here?”
 
-The Nestled Nook appeared at the end of the street with two lamps burning over its sign. I knew the entrance. I knew the table where Jester had put food in front of me after asking first. I knew the stairs led somewhere above because Caleb and Nott had come down them that morning. The rest of the building belonged to people who had paid for it.
+“Yes.”
 
-The guards brought us through the door as if delivering a parcel they expected to find unopened later. The common room was mostly dark. Whoever kept the inn had left one lamp burning near the stairs and gone elsewhere.
+The guard looked over the rest of us, stopping on me because the Watchmaster had placed the same answer beside my name.
 
-The first guard looked at Fjord.
+“Stay in Trostenwald,” he said. “Be here when the Watch calls for you.”
 
-"This is where you stay?"
+“We were planning to sleep,” Jester said. “That should keep us very easy to find.”
 
-"It is."
+“Jester,” Fjord said.
 
-The guard's eyes passed over the rest of us and stopped on me.
+“I am helping.”
 
-I stood very still. This had not helped at the carnival. I tried it again anyway.
+The guard did not appear helped. He left anyway.
 
-"Until called," he said. "No trips outside the walls. No disappearing before dawn."
+Boots crossed the threshold. The door shut. Their steps faded down the street.
 
-"We are very tired," Jester said. "Disappearing sounds like too much work."
+Jester turned to me.
 
-"Jester," Fjord said.
+“Where have you actually been sleeping?”
 
-"I am agreeing."
+The question arrived without a softer version attached to it.
 
-The guard studied her, failed to discover whether she had agreed, and left.
+Heat moved up my neck.
 
-The loose buckle went with him. Its clicking crossed the threshold, moved down the street, and finally stopped being the loudest thing I could hear.
-
-The door shut.
-
-No one spoke.
-
-Jester turned before anyone else did.
-
-"Where have you actually been staying?"
-
-Heat climbed from my collar to my ears.
-
-I could have said elsewhere.
-
-I could have said I had an arrangement. It was close enough to the answer I had given the Watchmaster and vague enough to end the conversation.
+I could have said somewhere nearby. I could have called it an arrangement. Both answers would have been true in the way a locked door was still part of a room.
 
 Jester waited.
 
-No second question. No guess supplied for me. Just the first one, sitting there between us.
+She did not guess. She did not look toward Fjord for a better question. She only stood there with her hands at her sides and gave me the unpleasant freedom to decide.
 
-"An abandoned building," I said.
+“An abandoned building,” I said. “For the last two days.”
 
-She blinked.
+Jester blinked.
 
-I adjusted my glasses, though they had not moved.
+I adjusted my glasses. They did not need it.
 
-"Since I entered the city."
+Beau’s eyebrows rose. “Did it have a roof?”
 
-The second fact was worse. It made the first one real enough to count nights inside it.
+“Most of one.”
 
-Beau spoke first.
+“That is not a roof.”
 
-"You were sleeping in a condemned building?"
+“It performed several roof-related duties.”
 
-"I do not know whether it was condemned."
+Beau looked toward the ceiling of the inn, perhaps for comparison.
 
-"Did it have a roof?"
+Fjord rubbed one hand over his jaw. “Then the address the Watch wrote down needs to be true tonight.”
 
-"Most of one." I hesitated. "It was still better than sleeping outside. Probably."
+“Yes,” I said. “That was becoming difficult to avoid.”
 
-Beau stared at me.
+Jester had gone very still.
 
-"That is not the defense you think it is."
+Then she pointed toward the stairs.
 
-"I was not defending it."
+“You can stay in my room. Just tonight, if you want.” She added, “The roof has been extremely reliable so far.”
 
-"Good, because the building is losing."
+There were several reasonable responses.
 
-Fjord's eyes had gone narrow in the practical way they did when a problem refused to stay small.
+I found none of them.
 
-"Was it inside town?"
+“That is kind,” I said at last.
 
-"Yes."
+It sounded too formal. I could not make it less true.
 
-"Could the guard find you there?"
+“I can contribute.”
 
-"Probably." I looked toward the closed door. "But then I would have to explain why I was staying there, and they might remove me, and I would need another place while I learned how this city works."
+I opened the side of my backpack and found the cloth bundle near the top. The four small round pieces pressed against my fingers in their familiar, unhelpful way.
 
-The next question escaped before I could decide whether it was wise.
+I unfolded the cloth over my palm.
 
-"Do you have laws about entering empty buildings?"
-
-"Don't worry," Nott said. "They can only arrest you if they catch you."
-
-She said it with the confidence of someone who had tested the theory.
-
-Fjord breathed out through his nose.
-
-"Then the address in that ledger needs to be true tonight."
-
-Caleb stood near the foot of the stairs with one hand resting lightly against Nott's shoulder. His eyes moved once over my cloak, the backpack, the dirt caught at the hem.
-
-"Was it dry?" he asked.
-
-"Enough."
-
-He nodded and did not ask where it was.
-
-Nott looked around his coat.
-
-"Were there rats?"
-
-"One."
-
-"Only one?"
-
-"Only one that objected to me."
-
-Her head tilted. "Did you name it?"
-
-"No."
-
-"That is why it objected."
-
-"Do I have to name every rat that lives with me?"
-
-Nott puffed out her chest and planted both hands on her waist.
-
-"Of course."
-
-Caleb pressed a hand against her shoulder. She retreated several inches, though not entirely.
-
-Jester had not moved.
-
-The brightness in her face had narrowed into attention.
-
-"And you didn't have food," she said.
-
-"I was starting to solve that."
-
-"It was not going very well."
-
-My face grew hotter.
-
-"I was trying my best."
-
-"I know."
-
-She said it softly enough that the answer did not become another joke for everyone to hold.
-
-Then she looked at the stairs and back at me.
-
-"You can stay with me. Just tonight, if you want. I have space, and you are small, and I don't kick very much unless I have a really exciting dream. Fjord says I kick, but he was in the other bed and therefore cannot be considered an unbiased witness."
-
-The sentence went through every defense I had prepared and found none of them facing the right direction.
-
-"You kicked the wall," Fjord said.
-
-"The wall was very close to the bed."
-
-"It was a wall."
-
-"Exactly. Suspicious."
-
-I put one hand into the side of my backpack. The four small round objects were wrapped in a piece of cloth near the top. I knew where they were by touch.
-
-Jester watched my hand disappear.
-
-"I have money," I said. "Maybe I can pay for the help."
-
-I unfolded the cloth in my palm.
-
-Four pieces. Still small. Still capable of being worth almost anything to someone who knew what they were.
-
-"I do not know whether this is enough. Or too much. But I can contribute."
+“I still do not know what these are worth,” I said. “But I have money.”
 
 Jester leaned over my hand.
 
-"That one is a copper. That one too. That one is also a copper."
+“That one is a copper.” She touched the next. “Copper. Also copper.”
 
-She touched the last piece with one blue fingertip.
+Her fingertip stopped above the last piece.
 
-"And this one is a button."
+“And that is a button.”
 
 I looked down.
 
-The last piece had a hole through its center.
+There was a hole through its center.
 
-It had possessed the same confidence as the other three.
+This seemed like information the object could have provided earlier.
 
-"I see."
+“Oh,” I said.
 
-"Do you?" Beau asked.
+Nott appeared beside Caleb’s coat without crossing any visible distance between them.
 
-"I see it now."
+“That is a good button.”
 
-Nott slipped out from behind Caleb far enough to inspect the evidence.
+I closed my fingers around it.
 
-"It is a nice button."
+“It is mine.”
 
-"Thank you."
+“I was admiring it.”
 
-"I might steal it."
+“You moved closer.”
 
-I closed my fingers around the cloth. "It's mine, though."
+“My admiration is very physical.”
 
-"Nott," Caleb said.
+“Nott,” Caleb said.
 
-"I said might. That is honesty."
+She looked up at him.
 
-I returned the bundle to the backpack.
+“Admire it from the stairs.”
 
-"You don't have to pay me," Jester said.
+Nott considered the instruction, the button and me. “Keep it somewhere difficult.”
 
-There was dried dirt along the side of one finger and a faint smear of dark blood near her wrist. She did not look embarrassed by the offer. She did not look as though she had done anything unusual.
+“I will.”
+
+Caleb’s hand settled at the back of her shoulder. She allowed herself to be redirected toward the stairs, though she continued looking at my closed fist until the angle made it inconvenient.
+
+I wrapped the three coppers and the button again.
+
+“You don’t have to pay me,” Jester said.
+
+“I would prefer not to accept another thing from you without giving anything back.”
+
+“You gave me an answer.”
+
+“That was not payment.”
+
+“No. It was an answer.” She frowned at the distinction, then seemed to decide it did not need to be solved. “Keep the coppers. And the button. Especially the button.”
+
+I put the bundle away.
 
 I wanted to be her friend.
 
-The thought arrived without permission and with none of the useful instructions that usually came with a fact. It did not explain how to become one. It did not tell me whether she wanted the same thing.
+Unfortunately, that did not explain what a person said after being offered half a room by someone she had known for less than a day.
 
-It only made refusing harder.
+“I do not want to inconvenience you,” I said.
 
-"I do not want to become an annoyance," I said.
+“You aren’t.”
 
-Jester frowned. "You're not annoying me."
+“You cannot know that yet.”
 
-There were several objections available. I could not make any of them reach my mouth.
+Jester smiled. “Then I can find out tonight.”
 
-Fjord shifted his weight near the stairs.
+My face became warm again.
 
-"Staying where the Watch knows to find you is the safest choice," he said. "Tomorrow can remain tomorrow."
+Fjord looked toward the stairs. Beau had already begun rubbing at a dark mark on her forearm with the edge of her sleeve.
 
-Beau folded her arms.
+Neither of them offered permission. Neither withdrew the offer for Jester.
 
-"And the abandoned building can survive one evening without you defending its honor."
+Caleb and Nott disappeared into the upper corridor. Fjord followed after a quiet goodnight. Beau went after him, muttering that she wanted the carnival off her skin before anybody asked her another question.
 
-"Its honor was already limited."
+That left Jester beside the stairs and me beside the door.
 
-"Good. Progress."
+The distance was not large. It was enough to keep the choice mine.
 
-Caleb looked down at Nott. She looked back at him through the mask.
+“Only tonight,” I said.
 
-"We should go upstairs," he said.
+“Only tonight,” Jester agreed. “Tomorrow can be a separate problem.”
 
-Nott pointed one small finger at me before following him.
+I nodded.
 
-"Keep the button hidden."
+She started upstairs. I followed.
 
-I put a hand over the side of my backpack.
+At the landing, the corridor bent around a thick support beam. Two doors had already closed. A third stood open farther down, with lamplight across the floor and Fjord’s voice briefly audible before Beau told him she was not discussing anything until she had water and a clean shirt.
 
-"I will take precautions."
+Jester stopped at a smaller door near the end.
 
-"Good. There are thieves everywhere."
+“Do you need anything from the abandoned building?” she asked.
 
-Caleb guided her toward the stairs without looking at any particular thief.
-
-Fjord waited until they had passed, then gave Jester a look containing at least three practical warnings and one tired acceptance. Jester smiled at him with complete innocence.
-
-He did not believe it.
-
-He went upstairs.
-
-Beau followed more slowly. At the first step she looked back at me.
-
-"If the building collapses while you're gone, it wasn't because it missed you."
-
-"I will try to endure the guilt."
-
-"There you go."
-
-She disappeared after Fjord.
-
-"So," Jester said, turning toward the stairs. "Do you need anything from the abandoned building?"
-
-"No."
+“No.”
 
 The answer came too quickly.
 
-She looked back.
+She waited.
 
-I adjusted it.
+“Nothing I need tonight,” I amended.
 
-"Nothing that cannot remain there until the guards decide we are allowed to move freely."
+“Okay.”
 
-"Okay. Do you have sleeping clothes?"
+Her hand rested on the latch. “There is one bed. It is not a very impressive bed, but we are both small.”
 
-I could retrieve something suitable from the backpack when we were alone.
+“I can sleep on the floor.”
 
-"Yes."
+“No.”
 
-"Do you snore?"
+“That was immediate.”
 
-"I do not know."
+“You already slept in the abandoned-building version of the floor. The inn floor does not get a turn.”
 
-"That's exciting."
+“I do not think floors compete.”
 
-"Is it?"
-
-"Yes. It could be funny."
-
-She started up the stairs.
-
-I followed without striking anything else.
-
-At the upper landing, the corridor divided around a support beam. Caleb and Nott had already vanished behind one of the closed doors. Fjord's voice carried faintly from farther down, followed by Beau telling him she was not going to discuss anything until she had washed carnival off her arms.
-
-Jester stopped at a door near the end.
-
-Her hand rested on the latch.
-
-"You can take the bed if you want," she said. "Or we can both take parts of it, which is probably easiest. I can make a blanket place on the floor too, but you are not sleeping there because you already did the abandoned-building version and it sounded bad."
-
-"I can take the floor."
-
-"No."
-
-The answer was immediate.
-
-I stared at the latch instead of her face.
-
-"A portion of the bed would be acceptable," I said. "Provided your kicking remains within the limits you described."
-
-"I described no limits."
-
-"That is true."
+“Then it won’t mind losing.”
 
 She opened the door.
 
-Warm lamplight reached the corridor. A dress lay across the back of a chair. A travel bag sat open near the wall with paper, string and the corner of a sketchbook visible inside. The bed was not large. It was also dry, intact and located in a building where the roof had made a complete commitment.
+Warm lamplight reached the corridor. A blue dress hung over the back of a chair. A travel bag sat open beside the wall, with paper, string and the corner of a sketchbook visible inside. The bed was narrow, but not narrow enough to make the problem impossible. The ceiling above it was dry and fully present.
 
-Jester stepped aside.
+Jester stepped inside, then moved away from the doorway.
 
-She did not pull me in or repeat the offer. She left enough space for me to decide again now that the threshold was real.
+She did not take my hand. She did not repeat the invitation. She left the entrance open and looked toward the bed as if giving me somewhere else to look.
 
-My hand found the strap of my backpack. My sword rested against my hip. Three copper coins and one button waited inside a piece of cloth.
+My fingers tightened around the strap of my backpack. The bokken rested against my hip. Three copper coins and one button waited inside the cloth bundle.
 
-I stepped past her.
+I crossed the threshold.
 
-"Thank you," I mumbled.
+“Thank you,” I said.
 
-"You're welcome."
+Jester’s smile softened. “You’re welcome.”
 
-The door closed behind us.
+The door closed behind me.
