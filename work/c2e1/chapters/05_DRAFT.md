@@ -110,7 +110,7 @@ I could have said somewhere nearby. I could have called it an arrangement. Both 
 
 Jester waited.
 
-She did not guess. She did not look toward Fjord for a better question. She only stood there with her hands at her sides and gave me the unpleasant freedom to decide.
+She did not guess. She did not look toward Fjord for a better question. She stood with her hands at her sides and let me decide.
 
 “An abandoned building,” I said. “For the last two days.”
 
@@ -220,19 +220,15 @@ Unfortunately, that did not explain what a person said after being offered half 
 
 “You cannot know that yet.”
 
-Jester smiled. “Then I can find out tonight.”
+“If you become annoying, I’ll tell you.”
+
+“That is fair.”
 
 My face became warm again.
-
-Fjord looked toward the stairs. Beau had already begun rubbing at a dark mark on her forearm with the edge of her sleeve.
-
-Neither of them offered permission. Neither withdrew the offer for Jester.
 
 Caleb and Nott disappeared into the upper corridor. Fjord followed after a quiet goodnight. Beau went after him, muttering that she wanted the carnival off her skin before anybody asked her another question.
 
 That left Jester beside the stairs and me beside the door.
-
-The distance was not large. It was enough to keep the choice mine.
 
 “Only tonight,” I said.
 
@@ -276,9 +272,7 @@ She opened the door.
 
 Warm lamplight reached the corridor. A blue dress hung over the back of a chair. A travel bag sat open beside the wall, with paper, string and the corner of a sketchbook visible inside. The bed was narrow, but not narrow enough to make the problem impossible. The ceiling above it was dry and fully present.
 
-Jester stepped inside, then moved away from the doorway.
-
-She did not take my hand. She did not repeat the invitation. She left the entrance open and looked toward the bed as if giving me somewhere else to look.
+Jester stepped inside and moved away from the doorway. She looked toward the bed. The entrance stayed open.
 
 My fingers tightened around the strap of my backpack. The bokken rested against my hip. Three copper coins and one button waited inside the cloth bundle.
 
