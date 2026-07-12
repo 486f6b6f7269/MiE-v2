@@ -91,8 +91,11 @@ Rules:
 - exact `canon/mielle_current_power_guide/` modules:
 - power / gear / defense / evasion / injury / no-hit / damage / non-use checks required:
 - `canon/HOLMES_ENGINE.md` or `not applicable` with reason:
+- Holmes applicability reason by scene:
 - `canon/COMBAT_RULES.md` or `not applicable` with reason:
 - combat pre-check / translation card:
+
+Holmes is not limited to powered inference, mysteries or deduction speeches. It applies when Mielle's observation or interpretation changes action, silence, route, preparation, care, suspicion, questioning, disclosure, withholding or response. `No powered inference` is not a valid `not applicable` reason by itself.
 
 ## Planning-control receipt
 
@@ -111,6 +114,8 @@ For non-combat chapters, `combat pre-check` may be `not applicable` with one sen
 | Character knowledge map: knows / suspects / must not know or volunteer | chapter plan / mini delta / scene cards / combat pre-check | yes / no / not applicable |  |
 | Closed vs free summary | chapter plan / mini delta / scene cards / combat pre-check | yes / no / not applicable |  |
 | Capabilities used and prohibited | mini delta / combat pre-check | yes / no / not applicable |  |
+| Holmes scene map for every substantial applicable scene | scene cards | yes / no / not applicable | applicability reason required |
+| Tactical Holmes map for each major Mielle-owned combat shift | combat pre-check | yes / no / not applicable |  |
 | No-hit or injury rule with cause for misses / consequence for hits | combat pre-check | yes / no / not applicable |  |
 | Exact limit of what Mielle accomplishes and what remains for others | mini delta / combat pre-check | yes / no / not applicable |  |
 | Mielle invariant consequence receipt | scene cards / loadout | yes / no | every active invariant has a material or restrictive effect |
@@ -121,7 +126,7 @@ Complete before prose. Include every chapter decision, material fact or visible 
 
 | Planned decision or fact | Source / planning obligation | Governing character, power, relationship or setting rule | Continuity and witness limit | What the draft may show | What the draft must not imply | Status |
 |---|---|---|---|---|---|---|
-|  |  |  |  |  |  | pass / return to planning |
+|  |  |  |  |  |  |  | pass / return to planning |
 
 Rules:
 
@@ -142,8 +147,60 @@ Rules:
 - `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`
 - `canon/prose/CHAPTER_PROSE_AND_CHARACTER_VOICE_PASS.md`
 - `canon/prose/ANTI_AI_PROSE_EDITING_FILTER.md`
+- `canon/prose/EXECUTION_APPLICATION_RECEIPTS.md`
+- `workflow/01_EXECUTION_APPLICATION_WORKFLOW.md`
 - Anti-AI pre-draft guard exact path:
 - Anti-AI pre-draft guard: complete / pending
+
+## Execution-system applicability and audit handoff
+
+This section proves that the governing files have scene-specific work to do. It does not declare the later receipts passed before prose exists.
+
+### Scene applicability map
+
+| Scene | Prose System material change to verify | Mielle Prose Guide applies? | Holmes applies? Why? | Combat applies? | Protected evidence / voice / mechanism | Audit target |
+|---|---|---|---|---|---|---|
+|  |  | yes / no with reason | yes / no with valid reason | yes / no |  | exact scene, exchange or action chain |
+
+Rules:
+
+- Prose System applies to every prose scene.
+- Mielle Prose Guide applies to every substantial Mielle-lens scene.
+- Holmes applies whenever observation or interpretation changes action, silence, route, preparation, care, suspicion, a question, disclosure, withholding or response.
+- Combat applies whenever the combat pre-check is required.
+- A generic `all systems apply` row is invalid. Name the actual scene work and protected material.
+
+### Material-claim evidence handoff
+
+List material claims or changes the Prose System audit must verify. Do not list decorative details.
+
+| Scene | Planned material claim or change | Planned visible evidence | Choice owner | Planned consequence / remainder |
+|---|---|---|---|---|
+|  |  | action / object / body / speech / omission / position / timing / cost |  |  |
+
+### Character Voice Pass handoff
+
+List every decision-relevant speaker or character whose action, silence, reaction or witness state affects the scene. A person may be assigned meaningful silence; do not force a line.
+
+| Character | Dossier / state anchor | Immediate attention and want | Voice pressure / likely failure mode | Required owned action, line or silence | What must not be transferred or equalized |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+
+### Holmes handoff
+
+| Scene | Scene-card Holmes map location | Observation that changes behavior | Live alternative / unknown | Test or withholding | Agency owner after Mielle | Remainder |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+If Holmes is marked not applicable, state which valid applicability exception is met. `No mystery` or `no powered inference` fails.
+
+### Combat handoff, if applicable
+
+- Combat pre-check exact path:
+- Major hostile lines and Mielle-owned shifts the audit must reconcile:
+- No-hit / injury table required: yes / no
+- Planned pressure waves the audit must compare:
+- Result and ally ownership that must remain visible:
 
 ## Anti-AI pressure map and audit handoff
 
@@ -192,8 +249,10 @@ The audit may not close on `Anti-AI: pass`, `filter read`, `no issues`, or equiv
 ## Pre-draft prose receipt
 
 - [ ] Every planned material claim has a visible evidence path.
-- [ ] Every Holmes inference lists clue, limit and action.
-- [ ] Every combat result lists line, timing, physical cause and consequence.
+- [ ] Every substantial Mielle-lens scene has a concrete-entry, attention, rhythm, POV and remainder audit target.
+- [ ] Every applicable Holmes scene lists frame, evidence, model, live alternative, test/withholding, action, reply, agency release and remainder.
+- [ ] Every combat result lists line, timing, physical cause, enemy/scene reply and consequence.
+- [ ] Every decision-relevant character has a dossier-anchored Voice Pass handoff; silence remains available.
 - [ ] Every relationship movement lists behavior, not label.
 - [ ] Every exposition/backstory insertion is triggered by front-story object, question, pressure or consequence.
 - [ ] Every active Mielle invariant passes the consequence test; superficial use blocks drafting.
@@ -206,9 +265,9 @@ The audit may not close on `Anti-AI: pass`, `filter read`, `no issues`, or equiv
 Run after the factual scene sequence exists and before the draft is handed over. Read each listed source in the named family one at a time and correct only the defects that family governs.
 
 1. **Source and continuity pass:** transcript/source obligations, chapter plan, mini delta, event tiles, ledger, current state and open threads. Check order, agency, knowledge, material facts and chapter boundary.
-2. **Character and relationship pass:** Mielle dossier/state, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, each present character dossier/state and relationship state. Check every active Mielle invariant against its planned consequence or blocked alternative, then check personality, voice, gear, drawbacks, constraints/geasa, first-impression-underestimation, action, speech, reactions, social distance and what no one can know.
-3. **Mechanics, Holmes and combat pass:** Power Guide and exact modules, Holmes Engine, Combat Rules and pre-check. Check capabilities, non-use decisions, physical possession, inference limits, tactical claims, evasion, injury/no-hit results, damage, resistance and future-combat leakage.
-4. **Prose and voice pass:** prose system, Mielle prose guide, Mielle voice guide, chapter voice pass and Anti-AI filter. Rewrite only expression, rhythm, evidence support, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue. Record changed paragraphs for the later Anti-AI receipt instead of declaring a generic pass.
+2. **Character and relationship pass:** Mielle dossier/state, `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`, each present character dossier/state and relationship state. Check every active Mielle invariant against its planned consequence or blocked alternative, then check personality, voice, gear, drawbacks, constraints/geasa, first-impression-underestimation, action, speech, reactions, social distance and what no one can know. Record representative lines, actions or silences for the later Voice Pass receipt.
+3. **Mechanics, Holmes and combat pass:** Power Guide and exact modules, Holmes Engine, Combat Rules and pre-check. Check capabilities, non-use decisions, physical possession, inference limits, tactical claims, evasion, injury/no-hit results, damage, resistance and future-combat leakage. Record applicable Holmes stages and major combat action chains for audit handoff.
+4. **Prose and voice pass:** prose system, Mielle prose guide, Mielle voice guide, chapter voice pass, execution receipts and Anti-AI filter. Rewrite only expression, rhythm, evidence support, scene clarity and dialogue texture. This pass must not create new story facts or solve an unresolved mechanics issue. Record changed paragraphs, material evidence changes, style decisions and voice revisions for the later receipts instead of declaring a generic pass.
 
 ## Read receipt
 
@@ -220,9 +279,11 @@ Run after the factual scene sequence exists and before the draft is handed over.
 - [ ] Every active Mielle invariant has a passing productive or restrictive consequence row; no superficial row remains.
 - [ ] Setting documents cover every material setting, law, language, faction or NPC condition.
 - [ ] Power, Holmes and combat documents cover every meaningful use, non-use, possession, inference, evasion, injury/no-hit result, damage, resistance or threat.
+- [ ] Holmes applicability was assessed under its broad social/domestic/tactical scope rather than only powered inference.
 - [ ] Standard planning controls are present or explicitly not applicable before drafting.
 - [ ] Non-combat material consequences are present or explicitly not applicable before drafting.
 - [ ] Decision-to-authority check has a passing row for every conflict-prone chapter fact.
+- [ ] Execution-system applicability and audit handoff is scene-specific and complete.
 - [ ] Pre-draft prose receipt passes, including unsupported telling and superficial invariant use as blockers.
 - [ ] Anti-AI pressure map names chapter-specific risks, universal clusters, targeted clusters and protected material.
 - [ ] Sequential draft verification passes are pending / complete:
