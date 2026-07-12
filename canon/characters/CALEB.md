@@ -76,7 +76,7 @@ Caleb has hidden ties to the Dwendalian Empire's magical institutions and to Zem
 
 ## Event index
 
-No approved MiE v2 events yet.
+See `continuity/EVENT_INDEX.md` for approved MiE-v2 events and the controlling event tiles that define Caleb's current knowledge, memory and posture toward Mielle. Stable dossier logic remains here; approved event residue does not get duplicated into this file.
 
 ## Research basis
 
