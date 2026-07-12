@@ -8,6 +8,7 @@
 - Source slice:
 - Combat pre-check, if any:
 - Other active controls:
+- Character dossier application standard: `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`
 
 ## Closed planning rules for all scenes
 
@@ -53,16 +54,28 @@ Rules:
 
 ## Scene title
 
-### Present characters
+### Present-character classification
 
-List every character physically present, decision-relevant, witnessed through line of sight, or directly affected by the scene.
+List everyone physically present, decision-relevant, witnessed through line of sight, or directly affected. Then classify them. Physical presence alone does not require a line, reaction or dossier beat.
+
+| Character | Presence class | Why this class applies | Later witness relevance |
+|---|---|---|---|
+|  | decision-relevant / source-action owner / result owner / meaningful witness / background |  |  |
+
+Rules:
+
+- Only decision-relevant characters and source/result owners require detailed dossier-application rows.
+- Meaningful witnesses require knowledge boundaries but not compulsory dialogue or reaction.
+- Background characters belong on the board and may remain unreported in prose.
+- Do not promote a background character to decision-relevant merely to display a dossier trait.
 
 ### Prose-scale board at scene start
 
 Use physical terms the prose can use. Do not write a tabletop grid.
 
 - Mielle:
-- Canon cast members:
+- Decision-relevant canon cast members:
+- Background / witness-only cast members:
 - NPCs / source figures:
 - Civilians or vulnerable people:
 - Exits, routes and bottlenecks:
@@ -86,19 +99,31 @@ Use physical terms the prose can use. Do not write a tabletop grid.
 - Protected canon agency:
 - Information that must remain unknown:
 
+### Character dossier application planning
+
+Apply `canon/characters/CHARACTER_DOSSIER_APPLICATION.md`. Reconcile each decision-relevant stable dossier with approved current state before assigning an action.
+
+| Character | Stable phase anchor | Current event / knowledge / relationship anchor | Existing ties and task before Mielle | Immediate attention and want | Pressure behavior | Practical competence or restrictive boundary | Owned action / silence / position | Material consequence | Prohibited reduction |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  | exact event tile / ledger / relationship / state |  |  |  |  |  |  |  |
+
+Rules:
+
+- A dossier path, trait or voice label is not a valid row.
+- Every active row needs a productive or restrictive consequence.
+- Name later-earned maturity, knowledge or relationship conclusions that must not leak backward where relevant.
+- Preserve source-owned pairs, duties and goals that exist before Mielle contact.
+- Use practical competence when the scene offers a natural lane.
+- If removal leaves the scene unchanged, classify the character as background or return to planning.
+- If another character could perform the same action and consequence unchanged, justify ownership or revise.
+
 ### Canon actions that must be encenável
 
-Every canon cast member present in the scene must have a concrete action, silence, refusal or visible response that fits their voice and position. Do not list only their function.
+Only list decision-relevant characters, source-action owners and result owners. A meaningful silence, refusal, withdrawal, position change or object action is valid. Do not build a fixed main-cast roll call.
 
-| Character | Concrete action / behavior | What it changes | What must not be transferred to Mielle |
+| Character | Concrete action / behavior / silence | What it changes | What must not be transferred to Mielle or another character |
 |---|---|---|---|
-| Jester |  |  |  |
-| Fjord |  |  |  |
-| Beau |  |  |  |
-| Caleb |  |  |  |
-| Nott |  |  |  |
-| Molly |  |  |  |
-| Yasha |  |  |  |
+|  |  |  |  |
 
 ### External purpose
 
@@ -146,6 +171,8 @@ List every result that happens in this scene. If no result of a type occurs, wri
 
 ### Character knowledge map
 
+Include decision-relevant characters and meaningful witnesses. Background characters need not receive an individual row unless later witness state matters.
+
 | Character | Knows | Suspects | Must not know / must not volunteer |
 |---|---|---|---|
 | Mielle |  |  |  |
@@ -166,14 +193,23 @@ List every result that happens in this scene. If no result of a type occurs, wri
 
 ### Canon response pass
 
-For each present character:
+For each decision-relevant character or meaningful witness:
 
 - What they know:
 - What they interpret:
 - What they want:
-- Natural reason to speak, act, observe or remain quiet:
+- Natural reason to speak, act, observe, withdraw or remain quiet:
 - Independent action available:
+- Existing tie or task they continue to protect:
 - Conclusion they cannot make yet:
+
+Do not fill this pass for background presence unless a later witness state depends on it.
+
+### Removal and replacement pre-check
+
+| Character | What changes if removed? | Could another present character perform the same action and consequence unchanged? | Ownership justification or required revision | Status |
+|---|---|---|---|---|
+|  |  | yes / no |  | pass / background / return to planning |
 
 ### Scene outcome / final state
 
@@ -188,6 +224,8 @@ This field is mandatory. No body, wound, destroyed object, custody condition, lo
 - Crowd / witness state:
 - Legal / faction control:
 - Social / relationship / obligation state:
+- Character-specific consequences that survive removal test:
+- Background characters with no manufactured beat:
 - Last image or concrete remainder:
 - Explicitly prohibited additions:
 
@@ -199,5 +237,6 @@ This field is mandatory. No body, wound, destroyed object, custody condition, lo
 | Agency / ownership |  |  |
 | Knowledge / disclosure |  |  |
 | Power / mechanics |  |  |
+| Character phase / dossier consequence |  |  |
 | Relationship / social status |  |  |
 | Staging / texture |  |  |
