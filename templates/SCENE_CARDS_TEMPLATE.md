@@ -18,7 +18,7 @@
 
 ## Mielle invariant use
 
-When Mielle appears, copy the scene-relevant invariant from `canon/characters/MIELLE.md` into the field that controls prose. Do not leave the rule only as “read MIELLE.md.”
+When Mielle appears, copy the scene-relevant invariant from `canon/characters/MIELLE.md` into the field that controls prose. Do not leave the rule only as “read MIELLE.md.” Also apply `canon/prose/MIELLE_INVARIANT_APPLICATION_TEST.md`.
 
 - First impression / underestimation goes in `Prose-scale board`, `Character knowledge map`, and `Closed vs free`.
 - Clumsiness / pressure behavior goes in `Immediate pressure`, `Mielle's protected agency`, and `Scene outcome / final state` if it causes a consequence.
@@ -30,6 +30,24 @@ When Mielle appears, copy the scene-relevant invariant from `canon/characters/MI
 - Origin / archives / memory goes in `Mielle's protected agency`, `Character knowledge map`, and `Information that must remain unknown`.
 - Social care / payment / invitation / relationship goes in `Ownership of results`, `Social / relationship / obligation state`, and `Closed vs free`.
 - System names / power explanations go in `Capabilities explicitly prohibited`, `Character knowledge map`, and `Explicitly prohibited additions`.
+
+### Mielle invariant consequence test
+
+Select only invariants with a natural trigger in this scene. Do not force every trait into every scene.
+
+For each active invariant, identify either a productive consequence or a restrictive consequence. A copied trait, a tone note or a single decorative mention is not sufficient.
+
+| Active invariant | Productive or restrictive | Scene trigger or concrete temptation | Action, choice, cost, reaction, limit or blocked result | Evidence expected in prose | What would change if the invariant were removed? |
+|---|---|---|---|---|---|
+|  | productive / restrictive |  |  |  |  |
+
+Rules:
+
+- Productive rows must change an action, choice, pacing beat, reaction, knowledge state, object state or scene outcome.
+- Restrictive rows must name the tempting invalid result they block and the allowed replacement, if any.
+- `It affects tone`, `Mielle acts like herself`, `do not break canon` and equivalent answers fail.
+- If removing the invariant leaves the scene materially unchanged, return to planning or mark the invariant inactive.
+- An invariant may be inactive because the scene has no natural trigger; this is preferable to a forced beat.
 
 ---
 
